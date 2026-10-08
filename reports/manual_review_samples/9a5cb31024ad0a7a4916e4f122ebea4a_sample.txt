@@ -1,0 +1,551 @@
+DOCUMENT ID: 9a5cb31024ad0a7a4916e4f122ebea4a
+SOURCE FILE: 9a5cb31024ad0a7a4916e4f122ebea4a.txt
+TOTAL CLAUSES: 72
+================================================================================
+
+--- CLAUSE 1/72 (9a5cb31024ad0a7a4916e4f122ebea4a_clause_000) [Length: 76] ---
+EX-10.3 2 dex103.htm FORM OF EMPLOYMENT, CONFIDENTIALITY, SEVERANCE AND NON-
+
+--- CLAUSE 2/72 (9a5cb31024ad0a7a4916e4f122ebea4a_clause_001) [Length: 35] ---
+COMPETITION AGREEMENT
+
+EXHIBIT 10.3
+
+--- CLAUSE 3/72 (9a5cb31024ad0a7a4916e4f122ebea4a_clause_002) [Length: 1566] ---
+EMPLOYMENT, CONFIDENTIALITY, SEVERANCE AND NON-COMPETITION AGREEMENT
+THIS EMPLOYMENT, CONFIDENTIALITY, SEVERANCE AND NON-COMPETITION AGREEMENT (this “Agreement”) is
+entered into as of [ , ] by and between [ ] (the “Executive”) and SAVVIS, INC., a Delaware corporation, (“SAVVIS”) and all
+its subsidiaries (collectively referred to as the “Company”). Capitalized terms used but not defined herein have the respective meanings ascribed to
+such terms in Section 7 of this Agreement.
+WHEREAS, Executive acknowledges that:
+
+•
+ the Company and its Affiliates are and will be engaged in a number of highly competitive lines of business.
+
+•
+ the Company and its Affiliates conduct business throughout the United States and in numerous foreign countries;
+
+•
+ the Company and its Affiliates possess Confidential Information and customer goodwill that provide the Company and its Affiliates with
+a significant competitive advantage; and
+
+•
+ the Company’s and its Affiliates’ success depends to a substantial extent upon the protection of its Confidential Information (which
+includes trade secrets and customer lists) and customer goodwill by all of their employees;
+
+•
+ Executive has and will continue to have possession of Confidential Information; and
+WHEREAS, if Executive were to leave the Company, the Company and its Affiliates would in all fairness need certain protections to prevent
+competitors from gaining an unfair competitive advantage over them.
+NOW, THEREFORE, in consideration of the covenants and agreements hereinafter set forth, the parties agree as follows:
+
+--- CLAUSE 4/72 (9a5cb31024ad0a7a4916e4f122ebea4a_clause_003) [Length: 524] ---
+1.
+Term of Agreement. This Agreement will remain in effect from the date hereof until the date the Executive’s employment with the Company
+terminates for any reason. The following provisions shall survive termination or expiration of this Agreement for any reason, to the extent
+applicable and in accordance with their terms: Sections 4, 5, 6 and 8. Executive’s employment is “at-will”, and nothing contained herein shall
+be deemed a guarantee of employment with Company for any period of time.
+
+2.
+Capacity and Performance.
+
+--- CLAUSE 5/72 (9a5cb31024ad0a7a4916e4f122ebea4a_clause_004) [Length: 649] ---
+(a) During the term hereof, the Executive shall serve the Company in the position to which he or she is appointed from time to time.
+Executive’s position as of the date of this Agreement is [ ]. During the term hereof, Executive will be employed by the Company on a
+full-time basis and shall perform the duties and responsibilities of his or her
+
+position and such other duties and responsibilities on behalf of the Company and its Affiliates, reasonably related to that position, as may be
+designated from time to time by the Compensation Committee (the “Compensation Committee”) of the Board of Directors of SAVVIS (the
+“Board”) or other designee.
+
+--- CLAUSE 6/72 (9a5cb31024ad0a7a4916e4f122ebea4a_clause_005) [Length: 583] ---
+(b) During the term hereof, the Executive shall devote his full business time and his best efforts, business judgment, skill and knowledge
+to the advancement of the business and interests of the Company and its Affiliates and to the discharge of his duties and responsibilities
+hereunder. The Executive shall not engage in any other business activity or serve in any industry, trade, professional, governmental or
+academic position during the term of this Agreement, except as may otherwise be expressly approved in advance by the Compensation
+Committee or other designee in writing.
+
+--- CLAUSE 7/72 (9a5cb31024ad0a7a4916e4f122ebea4a_clause_006) [Length: 308] ---
+3.
+Compensation and Benefits. As compensation for all services performed by the Executive under and during the term hereof, and subject to
+performance of the Executive’s duties and the fulfillment of the obligations of the Executive to the Company and its Affiliates, pursuant to this
+Agreement or otherwise:
+
+--- CLAUSE 8/72 (9a5cb31024ad0a7a4916e4f122ebea4a_clause_007) [Length: 475] ---
+(a) Base Salary. During the term hereof, the Company shall pay the Executive a base salary, which as of the date of execution of this
+Agreement is set at the rate of [ Dollars ($ ) ] per annum, payable in accordance with the regular payroll practices of the
+Company for its executives subject to adjustment from time to time by the Compensation Committee, in its sole discretion. Such base salary,
+as from time to time adjusted, is hereafter referred to as the “Base Salary”.
+
+--- CLAUSE 9/72 (9a5cb31024ad0a7a4916e4f122ebea4a_clause_008) [Length: 37] ---
+(b) Incentive and Bonus Compensation.
+
+--- CLAUSE 10/72 (9a5cb31024ad0a7a4916e4f122ebea4a_clause_009) [Length: 296] ---
+(i) For service rendered during the Company’s fiscal year ending December 31, [ ], the Executive will be eligible, at the
+Compensation Committee’s discretion, to receive a bonus payment equal to [ ]% of Base Salary, payable in accordance with the
+terms of the Company’s [ ] Annual Incentive Plan.
+
+--- CLAUSE 11/72 (9a5cb31024ad0a7a4916e4f122ebea4a_clause_010) [Length: 798] ---
+(ii) Commencing on January 1, [ ] and for the remainder of the term hereof, the Executive shall be entitled to participate in the
+Company’s Annual Incentive Plan (the “Annual Incentive Plan”) on terms to be determined annually by the Compensation Committee
+prior to the commencement of each fiscal year. Nothing contained herein shall obligate the Company to continue the Annual Incentive
+Plan. Any compensation paid to the Executive under the Annual Incentive Plan shall be in addition to the Base Salary. Except as
+otherwise expressly provided under the terms of the Annual Incentive Plan or this Agreement, the Executive shall not be entitled to earn
+bonus or other compensation for services rendered to the Company.
+[Insert equity grant provisions if applicable.]
+
+4.
+Termination of Employment.
+
+--- CLAUSE 12/72 (9a5cb31024ad0a7a4916e4f122ebea4a_clause_011) [Length: 73] ---
+(a) Executive’s employment with the Company may be terminated as follows:
+
+--- CLAUSE 13/72 (9a5cb31024ad0a7a4916e4f122ebea4a_clause_012) [Length: 30] ---
+(i) by the Company with Cause;
+
+--- CLAUSE 14/72 (9a5cb31024ad0a7a4916e4f122ebea4a_clause_013) [Length: 34] ---
+(ii) by the Company without Cause;
+
+--- CLAUSE 15/72 (9a5cb31024ad0a7a4916e4f122ebea4a_clause_014) [Length: 60] ---
+(iii) upon Executive’s death or Disability (defined herein);
+
+--- CLAUSE 16/72 (9a5cb31024ad0a7a4916e4f122ebea4a_clause_015) [Length: 38] ---
+(iv) by Executive with Good Reason; or
+
+--- CLAUSE 17/72 (9a5cb31024ad0a7a4916e4f122ebea4a_clause_016) [Length: 37] ---
+(v) by Executive without Good Reason.
+
+--- CLAUSE 18/72 (9a5cb31024ad0a7a4916e4f122ebea4a_clause_017) [Length: 735] ---
+(b) Upon termination of Executive’s employment for any reason, all rights and obligations under this Agreement shall cease, except as
+referred to in Section 1 and except that Executive shall be entitled to (i) payment of his or her salary through the effective date of termination,
+plus (ii) payment of any other amounts owed but not yet paid to Executive as of the effective date of termination (such as reimbursement for
+business expenses incurred prior to termination in accordance with the Company’s expense and reimbursement policy, plus (iii) any other
+benefits to which Executive may be entitled which provide for payment or other benefits following termination (such as under disability
+insurance plan).
+(c) Severance Benefits.
+
+--- CLAUSE 19/72 (9a5cb31024ad0a7a4916e4f122ebea4a_clause_018) [Length: 1680] ---
+(i) If the Executive is subject to termination pursuant to an Involuntary Termination (as defined in Section 7), then in addition to
+any amounts / benefits owed under Section 4(b), the Company shall pay the Executive: (x) an amount equal to 100% of his or her then
+current annual Base Salary for one year (the “Severance Payment”) and (y) at the discretion of the Compensation Committee, a pro-rated
+portion of the bonus that the Executive would be entitled to receive under the Company’s Annual Incentive Plan (“Bonus”). The pro-
+rated Bonus will be calculated by the compensation committee by extrapolating the Company’s anticipated full year performance based
+on the current year performance to date and then multiplying the resulting full year extrapolation by a fraction the numerator of which is
+the number of days during the calendar year the Executive worked in the year of Involuntary Termination up to the termination date and
+the denominator of which is 365. Any such Bonus shall be paid not later than 30 days after the date of the Involuntary Termination. If the
+Executive is subject to an Involuntary Termination prior to March 31 of any calendar year, and has, therefore, not yet received payment
+for the prior year under the Annual Incentive Plan, then the Executive will also be entitled to such payment under the Annual Incentive
+Plan as he would otherwise have been entitled to receive had he remained employed on March 31 of the year of Involuntary Termination.
+Any such Bonus shall be paid at the time bonuses are paid to other employees under the Annual Incentive Plan and not later than the end
+of the year during which the Involuntary Termination occurred.
+
+--- CLAUSE 20/72 (9a5cb31024ad0a7a4916e4f122ebea4a_clause_019) [Length: 666] ---
+(ii) Further, if and only if the Involuntary Termination occurs within twelve (12) months after a Change in Control (a “Change in
+Control Termination”), then (x) in addition to the Severance Payment, any stock awards, stock options, stock appreciation rights or other
+equity-based awards (each an “Equity Award”) that were outstanding immediately prior to the effective date of the Change in Control
+Termination shall, unless such Equity Awards are no longer outstanding, to the extent not then vested, fully vest and become exercisable
+as of such date and the Executive shall have the right to exercise any such Equity Award until the earlier to occur of (A) twelve
+
+--- CLAUSE 21/72 (9a5cb31024ad0a7a4916e4f122ebea4a_clause_020) [Length: 314] ---
+(12) months from the date of the Change in Control Termination and (B) the expiration date of such Equity Award as set forth in the
+agreement evidencing such award; and (y) the Executive shall be entitled to the Bonus, which shall be paid not later than 30 days after
+the date of the Change in Control Termination.
+
+--- CLAUSE 22/72 (9a5cb31024ad0a7a4916e4f122ebea4a_clause_021) [Length: 398] ---
+(d) Timing of and Conditions to Payment. Any Severance Payment due under Section 4(c) shall be paid bi-monthly, in accordance with
+the Company’s standard payroll procedures, for the twelve (12) month period following the effective date of termination. Any other provision
+of this Agreement notwithstanding, no severance benefits shall be payable unless and until each of the following has occurred:
+
+--- CLAUSE 23/72 (9a5cb31024ad0a7a4916e4f122ebea4a_clause_022) [Length: 335] ---
+(i) the Executive has executed and delivered to the Company a general release (in a form prescribed by the Company) of all known
+and unknown claims that he or she may then have against the Company or persons affiliated with the Company and has agreed not to
+prosecute any legal action or other proceeding based upon any of such claims;
+
+--- CLAUSE 24/72 (9a5cb31024ad0a7a4916e4f122ebea4a_clause_023) [Length: 203] ---
+(ii) the Executive has, no later than the effective date of termination, delivered to the Company a resignation from all offices,
+directorships and fiduciary positions with the Company and it affiliates;
+
+--- CLAUSE 25/72 (9a5cb31024ad0a7a4916e4f122ebea4a_clause_024) [Length: 68] ---
+(iii) the effective date of the Executive’s Involuntary Termination;
+
+--- CLAUSE 26/72 (9a5cb31024ad0a7a4916e4f122ebea4a_clause_025) [Length: 242] ---
+(iv) the date of the Company’s receipt of the Executive’s executed General Release, which must be no later than 21 days following
+the effective date of termination (except in the case of group terminations, such time period shall be 45 days);
+
+--- CLAUSE 27/72 (9a5cb31024ad0a7a4916e4f122ebea4a_clause_026) [Length: 117] ---
+(v) the expiration of any rescission or revocation period applicable to the Executive’s executed General Release; and
+
+--- CLAUSE 28/72 (9a5cb31024ad0a7a4916e4f122ebea4a_clause_027) [Length: 754] ---
+(vi) the Executive is and continues to be in compliance with all of his or her obligations under this Agreement, including, without
+limitation, Sections 5 and 6, and under the agreements and other documents referred to or incorporated by reference herein.
+The Company will commence payment of the Severance Payment within ten (10) business days of satisfaction / occurrence of the last of the
+foregoing items (1) through (5). For purposes of Section 409A of the Internal Revenue Code of 1986, as amended (“Code”), an installment
+Severance Payment shall be deemed to be made as of the applicable bimonthly payroll date following the Executive’s effective date of termination if
+made by the 15th day of the third calendar month following such payroll date.
+
+--- CLAUSE 29/72 (9a5cb31024ad0a7a4916e4f122ebea4a_clause_028) [Length: 1023] ---
+(e) Health Care Benefit. Following an Involuntary Termination, the Company will pay to the Executive a monthly taxable cash payment
+in an amount equal (on an after tax basis, taking into account federal, state, local and foreign taxes) to the monthly COBRA (Consolidated
+Omnibus Budget Reconciliation Act) premium(s) in effect as of immediately prior to the Executive’s Involuntary Termination for the most
+expensive level of coverage under the group health plan(s) applicable to the Executive at the time of the Executive’s Involuntary Termination.
+The monthly payments will commence with the first month following the Executive’s Involuntary Termination and will terminate upon the
+earlier of (a) the Executive having received twelve monthly payments and (b) the Executive becoming re-employed and entitled to coverage
+under the new employer’s group health plan. The Executive agrees to notify the Company in writing immediately upon becoming re-employed
+and entitled to coverage under a new employer’s group health plan.
+
+--- CLAUSE 30/72 (9a5cb31024ad0a7a4916e4f122ebea4a_clause_029) [Length: 157] ---
+(f) Withholding Taxes. All payments made under this Agreement shall be subject to reduction to reflect taxes or other charges required to
+be withheld by law.
+
+--- CLAUSE 31/72 (9a5cb31024ad0a7a4916e4f122ebea4a_clause_030) [Length: 2209] ---
+(g) Section 409A Savings Clause. This Agreement is intended to comply with the requirements of Section 409A of the Code (including
+the exceptions thereto) to the extent applicable, and the Agreement shall be interpreted in a manner consistent with such requirements.
+Notwithstanding any other provision hereof, if any provision of the Agreement conflicts with the requirements of Section 409A of the Code (or
+an exception thereto), such provision shall be deemed reformed so as to comply with the requirements of Section 409A of the Code (or an
+exception thereto) and shall be interpreted and applied accordingly.
+
+Amounts payable other than those expressly payable on a deferred or installment basis, will be paid as promptly as practical and, in any event,
+within 2 /2 months after the end of the year in which such amount was earned.
+Any amount that the Executive is entitled to be reimbursed will be reimbursed as promptly as practical and in any event not later than the last
+day of the calendar year after the calendar year in which the expenses are incurred, and the amount of the expenses eligible for reimbursement during
+any calendar year will not affect the amount of expenses eligible for reimbursement in any other calendar year.
+If at the time of separation from service (i) the Executive is a specified employee (within the meaning of Section 409A and using the
+identification methodology selected by the Company from time to time), and (ii) the Company makes a good faith determination that an amount
+payable by the Company to the Executive constitutes deferred compensation (within the meaning of Section 409A) the payment of which is required
+to be delayed pursuant to the six-month delay rule set forth in Section 409A in order to avoid taxes or penalties under Section 409A, then the
+Company will not pay such amount on the otherwise scheduled payment date but will instead pay it in a lump sum on the first business day after
+such six-month period together with interest for the period of delay, compounded annually, equal to the prime rate (as published in the Wall Street
+Journal) in effect as of the dates the payments should otherwise have been provided.
+
+5.
+Confidential Information.
+
+--- CLAUSE 32/72 (9a5cb31024ad0a7a4916e4f122ebea4a_clause_031) [Length: 1289] ---
+(a) The Executive acknowledges that the Company and its Affiliates continually develop Confidential Information, that the Executive
+may develop Confidential Information for the Company or its Affiliates and that the Executive will have possession of and access to
+Confidential Information during the course of employment. The Executive will comply with the policies and procedures of the Company and
+its Affiliates for protecting Confidential Information, and shall not disclose to any Person or use, other than as required by applicable law or
+for the proper performance of his duties and responsibilities to the Company and its Affiliates, any Confidential Information obtained by the
+Executive incident to his employment or other association with the Company or any of its Affiliates. The Executive understands that this
+restriction shall continue to apply after his employment terminates, regardless of the reason for such termination. The confidentiality obligation
+under this Section 5 shall not apply to information which is generally known or readily available to the public at the time of disclosure or
+becomes generally known through no wrongful act on the part of the Executive or any other Person having an obligation of confidentiality to
+the Company or any of its Affiliates.
+
+--- CLAUSE 33/72 (9a5cb31024ad0a7a4916e4f122ebea4a_clause_032) [Length: 596] ---
+(b) All documents, records, tapes and other media of every kind and description relating to the business, present or otherwise, of the
+Company or its Affiliates and any copies, in whole or in part, thereof (the “Documents”), whether or not prepared by the Executive, shall be
+the sole and exclusive property of the Company and its Affiliates. The Executive shall safeguard all Documents and shall surrender to the
+Company at the time his employment terminates, or at such earlier time or times as the Board or its designee may specify, all Documents then
+in the Executive’s possession or control.
+
+--- CLAUSE 34/72 (9a5cb31024ad0a7a4916e4f122ebea4a_clause_033) [Length: 1678] ---
+(c) In the event that Executive is requested or becomes legally compelled (by oral questions, interrogatories, requests for information or
+documents, deposition, subpoena, civil investigative
+ 1
+
+demand or similar process) to disclose any of the Confidential Information, the Executive shall, where permitted under applicable law, rule or
+regulation, provide written notice to the Company promptly after such request so that the Company may, at its expense, seek a protective order
+or other appropriate remedy (the Executive agrees to reasonably cooperate with the Company in connection with seeking such order or other
+remedy). In the event that such protective order or other remedy is not obtained, the Executive shall furnish only that portion of the
+Confidential Information that the Executive is advised by counsel is required, and shall exercise reasonable efforts to obtain assurance that
+confidential treatment will be accorded such Confidential Information. In addition, the Executive may disclose Confidential Information in the
+course of inspections, examinations or inquiries by federal or state regulatory agencies and self regulatory organizations that have requested or
+required the inspection of records that contain the Confidential Information provided that the Executive exercises reasonable efforts to obtain
+reliable assurances that confidential treatment will be accorded to such Confidential Information. To the extent such information is required to
+be disclosed and is not accorded confidential treatment as described in the immediately preceding sentence, it shall not constitute “Confidential
+Information” under this Agreement.
+
+6.
+Certain Covenants.
+
+--- CLAUSE 35/72 (9a5cb31024ad0a7a4916e4f122ebea4a_clause_034) [Length: 371] ---
+(a) The Executive agrees that, during his employment with the Company, he or she will not undertake any outside activity, whether or not
+competitive with the business of the Company or its Affiliates that could reasonably give rise to a conflict of interest or otherwise materially
+interfere with his or her duties and obligations to the Company or any of its Affiliates.
+
+--- CLAUSE 36/72 (9a5cb31024ad0a7a4916e4f122ebea4a_clause_035) [Length: 302] ---
+(b) During the term of Executive’s employment and for twelve (12) months following termination of his or her employment for any
+reason (the “Restricted Period”), the Executive shall not, directly or indirectly, whether as owner, partner, investor, consultant, agent,
+employee, co-venturer or otherwise:
+
+--- CLAUSE 37/72 (9a5cb31024ad0a7a4916e4f122ebea4a_clause_036) [Length: 1071] ---
+(i) compete with the Company or any of its Affiliates within the geographic area in which the Company does business or undertake
+any planning for any business competitive with the Company or any of its Affiliates. Specifically, but without limiting the foregoing, the
+Executive agrees not to engage in any manner in any activity that is directly or indirectly competitive with the business of the Company
+or any of its Affiliates as conducted or under consideration at any time during the Executive’s employment, and further agrees not to
+work or provide services, in any capacity, whether as an employee, independent contractor or otherwise, whether with or without
+compensation, to any Person who is engaged in any business that is competitive with the business of the Company or any of its Affiliates
+for which the Executive has provided services. The foregoing, however, shall not prevent the Executive’s passive ownership of two
+percent (2%) or less of the equity securities of any publicly traded company. Notwithstanding any provision in this Agreement, section 6.
+
+--- CLAUSE 38/72 (9a5cb31024ad0a7a4916e4f122ebea4a_clause_037) [Length: 170] ---
+(b) (i) shall not be deemed to create post-employment non-competition restrictions on the Executive if the Executive’s primary residence
+is in the state of California; or
+
+--- CLAUSE 39/72 (9a5cb31024ad0a7a4916e4f122ebea4a_clause_038) [Length: 134] ---
+(ii) solicit or encourage any customer of the Company or any of its Affiliates to terminate or diminish its relationship with them; or
+
+--- CLAUSE 40/72 (9a5cb31024ad0a7a4916e4f122ebea4a_clause_039) [Length: 649] ---
+(iii) seek to persuade any such customer of the Company or any of its Affiliates to conduct with anyone else any business or
+activity which such customer conducts with the Company or any of its Affiliates; provided that these restrictions shall apply only if the
+Executive
+
+has performed work for such Person during his employment with the Company or one of its Affiliates or has been introduced to, or
+otherwise had contact with, such Person as a result of his employment or other associations with the Company or one of its Affiliates or
+has had access to Confidential Information which would assist in the Executive’s solicitation of such Person.
+
+--- CLAUSE 41/72 (9a5cb31024ad0a7a4916e4f122ebea4a_clause_040) [Length: 326] ---
+(iv) solicit for hiring any employee or independent contractor of the Company or any of its Affiliates or seek to persuade any
+employee or independent contractor of the Company or any of its Affiliates to discontinue or diminish such employee or independent
+contractor’s relationship with the Company or any of its Affiliates.
+
+--- CLAUSE 42/72 (9a5cb31024ad0a7a4916e4f122ebea4a_clause_041) [Length: 508] ---
+(c) Cooperation and Non-Disparagement. The Executive agrees that, during the Restricted Period, he or she shall cooperate with the
+Company in every reasonable respect and shall use his or her best efforts to assist the Company with the transition of the Executive’s duties to
+his or her successor. The Executive further agrees that, during the Restricted Period, he or she shall not in any way or by any means disparage
+the Company, the members of the Company’s Board or the Company’s officers and employees.
+
+--- CLAUSE 43/72 (9a5cb31024ad0a7a4916e4f122ebea4a_clause_042) [Length: 1781] ---
+(d) Assignment of Inventions. The Executive shall promptly and fully disclose all Work Product (defined herein) to the Company.
+Executive hereby assigns to the Company all of Executive’s rights, title, and interest (including but not limited to all patent, trademark,
+copyright and trade secret rights) in and to all work product prepared by Executive, made or conceived in whole or in part by Executive within
+the scope of Executive’s employment by the Company or within six (6) months thereafter, or that relate directly to or involve the use of
+Confidential Information (“Work Product”). Executive further acknowledges and agrees that all copyrightable Work Product prepared by
+Executive within the scope of Executive’s employment with the Company are “works made for hire” and, consequently, that the Company
+owns all copyrights thereto. The Executive agrees to execute any and all applications for domestic and foreign patents, copyrights or other
+proprietary rights and to do such other acts (including without limitation the execution and delivery of instruments of further assurance or
+confirmation) requested by the Company to assign the Work Product to the Company and to permit the Company to enforce any patents,
+copyrights or other proprietary rights to the Work Product. The Executive will not charge the Company for time spent in complying with these
+obligations. Notwithstanding the foregoing, any provision in this Agreement which provides that Executive shall assign, offer to assign, any of
+his or her rights in an invention to the Company shall not apply to an invention that the Executive developed entirely on his or her own time
+without using the Company’s equipment, supplies, facilities, or trade secret information except for those inventions that either:
+
+--- CLAUSE 44/72 (9a5cb31024ad0a7a4916e4f122ebea4a_clause_043) [Length: 182] ---
+(i) relate at the time of conception or reduction to practice of the invention to the Company’s business or actual demonstrably
+anticipated research or development of the Company; or
+
+--- CLAUSE 45/72 (9a5cb31024ad0a7a4916e4f122ebea4a_clause_044) [Length: 69] ---
+(ii) result from any work performed by the Executive for the Company.
+
+--- CLAUSE 46/72 (9a5cb31024ad0a7a4916e4f122ebea4a_clause_045) [Length: 1823] ---
+(e) Acknowledgement Regarding Restrictions. The Company has expended a great deal of time, money and effort to develop and
+maintain its confidential business information which, if misused or disclosed, could be very harmful to its business and could cause the
+Company to be at a competitive disadvantage in the marketplace. The Company would not be willing to proceed with the execution of this
+Agreement but for the Executive’s signing and agreeing to abide by the terms of this Agreement. The Executive recognizes and acknowledges
+that he or she has and will have access to Confidential Information of the Company, and that the Company, in all fairness, needs certain
+protection in order to ensure that the Executive does not misappropriate or misuse any trade secret or other Confidential Information or take
+any other action which could result in a loss of the goodwill of the
+
+Company and, more generally, to prevent the Executive from having or providing others with an unfair competitive advantage over the
+Company. To that end, the Executive acknowledges that the foregoing restrictions, both separately and in total, are reasonable and enforceable
+in view of the Company’s legitimate interests in protecting the goodwill, confidential information and customer loyalty of its business. To the
+extent that any provision of this Agreement is adjudicated to be invalid or unenforceable because it is somehow overbroad or otherwise
+unreasonable, that provision shall not be void but rather shall be limited only to the extent required by applicable law and enforced as so
+limited to the greatest extent allowed by law, and the validity or enforceability of the remaining provisions of this Agreement shall be
+unaffected and such adjudication shall not affect the validity or enforceability of such remaining provisions.
+
+--- CLAUSE 47/72 (9a5cb31024ad0a7a4916e4f122ebea4a_clause_046) [Length: 1148] ---
+(f) Right to Injunctive Relief. The Executive further agrees that in the event of any breach hereof the harm to the Company will be
+irreparable and without adequate remedy at law and, therefore, that injunctive relief with respect thereto will be appropriate. In the event of a
+breach or threatened breach of any of the Executive’s obligations under the terms of Sections 5 or 6 hereof, the Company shall be entitled, in
+addition to any other legal or equitable remedies it may have in connection therewith (including any right to damages that it may suffer), to
+temporary, preliminary and permanent injunctive relief restraining such breach or threatened breach (without the obligation to post bond),
+together with reasonable attorney’s fees incurred in preliminarily enforcing its rights hereunder. The Executive specifically agrees that if there
+is a question as to the enforceability of any of the provisions of Sections 5 or 6 hereof, the Executive will not engage in any conduct
+inconsistent with or contrary to such Section until after the question has been resolved by a final judgment of a court of competent jurisdiction.
+
+7.
+Definitions.
+
+--- CLAUSE 48/72 (9a5cb31024ad0a7a4916e4f122ebea4a_clause_047) [Length: 495] ---
+(a) Definition of “Affiliate.” For all purposes under this Agreement, “Affiliate” shall mean, with respect to any Person, all Persons
+directly or indirectly controlling, controlled by or under common control with such Person, where control may be by either management
+authority, contract or equity interest. As used in this definition, “control” and correlative terms have the meanings ascribed to such words in
+Rule 12b-2 of the Securities Exchange Act of 1934, as amended (the “Exchange Act”).
+
+--- CLAUSE 49/72 (9a5cb31024ad0a7a4916e4f122ebea4a_clause_048) [Length: 1120] ---
+(b) Definition of “Cause.” For all purposes under this Agreement, “Cause” shall mean any of the following (i) the Executive’s willful and
+continued failure to perform substantially the duties of his/her responsibilities (other than due to physical or mental incapacity); (ii) the
+Executive’s unauthorized use or disclosure of trade secrets which causes substantial harm to the Company; (iii) the Executive’s engaging in
+illegal conduct that is likely to be injurious to the Company; (iv) the Executive’s acts of fraud, dishonesty, or gross misconduct, or gross
+negligence in connection with the business of the Company; (v) the Executive’s conviction of a felony; (vi) the Executive’s engaging in any act
+of moral turpitude reasonably likely to substantially and adversely affect the Company or its business; (vii) the Executive engaging in the
+illegal use of a controlled substance or using prescription medications unlawfully; (viii) the Executive’s abuse of alcohol; or (ix) the breach by
+the Executive of a material term of this Agreement, including, without limitation, his or her obligations under Sections 5 or 6.
+
+--- CLAUSE 50/72 (9a5cb31024ad0a7a4916e4f122ebea4a_clause_049) [Length: 1218] ---
+(c) Definition of “Change in Control.” For all purposes under this Agreement, “Change in Control” means the occurrence of any of the
+following:
+(A) any Person (as defined herein) becomes the beneficial owner directly or indirectly (within the meaning of Rule 13d--3 under
+the Exchange Act) of more than 50% of SAVVIS’ then outstanding voting securities (measured on the basis of voting power); or
+
+(B) Individuals who, as of the date hereof, constitute the Board (the “Incumbent Board”) cease for any reason to constitute at least a
+majority of the Board; provided, however, that any individual becoming a director subsequent to the date hereof whose election, or
+nomination for election by SAVVIS’ shareholders, was approved by a vote of at least a majority of the directors then comprising the
+Incumbent Board shall be considered as though such individual were a member of the Incumbent Board, but excluding, for this purpose,
+any such individual whose initial assumption of office occurs as a result of an actual or threatened election contest with respect to the
+election or removal of directors or other actual or threatened solicitation of proxies or consents by or on behalf of a Person other than the
+Board; or
+
+--- CLAUSE 51/72 (9a5cb31024ad0a7a4916e4f122ebea4a_clause_050) [Length: 882] ---
+(C) the closing of an agreement of merger or consolidation with any other corporation or business entity, other than (x) a merger or
+consolidation which would result in the voting securities of SAVVIS outstanding immediately prior thereto continuing to represent
+(either by remaining outstanding or by being converted into voting securities of the surviving entity), in combination with the ownership
+of any trustee or other fiduciary holding securities under an employee benefit plan of the Company, at least 50% of the combined voting
+power of the voting securities of SAVVIS or such surviving entity outstanding immediately after such merger or consolidation, or (y) a
+merger or consolidation effected to implement a recapitalization of SAVVIS (or similar transaction) in which no Person acquires more
+than 50% of the combined voting power of SAVVIS’ then outstanding securities;
+
+--- CLAUSE 52/72 (9a5cb31024ad0a7a4916e4f122ebea4a_clause_051) [Length: 1026] ---
+(D) the liquidation or dissolution of SAVVIS or the closing of a sale or disposition by SAVVIS of all or substantially all of its
+assets.
+For purposes of this paragraph, “Person” means any individual, entity or group within the meaning of Section 3(a)(9) of the Exchange Act, as
+modified and used in Sections 13(d) and 14(d) thereof; however, a Person shall not include (aa) SAVVIS or any of its subsidiaries, (bb) a trustee or
+other fiduciary holding securities under an employee benefit plan of the Company, (cc) an underwriter temporarily holding securities pursuant to an
+offering of such securities, (dd) a corporation owned, directly or indirectly, by the shareholders of SAVVIS in substantially the same proportions as
+their ownership of SAVVIS common stock, (ee) any person or entity or group acquiring securities of SAVVIS pursuant to an issuance of securities
+approved by the Board, or (ff) any of the following entities or their affiliates: Welsh, Carson, Anderson & Stowe VIII L.P. and WCAS Management
+Corporation.
+
+--- CLAUSE 53/72 (9a5cb31024ad0a7a4916e4f122ebea4a_clause_052) [Length: 551] ---
+(d) Definition of “Confidential Information.” For all purposes under this Agreement, “Confidential Information” shall mean any and all
+information of the Company and its Affiliates that is not generally known by others with whom they compete or do business, or with whom
+any of them plans to compete or do business and any and all information, publicly known in part or not, which, if disclosed by the Company or
+its Affiliates would assist in competition against them. Confidential Information includes without limitation such information relating to
+
+--- CLAUSE 54/72 (9a5cb31024ad0a7a4916e4f122ebea4a_clause_053) [Length: 783] ---
+(i) trade secrets, the development, research, testing, manufacturing, marketing and financial activities of the Company and its Affiliates, (ii) the
+Products, (iii) the costs, sources of supply, financial performance and strategic plans of the Company and its Affiliates, (iv) the identity and
+special needs of the customers of the Company and its Affiliates and (v) client lists and the people and organizations with whom the Company
+and its Affiliates have business relationships and the substance of those relationships. Confidential Information also includes any information
+that the Company or any of its Affiliates have received, or may receive hereafter, belonging to customers or others with any understanding,
+express or implied, that the information would not be disclosed.
+
+--- CLAUSE 55/72 (9a5cb31024ad0a7a4916e4f122ebea4a_clause_054) [Length: 448] ---
+(e) Definition of “Disability.” For all purposes under this Agreement, “Disability” shall mean the Executive becoming disabled during
+his employment hereunder through any illness, injury, accident or condition of either a physical or psychological nature and, as a result, is
+unable to perform substantially all
+
+of his duties and responsibilities hereunder, notwithstanding the provision of any reasonable accommodation, for one hundred and eighty
+
+--- CLAUSE 56/72 (9a5cb31024ad0a7a4916e4f122ebea4a_clause_055) [Length: 93] ---
+(180) days during any period of three hundred and sixty-five (365) consecutive calendar days.
+
+--- CLAUSE 57/72 (9a5cb31024ad0a7a4916e4f122ebea4a_clause_056) [Length: 1548] ---
+(f) Definition of “Good Reason.” For all purposes under this Agreement, “Good Reason” shall mean the occurrence of any of the
+following events: (i) a change in the Executive’s position that materially reduces his or her authority and level of responsibility as an officer of
+the Company (provided that it is understood that the Chief Executive Officer of SAVVIS as a matter of management flexibility may direct a
+change in the Executive’s reporting relationships or job title or a transfer of the Executive to a different officer position and such change or
+transfer shall be not deemed to result in a reduction in the Executive’s authority or level of responsibility unless it is so substantial that a
+reasonable executive would feel compelled to resign under the circumstances), (ii) a material reduction in his or her level of compensation
+(including base salary and target bonus) or (iii) a relocation of his or her employment more than fifty (50) miles from the metropolitan area in
+which the Executive’s office is located at the time of resignation; provided, however, that in the case of the preceding clauses (i), (ii) and (iii),
+Good Reason shall only exist if effected without the Executive’s consent and is not a result of a Company-wide or department-wide policy or
+practice. Notwithstanding the foregoing, Good Reason shall only exist if (A) the Executive provides written notice to the Company within
+ninety (90) days of the occurrence of the event or condition constituting Good Reason, (B) the Company is provided a period of thirty
+
+--- CLAUSE 58/72 (9a5cb31024ad0a7a4916e4f122ebea4a_clause_057) [Length: 245] ---
+(30) days to cure the event or condition giving rise to Good Reason (the “Cure Period”) and fails to do so prior to the end of the Cure Period,
+and (C) the Executive terminates employment within thirty (30) days after the end of the Cure Period.
+
+--- CLAUSE 59/72 (9a5cb31024ad0a7a4916e4f122ebea4a_clause_058) [Length: 535] ---
+(g) Definition of “Intellectual Property.” For all purposes under this Agreement, “Intellectual Property” shall mean inventions,
+discoveries, developments, methods, processes, compositions, works, concepts and ideas (whether or not patentable or copyrightable or
+constituting trade secrets) conceived, made, created, developed or reduced to practice by the Executive (whether alone or with others, whether
+or not during normal business hours or on or off Company premises) during the Executive’s employment and during the period of six
+
+--- CLAUSE 60/72 (9a5cb31024ad0a7a4916e4f122ebea4a_clause_059) [Length: 289] ---
+(6) months immediately following termination of his employment that relate to either the Products or any prospective activity of the Company
+or any of its Affiliates or that make use of Confidential Information or any of the equipment or facilities of the Company or any of its
+Affiliates.
+
+--- CLAUSE 61/72 (9a5cb31024ad0a7a4916e4f122ebea4a_clause_060) [Length: 190] ---
+(h) Definition of “Involuntary Termination.” For all purposes under this Agreement, “Involuntary Termination” shall mean termination of
+employment under Section 4(a)(ii) or Section 4(a)(iv).
+
+--- CLAUSE 62/72 (9a5cb31024ad0a7a4916e4f122ebea4a_clause_061) [Length: 233] ---
+(i) Definition of “Person.” For all purposes under this Agreement, “Person” shall mean an individual, a corporation, a limited liability
+company, an association, a partnership, an estate, a trust and any other entity or organization.
+
+--- CLAUSE 63/72 (9a5cb31024ad0a7a4916e4f122ebea4a_clause_062) [Length: 415] ---
+(j) Definition of “Products.” For all purposes under this Agreement, “Products” shall mean all products planned, researched, developed,
+tested, manufactured, sold, licensed, leased or otherwise distributed or put into use by the Company or any of its Affiliates, together with all
+services provided or planned by the Company or any of its Affiliates, during the Executive’s employment.
+
+8.
+Miscellaneous Provisions.
+
+--- CLAUSE 64/72 (9a5cb31024ad0a7a4916e4f122ebea4a_clause_063) [Length: 429] ---
+(a) Conflicts. If any provision of this Agreement conflicts with any other agreement, policy, plan, practice or other Company document,
+then the provisions of this Agreement will control. This Agreement will supersede any prior agreement between the Executive and the
+Company with respect to the subject matters contained herein and may be amended only by a writing signed by an officer of the Company
+(other than the Executive).
+
+--- CLAUSE 65/72 (9a5cb31024ad0a7a4916e4f122ebea4a_clause_064) [Length: 714] ---
+(b) Notice. Notices and all other communications contemplated by this Agreement shall be in writing and shall be deemed to have been
+duly given when personally delivered or when mailed by U.S. registered or certified mail, return receipt requested and postage prepaid or
+deposited with an overnight courier, with shipping charges prepaid. In the case of the Executive, mailed notices shall be addressed to him or
+her at the home address which he or she most recently communicated to the Company in writing. In the case of SAVVIS or the Company,
+mailed notices shall be addressed to its corporate headquarters, and all notices shall be directed to the attention of SAVVIS’ Senior Vice
+President and General Counsel.
+
+--- CLAUSE 66/72 (9a5cb31024ad0a7a4916e4f122ebea4a_clause_065) [Length: 502] ---
+(c) Waiver. No provision of this Agreement shall be modified, waived or discharged unless the modification, waiver or discharge is
+agreed to in writing and signed by the Executive and by an authorized officer of the Company (other than the Executive). No waiver by either
+party of any breach of, or of compliance with, any condition or provision of this Agreement by the other party shall be considered a waiver of
+any other condition or provision or of the same condition or provision at another time.
+
+--- CLAUSE 67/72 (9a5cb31024ad0a7a4916e4f122ebea4a_clause_066) [Length: 225] ---
+(d) Severability. The invalidity or unenforceability of any provision or provisions of this Agreement shall not affect the validity or
+enforceability of any other provision hereof, which shall remain in full force and effect.
+
+--- CLAUSE 68/72 (9a5cb31024ad0a7a4916e4f122ebea4a_clause_067) [Length: 451] ---
+(e) No Retention Rights. Nothing in this Agreement shall confer upon the Executive any right to continue in service for any period of
+specific duration or to interfere with or otherwise restrict in any way the rights of the Company or any subsidiary of the Company or of the
+Executive, which rights are hereby expressly reserved by each, to terminate his or her service at any time and for any reason, with or without
+Cause and with or without notice.
+
+--- CLAUSE 69/72 (9a5cb31024ad0a7a4916e4f122ebea4a_clause_068) [Length: 1618] ---
+(f) Choice of Law; Venue. The parties acknowledge that they each have, and will continue to have, substantial contacts with the State of
+Missouri, where the Company has its headquarters. This Agreement has been drafted and negotiated in the State of Missouri. To ensure that
+any disputes arising under this Agreement are resolved in accordance with the parties’ expectations, this Agreement shall be governed by and
+construed under the laws of the State of Missouri and applicable federal laws. The substantive law (and statutes of limitations) of the State of
+Missouri shall be applied to disputes arising under this Agreement, as the parties agree that their expectations with respect to the scope and
+enforcement of this Agreement are based on Missouri law, and that Missouri law is therefore more applicable to such disputes. Should
+Missouri law be found not to apply to this Agreement for any reason, the parties agree that the severance benefit described in Section 4 shall
+not be payable, the provisions of Section 4 notwithstanding. Each party agrees that any proceeding relating to this Agreement shall be brought
+in the state courts of Missouri located in St. Louis County or the federal courts of the District of Missouri, Eastern Division. Each party hereby
+consents to personal jurisdiction in any such action brought in any such Missouri court, consents to service of process by the methods for
+notice under Section 8(b) hereof made upon such party, and such party’s agent and waives any objection to venue in any such Missouri court
+or to any claim that any such Missouri court is an inconvenient forum.
+
+--- CLAUSE 70/72 (9a5cb31024ad0a7a4916e4f122ebea4a_clause_069) [Length: 356] ---
+(g) Attorney’s Fees. In the event of any action by either party to enforce or interpret the terms of this Agreement, the prevailing party
+with respect to any particular claim shall (in addition to other relief to which it or he may be awarded) be entitled to recover his or its
+attorney’s fees in a reasonable amount incurred in connection with such claim.
+
+--- CLAUSE 71/72 (9a5cb31024ad0a7a4916e4f122ebea4a_clause_070) [Length: 246] ---
+(h) Successors. This Agreement and all rights of the parties hereunder shall inure to the benefit of, and be enforceable by, such parties’
+personal or legal representatives, executors, administrators, successors, heirs and assigns, as applicable.
+
+--- CLAUSE 72/72 (9a5cb31024ad0a7a4916e4f122ebea4a_clause_071) [Length: 664] ---
+(i) Entire Agreement. This Agreement, together with the other agreements and any documents, instruments and certificates referred to
+herein, constitutes the entire agreement among the parties hereto with respect to the subject matter hereof and supersedes any and all prior
+discussions, negotiations, proposals, undertakings, understandings and agreements, whether written or oral, with respect to the subject matter
+contained herein.
+IN WITNESS WHEREOF, each of the parties has executed this Agreement, in the case of the Company by its duly authorized officer, as of the
+day and year first above written.
+
+SAVVIS, INC.
+
+ EXECUTIVE
+By:
+
+ By:
+
+Name:
+
+ Name:
+Title:
+

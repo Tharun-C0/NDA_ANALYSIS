@@ -1,0 +1,719 @@
+DOCUMENT ID: 586c367e2c45ebd8b7ba96fcb6006bf6
+================================================================================
+
+--- V1 SEGMENTATION ---
+[586c367e2c45ebd8b7ba96fcb6006bf6_clause_000] (82 chars)
+EX-10.48 15 dex1048.htm CONFIDENTIALITY AND ASSIGNMENT OF PROPRIETARY DEVELOPMENTS
+
+[586c367e2c45ebd8b7ba96fcb6006bf6_clause_001] (788 chars)
+AGREEMENT
+Exhibit 10.48
+LOGO
+
+October 5, 2007
+
+Christopher C. Gallen, MD, PhD
+
+TELEPHONE: 484.533.6900
+Email: cgallen@neuromed.com
+Schedule “B”
+C. Eugene Wright, III
+16 Carhart Court
+Pittstown, New Jersey 08867
+Dear Eugene:
+
+Re:
+Confidentiality and Assignment of Proprietary Developments Agreement
+The purpose of this exhibit is to describe and record the Agreement between you and Neuromed Pharmaceuticals Inc. (“Company”) concerning
+the terms on which you, as an employee of Company, will protect and keep confidential certain information received during your employment with
+Company and pursuant to which you agree to assign certain Proprietary Developments to Company.
+As an essential element of the Company’s offer of employment to you, you hereby agree to be bound by the following:
+
+[586c367e2c45ebd8b7ba96fcb6006bf6_clause_002] (34 chars)
+1.
+DEFINITIONS:
+In this Agreement:
+
+[586c367e2c45ebd8b7ba96fcb6006bf6_clause_003] (511 chars)
+(a)
+“Confidential Information” means the whole or any portion of any data or information about the business of the Companies that the
+Companies protect from public disclosure. Confidential Information relates to Companies’ services, products, processes or techniques,
+as well as to the business, services, products, processes and techniques of Companies’ clients, regardless of whether or not that
+information is copyrighted, patented or patentable. Confidential Information shall include but not be limited to:
+
+[586c367e2c45ebd8b7ba96fcb6006bf6_clause_004] (137 chars)
+(i)
+experimental techniques, proprietary assays, screening strategies and technologies, targets for drug discovery and chemical
+formulae;
+
+[586c367e2c45ebd8b7ba96fcb6006bf6_clause_005] (381 chars)
+(ii)
+commercial and financial information concerning the corporate, scientific, and pharmaceutical research activities and plans of
+Companies including any information regarding Companies’ costs, sales, income, salaries, customers, and all business
+opportunities or joint ventures considered by Companies, whether or not pursued; and
+
+C. Eugene Wright, III
+Oct. 5, 2007
+Page 2 of 7
+
+[586c367e2c45ebd8b7ba96fcb6006bf6_clause_006] (174 chars)
+(iii)
+any and all confidential know-how, Trade Secrets, and any and all oral, written, electronic or other confidential communications
+regarding any Proprietary Developments.
+
+[586c367e2c45ebd8b7ba96fcb6006bf6_clause_007] (244 chars)
+(b)
+“Company’s Business” means the specific biomedical research and development activities conducted by Companies including but not
+limited to the discovery and development of novel calcium channel blockers for the purpose of treating diseases.
+
+[586c367e2c45ebd8b7ba96fcb6006bf6_clause_008] (84 chars)
+(c)
+“Company” shall mean Neuromed Pharmaceuticals Inc. and any affiliated companies.
+
+[586c367e2c45ebd8b7ba96fcb6006bf6_clause_009] (102 chars)
+(d)
+“Companies” shall mean the Company and Neuromed Pharmaceuticals Ltd. and any affiliated companies.
+
+[586c367e2c45ebd8b7ba96fcb6006bf6_clause_010] (96 chars)
+(e)
+“Proprietary Development” means a development or developments including, without limitation:
+
+[586c367e2c45ebd8b7ba96fcb6006bf6_clause_011] (196 chars)
+(i)
+enhancements, modifications, additions or other improvements to the intellectual property or assets owned, licensed, sold,
+marketed or used by Companies in connection with Companies’ Business;
+
+[586c367e2c45ebd8b7ba96fcb6006bf6_clause_012] (106 chars)
+(ii)
+trademarks, copyrights, trade names, business names, logos, design marks and other proprietary marks;
+
+[586c367e2c45ebd8b7ba96fcb6006bf6_clause_013] (764 chars)
+(iii)
+inventions, devices, discoveries, concepts, ideas, formulae, know-how, processes, techniques, systems, methods and any
+improvements, enhancements and modifications thereto, whether patented or not; developed, created, generated, contributed to or
+reduced to practice by you alone or jointly with others pursuant to your activities as an employee, director, officer or consultant of
+Company and which results from tasks assigned to you by Company or which results from the use of the premises or property
+(including equipment, supplies or Confidential Information) owned, leased or licensed by Companies and which reasonably
+relates to the Companies Business, or which results from or relates to working with Companies’ clients, either directly or
+indirectly.
+
+[586c367e2c45ebd8b7ba96fcb6006bf6_clause_014] (997 chars)
+(f)
+“Trade Secret(s)” shall mean any information falling under the definition of a Trade Secret pursuant to the Uniform Trade Secrets Act or,
+if applicable, the version thereof adopted by Pennsylvania. Trade Secrets include, but are not limited to, any useful process, machine or
+other device or composition of matter which is new and which is being used or studied by Companies and is not described in a patent or
+described in any literature already published and distributed externally by Companies; the source code or algorithms of any software
+developed or owned by Companies; any formula, plan, tool, machine, process or method employed by Companies, whether patentable
+or not; business plans and marketing concepts of Companies; marketing or sales information of Companies; financial information or
+projections regarding Companies; financial, pricing and/or credit information regarding clients or vendors of Companies, and internal
+policies and procedures of Companies.
+
+2.
+CONFIDENTIALITY:
+
+[586c367e2c45ebd8b7ba96fcb6006bf6_clause_015] (853 chars)
+(a)
+Basic Obligation Of Confidentiality:
+You acknowledge and agree that during your employment with Company, Companies may disclose to you, or you may otherwise be exposed
+to, Companies’ Confidential Information. Company agrees to provide such access to you and you agree to receive and hold the Confidential
+Information on the terms and conditions set out herein. Except as set out below,
+
+C. Eugene Wright, III
+Oct. 5, 2007
+Page 3 of 7
+
+you will keep strictly confidential all Confidential Information and all other information that you acquire, see, or are informed of, as a direct or
+indirect consequence of your involvement with Companies in any capacity or that is revealed to you by Companies or is generated through
+negotiations or other activities of third parties in connection with your involvement, in any capacity, with Companies’ Business.
+
+[586c367e2c45ebd8b7ba96fcb6006bf6_clause_016] (126 chars)
+(b)
+Non-Disclosure:
+Unless the authorized representative of Company first gives you written permission to do so, you will not:
+
+[586c367e2c45ebd8b7ba96fcb6006bf6_clause_017] (71 chars)
+(i)
+use or duplicate Confidential Information or recollections thereof;
+
+[586c367e2c45ebd8b7ba96fcb6006bf6_clause_018] (86 chars)
+(ii)
+disclose Confidential Information or recollections thereof to any third party;
+or
+
+[586c367e2c45ebd8b7ba96fcb6006bf6_clause_019] (135 chars)
+(iii)
+translate or adapt any Confidential Information or permit any Confidential Information to be used, copied, translated or adapted.
+
+[586c367e2c45ebd8b7ba96fcb6006bf6_clause_020] (244 chars)
+(c)
+Taking Precautions:
+You will take all reasonable precautions necessary or prudent to prevent material in your possession or control that contains or refers to
+Confidential Information from being discovered, used, or copied by third parties.
+
+[586c367e2c45ebd8b7ba96fcb6006bf6_clause_021] (238 chars)
+(d)
+Companies’ Ownership of Confidential Information:
+As between you and Companies, all right, title and interest in and to the Confidential Information, whether or not created or developed by you,
+is and shall remain Companies’ property.
+
+[586c367e2c45ebd8b7ba96fcb6006bf6_clause_022] (608 chars)
+(e)
+Control of Confidential Information and Return of Information:
+All physical materials produced or prepared by you containing Confidential Information, including designs, formulae, memoranda, test results
+and notes of experiments, drawings, plans, prototypes, samples, accounts, reports, data, financial statements or proforma estimates and any
+other materials prepared in the course of your responsibilities or for the benefit of Companies shall belong to Companies, and you will turn
+over possession to Company of all such items in your possession or control promptly when Company requests you to do so.
+
+[586c367e2c45ebd8b7ba96fcb6006bf6_clause_023] (258 chars)
+(f)
+Purpose of Use:
+You will use Confidential Information only for purposes authorized or directed by Company or Companies and its officers, and you will not
+seek access to any Confidential Information that is not relevant to or necessary for those purposes.
+
+[586c367e2c45ebd8b7ba96fcb6006bf6_clause_024] (166 chars)
+(g)
+Extent and Duration of Obligation:
+Except as Company agrees In writing, your obligations of confidentiality under this Agreement shall continue for the longer of:
+
+[586c367e2c45ebd8b7ba96fcb6006bf6_clause_025] (125 chars)
+(i)
+ten (10) years after the termination of your employment with Company;
+and
+
+C. Eugene Wright, III
+Oct. 5, 2007
+Page 4 of 7
+
+[586c367e2c45ebd8b7ba96fcb6006bf6_clause_026] (758 chars)
+(ii)
+with respect to particular items of Confidential Information or material, for so long as those items are not in the public domain,
+but your obligations will continue if those items enter the public domain as a consequence of a breach of this Agreement or any
+other wrongful or negligent act or omission by you.
+The restrictions in this Agreement regarding confidentiality will not apply to information which is known by you prior to your employment
+with Company, except to the extent that such information was disclosed to you under a confidentiality agreement with a prior employer or to
+the extent that value can be derived by a competitor from the manner in which such information has been compiled by you or others during
+your employment by Company.
+
+[586c367e2c45ebd8b7ba96fcb6006bf6_clause_027] (42 chars)
+3.
+ASSIGNMENT OF PROPRIETARY DEVELOPMENTS:
+
+[586c367e2c45ebd8b7ba96fcb6006bf6_clause_028] (398 chars)
+(a)
+Full Disclosure of Proprietary Developments:
+You agree to promptly inform, and make full disclosure of, any Proprietary Development to Company. If required by Company, you will
+disclose in writing in a log book or such other form or device provided for such purpose by Company, the details of all Proprietary
+Developments that you are involved with or responsible for as an employee of Company.
+
+[586c367e2c45ebd8b7ba96fcb6006bf6_clause_029] (1680 chars)
+(b)
+Assignment of Proprietary Developments to Company:
+You will assign, and do hereby irrevocably assign and transfer to Company or to Company’s designee, your entire right, title and interest in
+and to all Proprietary Developments and any Confidential Information. Without limiting the foregoing, you agree to waive all legal and moral
+rights in such Proprietary Developments, and you agree that all Proprietary Developments to which you contribute in any way while an
+employee of Company and within the scope of your employment shall be deemed to be “works made in the course of employment” and that
+Company, or Company’s designee, shall be deemed the owner thereof. To the extent that you may own or acquire legal title to any of such
+Proprietary Developments, you hereby declare and confirm that such legal title is, and will be, held in a fiduciary capacity by you only as
+trustee and agent for Company. You agree that Company, or Company’s designee, will be the exclusive owner of all of your right title and
+interest in and to each Proprietary Development throughout the world, including all Trade Secret, patent, copyright, trademark, industrial
+design and all other intellectual property rights of any kind therein. To the extent that any of the works prepared by or to which you contribute
+within the scope of your employment with Company, shall be deemed by a court of competent jurisdiction not to be a “work made for hire”,
+this Agreement shall operate as an irrevocable assignment by you to Company, or Company’s designee, of all right, title and interest in and to
+such works, including, without limitation, all worldwide copyright interests therein, in perpetuity.
+
+[586c367e2c45ebd8b7ba96fcb6006bf6_clause_030] (650 chars)
+(c)
+Notice:
+Notwithstanding any other provision of this Agreement to the contrary, this Agreement does not obligate you to assign or offer to assign to
+Company any of your rights in an invention for which no equipment, supplies, facilities or Confidential Information of Company was used and
+which was developed entirely on your own time, unless: (1) the invention relates (a) directly to the business of Companies or (b) to
+Companies’ actual or demonstrably anticipated research or development, or (2) the invention results from any work performed by you for
+Company. This Notice satisfies the written notice and other requirements of RCW 49.44.140.
+
+[586c367e2c45ebd8b7ba96fcb6006bf6_clause_031] (490 chars)
+(d)
+Assistance with Proceedings:
+You further agree at Company’s request to assist in drafting of any description or specification of the Proprietary Development as may be
+required for any patent application and to assist with any opposition to, or intervention regarding, an application for any patent, copyright or
+trademark
+
+C. Eugene Wright, III
+Oct. 5, 2007
+Page 5 of 7
+
+or other proceedings relating to any Proprietary Developments. Without limiting the foregoing you agree to execute:
+
+[586c367e2c45ebd8b7ba96fcb6006bf6_clause_032] (223 chars)
+(i)
+all instruments that Company may reasonably require to effect, protect, perfect, register, record or patent any Proprietary
+Developments or Confidential Information, or related rights, or Company’s interest therein; and
+
+[586c367e2c45ebd8b7ba96fcb6006bf6_clause_033] (937 chars)
+(ii)
+all papers that Company reasonably considers necessary or helpful in obtaining or maintaining such interests and rights during
+the prosecution of applications thereon or during the conduct of any interference, litigation, opposition, or any other matter in
+connection therewith;
+provided that all expenses incident to such activities will `be borne by Company.
+Your obligations under this Section will continue in perpetuity beyond any termination of your employment with Company, respecting any
+Proprietary Developments created during your employment with Company, or any Proprietary Developments perfected or reduced to specific
+form after termination of your employment with Company, if the conception of the Proprietary Development arose during the time of your
+employment with Company. You agree that Company’s rights under this Section shall not be limited to the United States, but shall extend to
+every country of the world.
+
+[586c367e2c45ebd8b7ba96fcb6006bf6_clause_034] (247 chars)
+(e)
+Inventions and Improvements:
+You further agree to treat all information relating to any Proprietary Development as Confidential Information owned by Company and you
+will disclose same only to your immediate superior or as he or she may direct.
+
+[586c367e2c45ebd8b7ba96fcb6006bf6_clause_035] (556 chars)
+(f)
+Publicity and Publication:
+Without the prior written consent of the Chief Scientific Officer or the Chief Executive Officer of Company you will not make or give any
+public announcements or press releases or statements to the public or the press regarding any Proprietary Developments, Confidential
+Information or other information concerning Companies’ Business. You also will not submit an abstract or publication for review or
+publication until you have prior written approval to do so from the Chief Scientific Officer of Company.
+
+4.
+MISCELLANEOUS:
+
+[586c367e2c45ebd8b7ba96fcb6006bf6_clause_036] (135 chars)
+(a)
+Governing Law:
+This Agreement shall be governed by and interpreted in accordance with the laws of the Commonwealth of Pennsylvania.
+
+[586c367e2c45ebd8b7ba96fcb6006bf6_clause_037] (400 chars)
+(b)
+Equitable Remedies:
+You acknowledge and agree that the restrictions contained in this Agreement, in view of the nature of the business in which the Companies are
+engaged, are reasonable and necessary in order to protect the legitimate interests of the Companies, and that any violation or threatened
+violation thereof would result in irreparable injury to the Companies. You therefore agree that:
+
+[586c367e2c45ebd8b7ba96fcb6006bf6_clause_038] (709 chars)
+(i)
+in the event of your violation or threatened violation of any of these restrictions, the Companies shall be entitled to obtain from
+any court of competent jurisdiction preliminary and permanent injunctive relief, or an appropriate decree of specific performance,
+without proof of actual loss or the need to post any bonds. You further
+
+C. Eugene Wright, III
+Oct. 5, 2007
+Page 6 of 7
+
+agree that Companies shall be entitled to any and all other damages available at law and in equity, and an equitable accounting of
+all earnings, profits and other benefits arising from such violation, which rights shall be cumulative and in addition to any other
+rights or remedies to which the Companies may be entitled.
+
+[586c367e2c45ebd8b7ba96fcb6006bf6_clause_039] (353 chars)
+(ii)
+You shall indemnify and hold harmless the Companies and their officers, directors, and employees from and against any and all
+liabilities, losses, costs and expenses (including but not limited to, reasonable attorneys’ fees), damages and injuries resulting
+from, or in connection with, any material breach of any provision of this Agreement by you.
+
+[586c367e2c45ebd8b7ba96fcb6006bf6_clause_040] (179 chars)
+(c)
+Amendments:
+No amendment, modification, supplement or other purported alteration of this Agreement shall be binding unless it is in writing and signed by
+you and by Companies.
+
+[586c367e2c45ebd8b7ba96fcb6006bf6_clause_041] (330 chars)
+(d)
+Binding Nature of Agreement:
+You agree that this Agreement is binding on your personal representatives. You also agree that the covenants and provisions contained in this
+Agreement shall survive and continue to bind you following the termination of your employment with Company regardless of how your
+employment is terminated.
+
+[586c367e2c45ebd8b7ba96fcb6006bf6_clause_042] (228 chars)
+(e)
+Independent Legal Advice:
+As this is an important agreement for you and for Companies containing significant undertakings by you, Companies urge you to seek
+independent legal advice regarding this Agreement prior to signing.
+
+[586c367e2c45ebd8b7ba96fcb6006bf6_clause_043] (353 chars)
+(f)
+Severability:
+If any part or Section of this Agreement is determined by a Court of competent jurisdiction to be void or unenforceable in whole or in part,
+then such void or unenforceable part or Section shall be severed, and shall not affect or impair the enforceability or validity of the balance of
+the Section or any other part of this Agreement.
+
+[586c367e2c45ebd8b7ba96fcb6006bf6_clause_044] (281 chars)
+(g)
+No Waiver:
+No waiver, delay, indulgence, or failure to act by Companies regarding any particular default or omission by you shall affect or impair any of
+Companies’ rights or remedies regarding that or any subsequent default or omission that is not expressly waived in writing.
+
+[586c367e2c45ebd8b7ba96fcb6006bf6_clause_045] (857 chars)
+(h)
+No Other Obligations:
+You represent, except as you have disclosed to Companies in writing on the date hereof, that you have no agreements with or obligations to
+others with respect to the matters covered by this Agreement or concerning the Confidential Information that are in conflict with anything in
+this Agreement.
+
+C. Eugene Wright, III
+Oct. 5, 2007
+Page 7 of 7
+
+NEUROMED PHARMACEUTICALS INC.
+By: /s/ Christopher C. Gallen, MD, PhD
+
+Christopher C. Gallen, MD, PhD
+President & CEO
+NEUROMED PHARMACEUTICALS LTD.
+By: /s/ Christopher C. Gallen, MD, PhD
+
+Christopher C. Gallen, MD, PhD
+President & CEO
+ACCEPTED AND AGREED TO THIS 11 DAY OF October, 2007. BY MY SIGNATURE BELOW, I AFFIRM THAT I HAVE READ AND
+UNDERSTAND THE TERMS AND CONDITIONS SET OUT IN THIS AGREEMENT, AND AGREE TO BE BOUND BY THEM.
+
+/s/ C. Eugene Wright, III
+C. Eugene Wright, III
+th
+
+================================================================================
+
+--- V2 SEGMENTATION ---
+[586c367e2c45ebd8b7ba96fcb6006bf6_clause_000] (Type: header) (871 chars) [SUSPICIOUS]
+EX-10.48 15 dex1048.htm CONFIDENTIALITY AND ASSIGNMENT OF PROPRIETARY DEVELOPMENTS
+AGREEMENT
+Exhibit 10.48
+LOGO
+
+October 5, 2007
+
+Christopher C. Gallen, MD, PhD
+
+TELEPHONE: 484.533.6900
+Email: cgallen@neuromed.com
+Schedule “B”
+C. Eugene Wright, III
+16 Carhart Court
+Pittstown, New Jersey 08867
+Dear Eugene:
+
+Re:
+Confidentiality and Assignment of Proprietary Developments Agreement
+The purpose of this exhibit is to describe and record the Agreement between you and Neuromed Pharmaceuticals Inc. (“Company”) concerning
+the terms on which you, as an employee of Company, will protect and keep confidential certain information received during your employment with
+Company and pursuant to which you agree to assign certain Proprietary Developments to Company.
+As an essential element of the Company’s offer of employment to you, you hereby agree to be bound by the following:
+
+[586c367e2c45ebd8b7ba96fcb6006bf6_clause_001] (Type: legal_clause) (3829 chars) 
+1.
+DEFINITIONS:
+In this Agreement:
+
+(a)
+“Confidential Information” means the whole or any portion of any data or information about the business of the Companies that the
+Companies protect from public disclosure. Confidential Information relates to Companies’ services, products, processes or techniques,
+as well as to the business, services, products, processes and techniques of Companies’ clients, regardless of whether or not that
+information is copyrighted, patented or patentable. Confidential Information shall include but not be limited to:
+
+(i)
+experimental techniques, proprietary assays, screening strategies and technologies, targets for drug discovery and chemical
+formulae;
+
+(ii)
+commercial and financial information concerning the corporate, scientific, and pharmaceutical research activities and plans of
+Companies including any information regarding Companies’ costs, sales, income, salaries, customers, and all business
+opportunities or joint ventures considered by Companies, whether or not pursued; and
+
+C. Eugene Wright, III
+Oct. 5, 2007
+Page 2 of 7
+
+(iii)
+any and all confidential know-how, Trade Secrets, and any and all oral, written, electronic or other confidential communications
+regarding any Proprietary Developments.
+
+(b)
+“Company’s Business” means the specific biomedical research and development activities conducted by Companies including but not
+limited to the discovery and development of novel calcium channel blockers for the purpose of treating diseases.
+
+(c)
+“Company” shall mean Neuromed Pharmaceuticals Inc. and any affiliated companies.
+
+(d)
+“Companies” shall mean the Company and Neuromed Pharmaceuticals Ltd. and any affiliated companies.
+
+(e)
+“Proprietary Development” means a development or developments including, without limitation:
+
+(i)
+enhancements, modifications, additions or other improvements to the intellectual property or assets owned, licensed, sold,
+marketed or used by Companies in connection with Companies’ Business;
+
+(ii)
+trademarks, copyrights, trade names, business names, logos, design marks and other proprietary marks;
+
+(iii)
+inventions, devices, discoveries, concepts, ideas, formulae, know-how, processes, techniques, systems, methods and any
+improvements, enhancements and modifications thereto, whether patented or not; developed, created, generated, contributed to or
+reduced to practice by you alone or jointly with others pursuant to your activities as an employee, director, officer or consultant of
+Company and which results from tasks assigned to you by Company or which results from the use of the premises or property
+(including equipment, supplies or Confidential Information) owned, leased or licensed by Companies and which reasonably
+relates to the Companies Business, or which results from or relates to working with Companies’ clients, either directly or
+indirectly.
+
+(f)
+“Trade Secret(s)” shall mean any information falling under the definition of a Trade Secret pursuant to the Uniform Trade Secrets Act or,
+if applicable, the version thereof adopted by Pennsylvania. Trade Secrets include, but are not limited to, any useful process, machine or
+other device or composition of matter which is new and which is being used or studied by Companies and is not described in a patent or
+described in any literature already published and distributed externally by Companies; the source code or algorithms of any software
+developed or owned by Companies; any formula, plan, tool, machine, process or method employed by Companies, whether patentable
+or not; business plans and marketing concepts of Companies; marketing or sales information of Companies; financial information or
+projections regarding Companies; financial, pricing and/or credit information regarding clients or vendors of Companies, and internal
+policies and procedures of Companies.
+
+[586c367e2c45ebd8b7ba96fcb6006bf6_clause_002] (Type: legal_clause) (874 chars) 
+2.
+CONFIDENTIALITY:
+
+(a)
+Basic Obligation Of Confidentiality:
+You acknowledge and agree that during your employment with Company, Companies may disclose to you, or you may otherwise be exposed
+to, Companies’ Confidential Information. Company agrees to provide such access to you and you agree to receive and hold the Confidential
+Information on the terms and conditions set out herein. Except as set out below,
+
+C. Eugene Wright, III
+Oct. 5, 2007
+Page 3 of 7
+
+you will keep strictly confidential all Confidential Information and all other information that you acquire, see, or are informed of, as a direct or
+indirect consequence of your involvement with Companies in any capacity or that is revealed to you by Companies or is generated through
+negotiations or other activities of third parties in connection with your involvement, in any capacity, with Companies’ Business.
+
+[586c367e2c45ebd8b7ba96fcb6006bf6_clause_003] (Type: legal_clause) (424 chars) 
+(b)
+Non-Disclosure:
+Unless the authorized representative of Company first gives you written permission to do so, you will not:
+
+(i)
+use or duplicate Confidential Information or recollections thereof;
+
+(ii)
+disclose Confidential Information or recollections thereof to any third party;
+or
+
+(iii)
+translate or adapt any Confidential Information or permit any Confidential Information to be used, copied, translated or adapted.
+
+[586c367e2c45ebd8b7ba96fcb6006bf6_clause_004] (Type: legal_clause) (244 chars) 
+(c)
+Taking Precautions:
+You will take all reasonable precautions necessary or prudent to prevent material in your possession or control that contains or refers to
+Confidential Information from being discovered, used, or copied by third parties.
+
+[586c367e2c45ebd8b7ba96fcb6006bf6_clause_005] (Type: legal_clause) (238 chars) 
+(d)
+Companies’ Ownership of Confidential Information:
+As between you and Companies, all right, title and interest in and to the Confidential Information, whether or not created or developed by you,
+is and shall remain Companies’ property.
+
+[586c367e2c45ebd8b7ba96fcb6006bf6_clause_006] (Type: legal_clause) (608 chars) 
+(e)
+Control of Confidential Information and Return of Information:
+All physical materials produced or prepared by you containing Confidential Information, including designs, formulae, memoranda, test results
+and notes of experiments, drawings, plans, prototypes, samples, accounts, reports, data, financial statements or proforma estimates and any
+other materials prepared in the course of your responsibilities or for the benefit of Companies shall belong to Companies, and you will turn
+over possession to Company of all such items in your possession or control promptly when Company requests you to do so.
+
+[586c367e2c45ebd8b7ba96fcb6006bf6_clause_007] (Type: legal_clause) (258 chars) 
+(f)
+Purpose of Use:
+You will use Confidential Information only for purposes authorized or directed by Company or Companies and its officers, and you will not
+seek access to any Confidential Information that is not relevant to or necessary for those purposes.
+
+[586c367e2c45ebd8b7ba96fcb6006bf6_clause_008] (Type: legal_clause) (1053 chars) 
+(g)
+Extent and Duration of Obligation:
+Except as Company agrees In writing, your obligations of confidentiality under this Agreement shall continue for the longer of:
+
+(i)
+ten (10) years after the termination of your employment with Company;
+and
+
+C. Eugene Wright, III
+Oct. 5, 2007
+Page 4 of 7
+
+(ii)
+with respect to particular items of Confidential Information or material, for so long as those items are not in the public domain,
+but your obligations will continue if those items enter the public domain as a consequence of a breach of this Agreement or any
+other wrongful or negligent act or omission by you.
+The restrictions in this Agreement regarding confidentiality will not apply to information which is known by you prior to your employment
+with Company, except to the extent that such information was disclosed to you under a confidentiality agreement with a prior employer or to
+the extent that value can be derived by a competitor from the manner in which such information has been compiled by you or others during
+your employment by Company.
+
+[586c367e2c45ebd8b7ba96fcb6006bf6_clause_009] (Type: section_heading) (42 chars) 
+3.
+ASSIGNMENT OF PROPRIETARY DEVELOPMENTS:
+
+[586c367e2c45ebd8b7ba96fcb6006bf6_clause_010] (Type: legal_clause) (398 chars) 
+(a)
+Full Disclosure of Proprietary Developments:
+You agree to promptly inform, and make full disclosure of, any Proprietary Development to Company. If required by Company, you will
+disclose in writing in a log book or such other form or device provided for such purpose by Company, the details of all Proprietary
+Developments that you are involved with or responsible for as an employee of Company.
+
+[586c367e2c45ebd8b7ba96fcb6006bf6_clause_011] (Type: legal_clause) (1680 chars) 
+(b)
+Assignment of Proprietary Developments to Company:
+You will assign, and do hereby irrevocably assign and transfer to Company or to Company’s designee, your entire right, title and interest in
+and to all Proprietary Developments and any Confidential Information. Without limiting the foregoing, you agree to waive all legal and moral
+rights in such Proprietary Developments, and you agree that all Proprietary Developments to which you contribute in any way while an
+employee of Company and within the scope of your employment shall be deemed to be “works made in the course of employment” and that
+Company, or Company’s designee, shall be deemed the owner thereof. To the extent that you may own or acquire legal title to any of such
+Proprietary Developments, you hereby declare and confirm that such legal title is, and will be, held in a fiduciary capacity by you only as
+trustee and agent for Company. You agree that Company, or Company’s designee, will be the exclusive owner of all of your right title and
+interest in and to each Proprietary Development throughout the world, including all Trade Secret, patent, copyright, trademark, industrial
+design and all other intellectual property rights of any kind therein. To the extent that any of the works prepared by or to which you contribute
+within the scope of your employment with Company, shall be deemed by a court of competent jurisdiction not to be a “work made for hire”,
+this Agreement shall operate as an irrevocable assignment by you to Company, or Company’s designee, of all right, title and interest in and to
+such works, including, without limitation, all worldwide copyright interests therein, in perpetuity.
+
+[586c367e2c45ebd8b7ba96fcb6006bf6_clause_012] (Type: legal_clause) (650 chars) 
+(c)
+Notice:
+Notwithstanding any other provision of this Agreement to the contrary, this Agreement does not obligate you to assign or offer to assign to
+Company any of your rights in an invention for which no equipment, supplies, facilities or Confidential Information of Company was used and
+which was developed entirely on your own time, unless: (1) the invention relates (a) directly to the business of Companies or (b) to
+Companies’ actual or demonstrably anticipated research or development, or (2) the invention results from any work performed by you for
+Company. This Notice satisfies the written notice and other requirements of RCW 49.44.140.
+
+[586c367e2c45ebd8b7ba96fcb6006bf6_clause_013] (Type: legal_clause) (1654 chars) 
+(d)
+Assistance with Proceedings:
+You further agree at Company’s request to assist in drafting of any description or specification of the Proprietary Development as may be
+required for any patent application and to assist with any opposition to, or intervention regarding, an application for any patent, copyright or
+trademark
+
+C. Eugene Wright, III
+Oct. 5, 2007
+Page 5 of 7
+
+or other proceedings relating to any Proprietary Developments. Without limiting the foregoing you agree to execute:
+
+(i)
+all instruments that Company may reasonably require to effect, protect, perfect, register, record or patent any Proprietary
+Developments or Confidential Information, or related rights, or Company’s interest therein; and
+
+(ii)
+all papers that Company reasonably considers necessary or helpful in obtaining or maintaining such interests and rights during
+the prosecution of applications thereon or during the conduct of any interference, litigation, opposition, or any other matter in
+connection therewith;
+provided that all expenses incident to such activities will `be borne by Company.
+Your obligations under this Section will continue in perpetuity beyond any termination of your employment with Company, respecting any
+Proprietary Developments created during your employment with Company, or any Proprietary Developments perfected or reduced to specific
+form after termination of your employment with Company, if the conception of the Proprietary Development arose during the time of your
+employment with Company. You agree that Company’s rights under this Section shall not be limited to the United States, but shall extend to
+every country of the world.
+
+[586c367e2c45ebd8b7ba96fcb6006bf6_clause_014] (Type: legal_clause) (247 chars) 
+(e)
+Inventions and Improvements:
+You further agree to treat all information relating to any Proprietary Development as Confidential Information owned by Company and you
+will disclose same only to your immediate superior or as he or she may direct.
+
+[586c367e2c45ebd8b7ba96fcb6006bf6_clause_015] (Type: legal_clause) (537 chars) 
+(f)
+Publicity and Publication:
+Without the prior written consent of the Chief Scientific Officer or the Chief Executive Officer of Company you will not make or give any
+public announcements or press releases or statements to the public or the press regarding any Proprietary Developments, Confidential
+Information or other information concerning Companies’ Business. You also will not submit an abstract or publication for review or
+publication until you have prior written approval to do so from the Chief Scientific Officer of Company.
+
+[586c367e2c45ebd8b7ba96fcb6006bf6_clause_016] (Type: legal_clause) (154 chars) 
+4.
+MISCELLANEOUS:
+
+(a)
+Governing Law:
+This Agreement shall be governed by and interpreted in accordance with the laws of the Commonwealth of Pennsylvania.
+
+[586c367e2c45ebd8b7ba96fcb6006bf6_clause_017] (Type: legal_clause) (1111 chars) 
+(b)
+Equitable Remedies:
+You acknowledge and agree that the restrictions contained in this Agreement, in view of the nature of the business in which the Companies are
+engaged, are reasonable and necessary in order to protect the legitimate interests of the Companies, and that any violation or threatened
+violation thereof would result in irreparable injury to the Companies. You therefore agree that:
+
+(i)
+in the event of your violation or threatened violation of any of these restrictions, the Companies shall be entitled to obtain from
+any court of competent jurisdiction preliminary and permanent injunctive relief, or an appropriate decree of specific performance,
+without proof of actual loss or the need to post any bonds. You further
+
+C. Eugene Wright, III
+Oct. 5, 2007
+Page 6 of 7
+
+agree that Companies shall be entitled to any and all other damages available at law and in equity, and an equitable accounting of
+all earnings, profits and other benefits arising from such violation, which rights shall be cumulative and in addition to any other
+rights or remedies to which the Companies may be entitled.
+
+[586c367e2c45ebd8b7ba96fcb6006bf6_clause_018] (Type: legal_clause) (353 chars) 
+(ii)
+You shall indemnify and hold harmless the Companies and their officers, directors, and employees from and against any and all
+liabilities, losses, costs and expenses (including but not limited to, reasonable attorneys’ fees), damages and injuries resulting
+from, or in connection with, any material breach of any provision of this Agreement by you.
+
+[586c367e2c45ebd8b7ba96fcb6006bf6_clause_019] (Type: legal_clause) (179 chars) 
+(c)
+Amendments:
+No amendment, modification, supplement or other purported alteration of this Agreement shall be binding unless it is in writing and signed by
+you and by Companies.
+
+[586c367e2c45ebd8b7ba96fcb6006bf6_clause_020] (Type: legal_clause) (330 chars) 
+(d)
+Binding Nature of Agreement:
+You agree that this Agreement is binding on your personal representatives. You also agree that the covenants and provisions contained in this
+Agreement shall survive and continue to bind you following the termination of your employment with Company regardless of how your
+employment is terminated.
+
+[586c367e2c45ebd8b7ba96fcb6006bf6_clause_021] (Type: legal_clause) (228 chars) 
+(e)
+Independent Legal Advice:
+As this is an important agreement for you and for Companies containing significant undertakings by you, Companies urge you to seek
+independent legal advice regarding this Agreement prior to signing.
+
+[586c367e2c45ebd8b7ba96fcb6006bf6_clause_022] (Type: legal_clause) (353 chars) 
+(f)
+Severability:
+If any part or Section of this Agreement is determined by a Court of competent jurisdiction to be void or unenforceable in whole or in part,
+then such void or unenforceable part or Section shall be severed, and shall not affect or impair the enforceability or validity of the balance of
+the Section or any other part of this Agreement.
+
+[586c367e2c45ebd8b7ba96fcb6006bf6_clause_023] (Type: legal_clause) (281 chars) 
+(g)
+No Waiver:
+No waiver, delay, indulgence, or failure to act by Companies regarding any particular default or omission by you shall affect or impair any of
+Companies’ rights or remedies regarding that or any subsequent default or omission that is not expressly waived in writing.
+
+[586c367e2c45ebd8b7ba96fcb6006bf6_clause_024] (Type: legal_clause) (857 chars) 
+(h)
+No Other Obligations:
+You represent, except as you have disclosed to Companies in writing on the date hereof, that you have no agreements with or obligations to
+others with respect to the matters covered by this Agreement or concerning the Confidential Information that are in conflict with anything in
+this Agreement.
+
+C. Eugene Wright, III
+Oct. 5, 2007
+Page 7 of 7
+
+NEUROMED PHARMACEUTICALS INC.
+By: /s/ Christopher C. Gallen, MD, PhD
+
+Christopher C. Gallen, MD, PhD
+President & CEO
+NEUROMED PHARMACEUTICALS LTD.
+By: /s/ Christopher C. Gallen, MD, PhD
+
+Christopher C. Gallen, MD, PhD
+President & CEO
+ACCEPTED AND AGREED TO THIS 11 DAY OF October, 2007. BY MY SIGNATURE BELOW, I AFFIRM THAT I HAVE READ AND
+UNDERSTAND THE TERMS AND CONDITIONS SET OUT IN THIS AGREEMENT, AND AGREE TO BE BOUND BY THEM.
+
+/s/ C. Eugene Wright, III
+C. Eugene Wright, III
+th
+

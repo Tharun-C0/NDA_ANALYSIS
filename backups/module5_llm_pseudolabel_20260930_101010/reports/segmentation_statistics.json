@@ -1,0 +1,13 @@
+{
+  "documents_processed": 20,
+  "successful_documents": 20,
+  "failed_documents": 0,
+  "documents_with_clauses": 20,
+  "total_extracted_clauses": 473,
+  "avg_clauses_per_document": 23.65,
+  "min_clauses_per_document": 5,
+  "max_clauses_per_document": 72,
+  "avg_clause_length": 678.2,
+  "min_clause_length": 1,
+  "max_clause_length": 5618
+}

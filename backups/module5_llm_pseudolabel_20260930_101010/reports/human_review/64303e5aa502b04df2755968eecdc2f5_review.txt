@@ -1,0 +1,604 @@
+========================================
+DOCUMENT: 64303e5aa502b04df2755968eecdc2f5
+========================================
+
+CLAUSE: 64303e5aa502b04df2755968eecdc2f5_clause_000
+TYPE: header
+LENGTH: 9
+
+TEXT:
+----------------------------------------
+EXHIBIT B
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: 64303e5aa502b04df2755968eecdc2f5_clause_001
+TYPE: section_heading
+LENGTH: 24
+
+TEXT:
+----------------------------------------
+NON-DISCLOSURE AGREEMENT
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: 64303e5aa502b04df2755968eecdc2f5_clause_002
+TYPE: legal_clause
+LENGTH: 617
+
+TEXT:
+----------------------------------------
+THIS NON-DISCLOSURE AGREEMENT (this “Agreement”), is made and entered into as of the date on which it is fully executed,
+as indicated by signatures below, by and among Naugatuck Valley Financial Corporation (the “Company”), the Stilwell Group (composed of
+Stilwell Value Partners II, L.P., Stilwell Value Partners VII, L.P., Stilwell Partners, L.P., Stilwell Value LLC, Stilwell Activist Fund, L.P., Stilwell
+Activist Investments, L.P., and Joseph Stilwell, an individual, and their employees and representatives), and ______________, a director whose
+name was placed in nomination by the Stilwell Group (“Director”).
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: 64303e5aa502b04df2755968eecdc2f5_clause_003
+TYPE: legal_clause
+LENGTH: 155
+
+TEXT:
+----------------------------------------
+WHEREAS, the Director is a member of the Board of Directors of the Company and its wholly owned subsidiary, Naugatuck Valley
+Savings and Loan (the “Bank”);
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: 64303e5aa502b04df2755968eecdc2f5_clause_004
+TYPE: legal_clause
+LENGTH: 161
+
+TEXT:
+----------------------------------------
+WHEREAS, the Company, the Stilwell Group and the Director have agreed that it is in their mutual interests to enter into this
+Agreement as hereinafter described.
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: 64303e5aa502b04df2755968eecdc2f5_clause_005
+TYPE: legal_clause
+LENGTH: 139
+
+TEXT:
+----------------------------------------
+NOW THEREFORE, for good and valuable consideration, and intending to be legally bound hereby, the parties hereto mutually agree
+as follows:
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: 64303e5aa502b04df2755968eecdc2f5_clause_006
+TYPE: legal_clause
+LENGTH: 1497
+
+TEXT:
+----------------------------------------
+1. In connection with the Director serving on the Boards of Directors of the Company and the Bank, the Director and other Company
+employees, directors, and agents may divulge nonpublic information concerning the Company and its subsidiaries to the Stilwell Group and such
+information may be shared among the Stilwell Group's employees and agents who have a need to know such information. The Stilwell Group
+expressly agrees to maintain all nonpublic information concerning the Company and its subsidiaries in confidence. The Stilwell Group expressly
+acknowledges that federal and state securities laws may prohibit a person from purchasing or selling securities of a company, or from
+communicating such information to any other person under circumstances in which it is reasonably foreseeable that such other person is likely to
+purchase or sell such securities, while the first-mentioned person is in possession of material nonpublic information about such company. The
+Stilwell Group agrees to comply with the Company's insider trading policies and procedures, as in effect from time to time, to the same extent as
+if it were a director of the Company. To the extent the nonpublic information concerning the Company and its subsidiaries received by the
+Stilwell Group is material, this Agreement is intended to satisfy the confidentiality agreement exclusion of Regulation FD of the U.S. Securities
+and Exchange Commission (the “SEC”) set forth in Rule 100(b)(2)(ii) of Regulation FD of the SEC.
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: 64303e5aa502b04df2755968eecdc2f5_clause_007
+TYPE: legal_clause
+LENGTH: 325
+
+TEXT:
+----------------------------------------
+2. Each of the Stilwell Group and the Director represents and warrants to the Company that this Agreement has been duly and validly
+authorized (in the case of the entity members of the Stilwell Group), executed and delivered by them, and is a valid and binding agreement
+enforceable against them in accordance with its terms.
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: 64303e5aa502b04df2755968eecdc2f5_clause_008
+TYPE: legal_clause
+LENGTH: 348
+
+TEXT:
+----------------------------------------
+3. The Director hereby further confirms to the Company that no event has occurred with respect to the Director that would require
+disclosure in a document filed by the Company with the SEC pursuant to the Securities Act of 1933, as amended, or the Securities Exchange Act
+of 1934, as amended, under Item 401(f) or Item 404(a) of SEC Regulation S-K.
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: 64303e5aa502b04df2755968eecdc2f5_clause_009
+TYPE: legal_clause
+LENGTH: 531
+
+TEXT:
+----------------------------------------
+4. The Stilwell Group acknowledges that with regard to its obligations to maintain the confidentiality of nonpublic information of the
+Company and its subsidiaries, monetary damages may not be a sufficient remedy for any breach or threatened breach of this Agreement and that,
+in addition to all other remedies, the Company may be entitled to seek specific performance and injunctive or other equitable relief as a remedy
+for such breach, and agrees that in conjunction therewith the Company shall not be required to post any bond.
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: 64303e5aa502b04df2755968eecdc2f5_clause_010
+TYPE: legal_clause
+LENGTH: 282
+
+TEXT:
+----------------------------------------
+5. This Agreement constitutes the entire agreement between the parties hereto pertaining to the subject matter hereof and supersedes all
+prior and contemporaneous agreements, understandings, negotiations and discussions of the parties in connection therewith not referred to
+herein.
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: 64303e5aa502b04df2755968eecdc2f5_clause_011
+TYPE: legal_clause
+LENGTH: 490
+
+TEXT:
+----------------------------------------
+6. This Agreement shall be governed by, and construed in accordance with, the laws of the State of Connecticut, without regard to
+choice of law principles that may otherwise compel the application of the laws of any other jurisdiction. Each of the parties hereby irrevocably
+consents to the exclusive jurisdiction of the state and federal courts sitting in the State of Connecticut to resolve any dispute arising from this
+Agreement and waives any defense of inconvenient or improper forum.
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: 64303e5aa502b04df2755968eecdc2f5_clause_012
+TYPE: legal_clause
+LENGTH: 503
+
+TEXT:
+----------------------------------------
+7. The terms and provisions of this Agreement shall be deemed severable and, in the event any term or provision hereof or portion
+thereof is deemed or held to be invalid, illegal or unenforceable, such provision shall be conformed to prevailing law rather than voided, if
+possible, in order to achieve the intent of the parties, and, in any event, the remaining terms and provisions of this Agreement shall nevertheless
+continue and be deemed to be in full force and effect and binding upon the parties.
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: 64303e5aa502b04df2755968eecdc2f5_clause_013
+TYPE: legal_clause
+LENGTH: 132
+
+TEXT:
+----------------------------------------
+8. All representations, warranties, covenants and agreements made herein shall survive the execution and delivery of this Agreement.
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: 64303e5aa502b04df2755968eecdc2f5_clause_014
+TYPE: legal_clause
+LENGTH: 172
+
+TEXT:
+----------------------------------------
+9. This Agreement may not be modified, amended, altered or supplemented except upon the execution and delivery of a written
+agreement executed by all of the parties hereto.
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: 64303e5aa502b04df2755968eecdc2f5_clause_015
+TYPE: legal_clause
+LENGTH: 158
+
+TEXT:
+----------------------------------------
+10. This Agreement may be executed in counterparts, each of which shall be an original, but all of which together shall constitute one
+and the same agreement.
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: 64303e5aa502b04df2755968eecdc2f5_clause_016
+TYPE: legal_clause
+LENGTH: 166
+
+TEXT:
+----------------------------------------
+14
+
+IN WITNESS WHEREOF, this Agreement has been duly executed and delivered by duly authorized officers of the undersigned as of
+the day and year first above written.
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: 64303e5aa502b04df2755968eecdc2f5_clause_017
+TYPE: section_heading
+LENGTH: 18
+
+TEXT:
+----------------------------------------
+THE STILWELL GROUP
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: 64303e5aa502b04df2755968eecdc2f5_clause_018
+TYPE: section_heading
+LENGTH: 38
+
+TEXT:
+----------------------------------------
+NAUGATUCK VALLEY FINANCIAL CORPORATION
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: 64303e5aa502b04df2755968eecdc2f5_clause_019
+TYPE: legal_clause
+LENGTH: 25
+
+TEXT:
+----------------------------------------
+_________________________
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: 64303e5aa502b04df2755968eecdc2f5_clause_020
+TYPE: legal_clause
+LENGTH: 77
+
+TEXT:
+----------------------------------------
+_______________________________
+By:
+Date:
+Joseph Stilwell
+__________ __, 2014
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: 64303e5aa502b04df2755968eecdc2f5_clause_021
+TYPE: legal_clause
+LENGTH: 127
+
+TEXT:
+----------------------------------------
+By:
+
+Date:
+William C. Calderara, President and
+Chief Executive Officer
+___________ __, 2014
+DIRECTOR
+Date: ___________ __, 2014
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: 64303e5aa502b04df2755968eecdc2f5_clause_022
+TYPE: fragment
+LENGTH: 2
+
+TEXT:
+----------------------------------------
+15
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+

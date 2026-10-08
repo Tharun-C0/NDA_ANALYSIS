@@ -1,0 +1,15 @@
+experiment_id,category,precision,recall,f1_score,mcc,actual_positives,predicted_positives,true_positives,false_positives,false_negatives,true_negatives,disclaimer
+EXP-01,Party Identification,,,,,,,,,,,Training labels are LLM-generated pseudo-labels and have not yet been fully human-verified.
+EXP-01,Purpose,,,,,,,,,,,Training labels are LLM-generated pseudo-labels and have not yet been fully human-verified.
+EXP-01,NDA Type,,,,,,,,,,,Training labels are LLM-generated pseudo-labels and have not yet been fully human-verified.
+EXP-01,Definition of Confidential Information,,,,,,,,,,,Training labels are LLM-generated pseudo-labels and have not yet been fully human-verified.
+EXP-01,Confidentiality Obligations,,,,,,,,,,,Training labels are LLM-generated pseudo-labels and have not yet been fully human-verified.
+EXP-01,Authorized Disclosure,,,,,,,,,,,Training labels are LLM-generated pseudo-labels and have not yet been fully human-verified.
+EXP-01,Non-Confidential Information,,,,,,,,,,,Training labels are LLM-generated pseudo-labels and have not yet been fully human-verified.
+EXP-01,Liability for Damages,,,,,,,,,,,Training labels are LLM-generated pseudo-labels and have not yet been fully human-verified.
+EXP-01,Competition Rights,,,,,,,,,,,Training labels are LLM-generated pseudo-labels and have not yet been fully human-verified.
+EXP-01,Term and Termination,,,,,,,,,,,Training labels are LLM-generated pseudo-labels and have not yet been fully human-verified.
+EXP-01,Intellectual Property,,,,,,,,,,,Training labels are LLM-generated pseudo-labels and have not yet been fully human-verified.
+EXP-01,Employees,,,,,,,,,,,Training labels are LLM-generated pseudo-labels and have not yet been fully human-verified.
+EXP-01,Governing Law and Jurisdiction,,,,,,,,,,,Training labels are LLM-generated pseudo-labels and have not yet been fully human-verified.
+EXP-01,Additional Information,,,,,,,,,,,Training labels are LLM-generated pseudo-labels and have not yet been fully human-verified.

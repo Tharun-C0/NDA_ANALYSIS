@@ -1,0 +1,4 @@
+experiment_id,configuration,training_clauses,confidence_rule,best_epoch,val_macro_f1,test_macro_f1,minority_macro_f1,mcc,weighted_f1,micro_f1,hamming_loss
+ABL-B,Legal-RoBERTa + Class-Weighted BCE (ALL-VALID),344,ALL-VALID,5,0.3561,0.3477,0.2635,0.3222,0.4667,0.4177,0.2152
+ABL-A,Legal-RoBERTa + Class-Weighted BCE (HIGH+MEDIUM_CONFIDENCE),201,HIGH+MEDIUM_CONFIDENCE,5,0.2917,0.2748,0.2075,0.2518,0.4019,0.3253,0.3063
+ABL-A_HIGH_ONLY,Legal-RoBERTa + Class-Weighted BCE (HIGH_CONFIDENCE_ONLY),161,HIGH_CONFIDENCE_ONLY,5,0.2572,0.2485,0.187,0.2152,0.3783,0.2737,0.3726

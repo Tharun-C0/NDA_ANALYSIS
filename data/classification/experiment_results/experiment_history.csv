@@ -1,0 +1,5 @@
+experiment_id,timestamp,model,loss,label_mode,status,train_clauses,val_clauses,test_clauses,macro_f1,weighted_f1,micro_f1,hamming_loss,macro_mcc,execution_time_sec
+EXP-01,2026-10-03T11:20:29.559693,saibo/legal-roberta-base,bce,all_valid,DEBUG_SMOKE_TEST,109,49,45,0.0,0.0,0.0,0.5048,0.4286,28.13
+EXP-01,2026-10-03T11:22:03.159596,saibo/legal-roberta-base,bce,all_valid,DEBUG_SMOKE_TEST,109,49,45,0.0,0.0,0.0,0.5048,0.4286,20.26
+EXP-01,2026-10-03T20:13:14.866951,saibo/legal-roberta-base,bce,all_valid,DEBUG_SMOKE_TEST,109,49,79,0.0432,0.038,0.0878,0.4882,-0.0097,30.86
+EXP-01,2026-10-03T22:28:58.848708,saibo/legal-roberta-base,bce,all_valid,DEBUG_SMOKE_TEST,109,49,79,0.0432,0.038,0.0878,0.4882,-0.0097,27.26

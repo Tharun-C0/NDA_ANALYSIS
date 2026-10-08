@@ -1,0 +1,10 @@
+experiment_id,architecture,model_hub_id,loss_function,loss_hyperparameters,training_clauses
+EXP-01,Legal-RoBERTa,saibo/legal-roberta-base,BCEWithLogitsLoss,None,344
+EXP-02,Legal-RoBERTa,saibo/legal-roberta-base,Multi-Label Focal Loss,"gamma=2.0, alpha=0.25",344
+EXP-03,Legal-RoBERTa,saibo/legal-roberta-base,Class-Weighted BCE,pos_weight derived from train split,344
+EXP-04,Legal-BERT,nlpaueb/legal-bert-base-uncased,BCEWithLogitsLoss,None,344
+EXP-05,Legal-BERT,nlpaueb/legal-bert-base-uncased,Multi-Label Focal Loss,"gamma=2.0, alpha=0.25",344
+EXP-06,Legal-BERT,nlpaueb/legal-bert-base-uncased,Class-Weighted BCE,pos_weight derived from train split,344
+EXP-07,DeBERTa-v3,microsoft/deberta-v3-base,BCEWithLogitsLoss,None,344
+EXP-08,DeBERTa-v3,microsoft/deberta-v3-base,Multi-Label Focal Loss,"gamma=2.0, alpha=0.25",344
+EXP-09,DeBERTa-v3,microsoft/deberta-v3-base,Class-Weighted BCE,pos_weight derived from train split,344

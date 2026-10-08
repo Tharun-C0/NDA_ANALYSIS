@@ -1,0 +1,61 @@
+{
+  "best_epoch": 5,
+  "best_val_macro_f1": 0.2917,
+  "history": [
+    {
+      "experiment_id": "ABL-A",
+      "epoch": 1,
+      "train_loss": 1.2567,
+      "val_loss": 1.1484,
+      "val_macro_f1": 0.0625,
+      "val_micro_f1": 0.1085,
+      "val_weighted_f1": 0.075,
+      "val_mcc": 0.0119,
+      "is_best": true
+    },
+    {
+      "experiment_id": "ABL-A",
+      "epoch": 2,
+      "train_loss": 1.2318,
+      "val_loss": 1.1161,
+      "val_macro_f1": 0.1727,
+      "val_micro_f1": 0.2159,
+      "val_weighted_f1": 0.3511,
+      "val_mcc": 0.138,
+      "is_best": true
+    },
+    {
+      "experiment_id": "ABL-A",
+      "epoch": 3,
+      "train_loss": 1.1102,
+      "val_loss": 1.0125,
+      "val_macro_f1": 0.2592,
+      "val_micro_f1": 0.2906,
+      "val_weighted_f1": 0.4242,
+      "val_mcc": 0.2308,
+      "is_best": true
+    },
+    {
+      "experiment_id": "ABL-A",
+      "epoch": 4,
+      "train_loss": 1.0024,
+      "val_loss": 0.9463,
+      "val_macro_f1": 0.2798,
+      "val_micro_f1": 0.331,
+      "val_weighted_f1": 0.4379,
+      "val_mcc": 0.2623,
+      "is_best": true
+    },
+    {
+      "experiment_id": "ABL-A",
+      "epoch": 5,
+      "train_loss": 0.923,
+      "val_loss": 0.9347,
+      "val_macro_f1": 0.2917,
+      "val_micro_f1": 0.3475,
+      "val_weighted_f1": 0.4505,
+      "val_mcc": 0.2736,
+      "is_best": true
+    }
+  ]
+}

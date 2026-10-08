@@ -1,0 +1,29 @@
+{
+  "experiment_id": "EXP-12",
+  "model_id": "deberta_v3",
+  "model_name": "DeBERTa-v3",
+  "huggingface_id": "microsoft/deberta-v3-base",
+  "loss_function": "Class-Weighted BCE",
+  "max_epochs": 10,
+  "early_stopping_patience": 2,
+  "batch_size": 16,
+  "learning_rate": 2e-05,
+  "max_sequence_length": 256,
+  "seed": 42,
+  "amp_dtype": "torch.bfloat16",
+  "gpu_environment": {
+    "cuda_available": true,
+    "gpu_name": "NVIDIA GeForce RTX 5060 Ti",
+    "cuda_version": "13.2",
+    "pytorch_version": "2.14.1+cu132",
+    "gpu_memory_gb": 15.93,
+    "bf16_support": true
+  },
+  "dataset_rows": {
+    "benchmark_train": 344,
+    "synthetic_train": 5000,
+    "combined_train": 5344,
+    "validation": 137,
+    "test": 236
+  }
+}

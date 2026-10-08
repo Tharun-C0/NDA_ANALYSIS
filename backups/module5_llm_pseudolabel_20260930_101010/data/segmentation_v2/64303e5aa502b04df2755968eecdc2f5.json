@@ -1,0 +1,145 @@
+{
+  "document_id": "64303e5aa502b04df2755968eecdc2f5",
+  "source_file": "64303e5aa502b04df2755968eecdc2f5.txt",
+  "total_characters": 6040,
+  "num_clauses": 15,
+  "num_legal_clauses": 14,
+  "quality_status": "REVIEW",
+  "clauses": [
+    {
+      "document_id": "64303e5aa502b04df2755968eecdc2f5",
+      "clause_id": "64303e5aa502b04df2755968eecdc2f5_clause_000",
+      "text": "EXHIBIT B\n\nNON-DISCLOSURE AGREEMENT\n\nTHIS NON-DISCLOSURE AGREEMENT (this “Agreement”), is made and entered into as of the date on which it is fully executed,\nas indicated by signatures below, by and among Naugatuck Valley Financial Corporation (the “Company”), the Stilwell Group (composed of\nStilwell Value Partners II, L.P., Stilwell Value Partners VII, L.P., Stilwell Partners, L.P., Stilwell Value LLC, Stilwell Activist Fund, L.P., Stilwell\nActivist Investments, L.P., and Joseph Stilwell, an individual, and their employees and representatives), and ______________, a director whose\nname was placed in nomination by the Stilwell Group (“Director”).",
+      "start": 0,
+      "end": 655,
+      "segment_type": "header",
+      "is_suspicious": true
+    },
+    {
+      "document_id": "64303e5aa502b04df2755968eecdc2f5",
+      "clause_id": "64303e5aa502b04df2755968eecdc2f5_clause_001",
+      "text": "WHEREAS, the Director is a member of the Board of Directors of the Company and its wholly owned subsidiary, Naugatuck Valley\nSavings and Loan (the “Bank”);",
+      "start": 655,
+      "end": 812,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "64303e5aa502b04df2755968eecdc2f5",
+      "clause_id": "64303e5aa502b04df2755968eecdc2f5_clause_002",
+      "text": "WHEREAS, the Company, the Stilwell Group and the Director have agreed that it is in their mutual interests to enter into this\nAgreement as hereinafter described.",
+      "start": 812,
+      "end": 975,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "64303e5aa502b04df2755968eecdc2f5",
+      "clause_id": "64303e5aa502b04df2755968eecdc2f5_clause_003",
+      "text": "NOW THEREFORE, for good and valuable consideration, and intending to be legally bound hereby, the parties hereto mutually agree\nas follows:",
+      "start": 975,
+      "end": 1116,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "64303e5aa502b04df2755968eecdc2f5",
+      "clause_id": "64303e5aa502b04df2755968eecdc2f5_clause_004",
+      "text": "1. In connection with the Director serving on the Boards of Directors of the Company and the Bank, the Director and other Company\nemployees, directors, and agents may divulge nonpublic information concerning the Company and its subsidiaries to the Stilwell Group and such\ninformation may be shared among the Stilwell Group's employees and agents who have a need to know such information. The Stilwell Group\nexpressly agrees to maintain all nonpublic information concerning the Company and its subsidiaries in confidence. The Stilwell Group expressly\nacknowledges that federal and state securities laws may prohibit a person from purchasing or selling securities of a company, or from\ncommunicating such information to any other person under circumstances in which it is reasonably foreseeable that such other person is likely to\npurchase or sell such securities, while the first-mentioned person is in possession of material nonpublic information about such company. The\nStilwell Group agrees to comply with the Company's insider trading policies and procedures, as in effect from time to time, to the same extent as\nif it were a director of the Company. To the extent the nonpublic information concerning the Company and its subsidiaries received by the\nStilwell Group is material, this Agreement is intended to satisfy the confidentiality agreement exclusion of Regulation FD of the U.S. Securities\nand Exchange Commission (the “SEC”) set forth in Rule 100(b)(2)(ii) of Regulation FD of the SEC.",
+      "start": 1116,
+      "end": 2615,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "64303e5aa502b04df2755968eecdc2f5",
+      "clause_id": "64303e5aa502b04df2755968eecdc2f5_clause_005",
+      "text": "2. Each of the Stilwell Group and the Director represents and warrants to the Company that this Agreement has been duly and validly\nauthorized (in the case of the entity members of the Stilwell Group), executed and delivered by them, and is a valid and binding agreement\nenforceable against them in accordance with its terms.",
+      "start": 2615,
+      "end": 2942,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "64303e5aa502b04df2755968eecdc2f5",
+      "clause_id": "64303e5aa502b04df2755968eecdc2f5_clause_006",
+      "text": "3. The Director hereby further confirms to the Company that no event has occurred with respect to the Director that would require\ndisclosure in a document filed by the Company with the SEC pursuant to the Securities Act of 1933, as amended, or the Securities Exchange Act\nof 1934, as amended, under Item 401(f) or Item 404(a) of SEC Regulation S-K.",
+      "start": 2942,
+      "end": 3292,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "64303e5aa502b04df2755968eecdc2f5",
+      "clause_id": "64303e5aa502b04df2755968eecdc2f5_clause_007",
+      "text": "4. The Stilwell Group acknowledges that with regard to its obligations to maintain the confidentiality of nonpublic information of the\nCompany and its subsidiaries, monetary damages may not be a sufficient remedy for any breach or threatened breach of this Agreement and that,\nin addition to all other remedies, the Company may be entitled to seek specific performance and injunctive or other equitable relief as a remedy\nfor such breach, and agrees that in conjunction therewith the Company shall not be required to post any bond.",
+      "start": 3292,
+      "end": 3825,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "64303e5aa502b04df2755968eecdc2f5",
+      "clause_id": "64303e5aa502b04df2755968eecdc2f5_clause_008",
+      "text": "5. This Agreement constitutes the entire agreement between the parties hereto pertaining to the subject matter hereof and supersedes all\nprior and contemporaneous agreements, understandings, negotiations and discussions of the parties in connection therewith not referred to\nherein.",
+      "start": 3825,
+      "end": 4109,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "64303e5aa502b04df2755968eecdc2f5",
+      "clause_id": "64303e5aa502b04df2755968eecdc2f5_clause_009",
+      "text": "6. This Agreement shall be governed by, and construed in accordance with, the laws of the State of Connecticut, without regard to\nchoice of law principles that may otherwise compel the application of the laws of any other jurisdiction. Each of the parties hereby irrevocably\nconsents to the exclusive jurisdiction of the state and federal courts sitting in the State of Connecticut to resolve any dispute arising from this\nAgreement and waives any defense of inconvenient or improper forum.",
+      "start": 4109,
+      "end": 4601,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "64303e5aa502b04df2755968eecdc2f5",
+      "clause_id": "64303e5aa502b04df2755968eecdc2f5_clause_010",
+      "text": "7. The terms and provisions of this Agreement shall be deemed severable and, in the event any term or provision hereof or portion\nthereof is deemed or held to be invalid, illegal or unenforceable, such provision shall be conformed to prevailing law rather than voided, if\npossible, in order to achieve the intent of the parties, and, in any event, the remaining terms and provisions of this Agreement shall nevertheless\ncontinue and be deemed to be in full force and effect and binding upon the parties.",
+      "start": 4601,
+      "end": 5106,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "64303e5aa502b04df2755968eecdc2f5",
+      "clause_id": "64303e5aa502b04df2755968eecdc2f5_clause_011",
+      "text": "8. All representations, warranties, covenants and agreements made herein shall survive the execution and delivery of this Agreement.",
+      "start": 5106,
+      "end": 5240,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "64303e5aa502b04df2755968eecdc2f5",
+      "clause_id": "64303e5aa502b04df2755968eecdc2f5_clause_012",
+      "text": "9. This Agreement may not be modified, amended, altered or supplemented except upon the execution and delivery of a written\nagreement executed by all of the parties hereto.",
+      "start": 5240,
+      "end": 5414,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "64303e5aa502b04df2755968eecdc2f5",
+      "clause_id": "64303e5aa502b04df2755968eecdc2f5_clause_013",
+      "text": "10. This Agreement may be executed in counterparts, each of which shall be an original, but all of which together shall constitute one\nand the same agreement.\n\n14",
+      "start": 5414,
+      "end": 5578,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "64303e5aa502b04df2755968eecdc2f5",
+      "clause_id": "64303e5aa502b04df2755968eecdc2f5_clause_014",
+      "text": "IN WITNESS WHEREOF, this Agreement has been duly executed and delivered by duly authorized officers of the undersigned as of\nthe day and year first above written.\n\nTHE STILWELL GROUP\n\nNAUGATUCK VALLEY FINANCIAL CORPORATION\n\n_________________________\n\n_______________________________\nBy:\nDate:\nJoseph Stilwell\n__________ __, 2014\n\nBy:\n\nDate:\nWilliam C. Calderara, President and\nChief Executive Officer\n___________ __, 2014\nDIRECTOR\nDate: ___________ __, 2014\n\n15",
+      "start": 5578,
+      "end": 6040,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    }
+  ]
+}

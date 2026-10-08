@@ -1,0 +1,15 @@
+category,valid_clause_count,document_count,pct_represented_documents,ge_2_docs,ge_3_docs
+Liability for Damages,4,2,18.18,Yes,No
+Competition Rights,3,3,27.27,Yes,Yes
+Intellectual Property,4,3,27.27,Yes,Yes
+Governing Law and Jurisdiction,6,3,27.27,Yes,Yes
+Term and Termination,5,4,36.36,Yes,Yes
+NDA Type,6,5,45.45,Yes,Yes
+Employees,7,5,45.45,Yes,Yes
+Definition of Confidential Information,7,6,54.55,Yes,Yes
+Non-Confidential Information,10,6,54.55,Yes,Yes
+Purpose,12,7,63.64,Yes,Yes
+Authorized Disclosure,21,7,63.64,Yes,Yes
+Confidentiality Obligations,22,7,63.64,Yes,Yes
+Party Identification,24,7,63.64,Yes,Yes
+Additional Information,164,9,81.82,Yes,Yes

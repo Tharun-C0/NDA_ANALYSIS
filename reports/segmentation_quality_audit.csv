@@ -1,0 +1,21 @@
+document_id,total_clauses,suspicious_clauses,min_length,median_length,max_length,boundary_count,quality_notes
+0859334b76224ff82c1312ae7b2b5da1,15,1,42,904.0,3774,31,"1_suspicious_clauses; boundary_mismatch(clauses=15,boundaries=31)"
+0a42e159b33ed521c4157d8babfaf3c1,25,1,52,444.0,1676,21,1_suspicious_clauses
+0b59dfc4ce9b40b0c39759dc1ade14bc,26,1,50,579.5,2567,24,1_suspicious_clauses
+2268c5d1120f1abd57170d689f496418,13,1,9,326.0,1452,15,1_suspicious_clauses
+247166e0245431dcf97ee884f1f07e35,10,0,72,685.0,1334,12,normal
+266929af5f5b1ddb4018f2633cb96e24,12,1,134,273.0,687,12,1_suspicious_clauses
+293f59373f6a966b13cd7463b4617a6f,31,12,12,377.0,4567,45,"12_suspicious_clauses; boundary_mismatch(clauses=31,boundaries=45)"
+3504e06a49433c1456720513186da1bd,6,1,65,386.5,1271,4,very_few_clauses; 1_suspicious_clauses
+4fd432d8ce6796dabc17d3838d8539a2,18,1,111,667.0,3155,17,1_suspicious_clauses
+5180f107324abcab9d9ff81aee2db8d3,13,5,1,58.0,5618,1,"5_suspicious_clauses; boundary_mismatch(clauses=13,boundaries=1)"
+53c8f90cfb5fb49177c9cb160e53f17b,11,1,63,816.0,2954,14,1_suspicious_clauses
+586c367e2c45ebd8b7ba96fcb6006bf6,46,2,34,245.5,1680,52,many_clauses; 2_suspicious_clauses
+64303e5aa502b04df2755968eecdc2f5,13,1,39,326.0,1497,15,1_suspicious_clauses
+9a5cb31024ad0a7a4916e4f122ebea4a,72,2,30,438.5,2209,79,many_clauses; 2_suspicious_clauses
+b82a10c42fc284dba9870ac7c75cd386,5,4,854,1177.0,2909,5,very_few_clauses; 4_suspicious_clauses
+c58882f7f9c693e3f6c11d0f945f395e,14,1,99,560.0,3285,14,1_suspicious_clauses
+d4566b17b742d10442e98756b95a2730,26,1,36,190.5,1505,26,1_suspicious_clauses
+d714d261edc4d361e7d2ebabccaada50,39,1,31,523.0,3013,26,"1_suspicious_clauses; boundary_mismatch(clauses=39,boundaries=26)"
+e52e4a136a4bb5c859dc6d056f47c743,29,1,37,405.0,2529,35,1_suspicious_clauses
+f28c4f3d35a152dd415f9b255122cb38,49,8,1,344.0,3733,32,"many_clauses; 8_suspicious_clauses; boundary_mismatch(clauses=49,boundaries=32)"

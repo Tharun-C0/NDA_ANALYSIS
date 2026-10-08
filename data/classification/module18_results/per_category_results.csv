@@ -1,0 +1,43 @@
+experiment_id,model,loss_function,category,precision,recall,f1_score,mcc,support
+EXP-07,microsoft/deberta-v3-base,bce,Party Identification,0.0,0.0,0.0,0.0,29
+EXP-07,microsoft/deberta-v3-base,bce,Purpose,0.0,0.0,0.0,0.0,7
+EXP-07,microsoft/deberta-v3-base,bce,NDA Type,0.0,0.0,0.0,0.0,1
+EXP-07,microsoft/deberta-v3-base,bce,Definition of Confidential Information,0.0,0.0,0.0,0.0,21
+EXP-07,microsoft/deberta-v3-base,bce,Confidentiality Obligations,0.0,0.0,0.0,0.0,18
+EXP-07,microsoft/deberta-v3-base,bce,Authorized Disclosure,0.0,0.0,0.0,0.0,14
+EXP-07,microsoft/deberta-v3-base,bce,Non-Confidential Information,0.0,0.0,0.0,0.0,7
+EXP-07,microsoft/deberta-v3-base,bce,Liability for Damages,0.0,0.0,0.0,0.0,16
+EXP-07,microsoft/deberta-v3-base,bce,Competition Rights,0.0,0.0,0.0,0.0,22
+EXP-07,microsoft/deberta-v3-base,bce,Term and Termination,0.0,0.0,0.0,0.0,29
+EXP-07,microsoft/deberta-v3-base,bce,Intellectual Property,0.0,0.0,0.0,0.0,14
+EXP-07,microsoft/deberta-v3-base,bce,Employees,0.0,0.0,0.0,0.0,24
+EXP-07,microsoft/deberta-v3-base,bce,Governing Law and Jurisdiction,0.0,0.0,0.0,0.0,7
+EXP-07,microsoft/deberta-v3-base,bce,Additional Information,0.6628,0.5182,0.5816,0.2985,110
+EXP-08,microsoft/deberta-v3-base,focal,Party Identification,0.0,0.0,0.0,0.0,29
+EXP-08,microsoft/deberta-v3-base,focal,Purpose,0.0,0.0,0.0,0.0,7
+EXP-08,microsoft/deberta-v3-base,focal,NDA Type,0.0,0.0,0.0,0.0,1
+EXP-08,microsoft/deberta-v3-base,focal,Definition of Confidential Information,0.0,0.0,0.0,0.0,21
+EXP-08,microsoft/deberta-v3-base,focal,Confidentiality Obligations,0.0,0.0,0.0,0.0,18
+EXP-08,microsoft/deberta-v3-base,focal,Authorized Disclosure,0.0,0.0,0.0,0.0,14
+EXP-08,microsoft/deberta-v3-base,focal,Non-Confidential Information,0.0,0.0,0.0,0.0,7
+EXP-08,microsoft/deberta-v3-base,focal,Liability for Damages,0.0,0.0,0.0,0.0,16
+EXP-08,microsoft/deberta-v3-base,focal,Competition Rights,0.0,0.0,0.0,0.0,22
+EXP-08,microsoft/deberta-v3-base,focal,Term and Termination,0.0,0.0,0.0,0.0,29
+EXP-08,microsoft/deberta-v3-base,focal,Intellectual Property,0.0,0.0,0.0,0.0,14
+EXP-08,microsoft/deberta-v3-base,focal,Employees,0.0,0.0,0.0,0.0,24
+EXP-08,microsoft/deberta-v3-base,focal,Governing Law and Jurisdiction,0.0,0.0,0.0,0.0,7
+EXP-08,microsoft/deberta-v3-base,focal,Additional Information,0.0,0.0,0.0,0.0,110
+EXP-09,microsoft/deberta-v3-base,class_weighted_bce,Party Identification,0.2745,0.9655,0.4275,0.403,29
+EXP-09,microsoft/deberta-v3-base,class_weighted_bce,Purpose,0.0349,0.4286,0.0645,0.0233,7
+EXP-09,microsoft/deberta-v3-base,class_weighted_bce,NDA Type,0.0,0.0,0.0,-0.0176,1
+EXP-09,microsoft/deberta-v3-base,class_weighted_bce,Definition of Confidential Information,0.1975,0.7619,0.3137,0.2756,21
+EXP-09,microsoft/deberta-v3-base,class_weighted_bce,Confidentiality Obligations,0.1828,0.9444,0.3063,0.3236,18
+EXP-09,microsoft/deberta-v3-base,class_weighted_bce,Authorized Disclosure,0.1364,0.8571,0.2353,0.2515,14
+EXP-09,microsoft/deberta-v3-base,class_weighted_bce,Non-Confidential Information,0.0632,0.8571,0.1176,0.1621,7
+EXP-09,microsoft/deberta-v3-base,class_weighted_bce,Liability for Damages,0.1549,0.6875,0.2529,0.2274,16
+EXP-09,microsoft/deberta-v3-base,class_weighted_bce,Competition Rights,0.169,0.5455,0.2581,0.171,22
+EXP-09,microsoft/deberta-v3-base,class_weighted_bce,Term and Termination,0.234,0.7586,0.3577,0.2755,29
+EXP-09,microsoft/deberta-v3-base,class_weighted_bce,Intellectual Property,0.0909,0.7143,0.1613,0.1249,14
+EXP-09,microsoft/deberta-v3-base,class_weighted_bce,Employees,0.2418,0.9167,0.3826,0.3671,24
+EXP-09,microsoft/deberta-v3-base,class_weighted_bce,Governing Law and Jurisdiction,0.15,0.8571,0.2553,0.3204,7
+EXP-09,microsoft/deberta-v3-base,class_weighted_bce,Additional Information,0.6053,0.8364,0.7023,0.3753,110

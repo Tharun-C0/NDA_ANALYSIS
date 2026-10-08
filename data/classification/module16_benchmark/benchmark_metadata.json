@@ -1,0 +1,47 @@
+{
+  "dataset_name": "NDA Multi-Label Clause Classification Benchmark (717 Genuine LLM Ensemble)",
+  "version": "v2.1.0-genuine_717_clauses",
+  "benchmark_status": "READY",
+  "status_explanation": "Benchmark constructed from complete 717 source clauses across 20 represented documents using genuine 3-model LLM ensemble pseudo-labels.",
+  "source_file": "data/human_review/review_dataset.csv",
+  "random_seed": 42,
+  "total_source_clauses": 717,
+  "total_valid_clauses": 717,
+  "quarantined_rows": 0,
+  "total_represented_documents": 20,
+  "split_clause_counts": {
+    "train": 344,
+    "val": 137,
+    "test": 236
+  },
+  "split_document_counts": {
+    "train": 12,
+    "val": 4,
+    "test": 4
+  },
+  "split_category_counts": {
+    "train": 14,
+    "val": 14,
+    "test": 14
+  },
+  "leakage_checks": {
+    "document_overlap": 0,
+    "duplicate_clause_ids": 0
+  },
+  "approved_categories": [
+    "Party Identification",
+    "Purpose",
+    "NDA Type",
+    "Definition of Confidential Information",
+    "Confidentiality Obligations",
+    "Authorized Disclosure",
+    "Non-Confidential Information",
+    "Liability for Damages",
+    "Competition Rights",
+    "Term and Termination",
+    "Intellectual Property",
+    "Employees",
+    "Governing Law and Jurisdiction",
+    "Additional Information"
+  ]
+}

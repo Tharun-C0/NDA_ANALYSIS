@@ -1,0 +1,11 @@
+Experiment_ID,Model_Name,Hub_ID,Loss_Function,Max_Seq_Len,Batch_Size,Learning_Rate,Epochs,Seed,Status
+EXP-01a,Legal-RoBERTa Baseline,saibo/legal-roberta-base,BCEWithLogitsLoss,256,8,2e-5,5,42,NOT_RUN
+EXP-01b,Legal-RoBERTa Baseline,saibo/legal-roberta-base,Multi-Label Focal Loss,256,8,2e-5,5,42,NOT_RUN
+EXP-01c,Legal-RoBERTa Baseline,saibo/legal-roberta-base,Class-Weighted BCE,256,8,2e-5,5,42,NOT_RUN
+EXP-02a,Legal-BERT Alternative,nlpaueb/legal-bert-base-uncased,BCEWithLogitsLoss,256,8,2e-5,5,42,NOT_RUN
+EXP-02b,Legal-BERT Alternative,nlpaueb/legal-bert-base-uncased,Multi-Label Focal Loss,256,8,2e-5,5,42,NOT_RUN
+EXP-02c,Legal-BERT Alternative,nlpaueb/legal-bert-base-uncased,Class-Weighted BCE,256,8,2e-5,5,42,NOT_RUN
+EXP-03a,DeBERTa-v3 Alternative,microsoft/deberta-v3-base,BCEWithLogitsLoss,256,8,2e-5,5,42,NOT_RUN
+EXP-03b,DeBERTa-v3 Alternative,microsoft/deberta-v3-base,M 256,8,2e-5,5,42,NOT_RUN
+EXP-03c,DeBERTa-v3 Alternative,microsoft/deberta-v3-base,Class-Weighted BCE,256,8,2e-5,5,42,NOT_RUN
+ABL-A,Legal-RoBERTa (High Conf),saibo/legal-roberta-base,BCEWithLogitsLoss,256,8,2e-5,5,42,NOT_RUN

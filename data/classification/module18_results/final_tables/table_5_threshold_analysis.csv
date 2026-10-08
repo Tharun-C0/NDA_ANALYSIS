@@ -1,0 +1,6 @@
+threshold,val_macro_f1,val_minority_macro_f1,val_mcc,val_micro_f1,val_weighted_f1,val_hamming_loss,test_macro_f1,test_minority_macro_f1,test_mcc,test_micro_f1,test_weighted_f1,test_hamming_loss,selection_status
+0.3,0.2366,0.2039,0.2091,0.2955,0.4127,0.4176,0.2238,0.1485,0.1881,0.2666,0.3741,0.5112,Unselected
+0.4,0.3086,0.3006,0.2882,0.3822,0.4577,0.2612,0.2871,0.2,0.2723,0.3555,0.4334,0.3172,Unselected
+0.5,0.3875,0.4057,0.3593,0.4605,0.5049,0.171,0.3675,0.2806,0.3455,0.4416,0.4852,0.1967,Default Baseline (0.50)
+0.6,0.4306,0.4486,0.3919,0.5138,0.5432,0.1194,0.4295,0.3853,0.3885,0.494,0.5151,0.1283,Optimal Selected (0.60)
+0.7,0.3917,0.3811,0.3715,0.3891,0.382,0.0933,0.3802,0.3623,0.3588,0.3939,0.3838,0.0959,Unselected

@@ -1,0 +1,46 @@
+{
+  "module": "Module 18 \u2014 Classifier Experiment Runner",
+  "version": "1.0.0",
+  "timestamp": "2026-10-05T09:55:41.885763",
+  "random_seed": 42,
+  "dry_run_results": {
+    "files_exist": true,
+    "all_14_labels_exist": true,
+    "columns_match": true,
+    "document_overlap_count": 0,
+    "missing_clause_text": 0,
+    "missing_doc_id": 0,
+    "invalid_label_values": [],
+    "label_dimensions_match": true,
+    "model_loading": {
+      "microsoft/deberta-v3-base": "LOADED_OK (logits shape (1, 14))"
+    }
+  },
+  "hyperparameters": {
+    "epochs": 5,
+    "batch_size": 8,
+    "lr": 2e-05,
+    "early_stopping_patience": 3,
+    "max_sequence_length": 256
+  },
+  "experiments": [
+    {
+      "experiment_id": "EXP-07",
+      "model": "microsoft/deberta-v3-base",
+      "loss": "bce",
+      "name": "DeBERTa-v3 + BCE"
+    },
+    {
+      "experiment_id": "EXP-08",
+      "model": "microsoft/deberta-v3-base",
+      "loss": "focal",
+      "name": "DeBERTa-v3 + Focal Loss"
+    },
+    {
+      "experiment_id": "EXP-09",
+      "model": "microsoft/deberta-v3-base",
+      "loss": "class_weighted_bce",
+      "name": "DeBERTa-v3 + Class-Weighted BCE"
+    }
+  ]
+}

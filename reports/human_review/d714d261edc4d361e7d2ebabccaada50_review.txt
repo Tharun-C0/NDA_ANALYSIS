@@ -1,0 +1,1275 @@
+========================================
+DOCUMENT: d714d261edc4d361e7d2ebabccaada50
+========================================
+
+CLAUSE: d714d261edc4d361e7d2ebabccaada50_clause_000
+TYPE: header
+LENGTH: 63
+
+TEXT:
+----------------------------------------
+EX-10.2 3 exhibit102-confidentiality.htm EXHIBIT 10.2
+Exhibit A
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: d714d261edc4d361e7d2ebabccaada50_clause_001
+TYPE: legal_clause
+LENGTH: 494
+
+TEXT:
+----------------------------------------
+CONFIDENTIALITY, NON-INTERFERENCE, AND INVENTION ASSIGNMENT AGREEMENT
+As a condition of my becoming employed by, or continuing employment with, HealthEquity, Inc., a Delaware
+corporation (the “Company”), and in consideration of my employment with the Company and my receipt of the
+compensation now and hereafter paid to me by the Company, I agree to the following terms set forth in this
+Confidentiality, Non-Interference, and Invention Assignment Agreement (this “Non-Interference Agreement”):
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: d714d261edc4d361e7d2ebabccaada50_clause_002
+TYPE: legal_clause
+LENGTH: 36
+
+TEXT:
+----------------------------------------
+Section 1. Confidential Information.
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: d714d261edc4d361e7d2ebabccaada50_clause_003
+TYPE: legal_clause
+LENGTH: 2870
+
+TEXT:
+----------------------------------------
+(a) Company Group Information. I acknowledge that, during the course of my employment, I will have access
+to information about the Company and its direct and indirect subsidiaries and affiliates (collectively, the “Company
+Group”) and that my employment with the Company shall bring me into close contact with confidential and proprietary
+information of any member of the Company Group. In recognition of the foregoing, I agree, at all times during the term
+of my employment with the Company and thereafter, to hold in confidence, and not to use, except for the benefit of any
+member of the Company Group, or to disclose to any person, firm, corporation, or other entity without written
+authorization of the Company, any Confidential Information that I obtain or create. I further agree not to make copies of
+such Confidential Information except as authorized by the Company. I understand that “Confidential Information”
+means information that any member of the Company Group has developed, acquired, created, compiled, discovered, or
+owned or will develop, acquire, create, compile, discover, or own, that has value in or to the business of any member of
+the Company Group that is not generally known and that the Company wishes to maintain as confidential. I understand
+that Confidential Information includes, but is not limited to, any and all non-public information that relates to the actual
+or anticipated business and/or products, research, or development of the Company, or to the Company’s technical data,
+trade secrets, or know-how, including, but not limited to, research, product plans, or other information regarding the
+Company’s products or services and markets, customer lists, and customers (including, but not limited to, customers of
+the Company on whom I called or with whom I may become acquainted during the term of my employment), software,
+developments, inventions, processes, formulas, technology, designs, drawings, engineering, hardware configuration
+information, marketing, finances, and other business information disclosed by the Company either directly or indirectly
+in writing, orally, or by drawings or inspection of premises, parts, equipment, or other Company property.
+Notwithstanding the foregoing, Confidential Information shall not include (i) any of the foregoing items that have
+become publicly and widely known through no unauthorized disclosure by me or others who were under confidentiality
+obligations as to the item or items involved, or (ii) any information that I am required to disclose to, or by, any
+governmental or judicial authority; provided, however, that in such event I will give the Company prompt written notice
+thereof so that any member of the Company Group may seek an appropriate protective order and/or waive in writing
+compliance with the confidentiality provisions of this Non-Interference Agreement.
+A-1
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: d714d261edc4d361e7d2ebabccaada50_clause_004
+TYPE: legal_clause
+LENGTH: 753
+
+TEXT:
+----------------------------------------
+(b) Former Employer Information. I represent that my performance of all of the terms of this Non-Interference
+Agreement as an employee of the Company has not breached and will not breach any agreement to keep in confidence
+proprietary information, knowledge, or data acquired by me in confidence or trust prior or subsequent to the
+commencement of my employment with the Company, and I will not disclose to any member of the Company Group, or
+induce any member of the Company Group to use, any developments, or confidential or proprietary information or
+material I may have obtained in connection with employment with any prior employer in violation of a confidentiality
+agreement, nondisclosure agreement, or similar agreement with such prior employer.
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: d714d261edc4d361e7d2ebabccaada50_clause_005
+TYPE: legal_clause
+LENGTH: 897
+
+TEXT:
+----------------------------------------
+(c) Third Party Information. I understand that the Company Group has received and in the future may receive
+from third parties confidential or proprietary information (“Third Party Information”) subject to a duty on the Company
+Group’s part to maintain the confidentiality of such information and to use it only for certain limited purposes. In
+recognition of the foregoing, I agree, at all times during the period of my employment with the Company (the
+“Employment Period”) and thereafter, to hold in confidence and will not disclose to anyone (other than Company Group
+personnel who need to know such information in connection with their work for the Company Group), and not to use,
+except for the benefit of the Company Group, Third Party Information without the express prior written consent of an
+officer of the Company and otherwise treat Third Party Information as Confidential Information.
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: d714d261edc4d361e7d2ebabccaada50_clause_006
+TYPE: legal_clause
+LENGTH: 55
+
+TEXT:
+----------------------------------------
+(d) Whistleblower; Defend Trade Secrets Act Disclosure.
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: d714d261edc4d361e7d2ebabccaada50_clause_007
+TYPE: legal_clause
+LENGTH: 410
+
+TEXT:
+----------------------------------------
+(i) In addition, I understand that nothing in this Agreement shall be construed to prohibit me from
+reporting possible violations of law or regulation to any governmental agency or regulatory body or making other
+disclosures that are protected under any law or regulation, or from filing a charge with or participating in any
+investigation or proceeding conducted by any governmental agency or regulatory body.
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: d714d261edc4d361e7d2ebabccaada50_clause_008
+TYPE: legal_clause
+LENGTH: 903
+
+TEXT:
+----------------------------------------
+(ii) I understand that the Defend Trade Secrets Act provides that I may not be held criminally or civilly
+liable under any Federal or state trade secret law for the disclosure of a trade secret that is made in confidence to a
+Federal, state, or local government official, either directly or indirectly, or to an attorney, and solely for the purpose of
+reporting or investigating a suspected violation of law; or that is made in a complaint or other document filed in a lawsuit
+or other proceeding, if such filing is made under seal. In the event that I file a lawsuit for retaliation by any member of
+the Company Group for reporting a suspected violation of law, I may disclose the trade secret to my attorney and use the
+trade secret information in the court proceeding, if I file any document containing the trade secret under seal and do not
+disclose the trade secret, except pursuant to court order.
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: d714d261edc4d361e7d2ebabccaada50_clause_009
+TYPE: legal_clause
+LENGTH: 24
+
+TEXT:
+----------------------------------------
+Section 2. Developments.
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: d714d261edc4d361e7d2ebabccaada50_clause_010
+TYPE: legal_clause
+LENGTH: 263
+
+TEXT:
+----------------------------------------
+(a) Developments Retained and Licensed. I have attached hereto, as Schedule A, a list describing with
+particularity all developments, original works of authorship, improvements, and trade secrets that I can demonstrate
+were created or owned by me prior to the
+A-2
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: d714d261edc4d361e7d2ebabccaada50_clause_011
+TYPE: legal_clause
+LENGTH: 1259
+
+TEXT:
+----------------------------------------
+commencement of my employment (collectively referred to as “Prior Developments”), which belong solely to me or
+belong to me jointly with another, that relate in any way to any of the actual or proposed businesses, products, or
+research and development of any member of the Company Group, and that are not assigned to the Company hereunder,
+or if no such list is attached, I represent that there are no such Prior Developments. If, during any period during which I
+perform or performed services for any member of the Company Group both before or after the date hereof (the
+“Assignment Period”), whether as an officer, employee, director, independent contractor, consultant, or agent, or in any
+other capacity, I incorporate (or have incorporated) into any member of the Company Group’s product or process a Prior
+Development owned by me or in which I have an interest, I hereby grant each member of the Company Group, and each
+member of the Company Group shall have, a non-exclusive, royalty-free, irrevocable, perpetual, transferable worldwide
+license (with the right to sublicense) to make, have made, copy, modify, make derivative works of, use, sell, and
+otherwise distribute such Prior Development as part of or in connection with such product or process.
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: d714d261edc4d361e7d2ebabccaada50_clause_012
+TYPE: legal_clause
+LENGTH: 2753
+
+TEXT:
+----------------------------------------
+(b) Assignment of Developments. I agree that I will, without additional compensation, promptly make full
+written disclosure to the Company, and will hold in trust for the sole right and benefit of the Company all developments,
+original works of authorship, inventions, concepts, know-how, improvements, trade secrets, and similar proprietary
+rights, whether or not patentable or registrable under copyright or similar laws, which I may solely or jointly conceive
+or develop or reduce to practice, or have solely or jointly conceived or developed or reduced to practice, or have caused
+or may cause to be conceived or developed or reduced to practice, during the Assignment Period, whether or not during
+regular working hours, provided they either (i) relate at the time of conception, development or reduction to practice to
+the business of any member of the Company Group, or the actual or anticipated research or development of any
+member of the Company Group; (ii) result from or relate to any work performed for any member of the Company
+Group; or (iii) are developed through the use of equipment, supplies, or facilities of any member of the Company
+Group, or any Confidential Information, or in consultation with personnel of any member of the Company Group
+(collectively referred to as “Developments”). I further acknowledge that all Developments made by me (solely or jointly
+with others) within the scope of and during the Assignment Period are “works made for hire” (to the greatest extent
+permitted by applicable law) for which I am, in part, compensated by my salary, unless regulated otherwise by law, but
+that, in the event any such Development is deemed not to be a work made for hire, I hereby assign to the Company, or
+its designee, all my right, title, and interest throughout the world in and to any such Development. If any Developments
+cannot be assigned, I hereby grant to each member of the Company Group an exclusive, assignable, irrevocable,
+perpetual, worldwide, sublicenseable (through one or multiple tiers), royalty-free, unlimited license to use, make,
+modify, sell, offer for sale, reproduce, distribute, create derivative works of, publicly perform, publicly display and
+digitally perform and display such work in any media now known or hereafter known. Outside the scope of my service,
+whether during or after my employment with any member of the Company Group, I agree not to (i) modify, adapt, alter,
+translate, or create derivative works from any such work of authorship or (ii) merge any such work of authorship with
+other Developments. To the extent rights related to paternity, integrity, disclosure and withdrawal (collectively, “Moral
+Rights”) may not be assignable under applicable law and to the extent the
+A-3
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: d714d261edc4d361e7d2ebabccaada50_clause_013
+TYPE: legal_clause
+LENGTH: 258
+
+TEXT:
+----------------------------------------
+following is allowed by the laws in the various countries where Moral Rights exist, I hereby irrevocably waive such
+Moral Rights and consent to any action of any member of the Company Group that would violate such Moral Rights in
+the absence of such consent.
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: d714d261edc4d361e7d2ebabccaada50_clause_014
+TYPE: legal_clause
+LENGTH: 729
+
+TEXT:
+----------------------------------------
+(c) Maintenance of Records. I agree to keep and maintain adequate and current written records of all
+Developments made by me (solely or jointly with others) during the Assignment Period. The records may be in the
+form of notes, sketches, drawings, flow charts, electronic data or recordings, and any other format. The records will be
+available to and remain the sole property of any member of the Company Group at all times. I agree not to remove such
+records from the Company’s place of business except as expressly permitted by Company Group policy, which may,
+from time to time, be revised at the sole election of such member of the Company Group for the purpose of furthering
+the business of such member of the Company Group.
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: d714d261edc4d361e7d2ebabccaada50_clause_015
+TYPE: legal_clause
+LENGTH: 2392
+
+TEXT:
+----------------------------------------
+(d) Intellectual Property Rights. I agree to assist the Company, or its designee, at the Company’s expense, in
+every way to secure the rights of each member of the Company Group in the Developments and any copyrights, patents,
+trademarks, service marks, database rights, domain names, mask work rights, moral rights, and other intellectual
+property rights relating thereto in any and all countries, including the disclosure to the Company of all pertinent
+information and data with respect thereto, the execution of all applications, specifications, oaths, assignments,
+recordations, and all other instruments that the Company shall deem necessary in order to apply for, obtain, maintain,
+and transfer such rights and in order to assign and convey to each member of the Company Group the sole and
+exclusive right, title, and interest in and to such Developments, and any intellectual property and other proprietary rights
+relating thereto. I further agree that my obligation to execute or cause to be executed, when it is in my power to do so,
+any such instrument or papers shall continue after the Assignment Period until the expiration of the last such intellectual
+property right to expire in any country of the world; provided, however, the Company shall reimburse me for my
+reasonable expenses incurred in connection with carrying out the foregoing obligation. If the Company is unable
+because of my mental or physical incapacity or unavailability for any other reason to secure my signature to apply for or
+to pursue any application for any United States or foreign patents or copyright registrations covering Developments or
+original works of authorship assigned to the Company as above, then I hereby irrevocably designate and appoint the
+Company and its duly authorized officers and agents as my agent and attorney in fact to act for and in my behalf and
+stead to execute and file any such applications or records and to do all other lawfully permitted acts to further the
+application for, prosecution, issuance, maintenance, and transfer of letters patent or registrations thereon with the same
+legal force and effect as if originally executed by me. I hereby waive and irrevocably quitclaim to the Company any and
+all claims, of any nature whatsoever, that I now or hereafter have for past, present, or future infringement of any and all
+proprietary rights assigned to the Company.
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: d714d261edc4d361e7d2ebabccaada50_clause_016
+TYPE: legal_clause
+LENGTH: 231
+
+TEXT:
+----------------------------------------
+Section 3. Returning Company Group Documents.
+I agree that, at the time of termination of my employment with the Company for any reason, I will deliver to the
+Company (and will not keep in my possession, recreate, or deliver to
+A-4
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: d714d261edc4d361e7d2ebabccaada50_clause_017
+TYPE: legal_clause
+LENGTH: 519
+
+TEXT:
+----------------------------------------
+anyone else) any and all Confidential Information and all other documents, materials, information, and property
+developed by me pursuant to my employment or otherwise belonging to the Company. I agree further that any property
+situated on the Company’s premises and owned by the Company (or any other member of the Company Group),
+including disks and other storage media, filing cabinets, and other work areas, is subject to inspection by personnel of
+any member of the Company Group at any time with or without notice.
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: d714d261edc4d361e7d2ebabccaada50_clause_018
+TYPE: legal_clause
+LENGTH: 314
+
+TEXT:
+----------------------------------------
+Section 4. Disclosure of Agreement.
+As long as it remains in effect, I will disclose the existence of this Non-Interference Agreement to any
+prospective employer, partner, co-venturer, investor, or lender prior to entering into an employment, partnership, or other
+business relationship with such person or entity.
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: d714d261edc4d361e7d2ebabccaada50_clause_019
+TYPE: legal_clause
+LENGTH: 39
+
+TEXT:
+----------------------------------------
+Section 5. Restrictions on Interfering.
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: d714d261edc4d361e7d2ebabccaada50_clause_020
+TYPE: legal_clause
+LENGTH: 877
+
+TEXT:
+----------------------------------------
+(a) Non-Competition. During the Employment Period and the Post-Termination Non-Compete Period, I shall
+not, directly or indirectly, individually or on behalf of any person, company, enterprise, or entity, or as a sole proprietor,
+partner, stockholder, director, officer, principal, agent, or executive, or in any other capacity or relationship, engage in
+any Competitive Activities or own any securities (debt or equity) in any person, company, enterprise, or entity that is
+engaged in Competitive Activities, within the United States or any other jurisdiction in which the Company Group is
+actively engaged in business. Notwithstanding the foregoing, my ownership of securities of a public company engaged
+in Competitive Activities not in excess of three percent (3%) of any class of such securities shall not be considered a
+breach of the covenants set forth in this Section.
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: d714d261edc4d361e7d2ebabccaada50_clause_021
+TYPE: legal_clause
+LENGTH: 243
+
+TEXT:
+----------------------------------------
+(b) Non-Interference. During the Employment Period and the Post-Termination Non-Interference Period, I shall
+not, directly or indirectly for my own account or for the account of any other individual or entity, engage in Interfering
+Activities.
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: d714d261edc4d361e7d2ebabccaada50_clause_022
+TYPE: legal_clause
+LENGTH: 1044
+
+TEXT:
+----------------------------------------
+(c) Definitions. For purposes of this Non-Interference Agreement :
+(i) “Business Relation” shall mean any current or prospective client, customer, licensee, or other
+business relation of any member of the Company Group, or any such relation that was a client, customer, licensee,
+supplier, or other business relation within the six (6) month period prior to the expiration of the Employment Period, in
+each case, to whom I provided services, or with whom I transacted business, or whose identity became known to me in
+connection with my relationship with or employment by the Company Group.
+(ii) “Competitive Activities” shall mean consumer health care related businesses, including the business
+of acting as custodian or administrator for medical payment reimbursement accounts, including, but not limited to, health
+savings accounts, flexible spending accounts and health reimbursement accounts or any business activities in which any
+member of the Company Group is engaged (or has committed plans to engage) during the Employment Period.
+A-5
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: d714d261edc4d361e7d2ebabccaada50_clause_023
+TYPE: legal_clause
+LENGTH: 1598
+
+TEXT:
+----------------------------------------
+(iii) “Interfering Activities” shall mean (A) encouraging, soliciting, or inducing, or in any manner
+attempting to encourage, solicit, or induce, any Person employed by, or providing consulting services to, any member of
+the Company Group to terminate such Person’s employment or services (or in the case of a consultant, materially
+reducing such services) with any member of the Company Group; (B) hiring any individual who was employed by any
+member of the Company Group within the six (6) month period prior to the date of such hiring; or (C) encouraging,
+soliciting, or inducing, or in any manner attempting to encourage, solicit, or induce, any Business Relation to cease
+doing business with or reduce the amount of business conducted with any member of the Company Group, or in any way
+interfering with the relationship between any such Business Relation and any member of the Company Group.
+(iv) “Person” shall mean any individual, corporation, partnership, limited liability company, joint
+venture, association, joint‑stock company, trust (charitable or non-charitable), unincorporated organization, or other form
+of business entity.
+(v) “Post-Termination Non-Compete Period” shall mean the period commencing on the date of the
+termination of the Employment Period for any reason and ending on the twelve (12) month anniversary of such date of
+termination.
+(vi) “Post-Termination Non-Interference Period” shall mean the period commencing on the date of the
+termination of the Employment Period for any reason and ending on the twenty-four (24) month anniversary of such date
+of termination.
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: d714d261edc4d361e7d2ebabccaada50_clause_024
+TYPE: legal_clause
+LENGTH: 670
+
+TEXT:
+----------------------------------------
+(d) Non-Disparagement. I agree that during the Employment Period, and at all times thereafter, I will not make
+any disparaging or defamatory comments regarding any member of the Company Group or its respective current or
+former directors, officers, employees or shareholders in any respect or make any comments concerning any aspect of
+my relationship with any member of the Company Group or any conduct or events which precipitated any termination
+of my employment from any member of the Company Group. However, my obligations under this subparagraph (d)
+shall not apply to disclosures required by applicable law, regulation, or order of a court or governmental agency.
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: d714d261edc4d361e7d2ebabccaada50_clause_025
+TYPE: legal_clause
+LENGTH: 1079
+
+TEXT:
+----------------------------------------
+Section 6. Reasonableness of Restrictions.
+I acknowledge and recognize the highly competitive nature of the Company’s business, that access to
+Confidential Information renders me special and unique within the Company’s industry, and that I will have the
+opportunity to develop substantial relationships with existing and prospective clients, accounts, customers, consultants,
+contractors, investors, and strategic partners of any member of the Company Group during the course of and as a result
+of my employment with the Company. In light of the foregoing, I recognize and acknowledge that the restrictions and
+limitations set forth in this Non-Interference Agreement are reasonable and valid in geographical and temporal scope and
+in all other respects and are essential to protect the value of the business and assets of any member of the Company
+Group. I acknowledge further that the restrictions and limitations set forth in this Non-Interference Agreement will not
+materially interfere with my ability to earn a living following the termination of my employment with the
+A-6
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: d714d261edc4d361e7d2ebabccaada50_clause_026
+TYPE: legal_clause
+LENGTH: 143
+
+TEXT:
+----------------------------------------
+Company and that my ability to earn a livelihood without violating such restrictions is a material condition to my
+employment with the Company.
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: d714d261edc4d361e7d2ebabccaada50_clause_027
+TYPE: legal_clause
+LENGTH: 1039
+
+TEXT:
+----------------------------------------
+Section 7. Independence; Severability; Blue Pencil.
+Each of the rights enumerated in this Non-Interference Agreement shall be independent of the others and shall be
+in addition to and not in lieu of any other rights and remedies available to any member of the Company Group at law or
+in equity. If any of the provisions of this Non-Interference Agreement or any part of any of them is hereafter construed or
+adjudicated to be invalid or unenforceable, the same shall not affect the remainder of this Non-Interference Agreement,
+which shall be given full effect without regard to the invalid portions. If any of the covenants contained herein are held
+to be invalid or unenforceable because of the duration of such provisions or the area or scope covered thereby, I agree
+that the court making such determination shall have the power to reduce the duration, scope, and/or area of such
+provision to the maximum and/or broadest duration, scope, and/or area permissible by law, and in its reduced form said
+provision shall then be enforceable.
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: d714d261edc4d361e7d2ebabccaada50_clause_028
+TYPE: legal_clause
+LENGTH: 1246
+
+TEXT:
+----------------------------------------
+Section 8. Injunctive Relief.
+I expressly acknowledge that any breach or threatened breach of any of the terms and/or conditions set forth in
+this Non-Interference Agreement may result in substantial, continuing, and irreparable injury to the members of the
+Company Group. Therefore, I hereby agree that, in addition to any other remedy that may be available to the Company,
+any member of the Company Group shall be entitled to injunctive relief, specific performance, or other equitable relief
+by a court of appropriate jurisdiction in the event of any breach or threatened breach of the terms of this Non-
+Interference Agreement without the necessity of proving irreparable harm or injury as a result of such breach or
+threatened breach. Notwithstanding any other provision to the contrary, I acknowledge and agree that the Post-
+Termination Non-Compete Period, or Post-Termination Non-Interference Period, as applicable, shall be tolled during any
+period of violation of any of the covenants in Section 5 hereof and during any other period required for litigation during
+which the Company or any other member of the Company Group seeks to enforce such covenants against me if it is
+ultimately determined that I was in breach of such covenants.
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: d714d261edc4d361e7d2ebabccaada50_clause_029
+TYPE: legal_clause
+LENGTH: 1043
+
+TEXT:
+----------------------------------------
+Section 9. Cooperation.
+I agree that, following any termination of my employment, I will continue to provide reasonable cooperation to
+the Company and/or any other member of the Company Group and its or their respective counsel in connection with any
+investigation, administrative proceeding, or litigation relating to any matter that occurred during my employment in
+which I was involved or of which I have knowledge. As a condition of such cooperation, the Company shall reimburse
+me for reasonable out-of-pocket expenses incurred at the request of the Company with respect to my compliance with
+this paragraph. I also agree that, in the event that I am subpoenaed by any person or entity (including, but not limited to,
+any government agency) to give testimony or provide documents (in a deposition, court proceeding, or otherwise) that in
+any way relates to my employment by the Company and/or any other member of the Company Group, I will give prompt
+notice of such request to the Company and will make no disclosure until the Company
+A-7
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: d714d261edc4d361e7d2ebabccaada50_clause_030
+TYPE: legal_clause
+LENGTH: 153
+
+TEXT:
+----------------------------------------
+and/or the other member of the Company Group has had a reasonable opportunity to contest the right of the requesting
+person or entity to such disclosure.
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: d714d261edc4d361e7d2ebabccaada50_clause_031
+TYPE: legal_clause
+LENGTH: 31
+
+TEXT:
+----------------------------------------
+Section 10. General Provisions.
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: d714d261edc4d361e7d2ebabccaada50_clause_032
+TYPE: legal_clause
+LENGTH: 85
+
+TEXT:
+----------------------------------------
+(a) Governing Law, Venue and Jurisdiction. EXCEPT WHERE PREEMPTED BY FEDERAL LAW, THE
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: d714d261edc4d361e7d2ebabccaada50_clause_033
+TYPE: legal_clause
+LENGTH: 326
+
+TEXT:
+----------------------------------------
+VALIDITY, INTERPRETATION, CONSTRUCTION, AND PERFORMANCE OF THIS NON-INTERFERENCE
+AGREEMENT IS GOVERNED BY AND IS TO BE CONSTRUED UNDER THE LAWS OF THE STATE OF
+DELAWARE APPLICABLE TO AGREEMENTS MADE AND TO BE PERFORMED IN THAT STATE, WITHOUT
+REGARD TO CONFLICT OF LAWS RULES. ANY DISPUTE OR CLAIM ARISING OUT OF OR RELATING TO
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: d714d261edc4d361e7d2ebabccaada50_clause_034
+TYPE: legal_clause
+LENGTH: 340
+
+TEXT:
+----------------------------------------
+THIS RELEASE OR CLAIM OF BREACH HEREOF SHALL BE BROUGHT EXCLUSIVELY IN THE UNITED
+STATES DISTRICT COURT FOR THE DISTRICT OF DELAWARE, TO THE EXTENT FEDERAL JURISDICTION
+EXISTS, AND IN ANY COURT SITTING IN SALT LAKE CITY, UTAH, BUT ONLY IN THE EVENT FEDERAL
+JURISDICTION DOES NOT EXIST, AND ANY APPLICABLE APPELLATE COURTS. FURTHER, I HEREBY
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: d714d261edc4d361e7d2ebabccaada50_clause_035
+TYPE: legal_clause
+LENGTH: 144
+
+TEXT:
+----------------------------------------
+WAIVE ANY RIGHT TO TRIAL BY JURY IN CONNECTION WITH ANY SUIT, ACTION, OR PROCEEDING
+UNDER OR IN CONNECTION WITH THIS NON-INTERFERENCE AGREEMENT.
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: d714d261edc4d361e7d2ebabccaada50_clause_036
+TYPE: legal_clause
+LENGTH: 576
+
+TEXT:
+----------------------------------------
+(b) Entire Agreement. This Non-Interference Agreement sets forth the entire agreement and understanding
+between the Company and me relating to the subject matter herein and merges all prior discussions between us. No
+modification or amendment to this Non-Interference Agreement, nor any waiver of any rights under this Non-
+Interference Agreement, will be effective unless in writing signed by the party to be charged. Any subsequent change or
+changes in my duties, obligations, rights, or compensation will not affect the validity or scope of this Non-Interference
+Agreement.
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: d714d261edc4d361e7d2ebabccaada50_clause_037
+TYPE: legal_clause
+LENGTH: 325
+
+TEXT:
+----------------------------------------
+(c) No Right of Continued Employment. I acknowledge and agree that nothing contained herein shall be
+construed as granting me any right to continued employment by the Company, and the right of the Company to
+terminate my employment at any time and for no reason or any reason, with or without cause, is specifically reserved.
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: d714d261edc4d361e7d2ebabccaada50_clause_038
+TYPE: legal_clause
+LENGTH: 753
+
+TEXT:
+----------------------------------------
+(d) Successors and Assigns. This Non-Interference Agreement will be binding upon my heirs, executors,
+administrators, and other legal representatives and will be for the benefit of the Company, its successors, and its assigns.
+I expressly acknowledge and agree that this Non-Interference Agreement may be assigned by the Company without my
+consent to any other member of the Company Group as well as any purchaser of all or substantially all of the assets or
+stock of the Company or of any business or division of the Company for which I provide services, whether by purchase,
+merger, or other similar corporate transaction, provided that the license granted pursuant to Section 2(a) may be
+assigned to any third party by the Company without my consent.
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: d714d261edc4d361e7d2ebabccaada50_clause_039
+TYPE: legal_clause
+LENGTH: 251
+
+TEXT:
+----------------------------------------
+(e) Survival. The provisions of this Non-Interference Agreement shall survive the termination of my
+employment with the Company and/or the assignment of this Non-Interference Agreement by the Company to any
+successor in interest or other assignee.
+A-8
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: d714d261edc4d361e7d2ebabccaada50_clause_040
+TYPE: legal_clause
+LENGTH: 54
+
+TEXT:
+----------------------------------------
+* * *
+[Signature to appear on the following page.]
+A-9
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: d714d261edc4d361e7d2ebabccaada50_clause_041
+TYPE: legal_clause
+LENGTH: 147
+
+TEXT:
+----------------------------------------
+I, Edward R. Bloomberg, have executed this Confidentiality, Non-Interference, and Invention Assignment
+Agreement on the date set forth below:
+Date:
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: d714d261edc4d361e7d2ebabccaada50_clause_042
+TYPE: legal_clause
+LENGTH: 96
+
+TEXT:
+----------------------------------------
+(Signature)
+(Type/Print Name)
+[Signature Page to Edward R. Bloomberg Non-Interference Agreement]
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+

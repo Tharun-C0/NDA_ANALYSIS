@@ -1,0 +1,15 @@
+category,clause_support,document_count,pct_represented_documents,documents,only_1_doc,le_2_docs,le_3_docs
+Liability for Damages,4,2,18.18,"['0859334b', '5180f107']",No,Yes,Yes
+Competition Rights,3,3,27.27,"['0859334b', '0b59dfc4', '5180f107']",No,No,Yes
+Intellectual Property,4,3,27.27,"['0859334b', '0b59dfc4', '5180f107']",No,No,Yes
+Governing Law and Jurisdiction,6,3,27.27,"['0859334b', '293f5937', '5180f107']",No,No,Yes
+Term and Termination,5,4,36.36,"['0859334b', '4fd432d8', '5180f107', '53c8f90c']",No,No,No
+NDA Type,6,5,45.45,"['0859334b', '0a42e159', '0b59dfc4', '3504e06a', '53c8f90c']",No,No,No
+Employees,7,5,45.45,"['0b59dfc4', '293f5937', '4fd432d8', '5180f107', '53c8f90c']",No,No,No
+Definition of Confidential Information,7,6,54.55,"['0859334b', '0b59dfc4', '3504e06a', '4fd432d8', '5180f107', '53c8f90c']",No,No,No
+Non-Confidential Information,10,6,54.55,"['0859334b', '0b59dfc4', '3504e06a', '4fd432d8', '5180f107', '53c8f90c']",No,No,No
+Purpose,12,7,63.64,"['0859334b', '0b59dfc4', '266929af', '3504e06a', '4fd432d8', '5180f107', '53c8f90c']",No,No,No
+Authorized Disclosure,21,7,63.64,"['0859334b', '0b59dfc4', '293f5937', '3504e06a', '4fd432d8', '5180f107', '53c8f90c']",No,No,No
+Confidentiality Obligations,22,7,63.64,"['0859334b', '0b59dfc4', '293f5937', '3504e06a', '4fd432d8', '5180f107', '53c8f90c']",No,No,No
+Party Identification,24,7,63.64,"['0859334b', '0a42e159', '293f5937', '3504e06a', '4fd432d8', '5180f107', '53c8f90c']",No,No,No
+Additional Information,164,9,81.82,"['0859334b', '0a42e159', '0b59dfc4', '2268c5d1', '247166e0', '266929af', '293f5937', '5180f107', '53c8f90c']",No,No,No

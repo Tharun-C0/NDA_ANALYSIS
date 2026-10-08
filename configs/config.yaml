@@ -1,0 +1,79 @@
+# =============================================================================
+# NDA Research Project - Configuration
+# =============================================================================
+# Paper: "A Two-Stage Architecture for NDA Analysis:
+#         LLM-based Segmentation and Transformer-based Clause Classification"
+#
+# This configuration file centralizes all experiment parameters to ensure
+# reproducibility across runs. Change values here rather than in code.
+# =============================================================================
+
+# --- Reproducibility ---
+random_seed: 42
+
+# --- Dataset Paths ---
+dataset:
+  raw_dir: "data/raw"
+  processed_dir: "data/processed"
+  splits_dir: "data/splits"
+  external_dir: "external_data/kleister-nda"
+  documents_dir: "external_data/kleister-nda/documents"
+
+# --- Module 2: Sampling ---
+# Controls how many documents are selected for processing.
+# Set sample_size to null or -1 to process ALL documents.
+sampling:
+  sample_size: 20
+  random_seed: 42
+
+# --- Module 2: PDF Text Extraction ---
+extraction:
+  output_dir: "data/processed/text"
+  # Minimum character count to consider extraction successful
+  min_characters: 50
+  # File encoding for saved text files
+  output_encoding: "utf-8"
+
+# --- Module 2: Clause Segmentation ---
+segmentation:
+  # Strategy: "baseline" (rule-based), or future: "llm"
+  strategy: "baseline"
+  output_dir: "data/segmentation"
+  # Minimum characters for a text segment to be considered a clause
+  min_clause_length: 30
+  # Maximum characters for a single clause (split if longer)
+  max_clause_length: 5000
+
+# --- Clause Parsing (Module 1 format) ---
+parsing:
+  clause_start_tag: "[INIT_CLAUSE]"
+  clause_end_tag: "[END_CLAUSE]"
+  class_start_tag: "[INIT_CLASSE]"
+  class_end_tag: "[END_CLASSE]"
+
+# --- Preprocessing ---
+preprocessing:
+  max_text_length: 512
+  normalize_unicode: true
+  strip_whitespace: true
+  file_encoding: "utf-8"
+
+# --- Dataset Splitting ---
+splitting:
+  train_ratio: 0.7
+  val_ratio: 0.15
+  test_ratio: 0.15
+
+# --- Output ---
+output:
+  reports_dir: "reports"
+  figures_dir: "reports/figures"
+  models_dir: "models"
+  experiments_dir: "experiments"
+  save_format: "json"
+
+# --- Logging ---
+logging:
+  level: "INFO"
+  log_to_file: true
+  log_dir: "reports/logs"

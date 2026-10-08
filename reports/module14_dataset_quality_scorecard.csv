@@ -1,0 +1,11 @@
+dimension,evaluation_status,empirical_finding,target_standard,remediation_action
+document_diversity,WARN,11 documents represented,>= 15 documents,Resume queue processing on 9 unseen Tier 1 documents
+category_coverage,PASS,All 14 categories present dataset-wide,14 categories present,None required
+category_document_redundancy,BLOCKED,Liability for Damages present in only 2 docs,Every category in >= 3 docs,Execute Stage 1 targeted labeling on unseen queue docs
+label_validity,PASS,100% of labels strictly match approved 14 categories,0 unapproved categories,None required
+duplicate_safety,PASS,0 duplicate clause IDs across dataset,0 duplicate clause IDs,None required
+text_completeness,PASS,0 null or empty clause texts,0 null texts,None required
+metadata_completeness,PASS,100% rows contain label_source confidence agreement,100% metadata preservation,None required
+provenance_integrity,PASS,100% rows labeled as llm_pseudo_label with 3-model info,Explicit provenance,None required
+leakage_safety,PASS,0 document overlap across Train Val Test splits,0 document overlap,None required
+human_verification_availability,WARN,Sample created (30 clauses) but human audit pending,Test set human verified,Execute human verification on test split prior to paper release

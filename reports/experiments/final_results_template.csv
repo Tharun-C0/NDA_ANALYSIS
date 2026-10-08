@@ -1,0 +1,11 @@
+experiment_id,timestamp,model_identifier,loss_function,label_mode,status,train_clauses,val_clauses,test_clauses,macro_f1,weighted_f1,micro_f1,macro_precision,macro_recall,hamming_loss,macro_mcc,best_val_macro_f1,execution_time_sec,disclaimer
+EXP-01,,saibo/legal-roberta-base,bce,all_valid,TEMPLATE,,,,,,,,,,,,Training labels are LLM-generated pseudo-labels and have not yet been fully human-verified.
+EXP-02,,saibo/legal-roberta-base,focal,all_valid,TEMPLATE,,,,,,,,,,,,Training labels are LLM-generated pseudo-labels and have not yet been fully human-verified.
+EXP-03,,saibo/legal-roberta-base,class_weighted_bce,all_valid,TEMPLATE,,,,,,,,,,,,Training labels are LLM-generated pseudo-labels and have not yet been fully human-verified.
+EXP-04,,nlpaueb/legal-bert-base-uncased,bce,all_valid,TEMPLATE,,,,,,,,,,,,Training labels are LLM-generated pseudo-labels and have not yet been fully human-verified.
+EXP-05,,nlpaueb/legal-bert-base-uncased,focal,all_valid,TEMPLATE,,,,,,,,,,,,Training labels are LLM-generated pseudo-labels and have not yet been fully human-verified.
+EXP-06,,nlpaueb/legal-bert-base-uncased,class_weighted_bce,all_valid,TEMPLATE,,,,,,,,,,,,Training labels are LLM-generated pseudo-labels and have not yet been fully human-verified.
+EXP-07,,microsoft/deberta-v3-base,bce,all_valid,TEMPLATE,,,,,,,,,,,,Training labels are LLM-generated pseudo-labels and have not yet been fully human-verified.
+EXP-08,,microsoft/deberta-v3-base,focal,all_valid,TEMPLATE,,,,,,,,,,,,Training labels are LLM-generated pseudo-labels and have not yet been fully human-verified.
+EXP-09,,microsoft/deberta-v3-base,class_weighted_bce,all_valid,TEMPLATE,,,,,,,,,,,,Training labels are LLM-generated pseudo-labels and have not yet been fully human-verified.
+EXP-10,,saibo/legal-roberta-base,bce,high_confidence,TEMPLATE,,,,,,,,,,,,Training labels are LLM-generated pseudo-labels and have not yet been fully human-verified.

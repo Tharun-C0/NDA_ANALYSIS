@@ -1,0 +1,5 @@
+split,document_count,clause_count,percentage_of_total_clauses,document_overlap_count
+Train,12,344,47.98,0
+Validation,4,137,19.11,0
+Test,4,236,32.91,0
+Total,20,717,100.0,0

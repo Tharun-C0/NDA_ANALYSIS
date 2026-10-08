@@ -1,0 +1,15 @@
+category,total_valid_clauses,train_clauses,val_clauses,test_clauses,covered_in_all_splits
+Party Identification,122,66,27,29,Yes
+Purpose,29,17,5,7,Yes
+NDA Type,15,10,4,1,Yes
+Definition of Confidential Information,50,25,4,21,Yes
+Confidentiality Obligations,77,47,12,18,Yes
+Authorized Disclosure,40,23,3,14,Yes
+Non-Confidential Information,30,20,3,7,Yes
+Liability for Damages,39,16,7,16,Yes
+Competition Rights,45,11,12,22,Yes
+Term and Termination,61,17,15,29,Yes
+Intellectual Property,38,21,3,14,Yes
+Employees,53,21,8,24,Yes
+Governing Law and Jurisdiction,28,14,7,7,Yes
+Additional Information,321,144,67,110,Yes

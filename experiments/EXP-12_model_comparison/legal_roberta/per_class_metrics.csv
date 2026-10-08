@@ -1,0 +1,15 @@
+category,label_col,precision,recall,f1_score,mcc,support,tp,fp,fn,tn
+Party Identification,label_party_identification,0.3134,0.7241,0.4375,0.3655,29,21,46,8,161
+Purpose,label_purpose,0.1429,0.2857,0.1905,0.1676,7,2,12,5,217
+NDA Type,label_nda_type,0.0,0.0,0.0,0.0,1,0,0,1,235
+Definition of Confidential Information,label_definition_of_confidential_information,0.6,0.2857,0.3871,0.3775,21,6,4,15,211
+Confidentiality Obligations,label_confidentiality_obligations,0.4167,0.5556,0.4762,0.4315,18,10,14,8,204
+Authorized Disclosure,label_authorized_disclosure,0.5556,0.7143,0.625,0.6036,14,10,8,4,214
+Non-Confidential Information,label_non-confidential_information,0.0,0.0,0.0,-0.0198,7,0,3,7,226
+Liability for Damages,label_liability_for_damages,0.5789,0.6875,0.6286,0.6016,16,11,8,5,212
+Competition Rights,label_competition_rights,0.4839,0.6818,0.566,0.5225,22,15,16,7,198
+Term and Termination,label_term_and_termination,0.4583,0.7586,0.5714,0.5163,29,22,26,7,181
+Intellectual Property,label_intellectual_property,0.6667,0.7143,0.6897,0.6698,14,10,5,4,217
+Employees,label_employees,0.4048,0.7083,0.5152,0.4666,24,17,25,7,187
+Governing Law and Jurisdiction,label_governing_law_and_jurisdiction,0.4,0.8571,0.5455,0.5687,7,6,9,1,220
+Additional Information,label_additional_information,0.5306,0.7091,0.607,0.1662,110,78,69,32,57

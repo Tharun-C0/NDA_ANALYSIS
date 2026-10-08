@@ -1,0 +1,10 @@
+experiment_id,model,loss_function,best_epoch,val_macro_f1,macro_f1,minority_macro_f1,mcc,weighted_f1,micro_f1,hamming_loss,status,checkpoint_dir,rank
+EXP-03,saibo/legal-roberta-base,class_weighted_bce,3,0.3875,0.3675,0.2806,0.3455,0.4852,0.4416,0.1967,COMPLETED,data/classification/module18_results/checkpoints/EXP-03,1
+EXP-06,nlpaueb/legal-bert-base-uncased,class_weighted_bce,3,0.3264,0.3047,0.2288,0.2758,0.451,0.3636,0.2648,COMPLETED,data/classification/module18_results/checkpoints/EXP-06,2
+EXP-09,microsoft/deberta-v3-base,class_weighted_bce,4,0.3037,0.2739,0.1866,0.2345,0.4378,0.3406,0.3012,COMPLETED,data/classification/module18_results/checkpoints/EXP-09,3
+EXP-01,saibo/legal-roberta-base,bce,3,0.0499,0.0492,0.0,0.0345,0.2072,0.2959,0.0893,COMPLETED,data/classification/module18_results/checkpoints/EXP-01,4
+EXP-07,microsoft/deberta-v3-base,bce,5,0.0451,0.0415,0.0,0.0213,0.2006,0.2815,0.0881,COMPLETED,data/classification/module18_results/checkpoints/EXP-07,5
+EXP-04,nlpaueb/legal-bert-base-uncased,bce,3,0.0446,0.0385,0.0,0.0261,0.1858,0.2394,0.0866,COMPLETED,data/classification/module18_results/checkpoints/EXP-04,6
+EXP-02,saibo/legal-roberta-base,focal,3,0.0392,0.033,0.0,0.0223,0.1592,0.1973,0.0887,COMPLETED,data/classification/module18_results/checkpoints/EXP-02,7
+EXP-05,nlpaueb/legal-bert-base-uncased,focal,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0965,COMPLETED,data/classification/module18_results/checkpoints/EXP-05,8
+EXP-08,microsoft/deberta-v3-base,focal,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0965,COMPLETED,data/classification/module18_results/checkpoints/EXP-08,9

@@ -1,0 +1,16 @@
+check,severity,status,count,clause_ids,detail
+required_columns_queue,ERROR,PASS,0,[],All required columns present in queue
+duplicate_clause_ids,ERROR,PASS,0,[],Repeated clause IDs
+missing_document_ids,ERROR,PASS,0,[],Empty document_id
+empty_clause_text,ERROR,PASS,0,[],Empty or whitespace-only clause_text
+invalid_category_labels_json,ERROR,PASS,0,[],category_labels must be a JSON array of strings
+unknown_category_names,ERROR,PASS,0,[],One or more labels not in the 14-category taxonomy
+duplicate_labels_in_array,ERROR,PASS,0,[],Duplicate category names within one clause's array
+annotated_but_empty_labels,WARN,PASS,0,[],ANNOTATED status but no category labels
+invalid_annotation_status,ERROR,PASS,0,[],"Valid values: ['ANNOTATED', 'DISPUTED', 'PENDING', 'SKIPPED']"
+invalid_verified_format,ERROR,PASS,0,[],"verified must be true/false, got other values (col=label_verified)"
+verified_missing_provenance,BLOCKED,PASS,0,[],verified=true but reviewer or label_source is empty
+invalid_label_source,BLOCKED,PASS,0,[],Clauses with labels but label_source != 'human_annotation'
+annotated_missing_reviewer,WARN,PASS,0,[],ANNOTATED clauses without a reviewer name
+pseudolabel_source_detected,BLOCKED,PASS,0,[],label_source indicates automated/LLM labelling — not ground truth
+db_empty,PASS,PASS,0,[],annotations.csv is empty — no DB checks needed.

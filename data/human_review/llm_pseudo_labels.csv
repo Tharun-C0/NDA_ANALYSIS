@@ -1,0 +1,36 @@
+document_id,clause_id,clause_text,segment_type,length,human_is_valid_clause,human_corrected_text,human_action,human_notes,reviewer,reviewed,ai_suggested_action,ai_confidence,ai_reason,review_method,review_timestamp,previous_text,next_text,ai_confidence_level,needs_context
+0859334b76224ff82c1312ae7b2b5da1,0859334b76224ff82c1312ae7b2b5da1_clause_000,EX-99.15 2 exhibit-ndaexecutionversion.htm,header,42,,,,,,False,REMOVE_NON_LEGAL,1.0,"The segment is an SEC exhibit identifier and filename, which constitutes non-legal document metadata.",llm_auto_pseudolabel,,N/A,N/A,HIGH_CONFIDENCE,False
+0859334b76224ff82c1312ae7b2b5da1,0859334b76224ff82c1312ae7b2b5da1_clause_002,NON-DISCLOSURE AND CONFIDENTIALITY AGREEMENT,section_heading,44,,,,,,False,REMOVE_NON_LEGAL,0.95,"The segment is an isolated document title, which is categorized as non-legal boilerplate/metadata.",llm_auto_pseudolabel,2026-09-30T08:31:42.102344,EXECUTION VERSION,"THIS NON-DISCLOSURE AND CONFIDENTIALITY AGREEMENT (this “Agreement”) is made effective as of
+February 18, 2013, by and between Central European Distribution Corporation, a Delaware corporation (“CEDC”) and
+W&L Enterprises Ltd. (the “Recipient”).",HIGH_CONFIDENCE,False
+0859334b76224ff82c1312ae7b2b5da1,0859334b76224ff82c1312ae7b2b5da1_clause_042,"CENTRAL EUROPEAN DISTRIBUTION
+CORPORATION",section_heading,41,,,,,,False,REMOVE_NON_LEGAL,0.9,"The segment consists solely of a company name appearing alone, which constitutes non-legal structural text or a signature header.",llm_auto_pseudolabel,2026-09-30T08:31:47.536632,"IN WITNESS WHEREOF, this Agreement is executed by the undersigned parties. The parties hereto further certify that
+the persons signing this Agreement are duly authorized to do so.",By: /s/ Grant Winterton,HIGH_CONFIDENCE,False
+0a42e159b33ed521c4157d8babfaf3c1,0a42e159b33ed521c4157d8babfaf3c1_clause_000,"EX-10.3 5 a10-14025_1ex10d3.htm EX-10.3
+Exhibit 10.3",header,52,,,,,,False,REMOVE_NON_LEGAL,0.98,"The segment contains SEC exhibit filing identifiers and document header metadata, which are non-legal header artifacts.",llm_auto_pseudolabel,2026-09-30T08:31:51.831967,N/A,MUTUAL CONFIDENTIALITY AGREEMENT,HIGH_CONFIDENCE,False
+0a42e159b33ed521c4157d8babfaf3c1,0a42e159b33ed521c4157d8babfaf3c1_clause_001,MUTUAL CONFIDENTIALITY AGREEMENT,section_heading,32,,,,,,False,REMOVE_NON_LEGAL,0.9,The current segment consists solely of an isolated document title ('MUTUAL CONFIDENTIALITY AGREEMENT') without substantive legal obligations or operative contractual text.,llm_auto_pseudolabel,2026-09-30T08:33:03.412743,"EX-10.3 5 a10-14025_1ex10d3.htm EX-10.3
+Exhibit 10.3","This Mutual Confidentiality Agreement (this “Agreement”), dated as of July 16, 2010, is entered into by and among Financière Elitech
+SAS, a société par actions simplifiée organized under the laws of France (“Elitech”), Wescor, Inc., a Utah corporation (“Wescor”), Elitech UK
+Limited, a private limited company organized under the laws of the United Kingdom (“Elitech UK” and, collectively with Elitech and Wescor,
+the “Elitech Group”), Corgenix Medical Corporation, a Nevada corporation (“Corgenix”), and Corgenix U.K. Ltd., a private limited company
+organized under the laws of the United Kingdom (“Corgenix U.K.” and, collectively with Corgenix, the “Corgenix Group”).",HIGH_CONFIDENCE,False
+0a42e159b33ed521c4157d8babfaf3c1,0a42e159b33ed521c4157d8babfaf3c1_clause_042,"WESCOR, INC.",fragment,12,,,,,,False,REMOVE_NON_LEGAL,0.95,The segment consists solely of a standalone company name.,llm_auto_pseudolabel,2026-09-30T08:34:10.069468,CORGENIX U.K. LTD.,"By:
+Douglass T. Simpson",HIGH_CONFIDENCE,False
+0b59dfc4ce9b40b0c39759dc1ade14bc,0b59dfc4ce9b40b0c39759dc1ade14bc_clause_000,"EX-99.(E)(13) 10 a2082556zex-99_e13.htm EXHIBIT 99(E)(13)
+QuickLinks -- Click here to rapidly navigate through this document
+Exhibit (e)(13)",header,140,,,,,,False,REMOVE_NON_LEGAL,0.98,"The segment contains SEC exhibit identifiers, file names, exhibit numbers, and navigation text, which are non-legal document metadata.",llm_auto_pseudolabel,2026-09-30T08:35:06.126209,N/A,"MUTUAL NON-DISCLOSURE AND NON-SOLICITATION AGREEMENT
+ This Mutual Non-Disclosure and Non-Solicitation Agreement (this ""Agreement""), is made as of September 17, 2001 between EarthLink, Inc. a
+Delaware corporation (""EarthLink""), and PeoplePC, Inc., a Delaware corporation (""PeoplePC""). EarthLink and PeoplePC are sometimes referred to
+herein individually as a ""Party"" and collectively as the ""Parties.""",HIGH_CONFIDENCE,False
+0b59dfc4ce9b40b0c39759dc1ade14bc,0b59dfc4ce9b40b0c39759dc1ade14bc_clause_032,MUTUAL NON-DISCLOSURE AND NON-SOLICITATION AGREEMENT,section_heading,52,,,,,,False,REMOVE_NON_LEGAL,0.95,"The text is an isolated document title, which falls under non-legal boilerplate/structural titles.",llm_auto_pseudolabel,2026-09-30T08:35:10.968912,"Title:
+
+SVP and General Counsel
+6
+QuickLinks",N/A,HIGH_CONFIDENCE,False
+2268c5d1120f1abd57170d689f496418,2268c5d1120f1abd57170d689f496418_clause_000,Exhibit A,header,9,,,,,,False,REMOVE_NON_LEGAL,0.95,The text 'Exhibit A' is an isolated document header/exhibit identifier devoid of substantive legal obligations.,llm_auto_pseudolabel,2026-09-30T08:35:14.594693,N/A,NON-DISCLOSURE AGREEMENT,HIGH_CONFIDENCE,False
+2268c5d1120f1abd57170d689f496418,2268c5d1120f1abd57170d689f496418_clause_001,NON-DISCLOSURE AGREEMENT,section_heading,24,,,,,,False,REMOVE_NON_LEGAL,0.95,"The current segment is an isolated document title, which falls under the REMOVE_NON_LEGAL category.",llm_auto_pseudolabel,2026-09-30T08:35:20.812603,Exhibit A,"THIS NON-DISCLOSURE AGREEMENT (this ""Agreement""), is made and entered into as of the date on which it is fully
+executed, as indicated by signatures below, by and among First Financial Northwest, Inc. (the ""Company""), the Stilwell Group (composed of
+Stilwell Associates, L.P., Stilwell Partners, L.P., Stilwell Value Partners II, L.P., Stilwell Value Partners V, L.P., Stilwell Value Partners VI, L.P.,
+Stilwell Value Partners VII, L.P., Stilwell Value LLC, Stilwell Associates Insurance Fund of The S.A.L.I. Multi-Series Fund L.P., Stilwell Advisers
+LLC, and Joseph Stilwell, an individual, and their employees and representatives), and Spencer L. Schneider, a director nominee of the Stilwell
+Group (""Schneider"").",HIGH_CONFIDENCE,False

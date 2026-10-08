@@ -1,0 +1,2 @@
+total_segments,high_confidence,medium_confidence,low_confidence,ai_review,merge_cases,split_cases,random_audit_cases,human_review_required,api_failures,already_completed_before_run,newly_processed,successful,successful_this_run,remaining,keep,remove_non_legal,merge_with_next,merge_with_previous,api_failures_this_run,connectivity_failures_this_run,total_processing_time_seconds,run_status,timestamp,percentage_requiring_human_review
+215,17,1,0,0,4,0,4,9,1,1,18,18,17,197,0,14,4,0,1,0,264.54,PAUSED_DAILY_QUOTA,2026-09-30T08:35:21.755268,4.19

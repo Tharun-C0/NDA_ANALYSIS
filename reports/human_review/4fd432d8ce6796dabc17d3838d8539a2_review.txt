@@ -1,0 +1,647 @@
+========================================
+DOCUMENT: 4fd432d8ce6796dabc17d3838d8539a2
+========================================
+
+CLAUSE: 4fd432d8ce6796dabc17d3838d8539a2_clause_000
+TYPE: legal_clause
+LENGTH: 1052
+
+TEXT:
+----------------------------------------
+EX-99.(D)(3) 10 dex99d3.htm CONFIDENTIALITY AND STANDSTILL AGREEMENT
+Exhibit (d)(3)
+March 16, 2010
+Somanetics Corporation
+1653 East Maple Road
+Troy, MI 48083
+Ladies and Gentlemen:
+In connection with our possible interest in a transaction involving the acquisition of Somanetics Corporation (the “Company”), you are furnishing us
+or our representatives with certain information which is either non-public, confidential or proprietary in nature. All information furnished to us or
+our representatives by the Company or any of its employees, representatives, agents or advisors (including attorneys, accountants and financial
+advisors), shall be considered confidential and proprietary, and together with analyses, compilations, forecasts, studies or other documents prepared
+by us, our agents, advisors (including attorneys, accountants and financial advisors), representatives or employees which contain such information, is
+hereinafter referred to as the “Information”. In consideration of the Company furnishing us with the Information, we agree that:
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: 4fd432d8ce6796dabc17d3838d8539a2_clause_001
+TYPE: legal_clause
+LENGTH: 899
+
+TEXT:
+----------------------------------------
+1. The Information will be kept confidential and shall not, without the prior written consent of the Company, be disclosed by us, or by our affiliates,
+agents, representatives, advisors or employees, in any manner whatsoever, in whole or in part, and shall not be used by us, our affiliates, agents,
+representatives, advisors or employees, other than to determine whether we wish to enter into, or other than in connection with, the transaction
+described above. Moreover, we agree to reveal the Information only to our affiliates, agents, representatives, advisors and employees who need to
+know the Information for the purpose of evaluating, or otherwise in connection with, the transaction described above who are informed of the
+confidential nature of the Information. We agree to be responsible for any breach of this Agreement by our affiliates, agents, representatives,
+advisors and employees.
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: 4fd432d8ce6796dabc17d3838d8539a2_clause_002
+TYPE: legal_clause
+LENGTH: 455
+
+TEXT:
+----------------------------------------
+2. Without the prior written consent of the other party, neither party nor its representatives shall disclose to any person either the fact that discussions
+or negotiations are taking place concerning the possible transaction referred to herein or any of the terms, conditions or other facts with respect to
+any such possible transaction including the status thereof, except as required by applicable law or exchange listing agreements, rules or policies.
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: 4fd432d8ce6796dabc17d3838d8539a2_clause_003
+TYPE: legal_clause
+LENGTH: 591
+
+TEXT:
+----------------------------------------
+3. All copies of the Information, except for that portion of the Information which consists of analyses, compilations, forecasts, studies or other
+documents prepared by us, our agents, representatives, advisors or employees, will be returned to the Company promptly upon request or if we
+decide not to proceed with an acquisition of the Company (and we will inform the Company promptly of any such decision). At the time of such
+return, we will destroy any such analyses, compilations, forecasts, studies or other documents prepared by us, our agents, representatives, advisors or
+employees.
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: 4fd432d8ce6796dabc17d3838d8539a2_clause_004
+TYPE: legal_clause
+LENGTH: 1003
+
+TEXT:
+----------------------------------------
+1
+
+2
+
+4. The term Information shall not include such portions of the Information which (i) are or become generally available to the public other than as a
+result of disclosure by us, our affiliates, agents, representatives, advisors or employees, or (ii) become available to us or to our affiliates, agents,
+representatives, advisors or employees on a non-confidential basis from a source which was not then prohibited from disclosing such Information to
+us by a legal, contractual or fiduciary obligation to the Company, or (iii) which was in our possession, or in the possession of our affiliates, agents,
+representatives, advisors or employees, or otherwise available to us, or to our affiliates, agents, representatives, advisors or employees, on a non-
+confidential basis prior to its disclosure to us or one or more of our affiliates, agents, representatives, advisors or employees, or (iv) which is
+independently acquired or developed by us without violating any obligations under this Agreement.
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: 4fd432d8ce6796dabc17d3838d8539a2_clause_005
+TYPE: legal_clause
+LENGTH: 546
+
+TEXT:
+----------------------------------------
+5. The above undertakings of non-disclosure and confidentiality shall remain in force for a period of two (2) years from the date of this Agreement,
+except that there shall be no time limit, and such undertakings shall continue indefinitely, with respect to Information regarding algorithms relating
+to the Company’s past, present and proposed products, the calibration of those products, the source code and applications software related to those
+products, and the analog signal processing section of the pre-amp pcba relating to those products.
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: 4fd432d8ce6796dabc17d3838d8539a2_clause_006
+TYPE: legal_clause
+LENGTH: 1106
+
+TEXT:
+----------------------------------------
+6. In the event that we or anyone to whom we transmit the Information pursuant to this Agreement is requested or becomes legally compelled to
+disclose any of the Information (whether by oral questions, interrogatories, requests for Information or documents, subpoena, Civil Investigative
+Demand or similar process or otherwise), we will provide the Company with prompt notice, to the extent practicable, so that the Company may seek
+a protective order or other appropriate remedy and/or waive compliance with the provisions of this Agreement. We will cooperate with the Company,
+at the Company’s expense, to obtain such protective order or other appropriate remedy. In the event that such protective order or other remedy is not
+obtained, the Company agrees that such disclosure may be made without liability hereunder. We will furnish only that portion of the Information
+which we are, in the opinion of our counsel or the counsel of our representative, legally required to disclose and will use reasonable efforts to obtain
+reliable assurance that confidential treatment will be accorded the Information.
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: 4fd432d8ce6796dabc17d3838d8539a2_clause_007
+TYPE: legal_clause
+LENGTH: 1158
+
+TEXT:
+----------------------------------------
+7. We agree that for a period of one year from the date of this Agreement, we and our affiliates will not solicit for employment any employee of the
+Company with whom we or our affiliates had direct contact in connection with our consideration of a possible transaction hereunder.
+Notwithstanding the foregoing, this paragraph shall not preclude our right to make generalized searches for employees by use of advertisements in
+the media (including, without limitation, trade media) or by engaging search firms, so long as such general searches are not specifically targeted at
+such Company employees, and we shall not be prohibited from, and shall not be required to obtain the Company’s consent prior to, offering to
+employ or employing any person who (i) contacts us on his or her own initiative without any direct or indirect solicitation by us, (ii) responds to an
+advertisement or other general solicitation for employment not directed at employees of the Company, (iii) began employment discussions with us
+prior to the date of this agreement or (iv) is no longer employed by the Company at the time we commence employment discussions with such
+person.
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: 4fd432d8ce6796dabc17d3838d8539a2_clause_008
+TYPE: legal_clause
+LENGTH: 1136
+
+TEXT:
+----------------------------------------
+3
+
+8. None of the Company or any of its affiliates, agents, advisors or representatives (i) has made or makes any representation or warranty, expressed
+or implied, as to the accuracy or completeness of the Information or (ii) shall have any liability whatsoever to us or our affiliates, agents,
+representatives, advisors or employees relating to or resulting from the use of the Information or any errors therein or omissions therefrom. The
+Information may include certain statements, estimates and projections provided by the Company with regard to the anticipated future performance of
+the Company. Such statements, estimates and projections reflect various assumptions made by the Company concerning anticipated results, which
+assumptions may or may not prove to be correct. No representations are made as to the accuracy of such assumptions, statements, estimates or
+projections, including any budget(s). The only information that will have any legal effect will be specifically represented in a definitive purchase
+agreement; and in no event will such definitive purchase agreement contain any representation as to the projections.
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: 4fd432d8ce6796dabc17d3838d8539a2_clause_009
+TYPE: legal_clause
+LENGTH: 1279
+
+TEXT:
+----------------------------------------
+9. You understand that (i) the Company shall conduct the process for a possible transaction as it, in its sole discretion, shall determine (including,
+without limitation, negotiating with any prospective buyer and entering into definitive agreements without prior notice to us or any other person),
+(ii) any procedures relating to a potential transaction may be changed at any time without notice to you or any other person, (iii) the Company shall
+have the right to reject or accept any potential buyer, proposal or offer, for any reason whatsoever, in its sole discretion, and (iv) neither we nor any
+of our affiliates, agents, advisors or representatives shall have any claims whatsoever against the Company or any of its respective directors, officers,
+shareholders, owners, affiliates or agents arising out of or relating to a potential transaction (other than those against the parties to a definitive
+agreement with you in accordance with the terms thereof). We agree that, subject to the terms of this Agreement, unless and until a definitive
+purchase agreement between the Company and us with regard to any transaction has been executed and delivered, neither the Company nor we will
+be under any legal obligation of any kind whatsoever with respect to such transaction.
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: 4fd432d8ce6796dabc17d3838d8539a2_clause_010
+TYPE: legal_clause
+LENGTH: 1700
+
+TEXT:
+----------------------------------------
+10. In consideration of the Information being furnished to us, we hereby further agree that, without the prior written consent of the Board of
+Directors of the Company, for a period of one year from the date hereof, neither we nor any of our affiliates (as such term is defined in Rule 12b-2
+under the Securities Exchange Act of 1934, as amended), acting alone or as part of a group, will (i) acquire or offer or agree to acquire, directly or
+indirectly, by purchase or otherwise, any voting securities or securities convertible into voting securities of the Company, (ii) propose to enter into,
+directly or indirectly, any merger or business combination involving the Company or any of its subsidiaries, (iii) otherwise seek to influence or
+control, in any manner whatsoever (including proxy solicitation or otherwise), the management or policies of the Company, (iv) assist, advise or
+encourage (including by knowingly providing or arranging financing for that purpose) any other person in doing any of the foregoing, (v) call,
+request or seek to have called any meeting of the shareholders of the Company or execute any written consent in lieu of a meeting of holders of any
+securities of the Company, (vi) otherwise act, to seek the removal of any member of the Board of Directors, seek to elect or place a representative on
+the Board of Directors of the Company, or seek to control or influence the management, Board of Directors or policies of the Company, (vii) seek to
+have the Company waive, amend or modify its governing documents (for example, its articles or bylaws), (viii) take any action which might force
+the Company to make a public announcement regarding any of the types of matters
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: 4fd432d8ce6796dabc17d3838d8539a2_clause_011
+TYPE: legal_clause
+LENGTH: 1453
+
+TEXT:
+----------------------------------------
+4
+
+set forth above, (ix) make any request directly or indirectly, to amend or waive any provision of this section of this Agreement (including this
+sentence), (x) take any action that might require the Company to make a public announcement regarding the possibility of a business combination or
+other type of transaction or activity described in this section of this Agreement, or (xi) enter into any discussions or arrangements with any third
+party with respect to any of the foregoing. The foregoing section shall not prevent us (alone or jointly with other sources of buyer financing) from
+making non-public proposals to the Company with respect to a possible transaction in compliance with written procedures provided to you by the
+Company or its advisors. Notwithstanding the foregoing, in the event that the Board of Directors of the Company approves a transaction with any
+person or entity that would result in such person or entity beneficially owning more than 20% of the outstanding voting securities of the Company
+(or a successor to the Company in a merger or consolidation transaction) or all or substantially all of the Company’s assets, or any person, entity or
+“group” (as defined in the 1934 Act), other than us or any of our affiliates, has commenced or publicly announced its intention to commence a tender
+offer for more than 20% of the outstanding voting securities of the Company, the provisions of this Section 10 shall terminate.
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: 4fd432d8ce6796dabc17d3838d8539a2_clause_012
+TYPE: legal_clause
+LENGTH: 737
+
+TEXT:
+----------------------------------------
+11. It is further understood and agreed that Bruce Barrett, Mary Ann Victor or Bill Iacona will arrange for appropriate contacts with the Company. It
+is also understood and agreed that all (i) communications regarding a possible transaction, (ii) requests for additional information, (iii) requests for
+facility tours or management meetings and (iv) discussions or questions regarding procedures, will be submitted or directed exclusively to Bruce
+Barrett, Mary Ann Victor or Bill Iacona, and that none of us or our affiliates, agents, advisors or representatives will initiate or cause to be initiated
+any communication with any director, officer, employee or vendor of the Company concerning the Information or a potential transaction.
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: 4fd432d8ce6796dabc17d3838d8539a2_clause_013
+TYPE: legal_clause
+LENGTH: 571
+
+TEXT:
+----------------------------------------
+12. We understand and agree that the Company may be irreparably harmed by violation of this Agreement. Monetary damages alone may not be a
+sufficient remedy for any breach of this Agreement and, therefore, in addition to the Company’s other rights and remedies, the Company will be
+entitled to seek specific performance and injunctive or other equitable relief to enforce this Agreement. In addition, in the event of litigation
+involving this Agreement, the prevailing party will be entitled to attorneys’ fees and other costs incurred in connection with such litigation.
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: 4fd432d8ce6796dabc17d3838d8539a2_clause_014
+TYPE: legal_clause
+LENGTH: 305
+
+TEXT:
+----------------------------------------
+13. The Company reserves the right to assign its rights, powers and privileges under this Agreement (including, without limitation, the right to
+enforce the terms of this Agreement) to any successor – in – interest to the Company by merger or sale of all or substantially all of the assets of the
+Company.
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: 4fd432d8ce6796dabc17d3838d8539a2_clause_015
+TYPE: legal_clause
+LENGTH: 336
+
+TEXT:
+----------------------------------------
+14. Any provision of this Agreement which is prohibited or unenforceable in any jurisdiction shall, as to such jurisdiction, be ineffective to the extent
+of such prohibition or unenforceability without invalidating the remaining provisions hereof or affecting the validity of enforceability of such
+provisions in any other jurisdiction.
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: 4fd432d8ce6796dabc17d3838d8539a2_clause_016
+TYPE: legal_clause
+LENGTH: 175
+
+TEXT:
+----------------------------------------
+5
+
+15. This Agreement shall be governed by and construed in accordance with the laws of The Commonwealth of Massachusetts without regard to the
+principles of conflicts of law.
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: 4fd432d8ce6796dabc17d3838d8539a2_clause_017
+TYPE: legal_clause
+LENGTH: 88
+
+TEXT:
+----------------------------------------
+Very truly yours,
+
+TYCO HEALTHCARE GROUP LP d/b/a COVIDIEN
+By:
+ /s/ Matthew J. Nicolella
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: 4fd432d8ce6796dabc17d3838d8539a2_clause_018
+TYPE: legal_clause
+LENGTH: 42
+
+TEXT:
+----------------------------------------
+Title:
+Matthew J. Nicolella
+Vice President
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: 4fd432d8ce6796dabc17d3838d8539a2_clause_019
+TYPE: legal_clause
+LENGTH: 20
+
+TEXT:
+----------------------------------------
+Accepted and agreed:
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: 4fd432d8ce6796dabc17d3838d8539a2_clause_020
+TYPE: legal_clause
+LENGTH: 48
+
+TEXT:
+----------------------------------------
+SOMANETICS CORPORATION
+By:
+ /s/ Bruce J. Barrett
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: 4fd432d8ce6796dabc17d3838d8539a2_clause_021
+TYPE: legal_clause
+LENGTH: 61
+
+TEXT:
+----------------------------------------
+Title:
+Bruce J. Barrett
+President and Chief Executive Officer
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+

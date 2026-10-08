@@ -1,0 +1,11 @@
+check_id,check_name,status,details
+1,File Non-Empty,PASS,Found 393 pseudo-labeled rows.
+2,No Duplicate Clause IDs,PASS,Duplicates found: 0
+3,Required Columns Present,PASS,Missing columns: None
+4,Correct Label Source,PASS,Non-'llm_pseudo_label' rows: 0
+5,Valid JSON Format in Label Fields,PASS,Invalid JSON rows: 0
+6,No Invented Categories,PASS,Invented categories found: 0
+7,"Confidence Values in Range [0,1]",PASS,Out-of-range confidence rows: 0
+8,"Agreement Score in Range [0,1]",PASS,Out-of-range agreement rows: 0
+9,Valid Quality Buckets,PASS,Invalid quality bucket rows: 0
+10,No Missing Clause Text,PASS,Empty text rows: 0

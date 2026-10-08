@@ -1,0 +1,60 @@
+{
+  "source_file": "data\\annotations\\llm_pseudo_labels.csv",
+  "total_raw_records": 294,
+  "total_valid_records": 237,
+  "total_excluded_records": 57,
+  "seed": 42,
+  "splits": {
+    "train": {
+      "documents": 3,
+      "clauses": 109,
+      "doc_ids": [
+        "0859334b76224ff82c1312ae7b2b5da1",
+        "0a42e159b33ed521c4157d8babfaf3c1",
+        "266929af5f5b1ddb4018f2633cb96e24"
+      ]
+    },
+    "val": {
+      "documents": 2,
+      "clauses": 49,
+      "doc_ids": [
+        "0b59dfc4ce9b40b0c39759dc1ade14bc",
+        "293f59373f6a966b13cd7463b4617a6f"
+      ]
+    },
+    "test": {
+      "documents": 6,
+      "clauses": 79,
+      "doc_ids": [
+        "2268c5d1120f1abd57170d689f496418",
+        "247166e0245431dcf97ee884f1f07e35",
+        "3504e06a49433c1456720513186da1bd",
+        "4fd432d8ce6796dabc17d3838d8539a2",
+        "5180f107324abcab9d9ff81aee2db8d3",
+        "53c8f90cfb5fb49177c9cb160e53f17b"
+      ]
+    }
+  },
+  "quality_counts": {
+    "DISAGREEMENT": 102,
+    "HIGH_CONFIDENCE": 63,
+    "LOW_CONFIDENCE": 49,
+    "MEDIUM_CONFIDENCE": 23
+  },
+  "categories": [
+    "Party Identification",
+    "Purpose",
+    "NDA Type",
+    "Definition of Confidential Information",
+    "Confidentiality Obligations",
+    "Authorized Disclosure",
+    "Non-Confidential Information",
+    "Liability for Damages",
+    "Competition Rights",
+    "Term and Termination",
+    "Intellectual Property",
+    "Employees",
+    "Governing Law and Jurisdiction",
+    "Additional Information"
+  ]
+}

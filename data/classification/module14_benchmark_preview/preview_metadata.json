@@ -1,0 +1,30 @@
+{
+  "dataset_version": "module14_preview",
+  "readiness_status": "BLOCKED",
+  "readiness_explanation": "Refusing to claim READY because Liability for Damages is missing from Validation split and total represented documents (11) is below target (>=14).",
+  "total_valid_clauses": 237,
+  "total_represented_docs": 11,
+  "split_clause_counts": {
+    "train": 154,
+    "val": 55,
+    "test": 28
+  },
+  "split_category_counts": {
+    "train": 13,
+    "val": 13,
+    "test": 14
+  },
+  "missing_categories": {
+    "train": [
+      "Employees"
+    ],
+    "val": [
+      "Liability for Damages"
+    ],
+    "test": []
+  },
+  "leakage_checks": {
+    "document_overlap": 0,
+    "duplicate_clause_ids": 0
+  }
+}

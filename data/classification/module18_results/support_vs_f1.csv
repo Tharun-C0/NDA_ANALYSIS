@@ -1,0 +1,15 @@
+category,is_minority,support,precision,recall,f1_score,fp,fn
+Party Identification,False,29,0.322,0.6552,0.4318,40,10
+Purpose,True,7,0.05,0.1429,0.0741,19,6
+NDA Type,True,1,0.1667,1.0,0.2857,5,0
+Definition of Confidential Information,False,21,0.3333,0.5714,0.4211,24,9
+Confidentiality Obligations,False,18,0.3333,0.6667,0.4444,24,6
+Authorized Disclosure,False,14,0.2424,0.5714,0.3404,25,6
+Non-Confidential Information,True,7,0.2222,0.5714,0.32,14,3
+Liability for Damages,True,16,0.4516,0.875,0.5957,17,2
+Competition Rights,True,22,0.6,0.4091,0.4865,6,13
+Term and Termination,True,29,0.3455,0.6552,0.4524,36,10
+Intellectual Property,False,14,0.4762,0.7143,0.5714,11,4
+Employees,False,24,0.3478,0.6667,0.4571,30,8
+Governing Law and Jurisdiction,True,7,0.3182,1.0,0.4828,15,0
+Additional Information,False,110,0.6198,0.6818,0.6494,46,35

@@ -1,0 +1,492 @@
+========================================
+DOCUMENT: 266929af5f5b1ddb4018f2633cb96e24
+========================================
+
+CLAUSE: 266929af5f5b1ddb4018f2633cb96e24_clause_000
+TYPE: header
+LENGTH: 84
+
+TEXT:
+----------------------------------------
+EX-10.13 3 y31303a1exv10w13.htm EX-10.13: NON-CIRCUMVENTION/NON-DISCLOSURE AGREEMENT
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: 266929af5f5b1ddb4018f2633cb96e24_clause_001
+TYPE: legal_clause
+LENGTH: 449
+
+TEXT:
+----------------------------------------
+Exhibit 10.13
+Non-Circumvention/Non-Disclosure Agreement
+ This Non-Circumvention/Non-Disclosure Agreement is made as of this 1st day of January 2004, by and between Flow Capital Advisors, Inc.,
+having is principal place of business at 3727 Pine Lake Drive, Weston, FL 33332 (hereinafter “Finder”), and JAG Media Holdings, Inc., having
+its principal place of business at 6865 SW 18th Street, Suite B-13 Boca Raton, Florida 33433 (“hereinafter “Jag”).
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: 266929af5f5b1ddb4018f2633cb96e24_clause_002
+TYPE: legal_clause
+LENGTH: 291
+
+TEXT:
+----------------------------------------
+1. Pursuant to discussions between Flow and Jag, Flow has disclosed to Jag that certain parties, some of whom who have been identified to
+Jag and others who have yet to be identified by Flow to Jag (the “Introduced Parties”), may be interested in entering into certain transactions with
+Jag.
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: 266929af5f5b1ddb4018f2633cb96e24_clause_003
+TYPE: legal_clause
+LENGTH: 589
+
+TEXT:
+----------------------------------------
+2. Jag agrees that once Flow has disclosed the Identity of any Introduced Party to Jag, Jag, its officers, directors, shareholders, employees and
+agents shall not have any contacts with the Introduced Party other than through Flow, unless Flow grants permission in writing for such contacts.
+Specifically, Jag agrees not to circumvent, avoid or bypass Flow, either directly or indirectly, in order to avoid payment of fees or commissions;
+or otherwise benefit, either financially or otherwise, from any information supplied to it in the context of any transaction with an Introduced
+Party.
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: 266929af5f5b1ddb4018f2633cb96e24_clause_004
+TYPE: legal_clause
+LENGTH: 237
+
+TEXT:
+----------------------------------------
+3. This Agreement shall be governed by and construed and enforced in accordance local laws of the State of Florida applicable to agreements
+made and to be performed within the State, without regard to conflict of laws principles thereof.
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: 266929af5f5b1ddb4018f2633cb96e24_clause_005
+TYPE: legal_clause
+LENGTH: 193
+
+TEXT:
+----------------------------------------
+4. This Agreement shall inure to the benefit of, and is binding upon, the parties hereto and their respective principals, shareholders, heirs,
+officers, representatives, successors and assigns.
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: 266929af5f5b1ddb4018f2633cb96e24_clause_006
+TYPE: legal_clause
+LENGTH: 255
+
+TEXT:
+----------------------------------------
+5. No waiver of any provisions hereof shall be valid unless it is in writing signed by the person against whom it is charged. No waiver of any
+provision herein shall constitute a waiver of any other provision hereof, or of the provision at any other time.
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: 266929af5f5b1ddb4018f2633cb96e24_clause_007
+TYPE: legal_clause
+LENGTH: 381
+
+TEXT:
+----------------------------------------
+6. This is an agreement between separate legal entities and neither is the agent or employee of the other for any purpose whatsoever. The
+parties do not intend to create a partnership or joint venture between themselves. Neither party shall have the right to bind the other to any
+agreement with a third party or to inure any obligation or liabilities on behalf of the other party.
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: 266929af5f5b1ddb4018f2633cb96e24_clause_008
+TYPE: legal_clause
+LENGTH: 220
+
+TEXT:
+----------------------------------------
+7. This Agreement contains the whole agreement between the parties concerning the subject matter hereof and there are no collateral or
+precedent representation, agreements or conditions not specifically set forth herein.
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: 266929af5f5b1ddb4018f2633cb96e24_clause_009
+TYPE: legal_clause
+LENGTH: 158
+
+TEXT:
+----------------------------------------
+8. Any modification or amendment of any provisions of this Agreement must be in writing, signed by the parties hereof and dated subsequent
+to the date hereof.
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: 266929af5f5b1ddb4018f2633cb96e24_clause_010
+TYPE: legal_clause
+LENGTH: 134
+
+TEXT:
+----------------------------------------
+9. If any provision or provisions of this Agreement shall be held to be invalid, illegal or unenforceable for any reason whatsoever;
+1
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: 266929af5f5b1ddb4018f2633cb96e24_clause_011
+TYPE: legal_clause
+LENGTH: 304
+
+TEXT:
+----------------------------------------
+(i) the validity, legality and enforceability of the remaining provisions of this Agreement (including, without limitation, each portion of
+any Section of this Agreement containing any such provisions held to be invalid, illegal or unenforceable) shall not in any way be
+effected or impaired thereby; and
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: 266929af5f5b1ddb4018f2633cb96e24_clause_012
+TYPE: legal_clause
+LENGTH: 345
+
+TEXT:
+----------------------------------------
+(ii) to the fullest extent possible, the provisions of this Agreement (including, without limitation, each portion of any Section of this
+Agreement containing any such provision held to be invalid, illegal or unenforceable) shall be construed so as to give effect to the
+intent manifested by the provision held, invalid illegal or unenforceable.
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: 266929af5f5b1ddb4018f2633cb96e24_clause_013
+TYPE: legal_clause
+LENGTH: 148
+
+TEXT:
+----------------------------------------
+IN WITNESS WHEREOF, the partied hereto have executed this Non-Circumvention/Non-Disclosure agreement on the day, month and year
+first written above.
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: 266929af5f5b1ddb4018f2633cb96e24_clause_014
+TYPE: legal_clause
+LENGTH: 26
+
+TEXT:
+----------------------------------------
+Flow Capital Advisor, Inc.
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: 266929af5f5b1ddb4018f2633cb96e24_clause_015
+TYPE: legal_clause
+LENGTH: 23
+
+TEXT:
+----------------------------------------
+JAG Media Holding, Inc.
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: 266929af5f5b1ddb4018f2633cb96e24_clause_016
+TYPE: legal_clause
+LENGTH: 48
+
+TEXT:
+----------------------------------------
+By:
+/s/ Albert Auer
+
+By:
+/s/ Thomas J. Mazzarisi
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: 266929af5f5b1ddb4018f2633cb96e24_clause_017
+TYPE: legal_clause
+LENGTH: 44
+
+TEXT:
+----------------------------------------
+Name: Albert Auer
+
+Name: Thomas J. Mazzarisi
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: 266929af5f5b1ddb4018f2633cb96e24_clause_018
+TYPE: legal_clause
+LENGTH: 41
+
+TEXT:
+----------------------------------------
+Title: President
+
+Title: Chairman & CEO
+2
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+

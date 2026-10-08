@@ -1,0 +1,3 @@
+experiment_id,timestamp,model,loss_function,label_mode,status,macro_f1,weighted_f1,micro_f1,macro_precision,macro_recall,hamming_loss,macro_mcc,log_file
+EXP-01,2026-10-03T11:20:29.457079,saibo/legal-roberta-base,bce,all_valid,DEBUG / PIPELINE VALIDATION ONLY — NOT A RESEARCH RESULT,0.0,0.0,0.0,0.0,0.0,0.5048,0.4286,EXP-01_smoketest_1791006629.json
+EXP-01,2026-10-03T11:22:03.061512,saibo/legal-roberta-base,bce,all_valid,DEBUG / PIPELINE VALIDATION ONLY — NOT A RESEARCH RESULT,0.0,0.0,0.0,0.0,0.0,0.5048,0.4286,EXP-01_smoketest_1791006723.json

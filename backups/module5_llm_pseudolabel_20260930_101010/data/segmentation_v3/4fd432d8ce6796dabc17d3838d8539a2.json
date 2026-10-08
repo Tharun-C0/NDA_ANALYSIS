@@ -1,0 +1,208 @@
+{
+  "document_id": "4fd432d8ce6796dabc17d3838d8539a2",
+  "source_file": "4fd432d8ce6796dabc17d3838d8539a2.txt",
+  "total_characters": 14791,
+  "num_clauses": 22,
+  "num_legal_clauses": 22,
+  "quality_status": "OK",
+  "clauses": [
+    {
+      "document_id": "4fd432d8ce6796dabc17d3838d8539a2",
+      "clause_id": "4fd432d8ce6796dabc17d3838d8539a2_clause_000",
+      "text": "EX-99.(D)(3) 10 dex99d3.htm CONFIDENTIALITY AND STANDSTILL AGREEMENT\nExhibit (d)(3)\nMarch 16, 2010\nSomanetics Corporation\n1653 East Maple Road\nTroy, MI 48083\nLadies and Gentlemen:\nIn connection with our possible interest in a transaction involving the acquisition of Somanetics Corporation (the “Company”), you are furnishing us\nor our representatives with certain information which is either non-public, confidential or proprietary in nature. All information furnished to us or\nour representatives by the Company or any of its employees, representatives, agents or advisors (including attorneys, accountants and financial\nadvisors), shall be considered confidential and proprietary, and together with analyses, compilations, forecasts, studies or other documents prepared\nby us, our agents, advisors (including attorneys, accountants and financial advisors), representatives or employees which contain such information, is\nhereinafter referred to as the “Information”. In consideration of the Company furnishing us with the Information, we agree that:",
+      "start": 0,
+      "end": 1053,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "4fd432d8ce6796dabc17d3838d8539a2",
+      "clause_id": "4fd432d8ce6796dabc17d3838d8539a2_clause_001",
+      "text": "1. The Information will be kept confidential and shall not, without the prior written consent of the Company, be disclosed by us, or by our affiliates,\nagents, representatives, advisors or employees, in any manner whatsoever, in whole or in part, and shall not be used by us, our affiliates, agents,\nrepresentatives, advisors or employees, other than to determine whether we wish to enter into, or other than in connection with, the transaction\ndescribed above. Moreover, we agree to reveal the Information only to our affiliates, agents, representatives, advisors and employees who need to\nknow the Information for the purpose of evaluating, or otherwise in connection with, the transaction described above who are informed of the\nconfidential nature of the Information. We agree to be responsible for any breach of this Agreement by our affiliates, agents, representatives,\nadvisors and employees.",
+      "start": 1053,
+      "end": 1953,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "4fd432d8ce6796dabc17d3838d8539a2",
+      "clause_id": "4fd432d8ce6796dabc17d3838d8539a2_clause_002",
+      "text": "2. Without the prior written consent of the other party, neither party nor its representatives shall disclose to any person either the fact that discussions\nor negotiations are taking place concerning the possible transaction referred to herein or any of the terms, conditions or other facts with respect to\nany such possible transaction including the status thereof, except as required by applicable law or exchange listing agreements, rules or policies.",
+      "start": 1953,
+      "end": 2409,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "4fd432d8ce6796dabc17d3838d8539a2",
+      "clause_id": "4fd432d8ce6796dabc17d3838d8539a2_clause_003",
+      "text": "3. All copies of the Information, except for that portion of the Information which consists of analyses, compilations, forecasts, studies or other\ndocuments prepared by us, our agents, representatives, advisors or employees, will be returned to the Company promptly upon request or if we\ndecide not to proceed with an acquisition of the Company (and we will inform the Company promptly of any such decision). At the time of such\nreturn, we will destroy any such analyses, compilations, forecasts, studies or other documents prepared by us, our agents, representatives, advisors or\nemployees.",
+      "start": 2409,
+      "end": 3002,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "4fd432d8ce6796dabc17d3838d8539a2",
+      "clause_id": "4fd432d8ce6796dabc17d3838d8539a2_clause_004",
+      "text": "1\n\n2\n\n4. The term Information shall not include such portions of the Information which (i) are or become generally available to the public other than as a\nresult of disclosure by us, our affiliates, agents, representatives, advisors or employees, or (ii) become available to us or to our affiliates, agents,\nrepresentatives, advisors or employees on a non-confidential basis from a source which was not then prohibited from disclosing such Information to\nus by a legal, contractual or fiduciary obligation to the Company, or (iii) which was in our possession, or in the possession of our affiliates, agents,\nrepresentatives, advisors or employees, or otherwise available to us, or to our affiliates, agents, representatives, advisors or employees, on a non-\nconfidential basis prior to its disclosure to us or one or more of our affiliates, agents, representatives, advisors or employees, or (iv) which is\nindependently acquired or developed by us without violating any obligations under this Agreement.",
+      "start": 3002,
+      "end": 4006,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "4fd432d8ce6796dabc17d3838d8539a2",
+      "clause_id": "4fd432d8ce6796dabc17d3838d8539a2_clause_005",
+      "text": "5. The above undertakings of non-disclosure and confidentiality shall remain in force for a period of two (2) years from the date of this Agreement,\nexcept that there shall be no time limit, and such undertakings shall continue indefinitely, with respect to Information regarding algorithms relating\nto the Company’s past, present and proposed products, the calibration of those products, the source code and applications software related to those\nproducts, and the analog signal processing section of the pre-amp pcba relating to those products.",
+      "start": 4006,
+      "end": 4553,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "4fd432d8ce6796dabc17d3838d8539a2",
+      "clause_id": "4fd432d8ce6796dabc17d3838d8539a2_clause_006",
+      "text": "6. In the event that we or anyone to whom we transmit the Information pursuant to this Agreement is requested or becomes legally compelled to\ndisclose any of the Information (whether by oral questions, interrogatories, requests for Information or documents, subpoena, Civil Investigative\nDemand or similar process or otherwise), we will provide the Company with prompt notice, to the extent practicable, so that the Company may seek\na protective order or other appropriate remedy and/or waive compliance with the provisions of this Agreement. We will cooperate with the Company,\nat the Company’s expense, to obtain such protective order or other appropriate remedy. In the event that such protective order or other remedy is not\nobtained, the Company agrees that such disclosure may be made without liability hereunder. We will furnish only that portion of the Information\nwhich we are, in the opinion of our counsel or the counsel of our representative, legally required to disclose and will use reasonable efforts to obtain\nreliable assurance that confidential treatment will be accorded the Information.",
+      "start": 4553,
+      "end": 5660,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "4fd432d8ce6796dabc17d3838d8539a2",
+      "clause_id": "4fd432d8ce6796dabc17d3838d8539a2_clause_007",
+      "text": "7. We agree that for a period of one year from the date of this Agreement, we and our affiliates will not solicit for employment any employee of the\nCompany with whom we or our affiliates had direct contact in connection with our consideration of a possible transaction hereunder.\nNotwithstanding the foregoing, this paragraph shall not preclude our right to make generalized searches for employees by use of advertisements in\nthe media (including, without limitation, trade media) or by engaging search firms, so long as such general searches are not specifically targeted at\nsuch Company employees, and we shall not be prohibited from, and shall not be required to obtain the Company’s consent prior to, offering to\nemploy or employing any person who (i) contacts us on his or her own initiative without any direct or indirect solicitation by us, (ii) responds to an\nadvertisement or other general solicitation for employment not directed at employees of the Company, (iii) began employment discussions with us\nprior to the date of this agreement or (iv) is no longer employed by the Company at the time we commence employment discussions with such\nperson.",
+      "start": 5660,
+      "end": 6820,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "4fd432d8ce6796dabc17d3838d8539a2",
+      "clause_id": "4fd432d8ce6796dabc17d3838d8539a2_clause_008",
+      "text": "3\n\n8. None of the Company or any of its affiliates, agents, advisors or representatives (i) has made or makes any representation or warranty, expressed\nor implied, as to the accuracy or completeness of the Information or (ii) shall have any liability whatsoever to us or our affiliates, agents,\nrepresentatives, advisors or employees relating to or resulting from the use of the Information or any errors therein or omissions therefrom. The\nInformation may include certain statements, estimates and projections provided by the Company with regard to the anticipated future performance of\nthe Company. Such statements, estimates and projections reflect various assumptions made by the Company concerning anticipated results, which\nassumptions may or may not prove to be correct. No representations are made as to the accuracy of such assumptions, statements, estimates or\nprojections, including any budget(s). The only information that will have any legal effect will be specifically represented in a definitive purchase\nagreement; and in no event will such definitive purchase agreement contain any representation as to the projections.",
+      "start": 6820,
+      "end": 7957,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "4fd432d8ce6796dabc17d3838d8539a2",
+      "clause_id": "4fd432d8ce6796dabc17d3838d8539a2_clause_009",
+      "text": "9. You understand that (i) the Company shall conduct the process for a possible transaction as it, in its sole discretion, shall determine (including,\nwithout limitation, negotiating with any prospective buyer and entering into definitive agreements without prior notice to us or any other person),\n(ii) any procedures relating to a potential transaction may be changed at any time without notice to you or any other person, (iii) the Company shall\nhave the right to reject or accept any potential buyer, proposal or offer, for any reason whatsoever, in its sole discretion, and (iv) neither we nor any\nof our affiliates, agents, advisors or representatives shall have any claims whatsoever against the Company or any of its respective directors, officers,\nshareholders, owners, affiliates or agents arising out of or relating to a potential transaction (other than those against the parties to a definitive\nagreement with you in accordance with the terms thereof). We agree that, subject to the terms of this Agreement, unless and until a definitive\npurchase agreement between the Company and us with regard to any transaction has been executed and delivered, neither the Company nor we will\nbe under any legal obligation of any kind whatsoever with respect to such transaction.",
+      "start": 7957,
+      "end": 9237,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "4fd432d8ce6796dabc17d3838d8539a2",
+      "clause_id": "4fd432d8ce6796dabc17d3838d8539a2_clause_010",
+      "text": "10. In consideration of the Information being furnished to us, we hereby further agree that, without the prior written consent of the Board of\nDirectors of the Company, for a period of one year from the date hereof, neither we nor any of our affiliates (as such term is defined in Rule 12b-2\nunder the Securities Exchange Act of 1934, as amended), acting alone or as part of a group, will (i) acquire or offer or agree to acquire, directly or\nindirectly, by purchase or otherwise, any voting securities or securities convertible into voting securities of the Company, (ii) propose to enter into,\ndirectly or indirectly, any merger or business combination involving the Company or any of its subsidiaries, (iii) otherwise seek to influence or\ncontrol, in any manner whatsoever (including proxy solicitation or otherwise), the management or policies of the Company, (iv) assist, advise or\nencourage (including by knowingly providing or arranging financing for that purpose) any other person in doing any of the foregoing, (v) call,\nrequest or seek to have called any meeting of the shareholders of the Company or execute any written consent in lieu of a meeting of holders of any\nsecurities of the Company, (vi) otherwise act, to seek the removal of any member of the Board of Directors, seek to elect or place a representative on\nthe Board of Directors of the Company, or seek to control or influence the management, Board of Directors or policies of the Company, (vii) seek to\nhave the Company waive, amend or modify its governing documents (for example, its articles or bylaws), (viii) take any action which might force\nthe Company to make a public announcement regarding any of the types of matters",
+      "start": 9237,
+      "end": 10939,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "4fd432d8ce6796dabc17d3838d8539a2",
+      "clause_id": "4fd432d8ce6796dabc17d3838d8539a2_clause_011",
+      "text": "4\n\nset forth above, (ix) make any request directly or indirectly, to amend or waive any provision of this section of this Agreement (including this\nsentence), (x) take any action that might require the Company to make a public announcement regarding the possibility of a business combination or\nother type of transaction or activity described in this section of this Agreement, or (xi) enter into any discussions or arrangements with any third\nparty with respect to any of the foregoing. The foregoing section shall not prevent us (alone or jointly with other sources of buyer financing) from\nmaking non-public proposals to the Company with respect to a possible transaction in compliance with written procedures provided to you by the\nCompany or its advisors. Notwithstanding the foregoing, in the event that the Board of Directors of the Company approves a transaction with any\nperson or entity that would result in such person or entity beneficially owning more than 20% of the outstanding voting securities of the Company\n(or a successor to the Company in a merger or consolidation transaction) or all or substantially all of the Company’s assets, or any person, entity or\n“group” (as defined in the 1934 Act), other than us or any of our affiliates, has commenced or publicly announced its intention to commence a tender\noffer for more than 20% of the outstanding voting securities of the Company, the provisions of this Section 10 shall terminate.",
+      "start": 10939,
+      "end": 12393,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "4fd432d8ce6796dabc17d3838d8539a2",
+      "clause_id": "4fd432d8ce6796dabc17d3838d8539a2_clause_012",
+      "text": "11. It is further understood and agreed that Bruce Barrett, Mary Ann Victor or Bill Iacona will arrange for appropriate contacts with the Company. It\nis also understood and agreed that all (i) communications regarding a possible transaction, (ii) requests for additional information, (iii) requests for\nfacility tours or management meetings and (iv) discussions or questions regarding procedures, will be submitted or directed exclusively to Bruce\nBarrett, Mary Ann Victor or Bill Iacona, and that none of us or our affiliates, agents, advisors or representatives will initiate or cause to be initiated\nany communication with any director, officer, employee or vendor of the Company concerning the Information or a potential transaction.",
+      "start": 12393,
+      "end": 13131,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "4fd432d8ce6796dabc17d3838d8539a2",
+      "clause_id": "4fd432d8ce6796dabc17d3838d8539a2_clause_013",
+      "text": "12. We understand and agree that the Company may be irreparably harmed by violation of this Agreement. Monetary damages alone may not be a\nsufficient remedy for any breach of this Agreement and, therefore, in addition to the Company’s other rights and remedies, the Company will be\nentitled to seek specific performance and injunctive or other equitable relief to enforce this Agreement. In addition, in the event of litigation\ninvolving this Agreement, the prevailing party will be entitled to attorneys’ fees and other costs incurred in connection with such litigation.",
+      "start": 13131,
+      "end": 13703,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "4fd432d8ce6796dabc17d3838d8539a2",
+      "clause_id": "4fd432d8ce6796dabc17d3838d8539a2_clause_014",
+      "text": "13. The Company reserves the right to assign its rights, powers and privileges under this Agreement (including, without limitation, the right to\nenforce the terms of this Agreement) to any successor – in – interest to the Company by merger or sale of all or substantially all of the assets of the\nCompany.",
+      "start": 13703,
+      "end": 14009,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "4fd432d8ce6796dabc17d3838d8539a2",
+      "clause_id": "4fd432d8ce6796dabc17d3838d8539a2_clause_015",
+      "text": "14. Any provision of this Agreement which is prohibited or unenforceable in any jurisdiction shall, as to such jurisdiction, be ineffective to the extent\nof such prohibition or unenforceability without invalidating the remaining provisions hereof or affecting the validity of enforceability of such\nprovisions in any other jurisdiction.",
+      "start": 14009,
+      "end": 14347,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "4fd432d8ce6796dabc17d3838d8539a2",
+      "clause_id": "4fd432d8ce6796dabc17d3838d8539a2_clause_016",
+      "text": "5\n\n15. This Agreement shall be governed by and construed in accordance with the laws of The Commonwealth of Massachusetts without regard to the\nprinciples of conflicts of law.",
+      "start": 14347,
+      "end": 14524,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "4fd432d8ce6796dabc17d3838d8539a2",
+      "clause_id": "4fd432d8ce6796dabc17d3838d8539a2_clause_017",
+      "text": "Very truly yours,\n\nTYCO HEALTHCARE GROUP LP d/b/a COVIDIEN\nBy:\n /s/ Matthew J. Nicolella",
+      "start": 14524,
+      "end": 14614,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "4fd432d8ce6796dabc17d3838d8539a2",
+      "clause_id": "4fd432d8ce6796dabc17d3838d8539a2_clause_018",
+      "text": "Title:\nMatthew J. Nicolella\nVice President",
+      "start": 14614,
+      "end": 14658,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "4fd432d8ce6796dabc17d3838d8539a2",
+      "clause_id": "4fd432d8ce6796dabc17d3838d8539a2_clause_019",
+      "text": "Accepted and agreed:",
+      "start": 14658,
+      "end": 14680,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "4fd432d8ce6796dabc17d3838d8539a2",
+      "clause_id": "4fd432d8ce6796dabc17d3838d8539a2_clause_020",
+      "text": "SOMANETICS CORPORATION\nBy:\n /s/ Bruce J. Barrett",
+      "start": 14680,
+      "end": 14730,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "4fd432d8ce6796dabc17d3838d8539a2",
+      "clause_id": "4fd432d8ce6796dabc17d3838d8539a2_clause_021",
+      "text": "Title:\nBruce J. Barrett\nPresident and Chief Executive Officer",
+      "start": 14730,
+      "end": 14791,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    }
+  ]
+}

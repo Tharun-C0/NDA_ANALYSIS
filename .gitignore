@@ -1,0 +1,38 @@
+# Virtual Environment
+venv/
+env/
+.venv/
+ENV/
+
+# Environment Variables & Secrets
+.env
+*.env
+
+# Python Cache & Bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.coverage
+htmlcov/
+.mypy_cache/
+
+# Large Model Weights & Binary Checkpoints (> 100MB limit on GitHub)
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.onnx
+
+# Temporary Scratch Files & Logs
+scratch/
+*.log
+*.tmp
+*.temp
+
+# IDE & OS Metadata
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

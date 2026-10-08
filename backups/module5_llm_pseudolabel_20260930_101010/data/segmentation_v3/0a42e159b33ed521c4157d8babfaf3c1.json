@@ -1,0 +1,514 @@
+{
+  "document_id": "0a42e159b33ed521c4157d8babfaf3c1",
+  "source_file": "0a42e159b33ed521c4157d8babfaf3c1.txt",
+  "total_characters": 15478,
+  "num_clauses": 56,
+  "num_legal_clauses": 46,
+  "quality_status": "REVIEW",
+  "clauses": [
+    {
+      "document_id": "0a42e159b33ed521c4157d8babfaf3c1",
+      "clause_id": "0a42e159b33ed521c4157d8babfaf3c1_clause_000",
+      "text": "EX-10.3 5 a10-14025_1ex10d3.htm EX-10.3\nExhibit 10.3",
+      "start": 0,
+      "end": 54,
+      "segment_type": "header",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "0a42e159b33ed521c4157d8babfaf3c1",
+      "clause_id": "0a42e159b33ed521c4157d8babfaf3c1_clause_001",
+      "text": "MUTUAL CONFIDENTIALITY AGREEMENT",
+      "start": 54,
+      "end": 88,
+      "segment_type": "section_heading",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "0a42e159b33ed521c4157d8babfaf3c1",
+      "clause_id": "0a42e159b33ed521c4157d8babfaf3c1_clause_002",
+      "text": "This Mutual Confidentiality Agreement (this “Agreement”), dated as of July 16, 2010, is entered into by and among Financière Elitech\nSAS, a société par actions simplifiée organized under the laws of France (“Elitech”), Wescor, Inc., a Utah corporation (“Wescor”), Elitech UK\nLimited, a private limited company organized under the laws of the United Kingdom (“Elitech UK” and, collectively with Elitech and Wescor,\nthe “Elitech Group”), Corgenix Medical Corporation, a Nevada corporation (“Corgenix”), and Corgenix U.K. Ltd., a private limited company\norganized under the laws of the United Kingdom (“Corgenix U.K.” and, collectively with Corgenix, the “Corgenix Group”).",
+      "start": 88,
+      "end": 760,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "0a42e159b33ed521c4157d8babfaf3c1",
+      "clause_id": "0a42e159b33ed521c4157d8babfaf3c1_clause_003",
+      "text": "PRELIMINARY STATEMENTS",
+      "start": 760,
+      "end": 784,
+      "segment_type": "section_heading",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "0a42e159b33ed521c4157d8babfaf3c1",
+      "clause_id": "0a42e159b33ed521c4157d8babfaf3c1_clause_004",
+      "text": "A. The Elitech Group and the Corgenix Group desire to enter into a commercial relationship with each other, either directly or\nthrough their respective Affiliates (as defined below), specifically: (1) that certain Common Stock Purchase Agreement by and among Corgenix,\nElitech and Wescor (the “SPA”); (2) that certain Master Distribution Agreement by and between Corgenix and Elitech UK (the “MDA”); and\n(3) that certain Joint Product Development Agreement by and between Corgenix and Elitech (the “JPDA” and, collectively with the SPA and the\nMDA, the “Transaction Agreements”).",
+      "start": 784,
+      "end": 1365,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "0a42e159b33ed521c4157d8babfaf3c1",
+      "clause_id": "0a42e159b33ed521c4157d8babfaf3c1_clause_005",
+      "text": "B. In order for the Corgenix Group and the Elitech Group to enter into the proposed commercial relationship, it is necessary for\nthe parties to disclose certain valuable proprietary information to each other and ensure that such proprietary information will be treated as\nconfidential.",
+      "start": 1365,
+      "end": 1652,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "0a42e159b33ed521c4157d8babfaf3c1",
+      "clause_id": "0a42e159b33ed521c4157d8babfaf3c1_clause_006",
+      "text": "C. Each of Corgenix, Corgenix U.K., Elitech, Wescor and Elitech UK, on behalf of itself and its respective Affiliates, agrees and\nacknowledges that any Confidential Information (as defined below) that it receives from a disclosing party must be kept confidential in\naccordance with the terms and conditions of this Agreement.",
+      "start": 1652,
+      "end": 1979,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "0a42e159b33ed521c4157d8babfaf3c1",
+      "clause_id": "0a42e159b33ed521c4157d8babfaf3c1_clause_007",
+      "text": "AGREEMENT",
+      "start": 1979,
+      "end": 1990,
+      "segment_type": "section_heading",
+      "is_suspicious": true
+    },
+    {
+      "document_id": "0a42e159b33ed521c4157d8babfaf3c1",
+      "clause_id": "0a42e159b33ed521c4157d8babfaf3c1_clause_008",
+      "text": "The parties, intending to be legally bound, agree as follows:",
+      "start": 1990,
+      "end": 2052,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "0a42e159b33ed521c4157d8babfaf3c1",
+      "clause_id": "0a42e159b33ed521c4157d8babfaf3c1_clause_009",
+      "text": "1. Definitions. For purposes of this Agreement the following terms shall have the meanings set forth below:",
+      "start": 2052,
+      "end": 2162,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "0a42e159b33ed521c4157d8babfaf3c1",
+      "clause_id": "0a42e159b33ed521c4157d8babfaf3c1_clause_010",
+      "text": "a. The term “documents” means form or medium in which Confidential Information may be produced, including, but not be\nlimited to, writings, spreadsheets, presentations, web pages, emails, voicemails, drawings, graphs, charts, photographs, sound\nrecordings, optical or magnetic discs and data compilations in whatever form recorded or stored from which information can be\nobtained and/or translated, if necessary, into reasonably usable form, and any reproductions thereof.",
+      "start": 2162,
+      "end": 2636,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "0a42e159b33ed521c4157d8babfaf3c1",
+      "clause_id": "0a42e159b33ed521c4157d8babfaf3c1_clause_011",
+      "text": "1\n\nb. The term “Confidential Information” means any and all information, tangible or intangible, in whatever form or medium\nprovided or obtained by any receiving party or such party’s representatives, directly or indirectly, including all documents and\ninformation generated by a disclosing party or its representatives that contains, reflects or is derived from such information,\nwhether orally, in writing, in documents, through or by observation or otherwise, in any way relating to the Transaction\nAgreements and the transactions contemplated in such Transaction Agreements, including, but not limited to, information\nabout existing or contemplated products, services, client lists, marketing techniques, pricing policies, financial information,\nresearch and development techniques and processes, manufacturing processes, sales processes, bidding and tender processes,\ncosts, profits, sales, markets and all other data and intellectual property related thereto.",
+      "start": 2636,
+      "end": 3603,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "0a42e159b33ed521c4157d8babfaf3c1",
+      "clause_id": "0a42e159b33ed521c4157d8babfaf3c1_clause_012",
+      "text": "Notwithstanding the foregoing, information shall not be considered Confidential Information for purposes of this Agreement if:\n(a) a receiving party or its Affiliates already possesses the information without an obligation of confidentiality at the time of\ndisclosure as verified by independent written files or records; (b) the information is or becomes part of the public domain other\nthan as a result of unauthorized disclosure by a receiving party or its Affiliates of such information; (c) the information has\nbeen or is made available to a receiving party or its Affiliates by a third party that, to the receiving party’s or its Affiliates’ best\nknowledge, is not under an obligation of confidentiality to the disclosing party or its Affiliates; or (d) the information is\nindependently developed by a receiving party or its Affiliates prior to such information being disclosed by a disclosing party, as\nverified by independent written files or records.",
+      "start": 3603,
+      "end": 4563,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "0a42e159b33ed521c4157d8babfaf3c1",
+      "clause_id": "0a42e159b33ed521c4157d8babfaf3c1_clause_013",
+      "text": "c. The term “Affiliate” means with respect to any person, any other person that, directly or indirectly, controls, is controlled by,\nor is under a common control with, such first person. The term “control” including the terms “controlled by” and “under a\ncommon control with” (as used in the preceding sentence) means the possession, directly or indirectly, of the power to direct or\ncause the direction of management and policies of the person, whether through the ownership of securities, by contract or\notherwise.",
+      "start": 4563,
+      "end": 5080,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "0a42e159b33ed521c4157d8babfaf3c1",
+      "clause_id": "0a42e159b33ed521c4157d8babfaf3c1_clause_014",
+      "text": "2. Confidentiality. With respect to the Confidential Information, the Elitech Group and its Affiliates (on the one hand), and the\nCorgenix Group and its Affiliates (on the other hand), shall: (a) restrict disclosure of the Confidential Information solely to those of their\nrespective employees, Affiliates, advisors or representatives with a need to know; (b) advise their respective employees, Affiliates, advisors or",
+      "start": 5080,
+      "end": 5501,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "0a42e159b33ed521c4157d8babfaf3c1",
+      "clause_id": "0a42e159b33ed521c4157d8babfaf3c1_clause_015",
+      "text": "representatives who receive the Confidential Information of the obligation of confidentiality hereunder; (c) use, and advise their respective\nemployees, Affiliates, advisors or representatives to use, the same degree of care to protect the Confidential Information and to prevent\ndisclosure of the Confidential Information as is used with the party’s own confidential information, which shall be at least the degree of care that\na reasonably prudent person would take to protect and prevent disclosure of confidential",
+      "start": 5501,
+      "end": 6020,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "0a42e159b33ed521c4157d8babfaf3c1",
+      "clause_id": "0a42e159b33ed521c4157d8babfaf3c1_clause_016",
+      "text": "2\n\ninformation; and (d) use the Confidential Information only for purposes of carrying out their respective obligations under the Transaction\nAgreements.",
+      "start": 6020,
+      "end": 6174,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "0a42e159b33ed521c4157d8babfaf3c1",
+      "clause_id": "0a42e159b33ed521c4157d8babfaf3c1_clause_017",
+      "text": "3. Compliance with Laws. If any party to this Agreement or its Affiliates, as the case may be, becomes legally compelled\n(including pursuant to any rule or regulation promulgated by any securities regulation authority or any securities exchange) to make any\ndisclosure that is prohibited or otherwise constrained by this Agreement, then such party will give, or will cause its Affiliate to give, the other\nparties immediate written notice of such requirement so that they may seek a protective order or other appropriate relief, or waive compliance\nwith the nondisclosure provisions of this Agreement. Subject to the foregoing, the party that is legally compelled to disclose Confidential\nInformation may make only such disclosure that it is legally compelled or otherwise required to make to avoid standing liable for contempt or\nsuffering other material censure or penalty; provided, however, that such party and its Affiliates must use reasonable efforts to obtain reliable\nassurance that confidential treatment will be accorded any Confidential Information so disclosed.",
+      "start": 6174,
+      "end": 7250,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "0a42e159b33ed521c4157d8babfaf3c1",
+      "clause_id": "0a42e159b33ed521c4157d8babfaf3c1_clause_018",
+      "text": "4. Return of Documents. Upon the request of Corgenix, on the one hand, or Elitech, on the other hand, the other party shall\nreturn, or shall cause its Affiliates to return, as the case may be, all documents containing the requesting party’s Confidential Information,\nwithout retaining any copies or other reproductions, in whole or in part, except for one copy of such documents or records retained in confidence\nby the other party’s counsel solely for the purpose of any dispute or anticipated dispute arising out of the discussions or use of the Confidential\nInformation.",
+      "start": 7250,
+      "end": 7825,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "0a42e159b33ed521c4157d8babfaf3c1",
+      "clause_id": "0a42e159b33ed521c4157d8babfaf3c1_clause_019",
+      "text": "5. Breach. If the Corgenix Group or its Affiliates, on the one hand, or the Elitech Group or its Affiliates, on the other hand,\nbreaches its obligations under this Agreement, the other party shall have available to it all its rights and remedies at law and in equity, including\nthe right to seek injunctive relief without being required to post a bond or similar form of security, it being acknowledged and agreed by all\nparties that a breach or threatened breach of the terms of this Agreement by one party or its Affiliates may cause irreparable injury to the other\nparty or its Affiliates and that money damages will not provide an adequate remedy to such other party or its Affiliates.",
+      "start": 7825,
+      "end": 8516,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "0a42e159b33ed521c4157d8babfaf3c1",
+      "clause_id": "0a42e159b33ed521c4157d8babfaf3c1_clause_020",
+      "text": "6. Assignment. This Agreement may not be assigned by any party hereto without the prior written consent of the other parties.\nThis Agreement shall bind and accrue to the benefit of the parties hereto and their respective successors and permitted assigns. Notwithstanding\nthe foregoing, this Agreement may be assigned by Elitech or Corgenix to any of their respective Affiliates, provided such Affiliate existed as of\nthe date of this Agreement.",
+      "start": 8516,
+      "end": 8962,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "0a42e159b33ed521c4157d8babfaf3c1",
+      "clause_id": "0a42e159b33ed521c4157d8babfaf3c1_clause_021",
+      "text": "7. Notices. Except as may be otherwise provided herein, all notices, requests, waivers and other communications made pursuant\nto this Agreement will be in writing and will be conclusively deemed to have been duly given (a) when hand delivered to the other parties;\n(b) when received if sent by facsimile or electronic mail to the number or the email address set forth below, provided that the sending party\nreceives a confirmation of delivery; (c) three (3) business days after deposit in the U.S. mail with first class or certified mail receipt requested",
+      "start": 8962,
+      "end": 9520,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "0a42e159b33ed521c4157d8babfaf3c1",
+      "clause_id": "0a42e159b33ed521c4157d8babfaf3c1_clause_022",
+      "text": "3\n\npostage prepaid and addressed to the other parties as set forth below; or (d) forty-eight (48) hours after deposit with an internationally recognized\novernight delivery service, postage prepaid, addressed to the parties as set forth below with next-business-day delivery guaranteed, provided that\nthe sending party receives a confirmation of delivery from the delivery service provider. Each person making a communication hereunder by\nfacsimile or electronic mail will promptly confirm by telephone to the person to whom such communication was addressed each communication\nmade by it by facsimile or electronic mail, but the absence of such confirmation will not affect the validity of any such communication. A party\nmay change or supplement the addresses, facsimile numbers and email addresses provided in its signature block below, or designate additional\naddresses, facsimile numbers or email addresses, for purposes of this Section 7 by giving the other parties written notice of the new address,\nfacsimile numbers or email addresses in the manner set forth above.",
+      "start": 9520,
+      "end": 10593,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "0a42e159b33ed521c4157d8babfaf3c1",
+      "clause_id": "0a42e159b33ed521c4157d8babfaf3c1_clause_023",
+      "text": "8. Governing Law. This Agreement and any controversy arising out of or relating to this Agreement will be governed by and\nconstrued in accordance with the internal laws of the State of Colorado, without regard to conflict of law principles that would result in the\napplication of any law other than the law of the State of Colorado.",
+      "start": 10593,
+      "end": 10927,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "0a42e159b33ed521c4157d8babfaf3c1",
+      "clause_id": "0a42e159b33ed521c4157d8babfaf3c1_clause_024",
+      "text": "9. Venue. Each of the parties consents and submits to the jurisdiction of the federal courts located in the District of Colorado in\nconnection with any suits or other actions arising between the parties under this Agreement, and consents and waives any objections to the venue\nof such action or proceeding in the federal courts located in the District of Colorado.",
+      "start": 10927,
+      "end": 11293,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "0a42e159b33ed521c4157d8babfaf3c1",
+      "clause_id": "0a42e159b33ed521c4157d8babfaf3c1_clause_025",
+      "text": "10. Severability. If any term, provision, covenant, or condition of this Agreement, or its application to any person or\ncircumstance, will be held by a court of competent jurisdiction to be invalid, unenforceable, or void, the remainder of this Agreement and such\nterm, provision, covenant, or condition as applied to other persons or circumstances will remain in full force and effect.",
+      "start": 11293,
+      "end": 11681,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "0a42e159b33ed521c4157d8babfaf3c1",
+      "clause_id": "0a42e159b33ed521c4157d8babfaf3c1_clause_026",
+      "text": "11. Entire Agreement; Amendments. The Transaction Agreements and this Agreement constitute the full and entire\nunderstanding and agreement among the parties with respect to the subject hereof and thereof. The provisions of this Agreement may be\namended with the prior written consent of Corgenix and Elitech.",
+      "start": 11681,
+      "end": 11991,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "0a42e159b33ed521c4157d8babfaf3c1",
+      "clause_id": "0a42e159b33ed521c4157d8babfaf3c1_clause_027",
+      "text": "12. Authorization. Each of the undersigned representatives of the parties warrants and represents that he or she is duly authorized\nto execute and deliver this Agreement on behalf of the respective party for which he or she signs, and that the organization on whose behalf he or\nshe signs is currently in good standing in the jurisdiction where organized.",
+      "start": 11991,
+      "end": 12348,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "0a42e159b33ed521c4157d8babfaf3c1",
+      "clause_id": "0a42e159b33ed521c4157d8babfaf3c1_clause_028",
+      "text": "13. Headings. The headings of the sections of this Agreement are inserted for convenience only and will not be deemed to\nconstitute a part of this Agreement.",
+      "start": 12348,
+      "end": 12507,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "0a42e159b33ed521c4157d8babfaf3c1",
+      "clause_id": "0a42e159b33ed521c4157d8babfaf3c1_clause_029",
+      "text": "14. Counterparts. This Agreement may be executed in two or more counterparts, each of which will be deemed an original, but\nall of which together will constitute one and the same instrument.",
+      "start": 12507,
+      "end": 12700,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "0a42e159b33ed521c4157d8babfaf3c1",
+      "clause_id": "0a42e159b33ed521c4157d8babfaf3c1_clause_030",
+      "text": "4\n\n15. Delays, Omission, and Waivers. No delay or omission to exercise any right, power or remedy accruing to any party as a\nresult of a breach or default of this Agreement will impair any such right, power or remedy of the non-defaulting party, nor will it be construed to\nbe a waiver of any such breach or default or an acquiescence therein, nor will any similar breach or default be deemed a waiver of any other\nbreach or default theretofore or thereafter occurring; nor will any waiver of any single breach or default be deemed a waiver of any other breach\nor default theretofore or thereafter occurring. Any waiver, permit, consent or approval of any kind or character on the part of any party of any\nbreach or default under this Agreement or any waiver on the part of any party of any provisions or conditions of this Agreement must be in\nwriting and will be effective only to the extent specifically set forth in such writing.",
+      "start": 12700,
+      "end": 13634,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "0a42e159b33ed521c4157d8babfaf3c1",
+      "clause_id": "0a42e159b33ed521c4157d8babfaf3c1_clause_031",
+      "text": "16. Survival. This Agreement shall become effective on the date set forth above and shall continue for as long as any of the\nTransaction Agreements are in effect, and shall survive the termination of any of the Transaction Agreements for a term of twenty (20) years\ncommencing on the date that the last Transaction Agreement expires or is terminated.",
+      "start": 13634,
+      "end": 13987,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "0a42e159b33ed521c4157d8babfaf3c1",
+      "clause_id": "0a42e159b33ed521c4157d8babfaf3c1_clause_032",
+      "text": "[Remainder of page intentionally left blank. Signature page follows.]",
+      "start": 13987,
+      "end": 14058,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "0a42e159b33ed521c4157d8babfaf3c1",
+      "clause_id": "0a42e159b33ed521c4157d8babfaf3c1_clause_033",
+      "text": "5\n\nIN WITNESS WHEREOF, the parties hereto have caused this Agreement to be executed and delivered by their duly authorized\nrepresentative as of the date and year set forth above.",
+      "start": 14058,
+      "end": 14238,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "0a42e159b33ed521c4157d8babfaf3c1",
+      "clause_id": "0a42e159b33ed521c4157d8babfaf3c1_clause_034",
+      "text": "CORGENIX MEDICAL CORPORATION",
+      "start": 14238,
+      "end": 14268,
+      "segment_type": "section_heading",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "0a42e159b33ed521c4157d8babfaf3c1",
+      "clause_id": "0a42e159b33ed521c4157d8babfaf3c1_clause_035",
+      "text": "FINANCIÈRE ELITECH SAS",
+      "start": 14268,
+      "end": 14292,
+      "segment_type": "section_heading",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "0a42e159b33ed521c4157d8babfaf3c1",
+      "clause_id": "0a42e159b33ed521c4157d8babfaf3c1_clause_036",
+      "text": "By:\nDouglass T. Simpson",
+      "start": 14292,
+      "end": 14317,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "0a42e159b33ed521c4157d8babfaf3c1",
+      "clause_id": "0a42e159b33ed521c4157d8babfaf3c1_clause_037",
+      "text": "By:\nPierre Debiais\nTitle:\nPresident and Chief Executive Officer",
+      "start": 14317,
+      "end": 14382,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "0a42e159b33ed521c4157d8babfaf3c1",
+      "clause_id": "0a42e159b33ed521c4157d8babfaf3c1_clause_038",
+      "text": "Title:\nPresident\n\nAddress for notices:",
+      "start": 14382,
+      "end": 14422,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "0a42e159b33ed521c4157d8babfaf3c1",
+      "clause_id": "0a42e159b33ed521c4157d8babfaf3c1_clause_039",
+      "text": "Address for notices:\nAttention: President\n11575 Main Street, Suite 400\nBroomfield, Colorado 80020\nFacsimile: (303) 453-8896\nEmail: Dsimpson@corgenix.com",
+      "start": 14422,
+      "end": 14576,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "0a42e159b33ed521c4157d8babfaf3c1",
+      "clause_id": "0a42e159b33ed521c4157d8babfaf3c1_clause_040",
+      "text": "Attention: Pierre Debiais\n12-12 bis, rue Jean Jaurès\n92800 Puteaux\nFrance\nFacsimile: +33 (1) 41 45 07 19\nEmail: p.debiais@elitechgroup.com",
+      "start": 14576,
+      "end": 14716,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "0a42e159b33ed521c4157d8babfaf3c1",
+      "clause_id": "0a42e159b33ed521c4157d8babfaf3c1_clause_041",
+      "text": "CORGENIX U.K. LTD.",
+      "start": 14716,
+      "end": 14736,
+      "segment_type": "fragment",
+      "is_suspicious": true
+    },
+    {
+      "document_id": "0a42e159b33ed521c4157d8babfaf3c1",
+      "clause_id": "0a42e159b33ed521c4157d8babfaf3c1_clause_042",
+      "text": "WESCOR, INC.",
+      "start": 14736,
+      "end": 14750,
+      "segment_type": "fragment",
+      "is_suspicious": true
+    },
+    {
+      "document_id": "0a42e159b33ed521c4157d8babfaf3c1",
+      "clause_id": "0a42e159b33ed521c4157d8babfaf3c1_clause_043",
+      "text": "By:\nDouglass T. Simpson",
+      "start": 14750,
+      "end": 14775,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "0a42e159b33ed521c4157d8babfaf3c1",
+      "clause_id": "0a42e159b33ed521c4157d8babfaf3c1_clause_044",
+      "text": "By:\nJanice Wallentine\nTitle:\nDirector",
+      "start": 14775,
+      "end": 14814,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "0a42e159b33ed521c4157d8babfaf3c1",
+      "clause_id": "0a42e159b33ed521c4157d8babfaf3c1_clause_045",
+      "text": "Title:\nChief Financial Officer",
+      "start": 14814,
+      "end": 14846,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "0a42e159b33ed521c4157d8babfaf3c1",
+      "clause_id": "0a42e159b33ed521c4157d8babfaf3c1_clause_046",
+      "text": "Address for notices:",
+      "start": 14846,
+      "end": 14868,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "0a42e159b33ed521c4157d8babfaf3c1",
+      "clause_id": "0a42e159b33ed521c4157d8babfaf3c1_clause_047",
+      "text": "Address for notices:\n40 Commerce Road\nLynch Wood\nPeterborough PE2 6LR\nUnited Kingdom\nFax +44 (0) 1733 238412\nEmail: Dsimpson@corgenix.com",
+      "start": 14868,
+      "end": 15007,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "0a42e159b33ed521c4157d8babfaf3c1",
+      "clause_id": "0a42e159b33ed521c4157d8babfaf3c1_clause_048",
+      "text": "Attention: Michael Saunders\n370 West 1700 South\nLogan, Utah 84321\nFacsimile: (425) 752-4127\nEmail: m.saunders@elitechgroup.com",
+      "start": 15007,
+      "end": 15135,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "0a42e159b33ed521c4157d8babfaf3c1",
+      "clause_id": "0a42e159b33ed521c4157d8babfaf3c1_clause_049",
+      "text": "Signature Page — Mutual Confidentiality Agreement",
+      "start": 15135,
+      "end": 15186,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "0a42e159b33ed521c4157d8babfaf3c1",
+      "clause_id": "0a42e159b33ed521c4157d8babfaf3c1_clause_050",
+      "text": "1\n\nELITECH UK LIMITED",
+      "start": 15186,
+      "end": 15209,
+      "segment_type": "section_heading",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "0a42e159b33ed521c4157d8babfaf3c1",
+      "clause_id": "0a42e159b33ed521c4157d8babfaf3c1_clause_051",
+      "text": "By:\nTim Watson\n\nTitle:\nManaging Director",
+      "start": 15209,
+      "end": 15251,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "0a42e159b33ed521c4157d8babfaf3c1",
+      "clause_id": "0a42e159b33ed521c4157d8babfaf3c1_clause_052",
+      "text": "Address for notices:",
+      "start": 15251,
+      "end": 15273,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "0a42e159b33ed521c4157d8babfaf3c1",
+      "clause_id": "0a42e159b33ed521c4157d8babfaf3c1_clause_053",
+      "text": "Attention: Tim Watson\nUnit 6, River Park Industrial Estate\nBillet Lane\nBerkhamsted HP4 1HL\nEngland\nFacsimile: +44 144 287 6774\nEmail: tim@elitechuk.com",
+      "start": 15273,
+      "end": 15426,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "0a42e159b33ed521c4157d8babfaf3c1",
+      "clause_id": "0a42e159b33ed521c4157d8babfaf3c1_clause_054",
+      "text": "Signature Page — Mutual Confidentiality Agreement",
+      "start": 15426,
+      "end": 15477,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "0a42e159b33ed521c4157d8babfaf3c1",
+      "clause_id": "0a42e159b33ed521c4157d8babfaf3c1_clause_055",
+      "text": "2",
+      "start": 15477,
+      "end": 15478,
+      "segment_type": "fragment",
+      "is_suspicious": true
+    }
+  ]
+}

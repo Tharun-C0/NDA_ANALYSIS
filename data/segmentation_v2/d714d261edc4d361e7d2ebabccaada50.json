@@ -1,0 +1,190 @@
+{
+  "document_id": "d714d261edc4d361e7d2ebabccaada50",
+  "source_file": "d714d261edc4d361e7d2ebabccaada50.txt",
+  "total_characters": 27577,
+  "num_clauses": 20,
+  "num_legal_clauses": 19,
+  "quality_status": "REVIEW",
+  "clauses": [
+    {
+      "document_id": "d714d261edc4d361e7d2ebabccaada50",
+      "clause_id": "d714d261edc4d361e7d2ebabccaada50_clause_000",
+      "text": "EX-10.2 3 exhibit102-confidentiality.htm EXHIBIT 10.2\nExhibit A\nCONFIDENTIALITY, NON-INTERFERENCE, AND INVENTION ASSIGNMENT AGREEMENT\nAs a condition of my becoming employed by, or continuing employment with, HealthEquity, Inc., a Delaware\ncorporation (the “Company”), and in consideration of my employment with the Company and my receipt of the\ncompensation now and hereafter paid to me by the Company, I agree to the following terms set forth in this\nConfidentiality, Non-Interference, and Invention Assignment Agreement (this “Non-Interference Agreement”):\nSection 1. Confidential Information.",
+      "start": 0,
+      "end": 596,
+      "segment_type": "header",
+      "is_suspicious": true
+    },
+    {
+      "document_id": "d714d261edc4d361e7d2ebabccaada50",
+      "clause_id": "d714d261edc4d361e7d2ebabccaada50_clause_001",
+      "text": "(a) Company Group Information. I acknowledge that, during the course of my employment, I will have access\nto information about the Company and its direct and indirect subsidiaries and affiliates (collectively, the “Company\nGroup”) and that my employment with the Company shall bring me into close contact with confidential and proprietary\ninformation of any member of the Company Group. In recognition of the foregoing, I agree, at all times during the term\nof my employment with the Company and thereafter, to hold in confidence, and not to use, except for the benefit of any\nmember of the Company Group, or to disclose to any person, firm, corporation, or other entity without written\nauthorization of the Company, any Confidential Information that I obtain or create. I further agree not to make copies of\nsuch Confidential Information except as authorized by the Company. I understand that “Confidential Information”\nmeans information that any member of the Company Group has developed, acquired, created, compiled, discovered, or\nowned or will develop, acquire, create, compile, discover, or own, that has value in or to the business of any member of\nthe Company Group that is not generally known and that the Company wishes to maintain as confidential. I understand\nthat Confidential Information includes, but is not limited to, any and all non-public information that relates to the actual\nor anticipated business and/or products, research, or development of the Company, or to the Company’s technical data,\ntrade secrets, or know-how, including, but not limited to, research, product plans, or other information regarding the\nCompany’s products or services and markets, customer lists, and customers (including, but not limited to, customers of\nthe Company on whom I called or with whom I may become acquainted during the term of my employment), software,\ndevelopments, inventions, processes, formulas, technology, designs, drawings, engineering, hardware configuration\ninformation, marketing, finances, and other business information disclosed by the Company either directly or indirectly\nin writing, orally, or by drawings or inspection of premises, parts, equipment, or other Company property.\nNotwithstanding the foregoing, Confidential Information shall not include (i) any of the foregoing items that have\nbecome publicly and widely known through no unauthorized disclosure by me or others who were under confidentiality\nobligations as to the item or items involved, or (ii) any information that I am required to disclose to, or by, any\ngovernmental or judicial authority; provided, however, that in such event I will give the Company prompt written notice\nthereof so that any member of the Company Group may seek an appropriate protective order and/or waive in writing\ncompliance with the confidentiality provisions of this Non-Interference Agreement.\nA-1",
+      "start": 596,
+      "end": 3467,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "d714d261edc4d361e7d2ebabccaada50",
+      "clause_id": "d714d261edc4d361e7d2ebabccaada50_clause_002",
+      "text": "(b) Former Employer Information. I represent that my performance of all of the terms of this Non-Interference\nAgreement as an employee of the Company has not breached and will not breach any agreement to keep in confidence\nproprietary information, knowledge, or data acquired by me in confidence or trust prior or subsequent to the\ncommencement of my employment with the Company, and I will not disclose to any member of the Company Group, or\ninduce any member of the Company Group to use, any developments, or confidential or proprietary information or\nmaterial I may have obtained in connection with employment with any prior employer in violation of a confidentiality\nagreement, nondisclosure agreement, or similar agreement with such prior employer.",
+      "start": 3467,
+      "end": 4222,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "d714d261edc4d361e7d2ebabccaada50",
+      "clause_id": "d714d261edc4d361e7d2ebabccaada50_clause_003",
+      "text": "(c) Third Party Information. I understand that the Company Group has received and in the future may receive\nfrom third parties confidential or proprietary information (“Third Party Information”) subject to a duty on the Company\nGroup’s part to maintain the confidentiality of such information and to use it only for certain limited purposes. In\nrecognition of the foregoing, I agree, at all times during the period of my employment with the Company (the\n“Employment Period”) and thereafter, to hold in confidence and will not disclose to anyone (other than Company Group\npersonnel who need to know such information in connection with their work for the Company Group), and not to use,\nexcept for the benefit of the Company Group, Third Party Information without the express prior written consent of an\nofficer of the Company and otherwise treat Third Party Information as Confidential Information.",
+      "start": 4222,
+      "end": 5120,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "d714d261edc4d361e7d2ebabccaada50",
+      "clause_id": "d714d261edc4d361e7d2ebabccaada50_clause_004",
+      "text": "(d) Whistleblower; Defend Trade Secrets Act Disclosure.",
+      "start": 5120,
+      "end": 5176,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "d714d261edc4d361e7d2ebabccaada50",
+      "clause_id": "d714d261edc4d361e7d2ebabccaada50_clause_005",
+      "text": "(i) In addition, I understand that nothing in this Agreement shall be construed to prohibit me from\nreporting possible violations of law or regulation to any governmental agency or regulatory body or making other\ndisclosures that are protected under any law or regulation, or from filing a charge with or participating in any\ninvestigation or proceeding conducted by any governmental agency or regulatory body.",
+      "start": 5176,
+      "end": 5587,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "d714d261edc4d361e7d2ebabccaada50",
+      "clause_id": "d714d261edc4d361e7d2ebabccaada50_clause_006",
+      "text": "(ii) I understand that the Defend Trade Secrets Act provides that I may not be held criminally or civilly\nliable under any Federal or state trade secret law for the disclosure of a trade secret that is made in confidence to a\nFederal, state, or local government official, either directly or indirectly, or to an attorney, and solely for the purpose of\nreporting or investigating a suspected violation of law; or that is made in a complaint or other document filed in a lawsuit\nor other proceeding, if such filing is made under seal. In the event that I file a lawsuit for retaliation by any member of\nthe Company Group for reporting a suspected violation of law, I may disclose the trade secret to my attorney and use the\ntrade secret information in the court proceeding, if I file any document containing the trade secret under seal and do not\ndisclose the trade secret, except pursuant to court order.\nSection 2. Developments.",
+      "start": 5587,
+      "end": 6516,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "d714d261edc4d361e7d2ebabccaada50",
+      "clause_id": "d714d261edc4d361e7d2ebabccaada50_clause_007",
+      "text": "(a) Developments Retained and Licensed. I have attached hereto, as Schedule A, a list describing with\nparticularity all developments, original works of authorship, improvements, and trade secrets that I can demonstrate\nwere created or owned by me prior to the\nA-2\n\ncommencement of my employment (collectively referred to as “Prior Developments”), which belong solely to me or\nbelong to me jointly with another, that relate in any way to any of the actual or proposed businesses, products, or\nresearch and development of any member of the Company Group, and that are not assigned to the Company hereunder,\nor if no such list is attached, I represent that there are no such Prior Developments. If, during any period during which I\nperform or performed services for any member of the Company Group both before or after the date hereof (the\n“Assignment Period”), whether as an officer, employee, director, independent contractor, consultant, or agent, or in any\nother capacity, I incorporate (or have incorporated) into any member of the Company Group’s product or process a Prior\nDevelopment owned by me or in which I have an interest, I hereby grant each member of the Company Group, and each\nmember of the Company Group shall have, a non-exclusive, royalty-free, irrevocable, perpetual, transferable worldwide\nlicense (with the right to sublicense) to make, have made, copy, modify, make derivative works of, use, sell, and\notherwise distribute such Prior Development as part of or in connection with such product or process.",
+      "start": 6516,
+      "end": 8041,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "d714d261edc4d361e7d2ebabccaada50",
+      "clause_id": "d714d261edc4d361e7d2ebabccaada50_clause_008",
+      "text": "(b) Assignment of Developments. I agree that I will, without additional compensation, promptly make full\nwritten disclosure to the Company, and will hold in trust for the sole right and benefit of the Company all developments,\noriginal works of authorship, inventions, concepts, know-how, improvements, trade secrets, and similar proprietary\nrights, whether or not patentable or registrable under copyright or similar laws, which I may solely or jointly conceive\nor develop or reduce to practice, or have solely or jointly conceived or developed or reduced to practice, or have caused\nor may cause to be conceived or developed or reduced to practice, during the Assignment Period, whether or not during\nregular working hours, provided they either (i) relate at the time of conception, development or reduction to practice to\nthe business of any member of the Company Group, or the actual or anticipated research or development of any\nmember of the Company Group; (ii) result from or relate to any work performed for any member of the Company\nGroup; or (iii) are developed through the use of equipment, supplies, or facilities of any member of the Company\nGroup, or any Confidential Information, or in consultation with personnel of any member of the Company Group\n(collectively referred to as “Developments”). I further acknowledge that all Developments made by me (solely or jointly\nwith others) within the scope of and during the Assignment Period are “works made for hire” (to the greatest extent\npermitted by applicable law) for which I am, in part, compensated by my salary, unless regulated otherwise by law, but\nthat, in the event any such Development is deemed not to be a work made for hire, I hereby assign to the Company, or\nits designee, all my right, title, and interest throughout the world in and to any such Development. If any Developments\ncannot be assigned, I hereby grant to each member of the Company Group an exclusive, assignable, irrevocable,\nperpetual, worldwide, sublicenseable (through one or multiple tiers), royalty-free, unlimited license to use, make,\nmodify, sell, offer for sale, reproduce, distribute, create derivative works of, publicly perform, publicly display and\ndigitally perform and display such work in any media now known or hereafter known. Outside the scope of my service,\nwhether during or after my employment with any member of the Company Group, I agree not to (i) modify, adapt, alter,\ntranslate, or create derivative works from any such work of authorship or (ii) merge any such work of authorship with\nother Developments. To the extent rights related to paternity, integrity, disclosure and withdrawal (collectively, “Moral\nRights”) may not be assignable under applicable law and to the extent the\nA-3\n\nfollowing is allowed by the laws in the various countries where Moral Rights exist, I hereby irrevocably waive such\nMoral Rights and consent to any action of any member of the Company Group that would violate such Moral Rights in\nthe absence of such consent.",
+      "start": 8041,
+      "end": 11055,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "d714d261edc4d361e7d2ebabccaada50",
+      "clause_id": "d714d261edc4d361e7d2ebabccaada50_clause_009",
+      "text": "(c) Maintenance of Records. I agree to keep and maintain adequate and current written records of all\nDevelopments made by me (solely or jointly with others) during the Assignment Period. The records may be in the\nform of notes, sketches, drawings, flow charts, electronic data or recordings, and any other format. The records will be\navailable to and remain the sole property of any member of the Company Group at all times. I agree not to remove such\nrecords from the Company’s place of business except as expressly permitted by Company Group policy, which may,\nfrom time to time, be revised at the sole election of such member of the Company Group for the purpose of furthering\nthe business of such member of the Company Group.",
+      "start": 11055,
+      "end": 11785,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "d714d261edc4d361e7d2ebabccaada50",
+      "clause_id": "d714d261edc4d361e7d2ebabccaada50_clause_010",
+      "text": "(d) Intellectual Property Rights. I agree to assist the Company, or its designee, at the Company’s expense, in\nevery way to secure the rights of each member of the Company Group in the Developments and any copyrights, patents,\ntrademarks, service marks, database rights, domain names, mask work rights, moral rights, and other intellectual\nproperty rights relating thereto in any and all countries, including the disclosure to the Company of all pertinent\ninformation and data with respect thereto, the execution of all applications, specifications, oaths, assignments,\nrecordations, and all other instruments that the Company shall deem necessary in order to apply for, obtain, maintain,\nand transfer such rights and in order to assign and convey to each member of the Company Group the sole and\nexclusive right, title, and interest in and to such Developments, and any intellectual property and other proprietary rights\nrelating thereto. I further agree that my obligation to execute or cause to be executed, when it is in my power to do so,\nany such instrument or papers shall continue after the Assignment Period until the expiration of the last such intellectual\nproperty right to expire in any country of the world; provided, however, the Company shall reimburse me for my\nreasonable expenses incurred in connection with carrying out the foregoing obligation. If the Company is unable\nbecause of my mental or physical incapacity or unavailability for any other reason to secure my signature to apply for or\nto pursue any application for any United States or foreign patents or copyright registrations covering Developments or\noriginal works of authorship assigned to the Company as above, then I hereby irrevocably designate and appoint the\nCompany and its duly authorized officers and agents as my agent and attorney in fact to act for and in my behalf and\nstead to execute and file any such applications or records and to do all other lawfully permitted acts to further the\napplication for, prosecution, issuance, maintenance, and transfer of letters patent or registrations thereon with the same\nlegal force and effect as if originally executed by me. I hereby waive and irrevocably quitclaim to the Company any and\nall claims, of any nature whatsoever, that I now or hereafter have for past, present, or future infringement of any and all\nproprietary rights assigned to the Company.\nSection 3. Returning Company Group Documents.\nI agree that, at the time of termination of my employment with the Company for any reason, I will deliver to the\nCompany (and will not keep in my possession, recreate, or deliver to\nA-4\n\nanyone else) any and all Confidential Information and all other documents, materials, information, and property\ndeveloped by me pursuant to my employment or otherwise belonging to the Company. I agree further that any property\nsituated on the Company’s premises and owned by the Company (or any other member of the Company Group),\nincluding disks and other storage media, filing cabinets, and other work areas, is subject to inspection by personnel of\nany member of the Company Group at any time with or without notice.\nSection 4. Disclosure of Agreement.\nAs long as it remains in effect, I will disclose the existence of this Non-Interference Agreement to any\nprospective employer, partner, co-venturer, investor, or lender prior to entering into an employment, partnership, or other\nbusiness relationship with such person or entity.\nSection 5. Restrictions on Interfering.",
+      "start": 11785,
+      "end": 15286,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "d714d261edc4d361e7d2ebabccaada50",
+      "clause_id": "d714d261edc4d361e7d2ebabccaada50_clause_011",
+      "text": "(a) Non-Competition. During the Employment Period and the Post-Termination Non-Compete Period, I shall\nnot, directly or indirectly, individually or on behalf of any person, company, enterprise, or entity, or as a sole proprietor,\npartner, stockholder, director, officer, principal, agent, or executive, or in any other capacity or relationship, engage in\nany Competitive Activities or own any securities (debt or equity) in any person, company, enterprise, or entity that is\nengaged in Competitive Activities, within the United States or any other jurisdiction in which the Company Group is\nactively engaged in business. Notwithstanding the foregoing, my ownership of securities of a public company engaged\nin Competitive Activities not in excess of three percent (3%) of any class of such securities shall not be considered a\nbreach of the covenants set forth in this Section.",
+      "start": 15286,
+      "end": 16164,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "d714d261edc4d361e7d2ebabccaada50",
+      "clause_id": "d714d261edc4d361e7d2ebabccaada50_clause_012",
+      "text": "(b) Non-Interference. During the Employment Period and the Post-Termination Non-Interference Period, I shall\nnot, directly or indirectly for my own account or for the account of any other individual or entity, engage in Interfering\nActivities.",
+      "start": 16164,
+      "end": 16408,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "d714d261edc4d361e7d2ebabccaada50",
+      "clause_id": "d714d261edc4d361e7d2ebabccaada50_clause_013",
+      "text": "(c) Definitions. For purposes of this Non-Interference Agreement :\n(i) “Business Relation” shall mean any current or prospective client, customer, licensee, or other\nbusiness relation of any member of the Company Group, or any such relation that was a client, customer, licensee,\nsupplier, or other business relation within the six (6) month period prior to the expiration of the Employment Period, in\neach case, to whom I provided services, or with whom I transacted business, or whose identity became known to me in\nconnection with my relationship with or employment by the Company Group.\n(ii) “Competitive Activities” shall mean consumer health care related businesses, including the business\nof acting as custodian or administrator for medical payment reimbursement accounts, including, but not limited to, health\nsavings accounts, flexible spending accounts and health reimbursement accounts or any business activities in which any\nmember of the Company Group is engaged (or has committed plans to engage) during the Employment Period.\nA-5\n\n(iii) “Interfering Activities” shall mean (A) encouraging, soliciting, or inducing, or in any manner\nattempting to encourage, solicit, or induce, any Person employed by, or providing consulting services to, any member of\nthe Company Group to terminate such Person’s employment or services (or in the case of a consultant, materially\nreducing such services) with any member of the Company Group; (B) hiring any individual who was employed by any\nmember of the Company Group within the six (6) month period prior to the date of such hiring; or (C) encouraging,\nsoliciting, or inducing, or in any manner attempting to encourage, solicit, or induce, any Business Relation to cease\ndoing business with or reduce the amount of business conducted with any member of the Company Group, or in any way\ninterfering with the relationship between any such Business Relation and any member of the Company Group.\n(iv) “Person” shall mean any individual, corporation, partnership, limited liability company, joint\nventure, association, joint‑stock company, trust (charitable or non-charitable), unincorporated organization, or other form\nof business entity.\n(v) “Post-Termination Non-Compete Period” shall mean the period commencing on the date of the\ntermination of the Employment Period for any reason and ending on the twelve (12) month anniversary of such date of\ntermination.\n(vi) “Post-Termination Non-Interference Period” shall mean the period commencing on the date of the\ntermination of the Employment Period for any reason and ending on the twenty-four (24) month anniversary of such date\nof termination.",
+      "start": 16408,
+      "end": 19053,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "d714d261edc4d361e7d2ebabccaada50",
+      "clause_id": "d714d261edc4d361e7d2ebabccaada50_clause_014",
+      "text": "(d) Non-Disparagement. I agree that during the Employment Period, and at all times thereafter, I will not make\nany disparaging or defamatory comments regarding any member of the Company Group or its respective current or\nformer directors, officers, employees or shareholders in any respect or make any comments concerning any aspect of\nmy relationship with any member of the Company Group or any conduct or events which precipitated any termination\nof my employment from any member of the Company Group. However, my obligations under this subparagraph (d)\nshall not apply to disclosures required by applicable law, regulation, or order of a court or governmental agency.\nSection 6. Reasonableness of Restrictions.\nI acknowledge and recognize the highly competitive nature of the Company’s business, that access to\nConfidential Information renders me special and unique within the Company’s industry, and that I will have the\nopportunity to develop substantial relationships with existing and prospective clients, accounts, customers, consultants,\ncontractors, investors, and strategic partners of any member of the Company Group during the course of and as a result\nof my employment with the Company. In light of the foregoing, I recognize and acknowledge that the restrictions and\nlimitations set forth in this Non-Interference Agreement are reasonable and valid in geographical and temporal scope and\nin all other respects and are essential to protect the value of the business and assets of any member of the Company\nGroup. I acknowledge further that the restrictions and limitations set forth in this Non-Interference Agreement will not\nmaterially interfere with my ability to earn a living following the termination of my employment with the\nA-6\n\nCompany and that my ability to earn a livelihood without violating such restrictions is a material condition to my\nemployment with the Company.\nSection 7. Independence; Severability; Blue Pencil.\nEach of the rights enumerated in this Non-Interference Agreement shall be independent of the others and shall be\nin addition to and not in lieu of any other rights and remedies available to any member of the Company Group at law or\nin equity. If any of the provisions of this Non-Interference Agreement or any part of any of them is hereafter construed or\nadjudicated to be invalid or unenforceable, the same shall not affect the remainder of this Non-Interference Agreement,\nwhich shall be given full effect without regard to the invalid portions. If any of the covenants contained herein are held\nto be invalid or unenforceable because of the duration of such provisions or the area or scope covered thereby, I agree\nthat the court making such determination shall have the power to reduce the duration, scope, and/or area of such\nprovision to the maximum and/or broadest duration, scope, and/or area permissible by law, and in its reduced form said\nprovision shall then be enforceable.\nSection 8. Injunctive Relief.\nI expressly acknowledge that any breach or threatened breach of any of the terms and/or conditions set forth in\nthis Non-Interference Agreement may result in substantial, continuing, and irreparable injury to the members of the\nCompany Group. Therefore, I hereby agree that, in addition to any other remedy that may be available to the Company,\nany member of the Company Group shall be entitled to injunctive relief, specific performance, or other equitable relief\nby a court of appropriate jurisdiction in the event of any breach or threatened breach of the terms of this Non-\nInterference Agreement without the necessity of proving irreparable harm or injury as a result of such breach or\nthreatened breach. Notwithstanding any other provision to the contrary, I acknowledge and agree that the Post-\nTermination Non-Compete Period, or Post-Termination Non-Interference Period, as applicable, shall be tolled during any\nperiod of violation of any of the covenants in Section 5 hereof and during any other period required for litigation during\nwhich the Company or any other member of the Company Group seeks to enforce such covenants against me if it is\nultimately determined that I was in breach of such covenants.\nSection 9. Cooperation.\nI agree that, following any termination of my employment, I will continue to provide reasonable cooperation to\nthe Company and/or any other member of the Company Group and its or their respective counsel in connection with any\ninvestigation, administrative proceeding, or litigation relating to any matter that occurred during my employment in\nwhich I was involved or of which I have knowledge. As a condition of such cooperation, the Company shall reimburse\nme for reasonable out-of-pocket expenses incurred at the request of the Company with respect to my compliance with\nthis paragraph. I also agree that, in the event that I am subpoenaed by any person or entity (including, but not limited to,\nany government agency) to give testimony or provide documents (in a deposition, court proceeding, or otherwise) that in\nany way relates to my employment by the Company and/or any other member of the Company Group, I will give prompt\nnotice of such request to the Company and will make no disclosure until the Company\nA-7\n\nand/or the other member of the Company Group has had a reasonable opportunity to contest the right of the requesting\nperson or entity to such disclosure.\nSection 10. General Provisions.",
+      "start": 19053,
+      "end": 24467,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "d714d261edc4d361e7d2ebabccaada50",
+      "clause_id": "d714d261edc4d361e7d2ebabccaada50_clause_015",
+      "text": "(a) Governing Law, Venue and Jurisdiction. EXCEPT WHERE PREEMPTED BY FEDERAL LAW, THE\nVALIDITY, INTERPRETATION, CONSTRUCTION, AND PERFORMANCE OF THIS NON-INTERFERENCE\nAGREEMENT IS GOVERNED BY AND IS TO BE CONSTRUED UNDER THE LAWS OF THE STATE OF\nDELAWARE APPLICABLE TO AGREEMENTS MADE AND TO BE PERFORMED IN THAT STATE, WITHOUT\nREGARD TO CONFLICT OF LAWS RULES. ANY DISPUTE OR CLAIM ARISING OUT OF OR RELATING TO\nTHIS RELEASE OR CLAIM OF BREACH HEREOF SHALL BE BROUGHT EXCLUSIVELY IN THE UNITED\nSTATES DISTRICT COURT FOR THE DISTRICT OF DELAWARE, TO THE EXTENT FEDERAL JURISDICTION\nEXISTS, AND IN ANY COURT SITTING IN SALT LAKE CITY, UTAH, BUT ONLY IN THE EVENT FEDERAL\nJURISDICTION DOES NOT EXIST, AND ANY APPLICABLE APPELLATE COURTS. FURTHER, I HEREBY\nWAIVE ANY RIGHT TO TRIAL BY JURY IN CONNECTION WITH ANY SUIT, ACTION, OR PROCEEDING\nUNDER OR IN CONNECTION WITH THIS NON-INTERFERENCE AGREEMENT.",
+      "start": 24467,
+      "end": 25366,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "d714d261edc4d361e7d2ebabccaada50",
+      "clause_id": "d714d261edc4d361e7d2ebabccaada50_clause_016",
+      "text": "(b) Entire Agreement. This Non-Interference Agreement sets forth the entire agreement and understanding\nbetween the Company and me relating to the subject matter herein and merges all prior discussions between us. No\nmodification or amendment to this Non-Interference Agreement, nor any waiver of any rights under this Non-\nInterference Agreement, will be effective unless in writing signed by the party to be charged. Any subsequent change or\nchanges in my duties, obligations, rights, or compensation will not affect the validity or scope of this Non-Interference\nAgreement.",
+      "start": 25366,
+      "end": 25943,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "d714d261edc4d361e7d2ebabccaada50",
+      "clause_id": "d714d261edc4d361e7d2ebabccaada50_clause_017",
+      "text": "(c) No Right of Continued Employment. I acknowledge and agree that nothing contained herein shall be\nconstrued as granting me any right to continued employment by the Company, and the right of the Company to\nterminate my employment at any time and for no reason or any reason, with or without cause, is specifically reserved.",
+      "start": 25943,
+      "end": 26269,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "d714d261edc4d361e7d2ebabccaada50",
+      "clause_id": "d714d261edc4d361e7d2ebabccaada50_clause_018",
+      "text": "(d) Successors and Assigns. This Non-Interference Agreement will be binding upon my heirs, executors,\nadministrators, and other legal representatives and will be for the benefit of the Company, its successors, and its assigns.\nI expressly acknowledge and agree that this Non-Interference Agreement may be assigned by the Company without my\nconsent to any other member of the Company Group as well as any purchaser of all or substantially all of the assets or\nstock of the Company or of any business or division of the Company for which I provide services, whether by purchase,\nmerger, or other similar corporate transaction, provided that the license granted pursuant to Section 2(a) may be\nassigned to any third party by the Company without my consent.",
+      "start": 26269,
+      "end": 27023,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "d714d261edc4d361e7d2ebabccaada50",
+      "clause_id": "d714d261edc4d361e7d2ebabccaada50_clause_019",
+      "text": "(e) Survival. The provisions of this Non-Interference Agreement shall survive the termination of my\nemployment with the Company and/or the assignment of this Non-Interference Agreement by the Company to any\nsuccessor in interest or other assignee.\nA-8\n\n* * *\n[Signature to appear on the following page.]\nA-9\n\nI, Edward R. Bloomberg, have executed this Confidentiality, Non-Interference, and Invention Assignment\nAgreement on the date set forth below:\nDate:\n\n(Signature)\n(Type/Print Name)\n[Signature Page to Edward R. Bloomberg Non-Interference Agreement]",
+      "start": 27023,
+      "end": 27577,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    }
+  ]
+}

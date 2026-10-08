@@ -1,0 +1,63 @@
+category_1,category_2,true_cooccurrence_count,predicted_cooccurrence_count
+Term and Termination,Employees,8,32
+Confidentiality Obligations,Authorized Disclosure,6,30
+Confidentiality Obligations,Non-Confidential Information,6,17
+Definition of Confidential Information,Confidentiality Obligations,6,24
+Confidentiality Obligations,Employees,5,22
+Competition Rights,Term and Termination,5,10
+Term and Termination,Additional Information,4,10
+Competition Rights,Employees,3,15
+Liability for Damages,Term and Termination,3,8
+Authorized Disclosure,Non-Confidential Information,3,15
+Definition of Confidential Information,Employees,3,15
+Definition of Confidential Information,Non-Confidential Information,3,17
+Definition of Confidential Information,Competition Rights,3,9
+Intellectual Property,Employees,3,2
+Authorized Disclosure,Employees,2,23
+Authorized Disclosure,Additional Information,2,0
+Authorized Disclosure,Liability for Damages,2,8
+Confidentiality Obligations,Intellectual Property,2,9
+Confidentiality Obligations,Competition Rights,2,13
+Non-Confidential Information,Employees,2,9
+Liability for Damages,Competition Rights,2,1
+Party Identification,Purpose,2,1
+Definition of Confidential Information,Term and Termination,2,15
+Definition of Confidential Information,Authorized Disclosure,2,22
+Purpose,Competition Rights,2,9
+Party Identification,Definition of Confidential Information,2,1
+Party Identification,Additional Information,2,43
+Party Identification,NDA Type,1,2
+Party Identification,Non-Confidential Information,1,0
+Party Identification,Confidentiality Obligations,1,0
+Liability for Damages,Additional Information,1,11
+Term and Termination,Intellectual Property,1,9
+Employees,Additional Information,1,2
+Non-Confidential Information,Term and Termination,1,5
+Authorized Disclosure,Term and Termination,1,14
+Non-Confidential Information,Liability for Damages,1,1
+Confidentiality Obligations,Term and Termination,1,15
+Confidentiality Obligations,Liability for Damages,1,7
+Governing Law and Jurisdiction,Additional Information,1,16
+Liability for Damages,Governing Law and Jurisdiction,1,11
+Purpose,Confidentiality Obligations,1,18
+Party Identification,Intellectual Property,1,0
+Party Identification,Employees,1,2
+Definition of Confidential Information,Intellectual Property,1,19
+Purpose,Employees,1,12
+Purpose,Intellectual Property,1,3
+Definition of Confidential Information,Liability for Damages,0,2
+Purpose,Liability for Damages,0,1
+NDA Type,Employees,0,1
+NDA Type,Additional Information,0,4
+Purpose,Term and Termination,0,5
+Purpose,Definition of Confidential Information,0,15
+Purpose,Authorized Disclosure,0,19
+Purpose,Non-Confidential Information,0,13
+Party Identification,Term and Termination,0,1
+Party Identification,Liability for Damages,0,1
+Authorized Disclosure,Competition Rights,0,13
+Authorized Disclosure,Intellectual Property,0,6
+Non-Confidential Information,Competition Rights,0,6
+Liability for Damages,Intellectual Property,0,1
+Non-Confidential Information,Intellectual Property,0,7
+Liability for Damages,Employees,0,9

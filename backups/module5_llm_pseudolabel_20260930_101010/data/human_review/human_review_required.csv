@@ -1,0 +1,39 @@
+
+document_id,clause_id,clause_text,segment_type,length,human_is_valid_clause,human_corrected_text,human_action,human_notes,reviewer,reviewed,ai_suggested_action,ai_confidence,ai_reason,review_method,review_timestamp,previous_text,next_text,ai_confidence_level,needs_context,review_reason
+0859334b76224ff82c1312ae7b2b5da1,0859334b76224ff82c1312ae7b2b5da1_clause_001,EXECUTION VERSION,section_heading,17,,,,,,False,REMOVE_NON_LEGAL,0.95,'EXECUTION VERSION' is a document header/metadata indicator and does not contain legal contractual obligations or provisions.,llm_auto_pseudolabel,2026-09-30T08:31:37.442778,EX-99.15 2 exhibit-ndaexecutionversion.htm,NON-DISCLOSURE AND CONFIDENTIALITY AGREEMENT,HIGH_CONFIDENCE,False,RANDOM_AUDIT
+0a42e159b33ed521c4157d8babfaf3c1,0a42e159b33ed521c4157d8babfaf3c1_clause_003,PRELIMINARY STATEMENTS,section_heading,22,,,,,,False,MERGE_WITH_NEXT,0.9,The segment is a section heading ('PRELIMINARY STATEMENTS') that introduces the recital statements in the following segment and should be merged with it.,llm_auto_pseudolabel,2026-09-30T08:33:09.710570,"This Mutual Confidentiality Agreement (this “Agreement”), dated as of July 16, 2010, is entered into by and among Financière Elitech
+SAS, a société par actions simplifiée organized under the laws of France (“Elitech”), Wescor, Inc., a Utah corporation (“Wescor”), Elitech UK
+Limited, a private limited company organized under the laws of the United Kingdom (“Elitech UK” and, collectively with Elitech and Wescor,
+the “Elitech Group”), Corgenix Medical Corporation, a Nevada corporation (“Corgenix”), and Corgenix U.K. Ltd., a private limited company
+organized under the laws of the United Kingdom (“Corgenix U.K.” and, collectively with Corgenix, the “Corgenix Group”).","A. The Elitech Group and the Corgenix Group desire to enter into a commercial relationship with each other, either directly or
+through their respective Affiliates (as defined below), specifically: (1) that certain Common Stock Purchase Agreement by and among Corgenix,
+Elitech and Wescor (the “SPA”); (2) that certain Master Distribution Agreement by and between Corgenix and Elitech UK (the “MDA”); and
+(3) that certain Joint Product Development Agreement by and between Corgenix and Elitech (the “JPDA” and, collectively with the SPA and the
+MDA, the “Transaction Agreements”).",HIGH_CONFIDENCE,False,MERGE_DECISION
+0a42e159b33ed521c4157d8babfaf3c1,0a42e159b33ed521c4157d8babfaf3c1_clause_007,AGREEMENT,section_heading,9,,,,,,False,MERGE_WITH_NEXT,0.95,The short section heading 'AGREEMENT' introduces the transition statement in the following segment and should be merged with it.,llm_auto_pseudolabel,2026-09-30T08:33:15.111772,"C. Each of Corgenix, Corgenix U.K., Elitech, Wescor and Elitech UK, on behalf of itself and its respective Affiliates, agrees and
+acknowledges that any Confidential Information (as defined below) that it receives from a disclosing party must be kept confidential in
+accordance with the terms and conditions of this Agreement.","The parties, intending to be legally bound, agree as follows:",HIGH_CONFIDENCE,False,MERGE_DECISION
+0a42e159b33ed521c4157d8babfaf3c1,0a42e159b33ed521c4157d8babfaf3c1_clause_034,CORGENIX MEDICAL CORPORATION,section_heading,28,,,,,,False,REMOVE_NON_LEGAL,0.9,"The segment consists solely of an isolated company name, which matches the criteria for REMOVE_NON_LEGAL.",llm_auto_pseudolabel,2026-09-30T08:33:20.461976,"5
+
+IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be executed and delivered by their duly authorized
+representative as of the date and year set forth above.",FINANCIÈRE ELITECH SAS,HIGH_CONFIDENCE,False,RANDOM_AUDIT
+0a42e159b33ed521c4157d8babfaf3c1,0a42e159b33ed521c4157d8babfaf3c1_clause_035,FINANCIÈRE ELITECH SAS,section_heading,22,,,,,,False,MERGE_WITH_NEXT,0.85,"The current segment contains only a company name representing a signature block header, which continues directly into the signature line in the next segment.",llm_auto_pseudolabel,2026-09-30T08:33:25.856771,CORGENIX MEDICAL CORPORATION,"By:
+Douglass T. Simpson",MEDIUM_CONFIDENCE,False,MERGE_DECISION
+0a42e159b33ed521c4157d8babfaf3c1,0a42e159b33ed521c4157d8babfaf3c1_clause_041,CORGENIX U.K. LTD.,fragment,18,,,,,,False,REMOVE_NON_LEGAL,0.95,The segment consists solely of a standalone company name without any contractual language.,llm_auto_pseudolabel,2026-09-30T08:34:05.203235,"Attention: Pierre Debiais
+12-12 bis, rue Jean Jaurès
+92800 Puteaux
+France
+Facsimile: +33 (1) 41 45 07 19
+Email: p.debiais@elitechgroup.com","WESCOR, INC.",HIGH_CONFIDENCE,False,RANDOM_AUDIT
+0a42e159b33ed521c4157d8babfaf3c1,0a42e159b33ed521c4157d8babfaf3c1_clause_050,"1
+
+ELITECH UK LIMITED",section_heading,21,,,,,,False,MERGE_WITH_NEXT,0.9,The current segment contains a party name on a signature page that directly introduces the signature block in the next segment.,llm_auto_pseudolabel,2026-09-30T08:34:57.900242,Signature Page — Mutual Confidentiality Agreement,"By:
+Tim Watson
+
+Title:
+Managing Director",HIGH_CONFIDENCE,False,MERGE_DECISION
+0a42e159b33ed521c4157d8babfaf3c1,0a42e159b33ed521c4157d8babfaf3c1_clause_055,2,fragment,1,,,,,,False,REMOVE_NON_LEGAL,0.95,"The segment consists solely of an isolated number '2', which represents a page number or non-legal document metadata.",llm_auto_pseudolabel,2026-09-30T08:35:02.614254,Signature Page — Mutual Confidentiality Agreement,N/A,HIGH_CONFIDENCE,False,RANDOM_AUDIT
+2268c5d1120f1abd57170d689f496418,2268c5d1120f1abd57170d689f496418_clause_017,THE STILWELL GROUP,section_heading,18,,,,,,False,,,,,2026-09-30T08:35:21.723928,"16
+
+IN WITNESS WHEREOF, this Agreement has been duly executed and delivered by duly authorized officers of the undersigned as
+of the day and year first above written.","FIRST FINANCIAL NORTHWEST, INC.",,,API_FAILURE

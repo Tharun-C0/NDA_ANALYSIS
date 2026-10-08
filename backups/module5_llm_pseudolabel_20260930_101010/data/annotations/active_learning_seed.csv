@@ -1,0 +1,583 @@
+clause_id,document_id,clause_text,segment_type,review_status,length_bucket,text_length,selection_reason,annotation_status
+0859334b76224ff82c1312ae7b2b5da1_clause_028,0859334b76224ff82c1312ae7b2b5da1,(a) All correspondence to the CEDC Group shall be addressed as follows:,legal_clause,PRIORITY_UNREVIEWED,short,71,document_spread; length_bucket=short; review_status=PRIORITY_UNREVIEWED; segment_type=legal_clause,PENDING
+0859334b76224ff82c1312ae7b2b5da1_clause_030,0859334b76224ff82c1312ae7b2b5da1,"with a copy to
+
+Skadden, Arps, Slate, Meagher & Flom (UK) LLP
+40 Bank St., Canary Wharf
+London E14 5DS
+UK
+Attention: Scott Simpson, Esq.
+Facsimile: +44 20 7519 7070",legal_clause,PRIORITY_UNREVIEWED,medium,164,document_spread; length_bucket=medium; review_status=PRIORITY_UNREVIEWED; segment_type=legal_clause,PENDING
+0859334b76224ff82c1312ae7b2b5da1_clause_017,0859334b76224ff82c1312ae7b2b5da1,"2.4 The Recipient shall ensure that each of its Representatives who are either provided with Confidential Information, or
+otherwise have access to such Confidential Information, are informed of its confidential nature and are directed to abide
+by the terms of this Agreement applicable to Representatives or appropriate duties or obligations of confidentiality
+imposing confidentiality obligations on such Representatives (except that there shall be no requirement to so inform
+where the Representative to whom the information is to be disclosed is subject to professional obligations to maintain the
+confidentiality of the Confidential Information or is otherwise bound by requirements of confidentiality in relation to the
+Confidential Information). The Recipient agrees to be liable for any breach of this Agreement by the Recipient or its
+affiliates or Representatives. The Recipient shall use reasonable efforts to provide written notice to CEDC of any use or
+disclosure of Confidential Information in breach of this Agreement of which Recipient is aware, including without
+limitation written details regarding the circumstances and the identity of the individuals or entities who as a result
+received or may have received access to such Confidential Information.
+-2-",legal_clause,UNREVIEWED,long,1272,document_spread; length_bucket=long; review_status=UNREVIEWED; segment_type=legal_clause,PENDING
+0859334b76224ff82c1312ae7b2b5da1_clause_033,0859334b76224ff82c1312ae7b2b5da1,"with copies to
+
+Darrois Villey Maillot Brochier A.A.R.P.I.
+69, avenue Victor Hugo
+Paris 75783
+France
+Attention: Ben Burman, Esq.
+Facsimile: + 33 1 45 02 49 59",legal_clause,PRIORITY_UNREVIEWED,medium,158,document_spread; length_bucket=medium; review_status=PRIORITY_UNREVIEWED; segment_type=legal_clause,PENDING
+0859334b76224ff82c1312ae7b2b5da1_clause_010,0859334b76224ff82c1312ae7b2b5da1,"1.1 Subject to Section 1.2 below, “Confidential Information” means confidential, secret, proprietary or other non-public
+information pertaining to the business, operations, brands, marketing plans, financial matters, legal matters, products,
+projects, business plans or practices, research and development, product development, intellectual property, financial
+models, trademarks, trade secrets, accounting and financing data, and methods of production, distribution or
+procurement, suppliers, distributors, consultants, advisors or employees, directors or officers of CEDC or any of its
+Subsidiaries (defined below) (together, the “CEDC Group”) that is disclosed or otherwise made available, either orally or
+in writing, by any member of the CEDC Group to the Recipient or its affiliates, agents, or advisors (including, without
+limitation, financial advisors, attorneys, banks and other sources of equity and debt financing and accountants)
+(collectively, “Representatives”).",legal_clause,UNREVIEWED,long,977,document_spread; length_bucket=long; review_status=UNREVIEWED; segment_type=legal_clause,PENDING
+0a42e159b33ed521c4157d8babfaf3c1_clause_052,0a42e159b33ed521c4157d8babfaf3c1,Address for notices:,legal_clause,PRIORITY_UNREVIEWED,short,20,document_spread; length_bucket=short; review_status=PRIORITY_UNREVIEWED; segment_type=legal_clause,PENDING
+0a42e159b33ed521c4157d8babfaf3c1_clause_006,0a42e159b33ed521c4157d8babfaf3c1,"C. Each of Corgenix, Corgenix U.K., Elitech, Wescor and Elitech UK, on behalf of itself and its respective Affiliates, agrees and
+acknowledges that any Confidential Information (as defined below) that it receives from a disclosing party must be kept confidential in
+accordance with the terms and conditions of this Agreement.",legal_clause,UNREVIEWED,medium,325,document_spread; length_bucket=medium; review_status=UNREVIEWED; segment_type=legal_clause,PENDING
+0a42e159b33ed521c4157d8babfaf3c1_clause_012,0a42e159b33ed521c4157d8babfaf3c1,"Notwithstanding the foregoing, information shall not be considered Confidential Information for purposes of this Agreement if:
+(a) a receiving party or its Affiliates already possesses the information without an obligation of confidentiality at the time of
+disclosure as verified by independent written files or records; (b) the information is or becomes part of the public domain other
+than as a result of unauthorized disclosure by a receiving party or its Affiliates of such information; (c) the information has
+been or is made available to a receiving party or its Affiliates by a third party that, to the receiving party’s or its Affiliates’ best
+knowledge, is not under an obligation of confidentiality to the disclosing party or its Affiliates; or (d) the information is
+independently developed by a receiving party or its Affiliates prior to such information being disclosed by a disclosing party, as
+verified by independent written files or records.",legal_clause,UNREVIEWED,long,958,document_spread; length_bucket=long; review_status=UNREVIEWED; segment_type=legal_clause,PENDING
+0a42e159b33ed521c4157d8babfaf3c1_clause_028,0a42e159b33ed521c4157d8babfaf3c1,"13. Headings. The headings of the sections of this Agreement are inserted for convenience only and will not be deemed to
+constitute a part of this Agreement.",legal_clause,UNREVIEWED,medium,157,document_spread; length_bucket=medium; review_status=UNREVIEWED; segment_type=legal_clause,PENDING
+0a42e159b33ed521c4157d8babfaf3c1_clause_020,0a42e159b33ed521c4157d8babfaf3c1,"6. Assignment. This Agreement may not be assigned by any party hereto without the prior written consent of the other parties.
+This Agreement shall bind and accrue to the benefit of the parties hereto and their respective successors and permitted assigns. Notwithstanding
+the foregoing, this Agreement may be assigned by Elitech or Corgenix to any of their respective Affiliates, provided such Affiliate existed as of
+the date of this Agreement.",legal_clause,UNREVIEWED,long,444,document_spread; length_bucket=long; review_status=UNREVIEWED; segment_type=legal_clause,PENDING
+0b59dfc4ce9b40b0c39759dc1ade14bc_clause_004,0b59dfc4ce9b40b0c39759dc1ade14bc,3. Confidentiality and Use of Evaluation Material.,legal_clause,PRIORITY_UNREVIEWED,short,50,document_spread; length_bucket=short; review_status=PRIORITY_UNREVIEWED; segment_type=legal_clause,PENDING
+0b59dfc4ce9b40b0c39759dc1ade14bc_clause_021,0b59dfc4ce9b40b0c39759dc1ade14bc,"(c) Amendment and Waiver. This Agreement may be amended, modified or waived only by a separate written instrument duly signed
+and delivered by or on behalf of both Parties.
+4",legal_clause,UNREVIEWED,medium,174,document_spread; length_bucket=medium; review_status=UNREVIEWED; segment_type=legal_clause,PENDING
+0b59dfc4ce9b40b0c39759dc1ade14bc_clause_023,0b59dfc4ce9b40b0c39759dc1ade14bc,"(e) No Obligation to Complete a Transaction. It is expressly understood that this Agreement is not intended to, and does not,
+constitute an agreement to consummate a Transaction, to conduct or continue negotiations with respect to a Transaction, or to enter into a
+definitive agreement with respect to a Transaction, and neither Party shall have any rights or obligations of any kind whatsoever with respect
+to such a Transaction by virtue of this Agreement or by virtue of any other written or oral expression by the Parties' respective
+Representatives unless and until a definitive agreement with respect to a Transaction is executed and delivered by both Parties, other than for
+the matters specifically agreed to herein. Both Parties further acknowledge and agree that each Party reserves the right, in its sole discretion,
+to provide or not to provide Evaluation Material to the Receiving Party under this Agreement, to reject any and all proposals made by the
+other Party or any of its Representatives with regard to a Transaction, and to terminate discussions and negotiations at any time. If either
+Party determines not to proceed with negotiations with respect to a Transaction, it will promptly inform the other Party of such
+determination.",legal_clause,PRIORITY_UNREVIEWED,long,1250,document_spread; length_bucket=long; review_status=PRIORITY_UNREVIEWED; segment_type=legal_clause,PENDING
+0b59dfc4ce9b40b0c39759dc1ade14bc_clause_012,0b59dfc4ce9b40b0c39759dc1ade14bc,"(g) General. Notwithstanding any other provision of this Agreement, neither Party will be restricted from using the information
+contained in the Evaluation Material that is retained in the minds of Representatives who have had access to the other Party's Evaluation
+Material, unless such use shall infringe on any of such Party's patent rights, trademark rights or copyright rights.",legal_clause,UNREVIEWED,medium,382,document_spread; length_bucket=medium; review_status=UNREVIEWED; segment_type=legal_clause,PENDING
+0b59dfc4ce9b40b0c39759dc1ade14bc_clause_013,0b59dfc4ce9b40b0c39759dc1ade14bc,"4. Accuracy of Evaluation Material: No Representations or Warranties. Each Party acknowledges and agrees (a) that no representation or
+warranty, express or implied, is made by either Party or any of its respective Representatives as to the accuracy or completeness of the Evaluation
+Material, and (b) that the Parties shall be entitled to rely only on those representations and warranties (if any) that may be made in a definitive
+written agreement for the Transaction, signed and delivered by both Parties, and then only to the extent, and subject to the limitations, provided
+therein.",legal_clause,PRIORITY_UNREVIEWED,long,586,document_spread; length_bucket=long; review_status=PRIORITY_UNREVIEWED; segment_type=legal_clause,PENDING
+2268c5d1120f1abd57170d689f496418_clause_022,2268c5d1120f1abd57170d689f496418,"December 19, 2012
+
+SPENCER L. SCHNEIDER",legal_clause,PRIORITY_UNREVIEWED,short,39,document_spread; length_bucket=short; review_status=PRIORITY_UNREVIEWED; segment_type=legal_clause,PENDING
+2268c5d1120f1abd57170d689f496418_clause_014,2268c5d1120f1abd57170d689f496418,"9. This Agreement may not be modified, amended, altered or supplemented except upon the execution and delivery of a
+written agreement executed by all of the parties hereto.",legal_clause,UNREVIEWED,medium,172,document_spread; length_bucket=medium; review_status=UNREVIEWED; segment_type=legal_clause,PENDING
+2268c5d1120f1abd57170d689f496418_clause_008,2268c5d1120f1abd57170d689f496418,"3. Schneider hereby further represents and warrants to the Company that: (a) he satisfies all of the qualifications to be a
+director of the Company as set forth in Article III, Section 4 of the Company's bylaws and any additional applicable qualifications under the laws of
+the State of Washington or under the regulations of any bank regulatory authority, and that he is not in any way precluded from serving as a director
+by order or other action of any court, regulatory or other governmental authority; and (b) no event has occurred with respect to Schneider that would
+require disclosure in a document filed by the Company with the SEC pursuant to the Securities Act of 1933, as amended, or the Securities Exchange
+Act of 1934, as amended, under Item 401(f) of SEC Regulation S-K.",legal_clause,UNREVIEWED,long,785,document_spread; length_bucket=long; review_status=UNREVIEWED; segment_type=legal_clause,PENDING
+2268c5d1120f1abd57170d689f496418_clause_003,2268c5d1120f1abd57170d689f496418,"WHEREAS, the Company has agreed to place Schneider on its board of directors, subject to approval by interested state and
+federal regulatory agencies;",legal_clause,UNREVIEWED,medium,150,document_spread; length_bucket=medium; review_status=UNREVIEWED; segment_type=legal_clause,PENDING
+2268c5d1120f1abd57170d689f496418_clause_006,2268c5d1120f1abd57170d689f496418,"1. In connection with Schneider serving on the Company's board, Schneider and other Company employees, directors, and
+agents may divulge nonpublic information concerning the Company and its subsidiaries to the Stilwell Group and such information may be shared
+among the Stilwell Group's employees and agents who have a need to know such information. The Stilwell Group expressly agrees to maintain all
+nonpublic information concerning the Company and its subsidiaries in confidence. The Stilwell Group expressly acknowledges that federal and
+state securities laws may prohibit a person from purchasing or selling securities of a company, or from communicating such information to any other
+person under circumstances in which it is reasonably foreseeable that such other person is likely to purchase or sell such securities, while the first-
+mentioned person is in possession of material nonpublic information about such company. The Stilwell Group agrees to comply with the Company's
+insider trading and disclosure policies, as in effect from time to time, to the same extent as if it were a director of the Company. To the extent the
+nonpublic information concerning the Company and its subsidiaries received by the Stilwell Group is material, this Agreement is intended to satisfy
+the confidentiality agreement exclusion of Regulation FD of the Securities and Exchange Commission (the ""SEC"") set forth in Section 243.100(b)
+(2)(ii) of Regulation FD.",legal_clause,UNREVIEWED,long,1452,document_spread; length_bucket=long; review_status=UNREVIEWED; segment_type=legal_clause,PENDING
+247166e0245431dcf97ee884f1f07e35_clause_019,247166e0245431dcf97ee884f1f07e35,"Signed:
+
+-24-",fragment,PRIORITY_UNREVIEWED,short,13,document_spread; length_bucket=short; review_status=PRIORITY_UNREVIEWED; segment_type=fragment,PENDING
+247166e0245431dcf97ee884f1f07e35_clause_001,247166e0245431dcf97ee884f1f07e35,"CONFIDENTIALITY AGREEMENT (this “Agreement”), dated as of April 20, 2018, by and between Elaine P. Wynn (the
+“Requesting Stockholder”) and Wynn Resorts, Limited, a Nevada corporation (the “Company”).",legal_clause,UNREVIEWED,medium,199,document_spread; length_bucket=medium; review_status=UNREVIEWED; segment_type=legal_clause,PENDING
+247166e0245431dcf97ee884f1f07e35_clause_012,247166e0245431dcf97ee884f1f07e35,"5. Enforcement. The parties agree that money damages would not be a sufficient remedy for any breach of this Agreement
+by any of the parties hereto and that the other party shall be entitled to equitable relief, including injunctive relief and specific
+performance, in the event of any breach or threatened breach of this Agreement, without proof of actual damages or any requirement
+to post a bond, in addition to all other remedies available at law or in equity. If any action, suit or proceeding is initiated by a party to
+enforce the provisions hereof, the prevailing party in such action, suit or proceeding shall be entitled to reimbursement of all costs
+and expenses, including attorneys’ fees, incurred by such prevailing party in connection therewith.",legal_clause,UNREVIEWED,long,760,document_spread; length_bucket=long; review_status=UNREVIEWED; segment_type=legal_clause,PENDING
+247166e0245431dcf97ee884f1f07e35_clause_004,247166e0245431dcf97ee884f1f07e35,"WHEREAS, subject to the execution of this Agreement and payment by the Requesting Stockholder for the production of the
+Records, the Company will make the Records available for inspection by the Requesting Stockholder in response to the Demand and
+any future demands by the Requesting Stockholder, subject to the provisions contained in this Agreement.",legal_clause,UNREVIEWED,medium,352,document_spread; length_bucket=medium; review_status=UNREVIEWED; segment_type=legal_clause,PENDING
+247166e0245431dcf97ee884f1f07e35_clause_014,247166e0245431dcf97ee884f1f07e35,"7. General Provisions. Captions and section headings used herein are for convenience of reference only, are not part of this
+Agreement and shall not affect the construction of, or to be taken into consideration in, interpreting, this Agreement. This Agreement
+may be amended, changed, modified, altered or terminated only by written instruments signed by the parties hereto, and no waiver of
+compliance with any provision or condition of this Agreement shall be effective unless evidenced by a written instrument executed
+by the party against whom such waiver is to be effective. In the event any provision of this Agreement is held invalid or
+unenforceable by any court of competent jurisdiction, such holding shall not invalidate or render unenforceable any other provision
+hereof. This Agreement may be executed in multiple counterparts, each of which will be deemed an original for all purposes and all
+of which shall constitute a single instrument. Delivery of an executed signature page of this Agreement by email, facsimile or other
+customary means of electronic transmission (e.g., “pdf’) shall be effective as delivery of a manually executed counterpart hereof.",legal_clause,UNREVIEWED,long,1170,document_spread; length_bucket=long; review_status=UNREVIEWED; segment_type=legal_clause,PENDING
+266929af5f5b1ddb4018f2633cb96e24_clause_000,266929af5f5b1ddb4018f2633cb96e24,EX-10.13 3 y31303a1exv10w13.htm EX-10.13: NON-CIRCUMVENTION/NON-DISCLOSURE AGREEMENT,header,PRIORITY_UNREVIEWED,short,84,document_spread; length_bucket=short; review_status=PRIORITY_UNREVIEWED; segment_type=header,PENDING
+266929af5f5b1ddb4018f2633cb96e24_clause_004,266929af5f5b1ddb4018f2633cb96e24,"3. This Agreement shall be governed by and construed and enforced in accordance local laws of the State of Florida applicable to agreements
+made and to be performed within the State, without regard to conflict of laws principles thereof.",legal_clause,UNREVIEWED,medium,237,document_spread; length_bucket=medium; review_status=UNREVIEWED; segment_type=legal_clause,PENDING
+266929af5f5b1ddb4018f2633cb96e24_clause_003,266929af5f5b1ddb4018f2633cb96e24,"2. Jag agrees that once Flow has disclosed the Identity of any Introduced Party to Jag, Jag, its officers, directors, shareholders, employees and
+agents shall not have any contacts with the Introduced Party other than through Flow, unless Flow grants permission in writing for such contacts.
+Specifically, Jag agrees not to circumvent, avoid or bypass Flow, either directly or indirectly, in order to avoid payment of fees or commissions;
+or otherwise benefit, either financially or otherwise, from any information supplied to it in the context of any transaction with an Introduced
+Party.",legal_clause,UNREVIEWED,long,589,document_spread; length_bucket=long; review_status=UNREVIEWED; segment_type=legal_clause,PENDING
+266929af5f5b1ddb4018f2633cb96e24_clause_002,266929af5f5b1ddb4018f2633cb96e24,"1. Pursuant to discussions between Flow and Jag, Flow has disclosed to Jag that certain parties, some of whom who have been identified to
+Jag and others who have yet to be identified by Flow to Jag (the “Introduced Parties”), may be interested in entering into certain transactions with
+Jag.",legal_clause,UNREVIEWED,medium,291,document_spread; length_bucket=medium; review_status=UNREVIEWED; segment_type=legal_clause,PENDING
+266929af5f5b1ddb4018f2633cb96e24_clause_001,266929af5f5b1ddb4018f2633cb96e24,"Exhibit 10.13
+Non-Circumvention/Non-Disclosure Agreement
+ This Non-Circumvention/Non-Disclosure Agreement is made as of this 1st day of January 2004, by and between Flow Capital Advisors, Inc.,
+having is principal place of business at 3727 Pine Lake Drive, Weston, FL 33332 (hereinafter “Finder”), and JAG Media Holdings, Inc., having
+its principal place of business at 6865 SW 18th Street, Suite B-13 Boca Raton, Florida 33433 (“hereinafter “Jag”).",legal_clause,UNREVIEWED,long,449,document_spread; length_bucket=long; review_status=UNREVIEWED; segment_type=legal_clause,PENDING
+293f59373f6a966b13cd7463b4617a6f_clause_045,293f59373f6a966b13cd7463b4617a6f,"IN WITNESS WHEREOF, we do hereby set our hands and seals.",legal_clause,PRIORITY_UNREVIEWED,short,57,document_spread; length_bucket=short; review_status=PRIORITY_UNREVIEWED; segment_type=legal_clause,PENDING
+293f59373f6a966b13cd7463b4617a6f_clause_027,293f59373f6a966b13cd7463b4617a6f,"(8) As a required condition of this settlement, the Company agrees to dismiss with prejudice all claims alleged against Kingsmen in its Counterclaim in the
+Singapore Action, and covenants not to sue Kingsmen for the released claims and/or any claims alleged or which could have been alleged in the Florida Action or
+the Singapore Action, or which existed up to the date",legal_clause,UNREVIEWED,medium,369,document_spread; length_bucket=medium; review_status=UNREVIEWED; segment_type=legal_clause,PENDING
+293f59373f6a966b13cd7463b4617a6f_clause_025,293f59373f6a966b13cd7463b4617a6f,"5
+
+subsidiaries, current and former officers, directors, managers, shareholders, members, employees, agents, attorneys, and their insurers, representatives, successors and assigns, do fully and finally, completely
+release, quitclaim and discharge the Company, its predecessors and successors, present and former affiliates, subsidiaries, officers, directors, shareholders, members, employees, attorneys, insurers, and agents
+from each and every present, past or future claim, debt, demand, judgment, cause of action, rights, damages, costs, or suits, responsibility and liability of every kind and character whatsoever, known or unknown,
+suspected or unsuspected, now existing, whether based on statute, federal law, common law, international law, tort, contract, or any other theory of recovery, pertaining to the Company, including as to the RMST
+Exhibitions, and for all actions or inactions including, but not limited to, all claims and counts set forth in the Singapore Action, and/or arising out of or otherwise related to the incident(s) referenced in the
+above-identified litigation, including without limitation, all rights or claims that also could have been asserted in the Federal Court Action, the Florida Action, or the Singapore Action, and from all alleged breaches and",legal_clause,PRIORITY_UNREVIEWED,long,1285,document_spread; length_bucket=long; review_status=PRIORITY_UNREVIEWED; segment_type=legal_clause,PENDING
+293f59373f6a966b13cd7463b4617a6f_clause_013,293f59373f6a966b13cd7463b4617a6f,"WHEREAS, the Company has filed a counterclaim in the Singapore Action seeking recovery for damages allegedly sustained from Kingsmen’s activities, and",legal_clause,UNREVIEWED,medium,150,document_spread; length_bucket=medium; review_status=UNREVIEWED; segment_type=legal_clause,PENDING
+293f59373f6a966b13cd7463b4617a6f_clause_016,293f59373f6a966b13cd7463b4617a6f,"(1) NOW THEREFORE, in consideration of the covenants, conditions and promises set forth herein and for other good and valuable consideration, the receipt
+and sufficiency and delivery of which is hereby acknowledged, the parties hereto, intending to be legally bound, agree as follows: Imagine (on its own account
+and/or on behalf of any other party or person, including but not limited to insurers) shall pay to the Company, the sum of Seven Hundred Twenty-Five Thousand
+Dollars ($725,000). The sum stated above is the sole monetary consideration for this release. The monetary consideration shall be paid as follows: $725,000 by
+certified check(s) and/or wire transfers to the Company on or before November 30, 2014. Zaller, Imagine and Kingsmen, and their insurers and counsel, make no
+representations or warranties as",legal_clause,UNREVIEWED,long,820,document_spread; length_bucket=long; review_status=UNREVIEWED; segment_type=legal_clause,PENDING
+3504e06a49433c1456720513186da1bd_clause_013,3504e06a49433c1456720513186da1bd,(SIGNATURE),section_heading,PRIORITY_UNREVIEWED,short,11,document_spread; length_bucket=short; review_status=PRIORITY_UNREVIEWED; segment_type=section_heading,PENDING
+3504e06a49433c1456720513186da1bd_clause_002,3504e06a49433c1456720513186da1bd,"2.
+ To safeguard the Information against disclosure to others with the same degree of care as it exercises with its own information of a similar
+nature; and",legal_clause,PRIORITY_UNREVIEWED,medium,156,document_spread; length_bucket=medium; review_status=PRIORITY_UNREVIEWED; segment_type=legal_clause,PENDING
+3504e06a49433c1456720513186da1bd_clause_000,3504e06a49433c1456720513186da1bd,"EX-10.8 18 g20786exv10w8.htm EX-10.8
+Exhibit 10.8
+(ANSON LOGO)
+Client Confidentiality & Non-Disclosure Agreement
+This Agreement by and between TechniScan Medical Systems, Inc. (hereinafter referred to as “Client”) and The Anson Group, LLC (hereinafter
+referred to as “Anson”), shall govern the conditions of disclosure of confidential information relating to Client’s business (“the Information”).
+The Information includes all oral and written information, regardless of medium, disclosed to Anson by Client that is labeled or otherwise
+identified as confidential.
+With regard to the Information, Anson hereby agrees:",legal_clause,UNREVIEWED,long,617,document_spread; length_bucket=long; review_status=UNREVIEWED; segment_type=legal_clause,PENDING
+3504e06a49433c1456720513186da1bd_clause_003,3504e06a49433c1456720513186da1bd,"3.
+ Not to disclose the Information to others (except to its employees, agents or consultants who are bound to Anson by a like obligation of
+confidentiality) without the express written permission of Client, except that Anson shall not be prevented from using or disclosing any of
+the Information:",legal_clause,UNREVIEWED,medium,297,document_spread; length_bucket=medium; review_status=UNREVIEWED; segment_type=legal_clause,PENDING
+3504e06a49433c1456720513186da1bd_clause_010,3504e06a49433c1456720513186da1bd,"Anson agrees that the furnishing of the Information to Anson shall not constitute a grant of license to Anson under any legal rights now or
+hereinafter held by Client.
+This Agreement and all actions related hereto shall be governed by and construed in accordance with the laws (other than the conflict of laws
+rules) of the United States and the State of Indiana.
+The rights and obligations herein shall bind the Parties and their respective legal representatives, successors, heirs and assigns.
+This Agreement expresses the entire agreement and understanding of the Parties with respect to the subject matter hereof and supersedes all prior
+agreements, commitments and understandings, whether written or oral, with respect to such subject matter. Any modifications of, or changes to,
+this Agreement shall be in writing and signed by each of the Parties.
+This Agreement shall terminate upon the termination of the General Consulting Agreement between the parties dated January 5, 2006, provided,
+however, that the secrecy and non-use obligations of Anson herein shall remain in effect for three (3) years from the date of termination.",legal_clause,UNREVIEWED,long,1134,document_spread; length_bucket=long; review_status=UNREVIEWED; segment_type=legal_clause,PENDING
+4fd432d8ce6796dabc17d3838d8539a2_clause_020,4fd432d8ce6796dabc17d3838d8539a2,"SOMANETICS CORPORATION
+By:
+ /s/ Bruce J. Barrett",legal_clause,UNREVIEWED,short,48,document_spread; length_bucket=short; review_status=UNREVIEWED; segment_type=legal_clause,PENDING
+4fd432d8ce6796dabc17d3838d8539a2_clause_015,4fd432d8ce6796dabc17d3838d8539a2,"14. Any provision of this Agreement which is prohibited or unenforceable in any jurisdiction shall, as to such jurisdiction, be ineffective to the extent
+of such prohibition or unenforceability without invalidating the remaining provisions hereof or affecting the validity of enforceability of such
+provisions in any other jurisdiction.",legal_clause,UNREVIEWED,medium,336,document_spread; length_bucket=medium; review_status=UNREVIEWED; segment_type=legal_clause,PENDING
+4fd432d8ce6796dabc17d3838d8539a2_clause_001,4fd432d8ce6796dabc17d3838d8539a2,"1. The Information will be kept confidential and shall not, without the prior written consent of the Company, be disclosed by us, or by our affiliates,
+agents, representatives, advisors or employees, in any manner whatsoever, in whole or in part, and shall not be used by us, our affiliates, agents,
+representatives, advisors or employees, other than to determine whether we wish to enter into, or other than in connection with, the transaction
+described above. Moreover, we agree to reveal the Information only to our affiliates, agents, representatives, advisors and employees who need to
+know the Information for the purpose of evaluating, or otherwise in connection with, the transaction described above who are informed of the
+confidential nature of the Information. We agree to be responsible for any breach of this Agreement by our affiliates, agents, representatives,
+advisors and employees.",legal_clause,PRIORITY_UNREVIEWED,long,899,document_spread; length_bucket=long; review_status=PRIORITY_UNREVIEWED; segment_type=legal_clause,PENDING
+4fd432d8ce6796dabc17d3838d8539a2_clause_016,4fd432d8ce6796dabc17d3838d8539a2,"5
+
+15. This Agreement shall be governed by and construed in accordance with the laws of The Commonwealth of Massachusetts without regard to the
+principles of conflicts of law.",legal_clause,UNREVIEWED,medium,175,document_spread; length_bucket=medium; review_status=UNREVIEWED; segment_type=legal_clause,PENDING
+4fd432d8ce6796dabc17d3838d8539a2_clause_010,4fd432d8ce6796dabc17d3838d8539a2,"10. In consideration of the Information being furnished to us, we hereby further agree that, without the prior written consent of the Board of
+Directors of the Company, for a period of one year from the date hereof, neither we nor any of our affiliates (as such term is defined in Rule 12b-2
+under the Securities Exchange Act of 1934, as amended), acting alone or as part of a group, will (i) acquire or offer or agree to acquire, directly or
+indirectly, by purchase or otherwise, any voting securities or securities convertible into voting securities of the Company, (ii) propose to enter into,
+directly or indirectly, any merger or business combination involving the Company or any of its subsidiaries, (iii) otherwise seek to influence or
+control, in any manner whatsoever (including proxy solicitation or otherwise), the management or policies of the Company, (iv) assist, advise or
+encourage (including by knowingly providing or arranging financing for that purpose) any other person in doing any of the foregoing, (v) call,
+request or seek to have called any meeting of the shareholders of the Company or execute any written consent in lieu of a meeting of holders of any
+securities of the Company, (vi) otherwise act, to seek the removal of any member of the Board of Directors, seek to elect or place a representative on
+the Board of Directors of the Company, or seek to control or influence the management, Board of Directors or policies of the Company, (vii) seek to
+have the Company waive, amend or modify its governing documents (for example, its articles or bylaws), (viii) take any action which might force
+the Company to make a public announcement regarding any of the types of matters",legal_clause,UNREVIEWED,long,1700,document_spread; length_bucket=long; review_status=UNREVIEWED; segment_type=legal_clause,PENDING
+5180f107324abcab9d9ff81aee2db8d3_clause_009,5180f107324abcab9d9ff81aee2db8d3,4,fragment,PRIORITY_UNREVIEWED,short,1,document_spread; length_bucket=short; review_status=PRIORITY_UNREVIEWED; segment_type=fragment,PENDING
+5180f107324abcab9d9ff81aee2db8d3_clause_000,5180f107324abcab9d9ff81aee2db8d3,"EX-99.(E).(3) 5 d443014dex99e3.htm CONFIDENTIALITY AGREEMENT BETWEEN SUN PHARMACEUTICAL
+INDUSTRIES, INC.
+Exhibit (e)(3)
+May 11, 2012",legal_clause,UNREVIEWED,medium,132,document_spread; length_bucket=medium; review_status=UNREVIEWED; segment_type=legal_clause,PENDING
+5180f107324abcab9d9ff81aee2db8d3_clause_002,5180f107324abcab9d9ff81aee2db8d3,"1
+
+Representatives are nonetheless, upon advice of counsel, legally compelled to disclose Information or else stand liable for contempt or suffer other
+censure or penalty, you or your Representative, as applicable, may, without liability hereunder, disclose only that portion of the Information which
+such counsel advises is legally required to be disclosed, provided that you and your Representative exercise your respective reasonable efforts to
+preserve the confidentiality of the Information, including, without limitation, by cooperating with the Company, at the Company’s expense, to obtain
+an appropriate protective order or other reliable assurance that confidential treatment will be accorded the Information. In any event, you shall be
+responsible for any breach of this Agreement by any of your Representatives.
+You represent that neither you nor any of your Representatives has entered into, directly or indirectly, any agreement or understanding with
+any person (other than any agreement between you and your Representatives) with respect to a Potential Transaction or that could otherwise affect
+such person’s decisions or actions with respect to a Potential Transaction involving the Company. In addition, you agree that, without the prior
+written consent of the Company, you and your Representatives will not disclose to any other person the fact that the Information has been made
+available to you or that discussions or negotiations are taking place between the Company and you concerning the Potential Transaction or any of the
+terms, conditions or other facts with respect thereto (including the status thereof), unless in the opinion of your counsel such disclosure is required by
+law, rule or regulation or by any court or other governmental or regulatory authority; provided that you provide prompt written notice to the
+Company so that the Company may seek a protective order or other appropriate remedy.
+Nothing contained in this Agreement shall require either party hereto to enter into the Potential Transaction or any other transaction or to
+negotiate for the same for any specified period of time. All Information disclosed to you shall be and remain the property of the Company and this
+Agreement shall not be construed as a license or any other grant of any right whatsoever in the Information. For clarity, no license under any patent,
+copyright, trademark, other intellectual property right or any application therefore is hereby granted or implied by the provision of the Information to
+you or your Representatives. Neither you nor your Representatives shall alter or obliterate any trademark or any other proprietary mark or notice
+thereof of the Company on any copy of the Information, and you shall reproduce any such mark or notice on all copies of the Information.
+You agree that upon the request of the Company, you will return to the Company or destroy all Information furnished to you or your
+Representatives by or on behalf of the Company, without retaining any copies or extracts thereof, and you will destroy all portions of reports,
+analyses, memoranda, notes or other documents prepared by you or your Representatives that contain the Information. You will confirm to us in
+writing that destruction of all such Information has been completed. Notwithstanding the foregoing, the Company acknowledges that, in the ordinary
+course of your business and as a part of your customary practices, after the destruction or return of other copies of the Information, electronic copies
+of such Information may still remain on archives, hard drives, backup tapes and similar formats, and the Company acknowledges that, provided such
+Information is not used or disclosed by you or your Representatives contrary to the terms of this Agreement, such remaining copies shall not be
+deemed a breach of this paragraph. Furthermore, notwithstanding anything to the contrary herein, you and your Representatives may retain copies of
+any Information in order to comply with your and their legal and regulatory record-keeping obligations, and do not have to return or destroy
+Information to the extent that retention of such Information is, in good faith, in order to comply with your or their regulators’ and/or auditors’
+expectations of best practices and/or applicable law or to defend yourself or themselves in litigation.
+In consideration of and as a condition to the Company furnishing the Information to you under this Agreement, you agree that for a period of
+one year from the date of this Agreement, neither you nor any of your affiliates will, directly or indirectly, solicit or employ any of the i) current
+officers or director-level employees, without obtaining the prior written consent of the Company, or ii) other employees of the Company (so long as
+they are employed by the Company) who are in discussion with you relating to this Agreement, without obtaining the prior written consent of the
+Company, (it being understood that any newspaper or other general solicitation, including without limitation, web-based advertisements, not directed
+specifically to such person shall not be deemed to be a solicitation for purposes of this provision).
+You acknowledge and agree that the Company will be irreparably injured by a breach of this Agreement by you or your Representatives, that
+monetary remedies may be inadequate to protect the Company against any actual or threatened breach of this Agreement by you or your
+Representatives, and that the Company shall be entitled to seek specific performance or other equitable relief as a remedy for any such breach
+without posting a bond.",legal_clause,PRIORITY_UNREVIEWED,long,5621,document_spread; length_bucket=long; review_status=PRIORITY_UNREVIEWED; segment_type=legal_clause,PENDING
+5180f107324abcab9d9ff81aee2db8d3_clause_008,5180f107324abcab9d9ff81aee2db8d3,"By: /s/ James E. Hattersley
+ James E. Hattersley
+ Vice President, Business Development
+ Sun Pharmaceutical Industries, Inc.",legal_clause,UNREVIEWED,medium,123,document_spread; length_bucket=medium; review_status=UNREVIEWED; segment_type=legal_clause,PENDING
+5180f107324abcab9d9ff81aee2db8d3_clause_003,5180f107324abcab9d9ff81aee2db8d3,"2
+
+For a period of twelve (12) months commencing on the date of this Agreement, you shall not, nor shall any of your subsidiaries or
+Representatives, in any manner, directly or indirectly, acting alone or in concert with others, effect or seek, offer or propose (whether publicly or
+otherwise) to effect, or cause or participate in or in any way assist any other person to effect or seek, offer or propose (whether publicly or otherwise)
+to effect or participate in, (i) any acquisition of beneficial ownership, as defined in Rule 13d-3 under the 1934 Act, of any substantial portion (i.e.,
+more than 5%) of any securities or assets of the Company or any of its subsidiaries, (ii) any tender or exchange offer, merger or other business
+combination involving the Company or any of its subsidiaries; (iii) any “solicitation” of “proxies” (as such terms are used in the proxy rules of the
+Securities and Exchange Commission) or consents to vote any voting securities of the Company; or (iv) take any action that might require the
+Company to make a announcement regarding any of the types of matters set forth above; nor shall you engage in short selling activities with respect
+to securities of the Company. The provisions of this paragraph will not prohibit the ownership by you or any of your affiliates, subsidiaries or
+Representatives of any securities of the Company or a third party that you or any of your affiliates, subsidiaries or Representatives own as of the date
+hereof or the purchase by the Company or any of the Company’s affiliates of any of the securities held as of the date hereof.
+The agreements contained in the immediately preceding paragraph shall terminate and be of no effect if (i) the Company enters into an
+agreement relating to any (a) merger, consolidation, business combination, binding share exchange or similar transaction involving the Company in
+each case, in which the Company will not be the entity surviving such transaction, (b) sale, lease or other disposition or series of related dispositions,
+directly or indirectly, by merger, consolidation or otherwise of assets of the Company or its subsidiaries representing all or substantially all of the
+consolidated assets of the Company and its subsidiaries, (c) issue, sale or other disposition or series of related dispositions by the Company of
+(including by of merger, consolidation, binding share exchange or any similar transaction) securities (or options, rights or warrants to purchase, or
+securities convertible into such securities) representing 50% or more of the voting power of the Company to a single purchaser or an affiliated group
+of purchasers or (d) other transaction or series of related transactions pursuant to which any person or entity shall acquire beneficial ownership, as is
+defined in Rule 13d-3 under the 1934 Act, or the right to acquire beneficial ownership of, 50% or more of the outstanding common stock of the
+Company, or (ii) any corporation, partnership, person or other entity or group commences a tender offer or exchange offer to acquire 50% or more of
+the outstanding voting securities of the Company without the consent of the Board of Directors of the Company.
+You acknowledge that you are aware that the securities laws of the United States prohibit any person who has material, non-public information
+concerning the Company or a possible transaction involving the Company from purchasing or selling the Company’s securities when in possession
+of such information and from communicating such information to any other person or entity under circumstances in which it is reasonably
+foreseeable that such person or entity is likely to purchase or sell such securities in reliance upon such information.
+Notwithstanding any other provision of this Agreement to the contrary, this Agreement and all of the terms, conditions, undertakings and
+prohibitions contained herein shall terminate upon the earlier to occur of (i) two (2) years after the date of this Agreement or (ii) such time as the
+Information has been publicly disclosed by or on behalf of the Company whichever is earlier
+This Agreement shall be governed by and construed in accordance with the laws of the State of New Jersey. The parties consent to the
+exclusive jurisdiction of the federal and state courts located in Newark, New Jersey. This Agreement may be executed in one or more counterparts,
+each of which shall be deemed to be an original copy of this Agreement and all of which, when taken together, shall be deemed to constitute one and
+the same Agreement. The exchange of copies of this Agreement and of signature pages by facsimile transmission shall constitute effective execution
+and delivery of this Agreement by the parties hereto.",legal_clause,PRIORITY_UNREVIEWED,long,4734,document_spread; length_bucket=long; review_status=PRIORITY_UNREVIEWED; segment_type=legal_clause,PENDING
+53c8f90cfb5fb49177c9cb160e53f17b_clause_001,53c8f90cfb5fb49177c9cb160e53f17b,"DATAKEY, INC.",fragment,PRIORITY_UNREVIEWED,short,13,document_spread; length_bucket=short; review_status=PRIORITY_UNREVIEWED; segment_type=fragment,PENDING
+53c8f90cfb5fb49177c9cb160e53f17b_clause_014,53c8f90cfb5fb49177c9cb160e53f17b,"9. Governing Law. This Agreement shall be construed and enforced in accordance with the laws of the State of Delaware, without application
+of its conflict of laws provisions.
+ The parties have caused this Agreement to be executed in a manner appropriate to each to be effective as of the date set forth on the first page
+of this Agreement.",legal_clause,UNREVIEWED,medium,339,document_spread; length_bucket=medium; review_status=UNREVIEWED; segment_type=legal_clause,PENDING
+53c8f90cfb5fb49177c9cb160e53f17b_clause_006,53c8f90cfb5fb49177c9cb160e53f17b,"Information disclosed to the receiving party, whether or not such documents were prepared by the disclosing party.
+ f. The receiving party assumes all liability for any breach of the terms of this Agreement by it or any of its employees, agents or
+representatives.
+ g. The receiving party will use Confidential Information solely for the purpose of discussing and evaluating the Transaction, and for no
+other purpose.",legal_clause,PRIORITY_UNREVIEWED,long,417,document_spread; length_bucket=long; review_status=PRIORITY_UNREVIEWED; segment_type=legal_clause,PENDING
+53c8f90cfb5fb49177c9cb160e53f17b_clause_012,53c8f90cfb5fb49177c9cb160e53f17b,"Agreement shall be binding upon and inure to the benefit of the parties, their respective successors and assigns. Neither this Agreement nor the
+disclosure or receipt of Confidential Information shall constitute or imply a commitment by either party with respect to the Transaction, present
+or future business agreements, or any other subject matter not expressly set forth herein.",legal_clause,UNREVIEWED,medium,381,document_spread; length_bucket=medium; review_status=UNREVIEWED; segment_type=legal_clause,PENDING
+53c8f90cfb5fb49177c9cb160e53f17b_clause_005,53c8f90cfb5fb49177c9cb160e53f17b,"2. Warranties. The receiving party agrees and warrants to the disclosing party as follows with respect to all Confidential Information received
+or learned by it, regardless whether or not a contract is ultimately executed between the parties:
+ a. The receiving party will treat as confidential all Confidential Information made available to the receiving party or to any employee,
+agent or representative of the receiving party.
+ b. The receiving party shall protect the Confidential Information from unauthorized use or disclosure by using the same degree of care as
+the receiving party uses to protect its own confidential information of a like nature, but no less than a reasonable degree of care.
+ c. The receiving party will maintain the Confidential Information in a secure place and limit access to the Confidential Information to
+those employees, agents and representatives of the receiving party to whom it is necessary to disclose the Confidential Information in
+furtherance of the receiving party’s investigations and negotiations regarding the potential acquisition of the disclosing party and from whom
+the receiving party has received a written agreement in which the employee promises to maintain the confidentiality of and not to wrongfully
+use the Confidential Information.
+ d. The receiving party and its employees, agents and representatives will not copy, disclose to unauthorized parties or use any
+Confidential Information for any purpose other than to further the receiving party’s investigations regarding the potential business
+relationship with the disclosing party.
+ e. If negotiations are terminated and no contract is executed, the receiving party will promptly deliver to the disclosing party all copies of
+documents containing Confidential
+-2-",legal_clause,UNREVIEWED,long,1774,document_spread; length_bucket=long; review_status=UNREVIEWED; segment_type=legal_clause,PENDING
+586c367e2c45ebd8b7ba96fcb6006bf6_clause_058,586c367e2c45ebd8b7ba96fcb6006bf6,"C. Eugene Wright, III
+Oct. 5, 2007
+Page 7 of 7",legal_clause,PRIORITY_UNREVIEWED,short,46,document_spread; length_bucket=short; review_status=PRIORITY_UNREVIEWED; segment_type=legal_clause,PENDING
+586c367e2c45ebd8b7ba96fcb6006bf6_clause_041,586c367e2c45ebd8b7ba96fcb6006bf6,"(i)
+all instruments that Company may reasonably require to effect, protect, perfect, register, record or patent any Proprietary
+Developments or Confidential Information, or related rights, or Company’s interest therein; and",legal_clause,PRIORITY_UNREVIEWED,medium,223,document_spread; length_bucket=medium; review_status=PRIORITY_UNREVIEWED; segment_type=legal_clause,PENDING
+586c367e2c45ebd8b7ba96fcb6006bf6_clause_016,586c367e2c45ebd8b7ba96fcb6006bf6,"(iii)
+inventions, devices, discoveries, concepts, ideas, formulae, know-how, processes, techniques, systems, methods and any
+improvements, enhancements and modifications thereto, whether patented or not; developed, created, generated, contributed to or
+reduced to practice by you alone or jointly with others pursuant to your activities as an employee, director, officer or consultant of
+Company and which results from tasks assigned to you by Company or which results from the use of the premises or property
+(including equipment, supplies or Confidential Information) owned, leased or licensed by Companies and which reasonably
+relates to the Companies Business, or which results from or relates to working with Companies’ clients, either directly or
+indirectly.",legal_clause,PRIORITY_UNREVIEWED,long,764,document_spread; length_bucket=long; review_status=PRIORITY_UNREVIEWED; segment_type=legal_clause,PENDING
+586c367e2c45ebd8b7ba96fcb6006bf6_clause_052,586c367e2c45ebd8b7ba96fcb6006bf6,"(c)
+Amendments:
+No amendment, modification, supplement or other purported alteration of this Agreement shall be binding unless it is in writing and signed by
+you and by Companies.",legal_clause,PRIORITY_UNREVIEWED,medium,179,document_spread; length_bucket=medium; review_status=PRIORITY_UNREVIEWED; segment_type=legal_clause,PENDING
+586c367e2c45ebd8b7ba96fcb6006bf6_clause_047,586c367e2c45ebd8b7ba96fcb6006bf6,"(b)
+Equitable Remedies:
+You acknowledge and agree that the restrictions contained in this Agreement, in view of the nature of the business in which the Companies are
+engaged, are reasonable and necessary in order to protect the legitimate interests of the Companies, and that any violation or threatened
+violation thereof would result in irreparable injury to the Companies. You therefore agree that:",legal_clause,PRIORITY_UNREVIEWED,long,400,document_spread; length_bucket=long; review_status=PRIORITY_UNREVIEWED; segment_type=legal_clause,PENDING
+64303e5aa502b04df2755968eecdc2f5_clause_018,64303e5aa502b04df2755968eecdc2f5,NAUGATUCK VALLEY FINANCIAL CORPORATION,section_heading,PRIORITY_UNREVIEWED,short,38,document_spread; length_bucket=short; review_status=PRIORITY_UNREVIEWED; segment_type=section_heading,PENDING
+64303e5aa502b04df2755968eecdc2f5_clause_021,64303e5aa502b04df2755968eecdc2f5,"By:
+
+Date:
+William C. Calderara, President and
+Chief Executive Officer
+___________ __, 2014
+DIRECTOR
+Date: ___________ __, 2014",legal_clause,UNREVIEWED,medium,127,document_spread; length_bucket=medium; review_status=UNREVIEWED; segment_type=legal_clause,PENDING
+64303e5aa502b04df2755968eecdc2f5_clause_006,64303e5aa502b04df2755968eecdc2f5,"1. In connection with the Director serving on the Boards of Directors of the Company and the Bank, the Director and other Company
+employees, directors, and agents may divulge nonpublic information concerning the Company and its subsidiaries to the Stilwell Group and such
+information may be shared among the Stilwell Group's employees and agents who have a need to know such information. The Stilwell Group
+expressly agrees to maintain all nonpublic information concerning the Company and its subsidiaries in confidence. The Stilwell Group expressly
+acknowledges that federal and state securities laws may prohibit a person from purchasing or selling securities of a company, or from
+communicating such information to any other person under circumstances in which it is reasonably foreseeable that such other person is likely to
+purchase or sell such securities, while the first-mentioned person is in possession of material nonpublic information about such company. The
+Stilwell Group agrees to comply with the Company's insider trading policies and procedures, as in effect from time to time, to the same extent as
+if it were a director of the Company. To the extent the nonpublic information concerning the Company and its subsidiaries received by the
+Stilwell Group is material, this Agreement is intended to satisfy the confidentiality agreement exclusion of Regulation FD of the U.S. Securities
+and Exchange Commission (the “SEC”) set forth in Rule 100(b)(2)(ii) of Regulation FD of the SEC.",legal_clause,UNREVIEWED,long,1497,document_spread; length_bucket=long; review_status=UNREVIEWED; segment_type=legal_clause,PENDING
+64303e5aa502b04df2755968eecdc2f5_clause_010,64303e5aa502b04df2755968eecdc2f5,"5. This Agreement constitutes the entire agreement between the parties hereto pertaining to the subject matter hereof and supersedes all
+prior and contemporaneous agreements, understandings, negotiations and discussions of the parties in connection therewith not referred to
+herein.",legal_clause,UNREVIEWED,medium,282,document_spread; length_bucket=medium; review_status=UNREVIEWED; segment_type=legal_clause,PENDING
+64303e5aa502b04df2755968eecdc2f5_clause_012,64303e5aa502b04df2755968eecdc2f5,"7. The terms and provisions of this Agreement shall be deemed severable and, in the event any term or provision hereof or portion
+thereof is deemed or held to be invalid, illegal or unenforceable, such provision shall be conformed to prevailing law rather than voided, if
+possible, in order to achieve the intent of the parties, and, in any event, the remaining terms and provisions of this Agreement shall nevertheless
+continue and be deemed to be in full force and effect and binding upon the parties.",legal_clause,UNREVIEWED,long,503,document_spread; length_bucket=long; review_status=UNREVIEWED; segment_type=legal_clause,PENDING
+9a5cb31024ad0a7a4916e4f122ebea4a_clause_073,9a5cb31024ad0a7a4916e4f122ebea4a,"Name:
+Title:",fragment,PRIORITY_UNREVIEWED,short,12,document_spread; length_bucket=short; review_status=PRIORITY_UNREVIEWED; segment_type=fragment,PENDING
+9a5cb31024ad0a7a4916e4f122ebea4a_clause_013,9a5cb31024ad0a7a4916e4f122ebea4a,"(a) During the term hereof, the Executive shall serve the Company in the position to which he or she is appointed from time to time.
+Executive’s position as of the date of this Agreement is [ ]. During the term hereof, Executive will be employed by the Company on a
+full-time basis and shall perform the duties and responsibilities of his or her",legal_clause,PRIORITY_UNREVIEWED,medium,345,document_spread; length_bucket=medium; review_status=PRIORITY_UNREVIEWED; segment_type=legal_clause,PENDING
+9a5cb31024ad0a7a4916e4f122ebea4a_clause_017,9a5cb31024ad0a7a4916e4f122ebea4a,"(a) Base Salary. During the term hereof, the Company shall pay the Executive a base salary, which as of the date of execution of this
+Agreement is set at the rate of [ Dollars ($ ) ] per annum, payable in accordance with the regular payroll practices of the
+Company for its executives subject to adjustment from time to time by the Compensation Committee, in its sole discretion. Such base salary,
+as from time to time adjusted, is hereafter referred to as the “Base Salary”.",legal_clause,PRIORITY_UNREVIEWED,long,475,document_spread; length_bucket=long; review_status=PRIORITY_UNREVIEWED; segment_type=legal_clause,PENDING
+9a5cb31024ad0a7a4916e4f122ebea4a_clause_005,9a5cb31024ad0a7a4916e4f122ebea4a,"•
+ the Company and its Affiliates are and will be engaged in a number of highly competitive lines of business.",legal_clause,PRIORITY_UNREVIEWED,medium,110,document_spread; length_bucket=medium; review_status=PRIORITY_UNREVIEWED; segment_type=legal_clause,PENDING
+9a5cb31024ad0a7a4916e4f122ebea4a_clause_052,9a5cb31024ad0a7a4916e4f122ebea4a,"(d) Definition of “Confidential Information.” For all purposes under this Agreement, “Confidential Information” shall mean any and all
+information of the Company and its Affiliates that is not generally known by others with whom they compete or do business, or with whom
+any of them plans to compete or do business and any and all information, publicly known in part or not, which, if disclosed by the Company or
+its Affiliates would assist in competition against them. Confidential Information includes without limitation such information relating to
+(i) trade secrets, the development, research, testing, manufacturing, marketing and financial activities of the Company and its Affiliates, (ii) the
+Products, (iii) the costs, sources of supply, financial performance and strategic plans of the Company and its Affiliates, (iv) the identity and
+special needs of the customers of the Company and its Affiliates and (v) client lists and the people and organizations with whom the Company
+and its Affiliates have business relationships and the substance of those relationships. Confidential Information also includes any information
+that the Company or any of its Affiliates have received, or may receive hereafter, belonging to customers or others with any understanding,
+express or implied, that the information would not be disclosed.",legal_clause,PRIORITY_UNREVIEWED,long,1335,document_spread; length_bucket=long; review_status=PRIORITY_UNREVIEWED; segment_type=legal_clause,PENDING
+b82a10c42fc284dba9870ac7c75cd386_clause_000,b82a10c42fc284dba9870ac7c75cd386,"EX-10.29 4 cxw-ex1029_421.htm EX-10.29
+ Exhibit 10.29
+[CoreCivic Letterhead]",header,PRIORITY_UNREVIEWED,short,76,document_spread; length_bucket=short; review_status=PRIORITY_UNREVIEWED; segment_type=header,PENDING
+b82a10c42fc284dba9870ac7c75cd386_clause_002,b82a10c42fc284dba9870ac7c75cd386,"Re:
+Non-Competition, Non-Solicitation and Confidentiality and Non-Disclosure during your “at-will”
+employment with CoreCivic of Tennessee, LLC (""Employer"")",legal_clause,UNREVIEWED,medium,155,document_spread; length_bucket=medium; review_status=UNREVIEWED; segment_type=legal_clause,PENDING
+b82a10c42fc284dba9870ac7c75cd386_clause_003,b82a10c42fc284dba9870ac7c75cd386,"Mr. Lappin:
+
+As we've discussed, you previously notified CoreCivic, Inc. (""CoreCivic"" and, collectively with Employer, the
+""Company"") of your intention to retire from your position as Executive Vice President and Chief Corrections Officer effective
+January 1, 2018. Your Employment Agreement with the Company expires effective December 31, 2017. However,
+notwithstanding the expiration of your Employment Agreement, the Company desires that you continue your employment with
+Employer as an ""at will"" employee on terms and conditions established from time to time by the Employer.",legal_clause,UNREVIEWED,long,579,document_spread; length_bucket=long; review_status=UNREVIEWED; segment_type=legal_clause,PENDING
+b82a10c42fc284dba9870ac7c75cd386_clause_005,b82a10c42fc284dba9870ac7c75cd386,"Please confirm your acknowledgement of and agreement with the foregoing by reviewing and signing this letter in the
+space provided below.",legal_clause,UNREVIEWED,medium,137,document_spread; length_bucket=medium; review_status=UNREVIEWED; segment_type=legal_clause,PENDING
+b82a10c42fc284dba9870ac7c75cd386_clause_004,b82a10c42fc284dba9870ac7c75cd386,"This letter is to clarify and confirm that, in consideration of Employer continuing your employment on an ""at will” basis
+with an annual salary of $175,000.00, which shall be payable in accordance with Employer’s normal payroll practices, you agree to
+be bound by and to comply with the provisions regarding non-competition, non-solicitation and confidentiality and non-disclosure
+set forth on Exhibit A accompanying this letter.",legal_clause,UNREVIEWED,long,429,document_spread; length_bucket=long; review_status=UNREVIEWED; segment_type=legal_clause,PENDING
+c58882f7f9c693e3f6c11d0f945f395e_clause_000,c58882f7f9c693e3f6c11d0f945f395e,"EX-10.22 2 dex1022.htm NON-DISCLOSURE, NON-SOLICITATION AND NON-COMPETITION AGREEMENT
+EXHIBIT 10.22",header,PRIORITY_UNREVIEWED,short,99,document_spread; length_bucket=short; review_status=PRIORITY_UNREVIEWED; segment_type=header,PENDING
+c58882f7f9c693e3f6c11d0f945f395e_clause_011,c58882f7f9c693e3f6c11d0f945f395e,"9. Governing Law. The terms of this agreement and all rights and obligations of the parties thereto including its enforcement shall be
+interpreted and governed by the laws of the state of New York.",legal_clause,UNREVIEWED,medium,197,document_spread; length_bucket=medium; review_status=UNREVIEWED; segment_type=legal_clause,PENDING
+c58882f7f9c693e3f6c11d0f945f395e_clause_004,c58882f7f9c693e3f6c11d0f945f395e,"3. Termination Without Cause or For Good Reason. Should your employment be (a) terminated by the Company without “Cause,” as
+defined below, or terminated by you for “Good Reason,” as defined below; and (b) the Company does not consent to waive any of the post-
+employment restrictions contained in paragraph 2(a) above, and (c) you execute and deliver to Company a Separation Agreement and Release in a
+form acceptable to the Company, and you do not revoke the Separation Agreement and Release, the Company will pay you a severance payment
+equal to (i) a pro-rata portion of the bonus, if any, to which you would have otherwise been entitled as of the date of termination, to be paid, less all
+applicable deductions, according to the Company’s normal bonus payment schedule (bonuses are generally paid in mid-April after the end of the
+fiscal year); (ii) twelve (12) months of your then-current base salary, to be paid, less all applicable deductions, according to the Company’s normal
+payroll practices for a period coextensive with the restricted period (twelve months); and (iii) during the restricted period, reimbursement for out-of-
+pocket COBRA payments paid by you to continue your group health benefits, provided you submit relevant supporting documentation to the
+Company evidencing such payments. Notwithstanding anything herein to the contrary, however, your right to receive the foregoing payments shall
+terminate effective immediately upon the date that you become employed by another entity as an employee, consultant or otherwise, and you agree
+to notify the Senior Vice-President of Human Resources in writing prior to the effective date of any such employment. If you fail to so notify the
+Senior Vice-President of Human Resources, (a) you will forfeit your right to receive the payments described above (to the extent the payments were
+not theretofore paid) and (b) the Company shall be entitled to recover any payments already made to you or on your behalf.
+For purposes of this agreement, “Cause” shall mean gross incompetence; failure to comply with the Company’s policies including those
+contained in the Company’s Code of Ethics and Business Practices; indictment, conviction or admission of any crime involving dishonesty or moral
+turpitude; participation in any act of misconduct, insubordination or fraud against the Company; use of alcohol or drugs which interferes with your
+performance of your duties or compromises the integrity or reputation of the Company; and excessive absence from work other than as a result of
+disability. For purposes of this agreement, “Good Reason” shall mean either of the following: (i) any requirement by the Company that you report
+directly to an individual other than an Executive Vice-President or functional equivalent or (ii) any action by the Company that results in a material
+and continuing diminution in your duties or responsibilities, in each case without your consent and provided that the Company will have at least 30
+days to remedy such situation. No payment will be required if the Company consents in its sole discretion to request by you to waive the post-
+termination restrictions on your employment contained in paragraph 2(a) herein or if the conditions set forth in this Section 3 are otherwise not met.",legal_clause,PRIORITY_UNREVIEWED,long,3285,document_spread; length_bucket=long; review_status=PRIORITY_UNREVIEWED; segment_type=legal_clause,PENDING
+c58882f7f9c693e3f6c11d0f945f395e_clause_001,c58882f7f9c693e3f6c11d0f945f395e,"NON-DISCLOSURE, NON-SOLICITATION AND NON-COMPETITION
+In consideration of your employment (or continued employment) with or provision of services to J. Crew Group, Inc. and its affiliates
+(collectively, the “Company”) and for other good and valuable consideration, receipt of which is hereby acknowledged, you agree as follows:",legal_clause,UNREVIEWED,medium,326,document_spread; length_bucket=medium; review_status=UNREVIEWED; segment_type=legal_clause,PENDING
+c58882f7f9c693e3f6c11d0f945f395e_clause_008,c58882f7f9c693e3f6c11d0f945f395e,"cumulative with those remedies set forth herein), you specifically agree that, in the event of any threatened or actual breach of this agreement by
+you, the Company shall be entitled to a temporary restraining order and, thereafter, a preliminary and permanent injunction and other equitable relief
+including, without limitation, an equitable accounting of earnings, profits, and other benefits, from a court of competent jurisdiction, as well as
+reimbursement from you for any attorneys’ fees and other costs incurred by the Company in obtaining such relief. No specification in this agreement
+of any legal or equitable remedy shall be construed as a waiver or prohibition against pursuing any other legal or equitable remedies in the event of a
+threatened or actual breach of this agreement by you.",legal_clause,UNREVIEWED,long,800,document_spread; length_bucket=long; review_status=UNREVIEWED; segment_type=legal_clause,PENDING
+d4566b17b742d10442e98756b95a2730_clause_001,d4566b17b742d10442e98756b95a2730,MUTUAL NON-DISCLOSURE/CONFIDENTIALITY AGREEMENT,section_heading,PRIORITY_UNREVIEWED,short,47,document_spread; length_bucket=short; review_status=PRIORITY_UNREVIEWED; segment_type=section_heading,PENDING
+d4566b17b742d10442e98756b95a2730_clause_030,d4566b17b742d10442e98756b95a2730,"(b)
+Severability. If one or more of the provisions in this Agreement is deemed void by law, then the remaining provisions will continue in
+full force and effect.",legal_clause,UNREVIEWED,medium,161,document_spread; length_bucket=medium; review_status=UNREVIEWED; segment_type=legal_clause,PENDING
+d4566b17b742d10442e98756b95a2730_clause_034,d4566b17b742d10442e98756b95a2730,"2
+
+any time. This Agreement shall not constitute, create, give effect to, or otherwise imply a joint venture, pooling arrangement, partnership, or formal
+business organization of any kind, nor shall it constitute, create, give effect to, or otherwise imply an obligation or commitment on the part of either
+party to submit a proposal to or perform a contract with the other party. Nothing herein shall be construed as providing for the sharing of profits or
+losses arising out of the efforts of either or both parties. Neither party will be liable to the other party for any costs, expense, risks, or liabilities
+arising out of the other party’s efforts in connection with this Agreement.",legal_clause,UNREVIEWED,long,688,document_spread; length_bucket=long; review_status=UNREVIEWED; segment_type=legal_clause,PENDING
+d4566b17b742d10442e98756b95a2730_clause_019,d4566b17b742d10442e98756b95a2730,"(i)
+was in the public domain at the time of disclosure or thereafter enters the public domain through no breach of this
+Agreement by the Receiving Party;",legal_clause,UNREVIEWED,medium,153,document_spread; length_bucket=medium; review_status=UNREVIEWED; segment_type=legal_clause,PENDING
+d4566b17b742d10442e98756b95a2730_clause_027,d4566b17b742d10442e98756b95a2730,"9. Legal Expenses. If any action or proceeding is brought for enforcement of this Agreement, or because of an alleged or actual dispute, breach,
+default, or misrepresentation in connection with any of the provisions of this Agreement, the successful or prevailing party shall be entitled to
+recover reasonable attorney’s fees and other costs incurred in such action or proceeding in addition to any other relief to which it may be entitled.",legal_clause,UNREVIEWED,long,440,document_spread; length_bucket=long; review_status=UNREVIEWED; segment_type=legal_clause,PENDING
+d714d261edc4d361e7d2ebabccaada50_clause_000,d714d261edc4d361e7d2ebabccaada50,"EX-10.2 3 exhibit102-confidentiality.htm EXHIBIT 10.2
+Exhibit A",header,PRIORITY_UNREVIEWED,short,63,document_spread; length_bucket=short; review_status=PRIORITY_UNREVIEWED; segment_type=header,PENDING
+d714d261edc4d361e7d2ebabccaada50_clause_021,d714d261edc4d361e7d2ebabccaada50,"(b) Non-Interference. During the Employment Period and the Post-Termination Non-Interference Period, I shall
+not, directly or indirectly for my own account or for the account of any other individual or entity, engage in Interfering
+Activities.",legal_clause,UNREVIEWED,medium,243,document_spread; length_bucket=medium; review_status=UNREVIEWED; segment_type=legal_clause,PENDING
+d714d261edc4d361e7d2ebabccaada50_clause_007,d714d261edc4d361e7d2ebabccaada50,"(i) In addition, I understand that nothing in this Agreement shall be construed to prohibit me from
+reporting possible violations of law or regulation to any governmental agency or regulatory body or making other
+disclosures that are protected under any law or regulation, or from filing a charge with or participating in any
+investigation or proceeding conducted by any governmental agency or regulatory body.",legal_clause,UNREVIEWED,long,410,document_spread; length_bucket=long; review_status=UNREVIEWED; segment_type=legal_clause,PENDING
+d714d261edc4d361e7d2ebabccaada50_clause_010,d714d261edc4d361e7d2ebabccaada50,"(a) Developments Retained and Licensed. I have attached hereto, as Schedule A, a list describing with
+particularity all developments, original works of authorship, improvements, and trade secrets that I can demonstrate
+were created or owned by me prior to the
+A-2",legal_clause,UNREVIEWED,medium,263,document_spread; length_bucket=medium; review_status=UNREVIEWED; segment_type=legal_clause,PENDING
+d714d261edc4d361e7d2ebabccaada50_clause_036,d714d261edc4d361e7d2ebabccaada50,"(b) Entire Agreement. This Non-Interference Agreement sets forth the entire agreement and understanding
+between the Company and me relating to the subject matter herein and merges all prior discussions between us. No
+modification or amendment to this Non-Interference Agreement, nor any waiver of any rights under this Non-
+Interference Agreement, will be effective unless in writing signed by the party to be charged. Any subsequent change or
+changes in my duties, obligations, rights, or compensation will not affect the validity or scope of this Non-Interference
+Agreement.",legal_clause,UNREVIEWED,long,576,document_spread; length_bucket=long; review_status=UNREVIEWED; segment_type=legal_clause,PENDING
+e52e4a136a4bb5c859dc6d056f47c743_clause_027,e52e4a136a4bb5c859dc6d056f47c743,"12.
+
+ Restricted Stock Equivalent Award",section_heading,PRIORITY_UNREVIEWED,short,39,document_spread; length_bucket=short; review_status=PRIORITY_UNREVIEWED; segment_type=section_heading,PENDING
+e52e4a136a4bb5c859dc6d056f47c743_clause_005,e52e4a136a4bb5c859dc6d056f47c743,"WHEREAS, ENERGIZER desires to receive from MR. MULCAHY a covenant not to engage (either directly or indirectly) in
+competition with, or to solicit any client or account of, ENERGIZER; and",legal_clause,PRIORITY_UNREVIEWED,medium,187,document_spread; length_bucket=medium; review_status=PRIORITY_UNREVIEWED; segment_type=legal_clause,PENDING
+e52e4a136a4bb5c859dc6d056f47c743_clause_020,e52e4a136a4bb5c859dc6d056f47c743,"7.
+
+ Waiver. The failure by ENERGIZER to enforce at any time any of the provisions hereof or to require at any time
+performance by MR. MULCAHY of any provisions hereof, shall in no way be construed to be a release of MR. MULCAHY or waiver of such
+provisions or to affect the validity of this Agreement or any part hereof, or the right of ENERGIZER thereafter to enforce every such
+provision in accordance with the terms of this Agreement.",legal_clause,UNREVIEWED,long,438,document_spread; length_bucket=long; review_status=UNREVIEWED; segment_type=legal_clause,PENDING
+e52e4a136a4bb5c859dc6d056f47c743_clause_025,e52e4a136a4bb5c859dc6d056f47c743,"10.
+
+ Governing Law. All questions pertaining to the validity, construction, execution, and performance of this
+Agreement shall be construed in accordance with, and be governed by, the laws of the State of Missouri, without giving effect to the choice
+of law principles thereof.",legal_clause,UNREVIEWED,medium,278,document_spread; length_bucket=medium; review_status=UNREVIEWED; segment_type=legal_clause,PENDING
+e52e4a136a4bb5c859dc6d056f47c743_clause_016,e52e4a136a4bb5c859dc6d056f47c743,"For the duration of the Non-Compete Period, MR. MULCAHY shall not (i)
+induce or attempt to induce any employee of ENERGIZER to leave the employ of ENERGIZER or in any way interfere with the
+relationship between ENERGIZER and its employees or (ii) induce or attempt to induce any customer, supplier, distributor, broker, or
+other business relation of ENERGIZER to cease doing business with ENERGIZER, or in any way interfere with the relationship
+between any customer, supplier, distributor, broker or other business relation and ENERGIZER.",legal_clause,UNREVIEWED,long,539,document_spread; length_bucket=long; review_status=UNREVIEWED; segment_type=legal_clause,PENDING
+f28c4f3d35a152dd415f9b255122cb38_clause_059,f28c4f3d35a152dd415f9b255122cb38,2,fragment,PRIORITY_UNREVIEWED,short,1,document_spread; length_bucket=short; review_status=PRIORITY_UNREVIEWED; segment_type=fragment,PENDING
+f28c4f3d35a152dd415f9b255122cb38_clause_031,f28c4f3d35a152dd415f9b255122cb38,"11. Orthovita shall not use the disclosure of the Trade Secret Information to the Stryker Advisors to disqualify the Stryker Advisors from
+representing Stryker in any matter.",legal_clause,UNREVIEWED,medium,174,document_spread; length_bucket=medium; review_status=UNREVIEWED; segment_type=legal_clause,PENDING
+f28c4f3d35a152dd415f9b255122cb38_clause_002,f28c4f3d35a152dd415f9b255122cb38,"2
+
+Non-Disclosure
+The disclosure of your possible interest in a Possible Transaction could have a material adverse effect on the Company and its business if for any
+reason an agreement of purchase and sale is not consummated or a disclosure is made prior to the closing of a Possible Transaction. Accordingly,
+unless required by applicable law or regulatory authority, you agree that prior to the closing of a Possible Transaction, without the prior written
+consent of the Company, you will not, and you will direct your representatives not to, disclose to any person the fact that the Evaluation Materials
+have been made available to you, discussions or negotiations have taken or are taking place concerning a Possible Transaction between the Company
+and you or any of the terms, conditions or other facts with respect to any such Possible Transaction, including the status thereof. The term “person”
+as used in this agreement shall be broadly interpreted to include, without limitation, the media, any corporation or limited liability company, the
+Company, governmental agency or body, stock exchange, partnership, association or individual.
+Ownership and Return of Evaluation Materials
+All Evaluation Materials disclosed by or on behalf of the Company shall be and shall remain in the property of the Company. Upon the Company’s
+request, you shall promptly deliver to the Company or destroy all written Evaluation Materials without retaining, in whole or in part, any copies,
+extracts or other reproductions (whatever the form or storage medium) of such materials, and shall certify the delivery or destruction, as applicable,
+of all such materials in writing to the Company; provided that economic analyses, privileged communication with your counsel and other proprietary
+documentation shall not be required to be delivered to the Company but shall be destroyed as set forth in this sentence and provided further that you
+may retain one copy of the Evaluation Materials in a secure location within your Legal Department. Notwithstanding the return or destruction of the
+Evaluation Materials, you and your representatives will continue to be bound by your obligations of confidentiality and other obligations hereunder.
+No Unauthorized Contact or Solicitation
+During the course of your evaluation, all inquiries and other communications are to be made directly to the Financial Advisor or employees or
+representatives of the Company specified by the Financial Advisor. Accordingly, except as set forth in the preceding sentence, you agree not to
+directly or indirectly contact or communicate with any executive or other employee of the Company (in their capacities as officers or employees of
+the Company) concerning a Possible Transaction, or to seek any information in connection therewith from such person, without the express written
+consent of the Financial Advisor. You also agree not to discuss with or offer to any third party any equity participation in a Possible Transaction or
+any other form of joint acquisition by you and such third party without the prior written consent of the Company.
+Without the Company’s prior written consent, you will not for a period of eighteen months after the date of this agreement directly or indirectly
+solicit for employment any person who is now employed by the Company in an executive-level position, or any person who is now employed by the
+Company in a management-level position at the Company’s headquarters in Malvern, Pennsylvania, provided that you are not prohibited from
+employing any such person who contacts you on his or her own initiative and without any direct or indirect solicitation by you",legal_clause,PRIORITY_UNREVIEWED,long,3659,document_spread; length_bucket=long; review_status=PRIORITY_UNREVIEWED; segment_type=legal_clause,PENDING
+f28c4f3d35a152dd415f9b255122cb38_clause_014,f28c4f3d35a152dd415f9b255122cb38,"WHEREAS, Stryker and Orthovita are exploring a possible business relationship, arrangement or transaction with each other (the “Possible
+Transaction”);",legal_clause,UNREVIEWED,medium,151,document_spread; length_bucket=medium; review_status=UNREVIEWED; segment_type=legal_clause,PENDING
+f28c4f3d35a152dd415f9b255122cb38_clause_004,f28c4f3d35a152dd415f9b255122cb38,"4
+
+other parties thereto, and you hereby waive, in advance, any claims (including, without limitation, breach of contract) in connection with the sale of
+the Company or any interest in the Company unless and until a Definitive Agreement has been executed and delivered by you and each of the other
+parties thereto. You also agree that unless and until a Definitive Agreement between the Company and you with respect to the acquisition of the
+Company or any interest in the Company has been executed and delivered by you and each of the other parties thereto, there shall not be any legal
+obligation of any kind whatsoever with respect to any such transaction by virtue of this agreement or any other written or oral expression with
+respect to such transaction except, in the case of this agreement, for the matters specifically agreed to herein.
+You further understand and agree that (i) the Company and the Financial Advisor shall be free to conduct any process for the sale of the Company or
+any interest in the Company as they in their sole discretion shall determine (including, without limitation, negotiating with any prospective
+counterparty and entering into a Definitive Agreement without prior notice to you or to any other person), (ii) any procedures relating to such sale
+may be changed at any time without notice to you or any other person and (iii) you shall not have any claims whatsoever against the Company, the
+Financial Advisor or any of their respective directors, officers, employees, stockholders, owners, affiliates, agents or representatives arising out of or
+relating to a Possible Transaction involving the Company. You further understand and agree that the Company reserves the right, in its sole
+discretion, to reject any and all proposals made by you or any of your representatives with regard to any Possible Transaction, and to terminate
+discussions and negotiations with you at any time. Neither this paragraph nor any other provision in this agreement can be waived or amended
+except by written consent of the Company, which consent shall specifically refer to this paragraph (or such provision) and explicitly make such
+waiver or amendment.
+Legal Remedy
+You understand and agree that money damages would not be a sufficient remedy for any breach of this agreement by you or your representatives and
+that the Company will be entitled to specific performance and injunctive relief as remedies for any such breach. Such remedies shall not be deemed
+to be the exclusive remedies for a breach of this agreement by you or your representatives but shall be in addition to all other remedies available at
+law or equity. In the event of litigation relating to this agreement, if a court of competent jurisdiction determines that you or your representatives
+have breached this agreement, then you shall reimburse the Company for its reasonable legal fees and expenses incurred in connection with such
+litigation, including any appeals therefrom. Similarly, if a court of competent jurisdiction determines that you and/or your representatives did not
+breach this agreement, then the Company shall reimburse you and/or your representatives for your reasonable legal fees and expenses incurred in
+connection with such litigation, including any appeals therefrom.
+Other
+This agreement constitutes the entire agreement between the parties hereto regarding the subject matter hereof. This agreement may be changed only
+by a written agreement signed by the parties hereto or their authorized representatives.",legal_clause,PRIORITY_UNREVIEWED,long,3526,document_spread; length_bucket=long; review_status=PRIORITY_UNREVIEWED; segment_type=legal_clause,PENDING

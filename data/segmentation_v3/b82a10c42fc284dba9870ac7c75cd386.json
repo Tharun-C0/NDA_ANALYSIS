@@ -1,0 +1,172 @@
+{
+  "document_id": "b82a10c42fc284dba9870ac7c75cd386",
+  "source_file": "b82a10c42fc284dba9870ac7c75cd386.txt",
+  "total_characters": 7892,
+  "num_clauses": 18,
+  "num_legal_clauses": 16,
+  "quality_status": "REVIEW",
+  "clauses": [
+    {
+      "document_id": "b82a10c42fc284dba9870ac7c75cd386",
+      "clause_id": "b82a10c42fc284dba9870ac7c75cd386_clause_000",
+      "text": "EX-10.29 4 cxw-ex1029_421.htm EX-10.29\n Exhibit 10.29\n[CoreCivic Letterhead]",
+      "start": 0,
+      "end": 78,
+      "segment_type": "header",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "b82a10c42fc284dba9870ac7c75cd386",
+      "clause_id": "b82a10c42fc284dba9870ac7c75cd386_clause_001",
+      "text": "December 31, 2017\n\nHarley G. Lappin\nCoreCivic, Inc.\n10 Burton Hills Boulevard\nNashville, TN 37215",
+      "start": 78,
+      "end": 177,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "b82a10c42fc284dba9870ac7c75cd386",
+      "clause_id": "b82a10c42fc284dba9870ac7c75cd386_clause_002",
+      "text": "Re:\nNon-Competition, Non-Solicitation and Confidentiality and Non-Disclosure during your “at-will”\nemployment with CoreCivic of Tennessee, LLC (\"Employer\")",
+      "start": 177,
+      "end": 334,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "b82a10c42fc284dba9870ac7c75cd386",
+      "clause_id": "b82a10c42fc284dba9870ac7c75cd386_clause_003",
+      "text": "Mr. Lappin:\n\nAs we've discussed, you previously notified CoreCivic, Inc. (\"CoreCivic\" and, collectively with Employer, the\n\"Company\") of your intention to retire from your position as Executive Vice President and Chief Corrections Officer effective\nJanuary 1, 2018. Your Employment Agreement with the Company expires effective December 31, 2017. However,\nnotwithstanding the expiration of your Employment Agreement, the Company desires that you continue your employment with\nEmployer as an \"at will\" employee on terms and conditions established from time to time by the Employer.",
+      "start": 334,
+      "end": 915,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "b82a10c42fc284dba9870ac7c75cd386",
+      "clause_id": "b82a10c42fc284dba9870ac7c75cd386_clause_004",
+      "text": "This letter is to clarify and confirm that, in consideration of Employer continuing your employment on an \"at will” basis\nwith an annual salary of $175,000.00, which shall be payable in accordance with Employer’s normal payroll practices, you agree to\nbe bound by and to comply with the provisions regarding non-competition, non-solicitation and confidentiality and non-disclosure\nset forth on Exhibit A accompanying this letter.",
+      "start": 915,
+      "end": 1346,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "b82a10c42fc284dba9870ac7c75cd386",
+      "clause_id": "b82a10c42fc284dba9870ac7c75cd386_clause_005",
+      "text": "Please confirm your acknowledgement of and agreement with the foregoing by reviewing and signing this letter in the\nspace provided below.",
+      "start": 1346,
+      "end": 1485,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "b82a10c42fc284dba9870ac7c75cd386",
+      "clause_id": "b82a10c42fc284dba9870ac7c75cd386_clause_006",
+      "text": "Very truly yours,\nCORECIVIC, INC.",
+      "start": 1485,
+      "end": 1520,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "b82a10c42fc284dba9870ac7c75cd386",
+      "clause_id": "b82a10c42fc284dba9870ac7c75cd386_clause_007",
+      "text": "By: /s/ Damon T. Hininger",
+      "start": 1520,
+      "end": 1547,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "b82a10c42fc284dba9870ac7c75cd386",
+      "clause_id": "b82a10c42fc284dba9870ac7c75cd386_clause_008",
+      "text": "Damon T. Hininger\nPresident and Chief Executive Officer",
+      "start": 1547,
+      "end": 1604,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "b82a10c42fc284dba9870ac7c75cd386",
+      "clause_id": "b82a10c42fc284dba9870ac7c75cd386_clause_009",
+      "text": "Confirmed and Agreed as\nof the date written above:",
+      "start": 1604,
+      "end": 1656,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "b82a10c42fc284dba9870ac7c75cd386",
+      "clause_id": "b82a10c42fc284dba9870ac7c75cd386_clause_010",
+      "text": "/s/ Harley G. Lappin\nHarley G. Lappin",
+      "start": 1656,
+      "end": 1695,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "b82a10c42fc284dba9870ac7c75cd386",
+      "clause_id": "b82a10c42fc284dba9870ac7c75cd386_clause_011",
+      "text": "Exhibit A",
+      "start": 1695,
+      "end": 1706,
+      "segment_type": "header",
+      "is_suspicious": true
+    },
+    {
+      "document_id": "b82a10c42fc284dba9870ac7c75cd386",
+      "clause_id": "b82a10c42fc284dba9870ac7c75cd386_clause_012",
+      "text": "Non-Competition, Non-Solicitation and Confidentiality and Non-Disclosure",
+      "start": 1706,
+      "end": 1779,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "b82a10c42fc284dba9870ac7c75cd386",
+      "clause_id": "b82a10c42fc284dba9870ac7c75cd386_clause_013",
+      "text": "1.\nBusiness Considerations. All confidential or proprietary information, including but not limited to, any programs, plans or\ndesigns whether in hard copy or electronic format developed by, at the direction of, or with the assistance and/or collaboration of\nHarley G. Lappin (\"Employee\") during his employment with CoreCivic of Tennessee, LLC (together with its parent, subsidiaries\nand affiliates, the \"Company\"), contract terms, financial information, operating data, staffing patterns, wage levels, quality\nassurance audit materials and techniques, customer lists, supplier lists, pricing policies, marketing plans, business plans or models,\nmarketing or lobbying information and all other information (the “Confidential & Proprietary Information”), and all other tangible\nor intangible items or ideas making up the Confidential & Proprietary Information owned or developed by or related to the\nCompany, and the goodwill associated with them, which (i) is or was obtained or created by Employee in whole or in part as a result\nof his employment with the Company, and (ii) is not generally available to the public, shall remain the sole and exclusive property\nof the Company.",
+      "start": 1779,
+      "end": 2958,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "b82a10c42fc284dba9870ac7c75cd386",
+      "clause_id": "b82a10c42fc284dba9870ac7c75cd386_clause_014",
+      "text": "2.\nNon-Competition, Non-Solicitation. Employee hereby covenants and agrees that during the term of Employee’s\nemployment with the Company and for a period of one (1) year thereafter, Employee shall not, directly or indirectly: (i) own any\ninterest in, operate, join, control or participate as a partner, director, principal, officer or agent of, enter into the employment of, act\nas a consultant to, or perform any services for any entity (each a “Competing Entity”) which has material operations which compete\nwith any business in which the Company or any of its subsidiaries is then engaged or, to the then existing knowledge of Employee,\nproposes to engage; (ii) solicit any customer or client of the Company or any of its subsidiaries, affiliates, (other than on behalf of\nthe Company) with respect to any business in which the Company or any of its subsidiaries or affiliates is then engaged or, to the\nthen existing knowledge of Employee, proposes to engage; or (iii) induce or encourage any employee of the Company or any of its\nsubsidiaries to leave the employ of the Company or any of its subsidiaries; provided, that Employee may, solely as an investment,\nhold not more than five percent (5%) of the combined voting securities of any publicly-traded corporation or other business entity.\nThe foregoing covenants and agreements of Employee are referred to herein as the “Restrictive Covenant.” Employee\nacknowledges that Employee has carefully read and considered the provisions of the Restrictive Covenant and, having done so,\nagrees that the restrictions set forth herein , including without limitation the time period of restriction set forth above, are fair and\nreasonable and are reasonably required for the protection of the legitimate business and economic interests of the Company.\nEmployee further acknowledges that the Company would not have continued Employee's employment with the Company on an \"at\nwill\" basis absent Employee’s agreement to the foregoing. In the event that, notwithstanding the foregoing, any of the provisions of\nthis Exhibit A or any parts hereof shall be held to be invalid or unenforceable, the remaining provisions or parts hereof shall\nnevertheless continue to be valid and enforceable as though the invalid or unenforceable portions or parts had not been included\nherein. In the event that any provision of this Exhibit A relating to the time period and/or the area of restriction, if any, and/or\nrelated aspects shall be declared by a court of competent jurisdiction to exceed the maximum restrictiveness such court deems\nreasonable and enforceable, the time period and/or area of restriction and/or related aspects deemed reasonable and enforceable by\nsuch court shall become and thereafter be the maximum restrictions in such regard, and the provisions of the Restrictive Covenant\nshall remain enforceable to the fullest extent deemed reasonable by such court.",
+      "start": 2958,
+      "end": 5869,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "b82a10c42fc284dba9870ac7c75cd386",
+      "clause_id": "b82a10c42fc284dba9870ac7c75cd386_clause_015",
+      "text": "3.\nConfidentiality and Non-Disclosure. In consideration of the continuation of Employee's employment with the Company\non an \"at will\" basis, Employee agrees that during the term of employment with the Company and thereafter to hold in confidence\nthe Company's Confidential and Proprietary Information, whether communicated orally or in documentary or other tangible form.",
+      "start": 5869,
+      "end": 6243,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "b82a10c42fc284dba9870ac7c75cd386",
+      "clause_id": "b82a10c42fc284dba9870ac7c75cd386_clause_016",
+      "text": "Employee recognizes that the Company has invested considerable amounts of time and money in attaining and developing all of the\ninformation described above, and any unauthorized disclosure or release of such Confidential and Proprietary Information in any\nform would irreparably harm the Company. Notwithstanding the foregoing, nothing in this Exhibit A limits rights of Employee to\nfile a charge or complaint with or from participating in an investigation or proceeding conducted by the Equal Employment\nOpportunity Commission, National Labor Relations Board, Occupational Safety and Health Administration, the Securities and\nExchange Commission, or any other any federal, state or local agency charged with the enforcement of any laws, including\nproviding documents or any other information.",
+      "start": 6243,
+      "end": 7037,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "b82a10c42fc284dba9870ac7c75cd386",
+      "clause_id": "b82a10c42fc284dba9870ac7c75cd386_clause_017",
+      "text": "4.\nEquitable Relief. Employee agrees that it would be impossible to adequately compensate the Company and its\nsubsidiaries for the damage suffered by the Company or its subsidiaries as a result of Employee’s breach of any of the covenants\nand obligations set forth in this Exhibit A. Accordingly, Employee agrees that if Employee breaches any such covenants and\nobligations, the Company or its subsidiaries may, in addition to any other right or remedy available, obtain an injunction from a\ncourt of competent jurisdiction restraining such breach or threatened breach and to specific performance of any such provision of\nthis Exhibit A. Employee further agrees that no bond or other security shall be required in obtaining such equitable relief and\nEmployee hereby consents to the issuance of such injunction and to the ordering of specific performance.",
+      "start": 7037,
+      "end": 7892,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    }
+  ]
+}

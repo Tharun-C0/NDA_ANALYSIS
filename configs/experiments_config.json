@@ -1,0 +1,143 @@
+{
+  "project": "NDA Multi-Label Clause Classification",
+  "module": "Module 6C — Experiment Matrix & Automated Reporting Infrastructure",
+  "version": "1.2.0",
+  "dataset_version": "v3_pseudolabels_203valid",
+  "split_status": "TEMPORARY / PIPELINE DEBUGGING ONLY — Final benchmark split will be regenerated after additional pseudo-labeling.",
+  "target_categories": 14,
+  "disclaimer": "Training labels are LLM-generated pseudo-labels and have not yet been fully human-verified.",
+  "default_hyperparameters": {
+    "seed": 42,
+    "max_sequence_length": 256,
+    "batch_size": 8,
+    "learning_rate": 2e-5,
+    "weight_decay": 0.01,
+    "epochs": 5,
+    "warmup_ratio": 0.1,
+    "threshold": 0.5
+  },
+  "primary_metric": "macro_f1",
+  "secondary_metrics": [
+    "micro_f1",
+    "weighted_f1",
+    "hamming_loss",
+    "macro_mcc"
+  ],
+  "candidate_models": [
+    {
+      "model_id": "saibo/legal-roberta-base",
+      "name": "Legal-RoBERTa Baseline",
+      "architecture": "RobertaForSequenceClassification"
+    },
+    {
+      "model_id": "nlpaueb/legal-bert-base-uncased",
+      "name": "Legal-BERT Alternative",
+      "architecture": "BertForSequenceClassification"
+    },
+    {
+      "model_id": "microsoft/deberta-v3-base",
+      "name": "DeBERTa-v3 Alternative",
+      "architecture": "DebertaV2ForSequenceClassification"
+    }
+  ],
+  "loss_functions": [
+    {
+      "loss_id": "bce",
+      "name": "BCEWithLogitsLoss",
+      "description": "Standard Multi-Label Binary Cross-Entropy"
+    },
+    {
+      "loss_id": "focal",
+      "name": "Multi-Label Focal Loss",
+      "parameters": {"gamma": 2.0, "alpha": 0.25},
+      "description": "Focal Loss addressing hard/minority category imbalance"
+    },
+    {
+      "loss_id": "class_weighted_bce",
+      "name": "Class-Weighted BCE",
+      "description": "BCE with positive weights computed EXCLUSIVELY from the training dataset split"
+    }
+  ],
+  "planned_experiment_matrix": [
+    {
+      "experiment_id": "EXP-01",
+      "model": "saibo/legal-roberta-base",
+      "loss": "bce",
+      "label_mode": "all_valid",
+      "group": "A_Model_Comparison",
+      "description": "Legal-RoBERTa Baseline with standard BCE loss"
+    },
+    {
+      "experiment_id": "EXP-02",
+      "model": "saibo/legal-roberta-base",
+      "loss": "focal",
+      "label_mode": "all_valid",
+      "group": "B_Loss_Comparison",
+      "description": "Legal-RoBERTa with Multi-Label Focal Loss"
+    },
+    {
+      "experiment_id": "EXP-03",
+      "model": "saibo/legal-roberta-base",
+      "loss": "class_weighted_bce",
+      "label_mode": "all_valid",
+      "group": "B_Loss_Comparison",
+      "description": "Legal-RoBERTa with Class-Weighted BCE (weights computed on train split)"
+    },
+    {
+      "experiment_id": "EXP-04",
+      "model": "nlpaueb/legal-bert-base-uncased",
+      "loss": "bce",
+      "label_mode": "all_valid",
+      "group": "A_Model_Comparison",
+      "description": "Legal-BERT with standard BCE loss"
+    },
+    {
+      "experiment_id": "EXP-05",
+      "model": "nlpaueb/legal-bert-base-uncased",
+      "loss": "focal",
+      "label_mode": "all_valid",
+      "group": "B_Loss_Comparison",
+      "description": "Legal-BERT with Multi-Label Focal Loss"
+    },
+    {
+      "experiment_id": "EXP-06",
+      "model": "nlpaueb/legal-bert-base-uncased",
+      "loss": "class_weighted_bce",
+      "label_mode": "all_valid",
+      "group": "B_Loss_Comparison",
+      "description": "Legal-BERT with Class-Weighted BCE"
+    },
+    {
+      "experiment_id": "EXP-07",
+      "model": "microsoft/deberta-v3-base",
+      "loss": "bce",
+      "label_mode": "all_valid",
+      "group": "A_Model_Comparison",
+      "description": "DeBERTa-v3 with standard BCE loss"
+    },
+    {
+      "experiment_id": "EXP-08",
+      "model": "microsoft/deberta-v3-base",
+      "loss": "focal",
+      "label_mode": "all_valid",
+      "group": "B_Loss_Comparison",
+      "description": "DeBERTa-v3 with Multi-Label Focal Loss"
+    },
+    {
+      "experiment_id": "EXP-09",
+      "model": "microsoft/deberta-v3-base",
+      "loss": "class_weighted_bce",
+      "label_mode": "all_valid",
+      "group": "B_Loss_Comparison",
+      "description": "DeBERTa-v3 with Class-Weighted BCE"
+    },
+    {
+      "experiment_id": "EXP-10",
+      "model": "saibo/legal-roberta-base",
+      "loss": "bce",
+      "label_mode": "high_confidence",
+      "group": "C_Quality_Ablation",
+      "description": "Legal-RoBERTa trained exclusively on HIGH_CONFIDENCE pseudo-labels"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+check,status,count,clause_ids,details
+required_columns,PASS,0,[],Missing required CSV fields
+missing_clause_ids,PASS,0,[],CSV record numbers
+duplicate_clause_ids,PASS,0,[],Repeated identities
+missing_clause_text,PASS,0,[],Absent or empty text
+empty_clauses,PASS,0,[],Whitespace-only text
+duplicate_text,WARN,25,"[""0a42e159b33ed521c4157d8babfaf3c1_clause_036"", ""0a42e159b33ed521c4157d8babfaf3c1_clause_043"", ""0a42e159b33ed521c4157d8babfaf3c1_clause_046"", ""0a42e159b33ed521c4157d8babfaf3c1_clause_049"", ""0a42e159b33ed521c4157d8babfaf3c1_clause_052"", ""0a42e159b33ed521c4157d8babfaf3c1_clause_054"", ""2268c5d1120f1abd57170d689f496418_clause_010"", ""2268c5d1120f1abd57170d689f496418_clause_012"", ""2268c5d1120f1abd57170d689f496418_clause_013"", ""2268c5d1120f1abd57170d689f496418_clause_014"", ""2268c5d1120f1abd57170d689f496418_clause_015"", ""2268c5d1120f1abd57170d689f496418_clause_017"", ""3504e06a49433c1456720513186da1bd_clause_008"", ""3504e06a49433c1456720513186da1bd_clause_014"", ""53c8f90cfb5fb49177c9cb160e53f17b_clause_001"", ""53c8f90cfb5fb49177c9cb160e53f17b_clause_015"", ""64303e5aa502b04df2755968eecdc2f5_clause_001"", ""64303e5aa502b04df2755968eecdc2f5_clause_010"", ""64303e5aa502b04df2755968eecdc2f5_clause_012"", ""64303e5aa502b04df2755968eecdc2f5_clause_013"", ""64303e5aa502b04df2755968eecdc2f5_clause_014"", ""64303e5aa502b04df2755968eecdc2f5_clause_015"", ""64303e5aa502b04df2755968eecdc2f5_clause_017"", ""f28c4f3d35a152dd415f9b255122cb38_clause_007"", ""f28c4f3d35a152dd415f9b255122cb38_clause_011""]","Whitespace-normalized duplicate text: all affected rows; retained for document provenance, not deduplicated."
+invalid_review_actions,PASS,0,[],Allowed: six structural actions; blank only for unreviewed/API-failure rows
+missing_review_status,PASS,0,[],Missing structural review state
+invalid_review_status,PASS,0,[],Unknown structural review state
+action_status_consistency,PASS,0,[],Excluded non-legal actions must not be in clean CSV; blank actions must not imply completion
+inconsistent_document_ids,PASS,0,[],"Identity checked against original V3, not only ID prefix"
+source_text_integrity,PASS,0,[],No text edits or physical merge/split allowed
+source_provenance,PASS,0,[],Source must match the actual V3 file
+cleaning_coverage,PASS,0,[],Exact retained-ID reconciliation against source reviews
+confidence_range,PASS,0,[],"Blank when unknown; otherwise finite number in [0, 1]"
+multi_label_format,PASS,0,[],If populated: JSON list of distinct exact category names; scalar accepted only in a single-label column
+label_provenance,PASS,0,[],"Assignments need label_verified=true, label_source, and label_reviewer"
+label_availability,BLOCKED,0,[],Verified clause-level category assignments; structural actions are not labels
+multi_label_availability,BLOCKED,0,[],Verified clauses assigned more than one category; parser capability is not annotated data

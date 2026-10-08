@@ -1,0 +1,541 @@
+{
+  "document_id": "293f59373f6a966b13cd7463b4617a6f",
+  "source_file": "293f59373f6a966b13cd7463b4617a6f.txt",
+  "total_characters": 21431,
+  "num_clauses": 59,
+  "num_legal_clauses": 57,
+  "quality_status": "REVIEW",
+  "clauses": [
+    {
+      "document_id": "293f59373f6a966b13cd7463b4617a6f",
+      "clause_id": "293f59373f6a966b13cd7463b4617a6f_clause_000",
+      "text": "EXHIBIT 10.1",
+      "start": 0,
+      "end": 14,
+      "segment_type": "header",
+      "is_suspicious": true
+    },
+    {
+      "document_id": "293f59373f6a966b13cd7463b4617a6f",
+      "clause_id": "293f59373f6a966b13cd7463b4617a6f_clause_001",
+      "text": "FULL AND GENERAL MUTUAL RELEASE,\nSETTLEMENT AND CONFIDENTIALITY AGREEMENT\nThis FULL AND GENERAL RELEASE, , Settlement and Confidentiality Agreement (hereinafter this “Agreement”) is entered into between RMS TITANIC, INC.\n(“RMST”) and PREMIER EXHIBITIONS, INC. (“Premier”, and hereinafter collectively with RMST referred to as “the Company”), and THOMAS ZALLER\n(“Zaller”), IMAGINE EXHIBITIONS, INC., a Georgia corporation (“Imagine-Georgia”), IMAGINE EXHIBITIONS, INC., a Nevada corporation (“Imagine-Nevada”),\nIMAGINE EXHIBITIONS PTE, LTD. (“Imagine PTE”), and TZ, INC. (collectively, “Imagine”) and KINGSMEN EXHIBITS PTE LTD. and its parent company,\nKINGSMEN CREATIVE, LTD. (collectively “Kingsmen”) and altogether collectively referred to as the “Parties.”",
+      "start": 14,
+      "end": 773,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "293f59373f6a966b13cd7463b4617a6f",
+      "clause_id": "293f59373f6a966b13cd7463b4617a6f_clause_002",
+      "text": "WHEREAS, RMST and Premier, are Florida corporations whose principal places of business are in Atlanta, Georgia, and who present museum quality exhibitions\nfeaturing artifacts recovered from the wreck site of the RMS Titanic (“the RMST Exhibition”); and",
+      "start": 773,
+      "end": 1027,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "293f59373f6a966b13cd7463b4617a6f",
+      "clause_id": "293f59373f6a966b13cd7463b4617a6f_clause_003",
+      "text": "WHEREAS, on or about June 13, 2011 the Company entered into an agreement to present the RMST Exhibition in Singapore;",
+      "start": 1027,
+      "end": 1146,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "293f59373f6a966b13cd7463b4617a6f",
+      "clause_id": "293f59373f6a966b13cd7463b4617a6f_clause_004",
+      "text": "WHEREAS, Zaller is a former employee of the Company who resides in Atlanta, Georgia, and who is the CEO and sole shareholder for Imagine-Georgia,\nImagine-Nevada, Imagine PTE, and TZ, Inc. (collectively, “Imagine”), which companies are engaged in the entertainment business, and, among other things,\nprovide exhibitions at museums and other public venues, including their own Titanic exhibition (“the Imagine Exhibition”); and",
+      "start": 1146,
+      "end": 1573,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "293f59373f6a966b13cd7463b4617a6f",
+      "clause_id": "293f59373f6a966b13cd7463b4617a6f_clause_005",
+      "text": "WHEREAS, Kingsmen are Singapore companies whose business operations include the design, production and construction of interiors, including for exhibitions;\nand,",
+      "start": 1573,
+      "end": 1736,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "293f59373f6a966b13cd7463b4617a6f",
+      "clause_id": "293f59373f6a966b13cd7463b4617a6f_clause_006",
+      "text": "WHEREAS, RMST, TZ, Inc., Imagine PTE, Zaller and Kingsmen were all involved in the staging and presentation of the RMST Exhibition in Singapore in 2011\nand 2012, and during which time RMST alleges that it provided Zaller and Kingsmen certain trade secrets, intellectual property and other confidential and\nproprietary information solely for use in the Singapore exhibition; and",
+      "start": 1736,
+      "end": 2115,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "293f59373f6a966b13cd7463b4617a6f",
+      "clause_id": "293f59373f6a966b13cd7463b4617a6f_clause_007",
+      "text": "WHEREAS, following the period when the RMST Exhibition was being presented in Singapore, Imagine-PTE and Kingsmen entered into an agreement for the\npresentation of the Imagine Exhibition in Macau, and presented the Imagine Exhibition in Macau on or about October 22, 2012 through March 31, 2013; and",
+      "start": 2115,
+      "end": 2416,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "293f59373f6a966b13cd7463b4617a6f",
+      "clause_id": "293f59373f6a966b13cd7463b4617a6f_clause_008",
+      "text": "WHEREAS, a dispute exists between the parties as to whether Zaller, Imagine and Kingsmen misappropriated and used trade secrets, intellectual property,\nand/or proprietary information of the Company, and improperly copied the trade dress of the RMST Exhibition in the Imagine Exhibition; and",
+      "start": 2416,
+      "end": 2708,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "293f59373f6a966b13cd7463b4617a6f",
+      "clause_id": "293f59373f6a966b13cd7463b4617a6f_clause_009",
+      "text": "WHEREAS, Imagine, Zaller and Kingsmen have denied that they have misappropriated or used any trade secrets, intellectual property and/or proprietary\ninformation that the Company claims to own and have continued to market and promote their Imagine Exhibition throughout the world (the “Existing Imagine\nExhibition”); and",
+      "start": 2708,
+      "end": 3029,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "293f59373f6a966b13cd7463b4617a6f",
+      "clause_id": "293f59373f6a966b13cd7463b4617a6f_clause_010",
+      "text": "WHEREAS, the Company filed a civil action in the United States District Court for the Northern District of Georgia, Atlanta Division (“the Federal Action”), against\nZaller and Imagine (Civil Action No. 1:13cv-00625-WSD) alleging, among other things, breach of contract, fraud and fraudulent inducement, trade dress and\nLanham Act violations, and misappropriation of trade secrets; and",
+      "start": 3029,
+      "end": 3416,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "293f59373f6a966b13cd7463b4617a6f",
+      "clause_id": "293f59373f6a966b13cd7463b4617a6f_clause_011",
+      "text": "2\n\nWHEREAS, Kingsmen instituted a civil action in the High Court of the Republic of Singapore (Suit No.: 365 of 2013) against the Company (“the Singapore\nAction”), alleging that Kingsmen has not infringed or improperly used any of the Company’s trademarks, trade dress, trade secrets or other intellectual property;\nand",
+      "start": 3416,
+      "end": 3736,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "293f59373f6a966b13cd7463b4617a6f",
+      "clause_id": "293f59373f6a966b13cd7463b4617a6f_clause_012",
+      "text": "WHEREAS, the Company filed a civil action in the United States District Court for the Middle District of Florida, Jacksonville Division, against Kingsmen (Case\nNo. 3:13-cv-463-J-20-TEM), (“the Florida Action”), alleging similar claims but which case has been dismissed; and",
+      "start": 3736,
+      "end": 4011,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "293f59373f6a966b13cd7463b4617a6f",
+      "clause_id": "293f59373f6a966b13cd7463b4617a6f_clause_013",
+      "text": "WHEREAS, the Company has filed a counterclaim in the Singapore Action seeking recovery for damages allegedly sustained from Kingsmen’s activities, and",
+      "start": 4011,
+      "end": 4163,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "293f59373f6a966b13cd7463b4617a6f",
+      "clause_id": "293f59373f6a966b13cd7463b4617a6f_clause_014",
+      "text": "WHEREAS, Zaller and Imagine deny the allegations asserted against them by the Company, including but not limited to those allegations asserted in the Federal\nAction; and",
+      "start": 4163,
+      "end": 4334,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "293f59373f6a966b13cd7463b4617a6f",
+      "clause_id": "293f59373f6a966b13cd7463b4617a6f_clause_015",
+      "text": "WHEREAS, all the parties referenced herein now wish to settle any and all differences and controversies between them, including those set forth, or which could\nhave been set forth in the Federal Action, the Florida Action and the Singapore Action",
+      "start": 4334,
+      "end": 4582,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "293f59373f6a966b13cd7463b4617a6f",
+      "clause_id": "293f59373f6a966b13cd7463b4617a6f_clause_016",
+      "text": "(1) NOW THEREFORE, in consideration of the covenants, conditions and promises set forth herein and for other good and valuable consideration, the receipt\nand sufficiency and delivery of which is hereby acknowledged, the parties hereto, intending to be legally bound, agree as follows: Imagine (on its own account\nand/or on behalf of any other party or person, including but not limited to insurers) shall pay to the Company, the sum of Seven Hundred Twenty-Five Thousand\nDollars ($725,000). The sum stated above is the sole monetary consideration for this release. The monetary consideration shall be paid as follows: $725,000 by\ncertified check(s) and/or wire transfers to the Company on or before November 30, 2014. Zaller, Imagine and Kingsmen, and their insurers and counsel, make no\nrepresentations or warranties as",
+      "start": 4582,
+      "end": 5405,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "293f59373f6a966b13cd7463b4617a6f",
+      "clause_id": "293f59373f6a966b13cd7463b4617a6f_clause_017",
+      "text": "3\n\nto the tax treatment, implications or consequences to the Company from these payments; and the Company assumes full responsibility for the tax consequences of these payments, if any.",
+      "start": 5405,
+      "end": 5591,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "293f59373f6a966b13cd7463b4617a6f",
+      "clause_id": "293f59373f6a966b13cd7463b4617a6f_clause_018",
+      "text": "(2) Kingsmen agrees, represents and warrants that it shall not exhibit or participate in any Titanic-themed exhibition with Zaller or Imagine (excluding the Existing\nImagine Exhibition) anywhere for 24 months from the date of execution of this Agreement.",
+      "start": 5591,
+      "end": 5847,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "293f59373f6a966b13cd7463b4617a6f",
+      "clause_id": "293f59373f6a966b13cd7463b4617a6f_clause_019",
+      "text": "(3) Zaller and Imagine agree, represent and warrant that they will not engage or participate in any Titanic-themed exhibitions (excluding the Existing Imagine\nExhibition) for 24 months from the date of execution of this Agreement",
+      "start": 5847,
+      "end": 6078,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "293f59373f6a966b13cd7463b4617a6f",
+      "clause_id": "293f59373f6a966b13cd7463b4617a6f_clause_020",
+      "text": "(4) Zaller and Imagine agree, represent and warrant that they will not stage a Titanic-themed Exhibition, including the Existing Imagine Exhibition, in the United\nStates or Canada for 36 months from the date of execution of this Agreement, or Western Europe (defined herein as the United Kingdom, Ireland, France,\nGermany, Italy, Switzerland, Spain, Portugal, Sweden, Denmark and Norway only) for 24 months from the date of execution of this Agreement.",
+      "start": 6078,
+      "end": 6532,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "293f59373f6a966b13cd7463b4617a6f",
+      "clause_id": "293f59373f6a966b13cd7463b4617a6f_clause_021",
+      "text": "(5) In consideration of the payment set forth in paragraph one (1) above, and for other good and valuable consideration, the receipt of which is hereby\nacknowledged, the Company, together with its affiliates, subsidiaries, parents, shareholders, officers, principals, employees, directors, agents, insurers, attorneys,\nand assigns fully, finally, and completely releases, quitclaims and discharges Zaller, Imagine and Kingsmen, their predecessors and successors, present and\nformer affiliates, subsidiaries, legal representatives, heirs, spouses, executors, administrators, insurers, employees, officers, directors, shareholders, attorneys,\nindependent contractors and agents from each and every present, past or future claim, debt, demand, judgment, cause of action, rights, damages, costs or suits,\nresponsibility and liability of every kind and character whatsoever, known or unknown, suspected or unsuspected, now existing,",
+      "start": 6532,
+      "end": 7462,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "293f59373f6a966b13cd7463b4617a6f",
+      "clause_id": "293f59373f6a966b13cd7463b4617a6f_clause_022",
+      "text": "4\n\nwhether based on statute, federal law, common law, international law, tort, contract, or any other theory of recovery, pertaining to all matters which are, have been or may have been or could have been the subject of\nand/or in connection with the Federal Court Action, the Florida Action, the Singapore Action or arising out of and/or in connection with any RMST Exhibition, and from any and all alleged breaches and damages\nbetween the parties, which existed up to the date of execution of this Agreement. Further or additionally, the Company shall write to Las Vegas Sands Corporation, the Venetian in Macau and Marina Bay Sands in\nSingapore notifying them that the disputes between the Company and Zaller/Imagine/Kingsmen have been fully and finally resolved with Zaller, Imagine and Kingsmen denying any liability to the Company and\nmaking no admissions with respect to the resolution of the dispute (“the Sands Letter”). A draft of the Sands Letter shall first be sent to Zaller, Imagine and Kingsmen prior to it being sent and within seven (7) days of\nthe date of payment set forth in paragraph 1. The Sands Letter shall be sent by the Company within seven (7) days of approval of the draft by Zaller, Imagine and Kingsmen.",
+      "start": 7462,
+      "end": 8695,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "293f59373f6a966b13cd7463b4617a6f",
+      "clause_id": "293f59373f6a966b13cd7463b4617a6f_clause_023",
+      "text": "(6) As a required condition of this settlement, the Company agrees to dismiss with prejudice the Federal Court Action, and the counterclaim in the Singapore\nAction, within five (5) days of receipt of the payment described in paragraph one (1) above, and covenants not to sue Zaller, Imagine and Kingsmen for the\nreleased claims set out in this Agreement and/or for any claims alleged or which could have been alleged in the Federal Court Action, the Florida Action, the\nSingapore Action, or which existed up to the date of execution of this Agreement whether known or unknown.",
+      "start": 8695,
+      "end": 9273,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "293f59373f6a966b13cd7463b4617a6f",
+      "clause_id": "293f59373f6a966b13cd7463b4617a6f_clause_024",
+      "text": "(7) In consideration of the dismissal of the Federal Court Action, the counterclaim in the Singapore Action, the aforesaid releases, and other good and valuable\nconsideration, Zaller, Imagine and Kingsmen, and their heirs, spouses, executors, administrators, affiliated companies,",
+      "start": 9273,
+      "end": 9556,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "293f59373f6a966b13cd7463b4617a6f",
+      "clause_id": "293f59373f6a966b13cd7463b4617a6f_clause_025",
+      "text": "5\n\nsubsidiaries, current and former officers, directors, managers, shareholders, members, employees, agents, attorneys, and their insurers, representatives, successors and assigns, do fully and finally, completely\nrelease, quitclaim and discharge the Company, its predecessors and successors, present and former affiliates, subsidiaries, officers, directors, shareholders, members, employees, attorneys, insurers, and agents\nfrom each and every present, past or future claim, debt, demand, judgment, cause of action, rights, damages, costs, or suits, responsibility and liability of every kind and character whatsoever, known or unknown,\nsuspected or unsuspected, now existing, whether based on statute, federal law, common law, international law, tort, contract, or any other theory of recovery, pertaining to the Company, including as to the RMST\nExhibitions, and for all actions or inactions including, but not limited to, all claims and counts set forth in the Singapore Action, and/or arising out of or otherwise related to the incident(s) referenced in the\nabove-identified litigation, including without limitation, all rights or claims that also could have been asserted in the Federal Court Action, the Florida Action, or the Singapore Action, and from all alleged breaches and",
+      "start": 9556,
+      "end": 10843,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "293f59373f6a966b13cd7463b4617a6f",
+      "clause_id": "293f59373f6a966b13cd7463b4617a6f_clause_026",
+      "text": "damages between the parties which existed up to the date of execution of this Agreement, whether known or unknown. Kingsmen further agrees that, within five (5) days of execution of this Agreement, it will together\nwith the Company’s Singapore lawyers, dismiss with prejudice its claims and the Company’s counterclaims in the Singapore Action, each party therein to bear its own costs and attorneys’ fees.",
+      "start": 10843,
+      "end": 11249,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "293f59373f6a966b13cd7463b4617a6f",
+      "clause_id": "293f59373f6a966b13cd7463b4617a6f_clause_027",
+      "text": "(8) As a required condition of this settlement, the Company agrees to dismiss with prejudice all claims alleged against Kingsmen in its Counterclaim in the\nSingapore Action, and covenants not to sue Kingsmen for the released claims and/or any claims alleged or which could have been alleged in the Florida Action or\nthe Singapore Action, or which existed up to the date",
+      "start": 11249,
+      "end": 11621,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "293f59373f6a966b13cd7463b4617a6f",
+      "clause_id": "293f59373f6a966b13cd7463b4617a6f_clause_028",
+      "text": "6\n\nof execution of this Agreement, and/or in connection with the matters set out therein (including in the preamble of this Agreement) whether known or unknown.",
+      "start": 11621,
+      "end": 11782,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "293f59373f6a966b13cd7463b4617a6f",
+      "clause_id": "293f59373f6a966b13cd7463b4617a6f_clause_029",
+      "text": "(9) The Parties further agree that irrespective of any prior rulings or orders , they shall bear their own costs, attorneys’ fees and litigation expenses.",
+      "start": 11782,
+      "end": 11938,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "293f59373f6a966b13cd7463b4617a6f",
+      "clause_id": "293f59373f6a966b13cd7463b4617a6f_clause_030",
+      "text": "(10) The Parties agree to assume full responsibility for and to indemnify and hold each other harmless from any and all liability for claims or liens which are, or\nmay be, asserted against them which arise out of or otherwise relate to their alleged obligations incurred after commencement of the Federal Action, including,\nbut not limited to, claims or liens for legal, expert witness or any other services rendered or provided to or on behalf of the parties or otherwise arising out of or by\noperation of statute or common law.",
+      "start": 11938,
+      "end": 12469,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "293f59373f6a966b13cd7463b4617a6f",
+      "clause_id": "293f59373f6a966b13cd7463b4617a6f_clause_031",
+      "text": "(11) Zaller, Imagine and Kingsmen do not admit, but rather expressly deny, the allegations of liability and/or wrongdoing set forth against them in the Federal\nAction, the Florida Action and the Singapore Action, and the aforesaid monetary consideration is paid in compromise of a disputed claim or claims in order to\navoid the expenses of further investigation and litigation.",
+      "start": 12469,
+      "end": 12848,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "293f59373f6a966b13cd7463b4617a6f",
+      "clause_id": "293f59373f6a966b13cd7463b4617a6f_clause_032",
+      "text": "(12) The Parties represent and warrant that they have not conveyed, transferred, pledged, hypothecated, or in any manner whatsoever assigned or encumbered\nany of the claims set forth or which could have been set forth in the Federal Action, the Florida Action and the Singapore Action.",
+      "start": 12848,
+      "end": 13135,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "293f59373f6a966b13cd7463b4617a6f",
+      "clause_id": "293f59373f6a966b13cd7463b4617a6f_clause_033",
+      "text": "(13) The undersigned specifically authorize and direct Robert S. Thompson, Esquire and Robert W. McFarland, Esquire, or their designees, to execute orders\ndismissing the Federal Court Action with prejudice, and further direct the law firm of TSMP Law Corporation and",
+      "start": 13135,
+      "end": 13404,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "293f59373f6a966b13cd7463b4617a6f",
+      "clause_id": "293f59373f6a966b13cd7463b4617a6f_clause_034",
+      "text": "7\n\nCherrin Wong and the law firm of Rajah Tann, to execute all documents necessary to dismiss with prejudice the Claims and Counterclaim in the Singapore Action.",
+      "start": 13404,
+      "end": 13566,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "293f59373f6a966b13cd7463b4617a6f",
+      "clause_id": "293f59373f6a966b13cd7463b4617a6f_clause_035",
+      "text": "(14) As a material inducement to enter this settlement, the Parties have agreed and do agree that the nature, terms and conditions of this Agreement are strictly\nconfidential and shall not in the future be disclosed, other than to the following: (A) the Parties to this Agreement and any subsidiary, affiliate, associate, employee\nor parent companies and their insurers, reinsurers, auditors, accountants and attorneys, to further the legitimate business purposes of such Parties; (B) between\nand amongst the Parties in connection with the required notices and other proceedings set forth in this Agreement; (C) the Internal Revenue Service, or any other\nstate, federal, or local governmental taxing authority, in connection with tax returns, amendments or related documents; (D) the Securities and Exchange\nCommission (“SEC”) in such filings as the Company is required to provide, and such SEC disclosures may state that the Federal Action has been resolved by\nagreement of the parties therein, and that the Company is receiving funds from the settlement without any admissions of fault or liability, and shall further state\nthat the Singapore Action has been dismissed by agreement of Kingsmen and the Company; and that Zaller, Imagine and Kingsmen deny any liability to the\nCompany ; (E) any person designated pursuant to an order from a court of competent jurisdiction, or as may otherwise be required by law, provided that the\ndisclosing Party shall make reasonable efforts to have this Agreement covered by protective order limiting dissemination to those involved in such proceedings;\n(F) in the event of a dispute or other litigation between any of the Parties involving the provisions of this Agreement, but in such event the disclosure shall be\nunder terms that preserve the confidentiality of the information disclosed; (G) the Singapore Exchange (“SGX”) in such filings as Kingsmen is required to provide\nbut such SGX disclosure shall be limited to a bare or simple",
+      "start": 13566,
+      "end": 15546,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "293f59373f6a966b13cd7463b4617a6f",
+      "clause_id": "293f59373f6a966b13cd7463b4617a6f_clause_036",
+      "text": "8\n\nstatement relating to the outcome of the Singapore Action and, if relevant, that the Company denies any liability to Kingsmen and vice versa or (H) the Parties agree in writing to the specific disclosure. To the extent\nnecessary, the Parties assign a value of $500.00 of the total consideration for this Agreement.",
+      "start": 15546,
+      "end": 15864,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "293f59373f6a966b13cd7463b4617a6f",
+      "clause_id": "293f59373f6a966b13cd7463b4617a6f_clause_037",
+      "text": "(15) Each of the Parties further agrees that they will not say or do anything that would or could be construed to defame, libel or disparage the reputation of any of\nthe other Parties, except as required by law. The Parties further agree that they will require their respective employees who have knowledge of the existence and\nterms of this Agreement, for so long as they remain employees, to not say or do anything that would or could be reasonably construed to defame, libel or\ndisparage the reputation of any of the other Parties, except as required by law. Nothing contained herein shall prevent any Party from providing truthful testimony\nin court, administrative hearings, arbitration, discovery responses, depositions, or as otherwise required by law.",
+      "start": 15864,
+      "end": 16625,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "293f59373f6a966b13cd7463b4617a6f",
+      "clause_id": "293f59373f6a966b13cd7463b4617a6f_clause_038",
+      "text": "(16) This Agreement contains the entire agreement between the parties hereto, regarding the issues and disputes which have arisen in the Federal Action, the\nFlorida Action and the Singapore Action, and all other related matters regarding the rights, duties and obligations under the aforementioned matters, and no\npromise, inducement, agreement or other consideration not herein expressed has been made between the parties. It is expressly understood and agreed that\nthis Agreement may not be altered, amended, modified or otherwise changed in any respect or particular whatsoever, except by a writing duly executed by an\nauthorized representative of each of the Parties.",
+      "start": 16625,
+      "end": 17298,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "293f59373f6a966b13cd7463b4617a6f",
+      "clause_id": "293f59373f6a966b13cd7463b4617a6f_clause_039",
+      "text": "(17) The undersigned acknowledge that they have read the foregoing provisions of this document before executing it and that they understand its provisions, or\nhave made any",
+      "start": 17298,
+      "end": 17473,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "293f59373f6a966b13cd7463b4617a6f",
+      "clause_id": "293f59373f6a966b13cd7463b4617a6f_clause_040",
+      "text": "9\n\nnecessary inquiries to understand its provisions. Further, the undersigned have been advised by counsel of their choice of the advisability of accepting the settlement herein set out. The persons executing this\nAgreement for the Company, Imagine, and Kingsmen affirm, respectively, that they possess authority to execute this Agreement on the entity’s behalf. As between the Company, and Zaller and Imagine, this\nAgreement shall be deemed to have been made and entered into in the State of Georgia, and shall in all respects be interpreted, enforced and governed under the laws of the State of Georgia, without regard to\nconflicts of laws principles or choice of law provisions. The language of all parts of this Agreement shall be construed as a whole, according to its plain meaning, and not be interpreted or construed against or for any\nof the Parties. Any dispute and/or difference between the Company and Kingsmen arising out of and/or in connection with this Agreement (including but not limited to any questions regarding its existence, effect,\nvalidity and/or termination) shall be referred to and finally resolved by international arbitration in Singapore in accordance with the Rules of the Singapore International Arbitration Centre (“SIAC Rules”) for the time\nbeing in force, which rules are deemed to be incorporated by reference in this clause. The Tribunal shall consist of a single arbitrator appointed by the Chairman of the SIAC. The language of the arbitration shall be\nEnglish. The prevailing party in any action or proceedings brought to enforce and/or because of an alleged breach of this Agreement shall be entitled to recovery of its costs and attorneys’ fees incurred in the action.\nAs between the Company and Kingsmen, any dispute arising under and/or in connection with this Agreement shall be governed solely and only by the laws of the Republic of Singapore (excluding private international\nlaw considerations) as if both the Company and Kingsmen and the transaction are domiciled in the Republic of Singapore.",
+      "start": 17473,
+      "end": 19518,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "293f59373f6a966b13cd7463b4617a6f",
+      "clause_id": "293f59373f6a966b13cd7463b4617a6f_clause_041",
+      "text": "10\n\n(18) Should any provision of this Agreement be held by a court or tribunal of competent jurisdiction to be unenforceable, or enforceable only if modified, that\nholding shall not affect the validity of the remainder of this Agreement, the balance of which shall continue to be binding upon the parties, with any modification to\nbecome a part hereof and treated as though contained in this original Agreement.",
+      "start": 19518,
+      "end": 19930,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "293f59373f6a966b13cd7463b4617a6f",
+      "clause_id": "293f59373f6a966b13cd7463b4617a6f_clause_042",
+      "text": "(19) Zaller, Imagine and the Company consent to personal jurisdiction and venue in connection with any alleged breach of this Agreement in the United States\nDistrict Court for the Northern District of Georgia, Atlanta Division, or an appropriate state court forum for Atlanta, Georgia. This Agreement shall be binding\nupon, and inure to the benefit of the successors and assigns of the parties. The prevailing party in any action brought to enforce and/or because of an alleged\nbreach of this Agreement shall be entitled to recovery of its costs and attorneys’ fees incurred in the action.",
+      "start": 19930,
+      "end": 20521,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "293f59373f6a966b13cd7463b4617a6f",
+      "clause_id": "293f59373f6a966b13cd7463b4617a6f_clause_043",
+      "text": "(20) This Agreement shall be effective whether executed as a single document or in counterparts, and taken together shall be deemed a single binding and\nenforceable instrument. True copies of this Agreement have the same force and effect as an original.",
+      "start": 20521,
+      "end": 20777,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "293f59373f6a966b13cd7463b4617a6f",
+      "clause_id": "293f59373f6a966b13cd7463b4617a6f_clause_044",
+      "text": "THE UNDERSIGNED HAVE READ THIS RELEASE, UNDERSTANDS IT FULLY, AND SIGNS IT VOLUNTARILY, WITH THE INTENT TO BE LEGALLY BOUND\nTHEREBY.",
+      "start": 20777,
+      "end": 20910,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "293f59373f6a966b13cd7463b4617a6f",
+      "clause_id": "293f59373f6a966b13cd7463b4617a6f_clause_045",
+      "text": "IN WITNESS WHEREOF, we do hereby set our hands and seals.",
+      "start": 20910,
+      "end": 20969,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "293f59373f6a966b13cd7463b4617a6f",
+      "clause_id": "293f59373f6a966b13cd7463b4617a6f_clause_046",
+      "text": "(1)\nIMAGINE EXHIBITIONS, INC., a Georgia corporation",
+      "start": 20969,
+      "end": 21024,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "293f59373f6a966b13cd7463b4617a6f",
+      "clause_id": "293f59373f6a966b13cd7463b4617a6f_clause_047",
+      "text": "By:\n\nTitle:\n\nDate:\n\n11",
+      "start": 21024,
+      "end": 21047,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "293f59373f6a966b13cd7463b4617a6f",
+      "clause_id": "293f59373f6a966b13cd7463b4617a6f_clause_048",
+      "text": "(2)\nIMAGINE EXHIBITIONS, INC., a Nevada corporation",
+      "start": 21047,
+      "end": 21101,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "293f59373f6a966b13cd7463b4617a6f",
+      "clause_id": "293f59373f6a966b13cd7463b4617a6f_clause_049",
+      "text": "By:\n\nTitle:\n\nDate:\n\n(3)\nIMAGINE EXHIBITIONS PTE, Ltd.",
+      "start": 21101,
+      "end": 21156,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "293f59373f6a966b13cd7463b4617a6f",
+      "clause_id": "293f59373f6a966b13cd7463b4617a6f_clause_050",
+      "text": "By:\n\nTitle:\n\nDate:\n\n(4)\nTZ, Inc.",
+      "start": 21156,
+      "end": 21190,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "293f59373f6a966b13cd7463b4617a6f",
+      "clause_id": "293f59373f6a966b13cd7463b4617a6f_clause_051",
+      "text": "By:\n\nTitle:\n\nDate:\n\n(5)",
+      "start": 21190,
+      "end": 21214,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "293f59373f6a966b13cd7463b4617a6f",
+      "clause_id": "293f59373f6a966b13cd7463b4617a6f_clause_052",
+      "text": "THOMAS ZALLER",
+      "start": 21214,
+      "end": 21228,
+      "segment_type": "section_heading",
+      "is_suspicious": true
+    },
+    {
+      "document_id": "293f59373f6a966b13cd7463b4617a6f",
+      "clause_id": "293f59373f6a966b13cd7463b4617a6f_clause_053",
+      "text": "(6)\nPREMIER EXHIBITIONS, INC.",
+      "start": 21228,
+      "end": 21260,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "293f59373f6a966b13cd7463b4617a6f",
+      "clause_id": "293f59373f6a966b13cd7463b4617a6f_clause_054",
+      "text": "By:\n\nTitle:\n\nDate:\n\n12",
+      "start": 21260,
+      "end": 21283,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "293f59373f6a966b13cd7463b4617a6f",
+      "clause_id": "293f59373f6a966b13cd7463b4617a6f_clause_055",
+      "text": "(7)\nRMS TITANIC, INC.",
+      "start": 21283,
+      "end": 21307,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "293f59373f6a966b13cd7463b4617a6f",
+      "clause_id": "293f59373f6a966b13cd7463b4617a6f_clause_056",
+      "text": "By:\n\nTitle:\n\nDate:\n\n(8)\nKINGSMEN EXHIBITS PTE, LTD.",
+      "start": 21307,
+      "end": 21360,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "293f59373f6a966b13cd7463b4617a6f",
+      "clause_id": "293f59373f6a966b13cd7463b4617a6f_clause_057",
+      "text": "By:\n\nTitle:\n\nDate:\n\n(9)\nKINGSMEN CREATIVES LTD.",
+      "start": 21360,
+      "end": 21409,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "293f59373f6a966b13cd7463b4617a6f",
+      "clause_id": "293f59373f6a966b13cd7463b4617a6f_clause_058",
+      "text": "By:\n\nTitle:\n\nDate:\n\n13",
+      "start": 21409,
+      "end": 21431,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    }
+  ]
+}

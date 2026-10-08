@@ -1,0 +1,1491 @@
+========================================
+DOCUMENT: 0a42e159b33ed521c4157d8babfaf3c1
+========================================
+
+CLAUSE: 0a42e159b33ed521c4157d8babfaf3c1_clause_000
+TYPE: header
+LENGTH: 52
+
+TEXT:
+----------------------------------------
+EX-10.3 5 a10-14025_1ex10d3.htm EX-10.3
+Exhibit 10.3
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: 0a42e159b33ed521c4157d8babfaf3c1_clause_001
+TYPE: section_heading
+LENGTH: 32
+
+TEXT:
+----------------------------------------
+MUTUAL CONFIDENTIALITY AGREEMENT
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: 0a42e159b33ed521c4157d8babfaf3c1_clause_002
+TYPE: legal_clause
+LENGTH: 670
+
+TEXT:
+----------------------------------------
+This Mutual Confidentiality Agreement (this “Agreement”), dated as of July 16, 2010, is entered into by and among Financière Elitech
+SAS, a société par actions simplifiée organized under the laws of France (“Elitech”), Wescor, Inc., a Utah corporation (“Wescor”), Elitech UK
+Limited, a private limited company organized under the laws of the United Kingdom (“Elitech UK” and, collectively with Elitech and Wescor,
+the “Elitech Group”), Corgenix Medical Corporation, a Nevada corporation (“Corgenix”), and Corgenix U.K. Ltd., a private limited company
+organized under the laws of the United Kingdom (“Corgenix U.K.” and, collectively with Corgenix, the “Corgenix Group”).
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: 0a42e159b33ed521c4157d8babfaf3c1_clause_003
+TYPE: section_heading
+LENGTH: 22
+
+TEXT:
+----------------------------------------
+PRELIMINARY STATEMENTS
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: 0a42e159b33ed521c4157d8babfaf3c1_clause_004
+TYPE: legal_clause
+LENGTH: 579
+
+TEXT:
+----------------------------------------
+A. The Elitech Group and the Corgenix Group desire to enter into a commercial relationship with each other, either directly or
+through their respective Affiliates (as defined below), specifically: (1) that certain Common Stock Purchase Agreement by and among Corgenix,
+Elitech and Wescor (the “SPA”); (2) that certain Master Distribution Agreement by and between Corgenix and Elitech UK (the “MDA”); and
+(3) that certain Joint Product Development Agreement by and between Corgenix and Elitech (the “JPDA” and, collectively with the SPA and the
+MDA, the “Transaction Agreements”).
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: 0a42e159b33ed521c4157d8babfaf3c1_clause_005
+TYPE: legal_clause
+LENGTH: 285
+
+TEXT:
+----------------------------------------
+B. In order for the Corgenix Group and the Elitech Group to enter into the proposed commercial relationship, it is necessary for
+the parties to disclose certain valuable proprietary information to each other and ensure that such proprietary information will be treated as
+confidential.
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: 0a42e159b33ed521c4157d8babfaf3c1_clause_006
+TYPE: legal_clause
+LENGTH: 325
+
+TEXT:
+----------------------------------------
+C. Each of Corgenix, Corgenix U.K., Elitech, Wescor and Elitech UK, on behalf of itself and its respective Affiliates, agrees and
+acknowledges that any Confidential Information (as defined below) that it receives from a disclosing party must be kept confidential in
+accordance with the terms and conditions of this Agreement.
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: 0a42e159b33ed521c4157d8babfaf3c1_clause_007
+TYPE: section_heading
+LENGTH: 9
+
+TEXT:
+----------------------------------------
+AGREEMENT
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: 0a42e159b33ed521c4157d8babfaf3c1_clause_008
+TYPE: legal_clause
+LENGTH: 61
+
+TEXT:
+----------------------------------------
+The parties, intending to be legally bound, agree as follows:
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: 0a42e159b33ed521c4157d8babfaf3c1_clause_009
+TYPE: legal_clause
+LENGTH: 107
+
+TEXT:
+----------------------------------------
+1. Definitions. For purposes of this Agreement the following terms shall have the meanings set forth below:
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: 0a42e159b33ed521c4157d8babfaf3c1_clause_010
+TYPE: legal_clause
+LENGTH: 472
+
+TEXT:
+----------------------------------------
+a. The term “documents” means form or medium in which Confidential Information may be produced, including, but not be
+limited to, writings, spreadsheets, presentations, web pages, emails, voicemails, drawings, graphs, charts, photographs, sound
+recordings, optical or magnetic discs and data compilations in whatever form recorded or stored from which information can be
+obtained and/or translated, if necessary, into reasonably usable form, and any reproductions thereof.
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: 0a42e159b33ed521c4157d8babfaf3c1_clause_011
+TYPE: legal_clause
+LENGTH: 965
+
+TEXT:
+----------------------------------------
+1
+
+b. The term “Confidential Information” means any and all information, tangible or intangible, in whatever form or medium
+provided or obtained by any receiving party or such party’s representatives, directly or indirectly, including all documents and
+information generated by a disclosing party or its representatives that contains, reflects or is derived from such information,
+whether orally, in writing, in documents, through or by observation or otherwise, in any way relating to the Transaction
+Agreements and the transactions contemplated in such Transaction Agreements, including, but not limited to, information
+about existing or contemplated products, services, client lists, marketing techniques, pricing policies, financial information,
+research and development techniques and processes, manufacturing processes, sales processes, bidding and tender processes,
+costs, profits, sales, markets and all other data and intellectual property related thereto.
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: 0a42e159b33ed521c4157d8babfaf3c1_clause_012
+TYPE: legal_clause
+LENGTH: 958
+
+TEXT:
+----------------------------------------
+Notwithstanding the foregoing, information shall not be considered Confidential Information for purposes of this Agreement if:
+(a) a receiving party or its Affiliates already possesses the information without an obligation of confidentiality at the time of
+disclosure as verified by independent written files or records; (b) the information is or becomes part of the public domain other
+than as a result of unauthorized disclosure by a receiving party or its Affiliates of such information; (c) the information has
+been or is made available to a receiving party or its Affiliates by a third party that, to the receiving party’s or its Affiliates’ best
+knowledge, is not under an obligation of confidentiality to the disclosing party or its Affiliates; or (d) the information is
+independently developed by a receiving party or its Affiliates prior to such information being disclosed by a disclosing party, as
+verified by independent written files or records.
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: 0a42e159b33ed521c4157d8babfaf3c1_clause_013
+TYPE: legal_clause
+LENGTH: 516
+
+TEXT:
+----------------------------------------
+c. The term “Affiliate” means with respect to any person, any other person that, directly or indirectly, controls, is controlled by,
+or is under a common control with, such first person. The term “control” including the terms “controlled by” and “under a
+common control with” (as used in the preceding sentence) means the possession, directly or indirectly, of the power to direct or
+cause the direction of management and policies of the person, whether through the ownership of securities, by contract or
+otherwise.
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: 0a42e159b33ed521c4157d8babfaf3c1_clause_014
+TYPE: legal_clause
+LENGTH: 418
+
+TEXT:
+----------------------------------------
+2. Confidentiality. With respect to the Confidential Information, the Elitech Group and its Affiliates (on the one hand), and the
+Corgenix Group and its Affiliates (on the other hand), shall: (a) restrict disclosure of the Confidential Information solely to those of their
+respective employees, Affiliates, advisors or representatives with a need to know; (b) advise their respective employees, Affiliates, advisors or
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: 0a42e159b33ed521c4157d8babfaf3c1_clause_015
+TYPE: legal_clause
+LENGTH: 517
+
+TEXT:
+----------------------------------------
+representatives who receive the Confidential Information of the obligation of confidentiality hereunder; (c) use, and advise their respective
+employees, Affiliates, advisors or representatives to use, the same degree of care to protect the Confidential Information and to prevent
+disclosure of the Confidential Information as is used with the party’s own confidential information, which shall be at least the degree of care that
+a reasonably prudent person would take to protect and prevent disclosure of confidential
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: 0a42e159b33ed521c4157d8babfaf3c1_clause_016
+TYPE: legal_clause
+LENGTH: 153
+
+TEXT:
+----------------------------------------
+2
+
+information; and (d) use the Confidential Information only for purposes of carrying out their respective obligations under the Transaction
+Agreements.
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: 0a42e159b33ed521c4157d8babfaf3c1_clause_017
+TYPE: legal_clause
+LENGTH: 1074
+
+TEXT:
+----------------------------------------
+3. Compliance with Laws. If any party to this Agreement or its Affiliates, as the case may be, becomes legally compelled
+(including pursuant to any rule or regulation promulgated by any securities regulation authority or any securities exchange) to make any
+disclosure that is prohibited or otherwise constrained by this Agreement, then such party will give, or will cause its Affiliate to give, the other
+parties immediate written notice of such requirement so that they may seek a protective order or other appropriate relief, or waive compliance
+with the nondisclosure provisions of this Agreement. Subject to the foregoing, the party that is legally compelled to disclose Confidential
+Information may make only such disclosure that it is legally compelled or otherwise required to make to avoid standing liable for contempt or
+suffering other material censure or penalty; provided, however, that such party and its Affiliates must use reasonable efforts to obtain reliable
+assurance that confidential treatment will be accorded any Confidential Information so disclosed.
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: 0a42e159b33ed521c4157d8babfaf3c1_clause_018
+TYPE: legal_clause
+LENGTH: 573
+
+TEXT:
+----------------------------------------
+4. Return of Documents. Upon the request of Corgenix, on the one hand, or Elitech, on the other hand, the other party shall
+return, or shall cause its Affiliates to return, as the case may be, all documents containing the requesting party’s Confidential Information,
+without retaining any copies or other reproductions, in whole or in part, except for one copy of such documents or records retained in confidence
+by the other party’s counsel solely for the purpose of any dispute or anticipated dispute arising out of the discussions or use of the Confidential
+Information.
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: 0a42e159b33ed521c4157d8babfaf3c1_clause_019
+TYPE: legal_clause
+LENGTH: 689
+
+TEXT:
+----------------------------------------
+5. Breach. If the Corgenix Group or its Affiliates, on the one hand, or the Elitech Group or its Affiliates, on the other hand,
+breaches its obligations under this Agreement, the other party shall have available to it all its rights and remedies at law and in equity, including
+the right to seek injunctive relief without being required to post a bond or similar form of security, it being acknowledged and agreed by all
+parties that a breach or threatened breach of the terms of this Agreement by one party or its Affiliates may cause irreparable injury to the other
+party or its Affiliates and that money damages will not provide an adequate remedy to such other party or its Affiliates.
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: 0a42e159b33ed521c4157d8babfaf3c1_clause_020
+TYPE: legal_clause
+LENGTH: 444
+
+TEXT:
+----------------------------------------
+6. Assignment. This Agreement may not be assigned by any party hereto without the prior written consent of the other parties.
+This Agreement shall bind and accrue to the benefit of the parties hereto and their respective successors and permitted assigns. Notwithstanding
+the foregoing, this Agreement may be assigned by Elitech or Corgenix to any of their respective Affiliates, provided such Affiliate existed as of
+the date of this Agreement.
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: 0a42e159b33ed521c4157d8babfaf3c1_clause_021
+TYPE: legal_clause
+LENGTH: 555
+
+TEXT:
+----------------------------------------
+7. Notices. Except as may be otherwise provided herein, all notices, requests, waivers and other communications made pursuant
+to this Agreement will be in writing and will be conclusively deemed to have been duly given (a) when hand delivered to the other parties;
+(b) when received if sent by facsimile or electronic mail to the number or the email address set forth below, provided that the sending party
+receives a confirmation of delivery; (c) three (3) business days after deposit in the U.S. mail with first class or certified mail receipt requested
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: 0a42e159b33ed521c4157d8babfaf3c1_clause_022
+TYPE: legal_clause
+LENGTH: 1072
+
+TEXT:
+----------------------------------------
+3
+
+postage prepaid and addressed to the other parties as set forth below; or (d) forty-eight (48) hours after deposit with an internationally recognized
+overnight delivery service, postage prepaid, addressed to the parties as set forth below with next-business-day delivery guaranteed, provided that
+the sending party receives a confirmation of delivery from the delivery service provider. Each person making a communication hereunder by
+facsimile or electronic mail will promptly confirm by telephone to the person to whom such communication was addressed each communication
+made by it by facsimile or electronic mail, but the absence of such confirmation will not affect the validity of any such communication. A party
+may change or supplement the addresses, facsimile numbers and email addresses provided in its signature block below, or designate additional
+addresses, facsimile numbers or email addresses, for purposes of this Section 7 by giving the other parties written notice of the new address,
+facsimile numbers or email addresses in the manner set forth above.
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: 0a42e159b33ed521c4157d8babfaf3c1_clause_023
+TYPE: legal_clause
+LENGTH: 332
+
+TEXT:
+----------------------------------------
+8. Governing Law. This Agreement and any controversy arising out of or relating to this Agreement will be governed by and
+construed in accordance with the internal laws of the State of Colorado, without regard to conflict of law principles that would result in the
+application of any law other than the law of the State of Colorado.
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: 0a42e159b33ed521c4157d8babfaf3c1_clause_024
+TYPE: legal_clause
+LENGTH: 364
+
+TEXT:
+----------------------------------------
+9. Venue. Each of the parties consents and submits to the jurisdiction of the federal courts located in the District of Colorado in
+connection with any suits or other actions arising between the parties under this Agreement, and consents and waives any objections to the venue
+of such action or proceeding in the federal courts located in the District of Colorado.
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: 0a42e159b33ed521c4157d8babfaf3c1_clause_025
+TYPE: legal_clause
+LENGTH: 386
+
+TEXT:
+----------------------------------------
+10. Severability. If any term, provision, covenant, or condition of this Agreement, or its application to any person or
+circumstance, will be held by a court of competent jurisdiction to be invalid, unenforceable, or void, the remainder of this Agreement and such
+term, provision, covenant, or condition as applied to other persons or circumstances will remain in full force and effect.
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: 0a42e159b33ed521c4157d8babfaf3c1_clause_026
+TYPE: legal_clause
+LENGTH: 308
+
+TEXT:
+----------------------------------------
+11. Entire Agreement; Amendments. The Transaction Agreements and this Agreement constitute the full and entire
+understanding and agreement among the parties with respect to the subject hereof and thereof. The provisions of this Agreement may be
+amended with the prior written consent of Corgenix and Elitech.
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: 0a42e159b33ed521c4157d8babfaf3c1_clause_027
+TYPE: legal_clause
+LENGTH: 355
+
+TEXT:
+----------------------------------------
+12. Authorization. Each of the undersigned representatives of the parties warrants and represents that he or she is duly authorized
+to execute and deliver this Agreement on behalf of the respective party for which he or she signs, and that the organization on whose behalf he or
+she signs is currently in good standing in the jurisdiction where organized.
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: 0a42e159b33ed521c4157d8babfaf3c1_clause_028
+TYPE: legal_clause
+LENGTH: 157
+
+TEXT:
+----------------------------------------
+13. Headings. The headings of the sections of this Agreement are inserted for convenience only and will not be deemed to
+constitute a part of this Agreement.
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: 0a42e159b33ed521c4157d8babfaf3c1_clause_029
+TYPE: legal_clause
+LENGTH: 190
+
+TEXT:
+----------------------------------------
+14. Counterparts. This Agreement may be executed in two or more counterparts, each of which will be deemed an original, but
+all of which together will constitute one and the same instrument.
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: 0a42e159b33ed521c4157d8babfaf3c1_clause_030
+TYPE: legal_clause
+LENGTH: 933
+
+TEXT:
+----------------------------------------
+4
+
+15. Delays, Omission, and Waivers. No delay or omission to exercise any right, power or remedy accruing to any party as a
+result of a breach or default of this Agreement will impair any such right, power or remedy of the non-defaulting party, nor will it be construed to
+be a waiver of any such breach or default or an acquiescence therein, nor will any similar breach or default be deemed a waiver of any other
+breach or default theretofore or thereafter occurring; nor will any waiver of any single breach or default be deemed a waiver of any other breach
+or default theretofore or thereafter occurring. Any waiver, permit, consent or approval of any kind or character on the part of any party of any
+breach or default under this Agreement or any waiver on the part of any party of any provisions or conditions of this Agreement must be in
+writing and will be effective only to the extent specifically set forth in such writing.
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: 0a42e159b33ed521c4157d8babfaf3c1_clause_031
+TYPE: legal_clause
+LENGTH: 350
+
+TEXT:
+----------------------------------------
+16. Survival. This Agreement shall become effective on the date set forth above and shall continue for as long as any of the
+Transaction Agreements are in effect, and shall survive the termination of any of the Transaction Agreements for a term of twenty (20) years
+commencing on the date that the last Transaction Agreement expires or is terminated.
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: 0a42e159b33ed521c4157d8babfaf3c1_clause_032
+TYPE: legal_clause
+LENGTH: 69
+
+TEXT:
+----------------------------------------
+[Remainder of page intentionally left blank. Signature page follows.]
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: 0a42e159b33ed521c4157d8babfaf3c1_clause_033
+TYPE: legal_clause
+LENGTH: 178
+
+TEXT:
+----------------------------------------
+5
+
+IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be executed and delivered by their duly authorized
+representative as of the date and year set forth above.
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: 0a42e159b33ed521c4157d8babfaf3c1_clause_034
+TYPE: section_heading
+LENGTH: 28
+
+TEXT:
+----------------------------------------
+CORGENIX MEDICAL CORPORATION
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: 0a42e159b33ed521c4157d8babfaf3c1_clause_035
+TYPE: section_heading
+LENGTH: 22
+
+TEXT:
+----------------------------------------
+FINANCIÈRE ELITECH SAS
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: 0a42e159b33ed521c4157d8babfaf3c1_clause_036
+TYPE: legal_clause
+LENGTH: 23
+
+TEXT:
+----------------------------------------
+By:
+Douglass T. Simpson
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: 0a42e159b33ed521c4157d8babfaf3c1_clause_037
+TYPE: legal_clause
+LENGTH: 63
+
+TEXT:
+----------------------------------------
+By:
+Pierre Debiais
+Title:
+President and Chief Executive Officer
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: 0a42e159b33ed521c4157d8babfaf3c1_clause_038
+TYPE: legal_clause
+LENGTH: 38
+
+TEXT:
+----------------------------------------
+Title:
+President
+
+Address for notices:
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: 0a42e159b33ed521c4157d8babfaf3c1_clause_039
+TYPE: legal_clause
+LENGTH: 152
+
+TEXT:
+----------------------------------------
+Address for notices:
+Attention: President
+11575 Main Street, Suite 400
+Broomfield, Colorado 80020
+Facsimile: (303) 453-8896
+Email: Dsimpson@corgenix.com
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: 0a42e159b33ed521c4157d8babfaf3c1_clause_040
+TYPE: legal_clause
+LENGTH: 138
+
+TEXT:
+----------------------------------------
+Attention: Pierre Debiais
+12-12 bis, rue Jean Jaurès
+92800 Puteaux
+France
+Facsimile: +33 (1) 41 45 07 19
+Email: p.debiais@elitechgroup.com
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: 0a42e159b33ed521c4157d8babfaf3c1_clause_041
+TYPE: fragment
+LENGTH: 18
+
+TEXT:
+----------------------------------------
+CORGENIX U.K. LTD.
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: 0a42e159b33ed521c4157d8babfaf3c1_clause_042
+TYPE: fragment
+LENGTH: 12
+
+TEXT:
+----------------------------------------
+WESCOR, INC.
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: 0a42e159b33ed521c4157d8babfaf3c1_clause_043
+TYPE: legal_clause
+LENGTH: 23
+
+TEXT:
+----------------------------------------
+By:
+Douglass T. Simpson
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: 0a42e159b33ed521c4157d8babfaf3c1_clause_044
+TYPE: legal_clause
+LENGTH: 37
+
+TEXT:
+----------------------------------------
+By:
+Janice Wallentine
+Title:
+Director
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: 0a42e159b33ed521c4157d8babfaf3c1_clause_045
+TYPE: legal_clause
+LENGTH: 30
+
+TEXT:
+----------------------------------------
+Title:
+Chief Financial Officer
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: 0a42e159b33ed521c4157d8babfaf3c1_clause_046
+TYPE: legal_clause
+LENGTH: 20
+
+TEXT:
+----------------------------------------
+Address for notices:
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: 0a42e159b33ed521c4157d8babfaf3c1_clause_047
+TYPE: legal_clause
+LENGTH: 137
+
+TEXT:
+----------------------------------------
+Address for notices:
+40 Commerce Road
+Lynch Wood
+Peterborough PE2 6LR
+United Kingdom
+Fax +44 (0) 1733 238412
+Email: Dsimpson@corgenix.com
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: 0a42e159b33ed521c4157d8babfaf3c1_clause_048
+TYPE: legal_clause
+LENGTH: 126
+
+TEXT:
+----------------------------------------
+Attention: Michael Saunders
+370 West 1700 South
+Logan, Utah 84321
+Facsimile: (425) 752-4127
+Email: m.saunders@elitechgroup.com
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: 0a42e159b33ed521c4157d8babfaf3c1_clause_049
+TYPE: legal_clause
+LENGTH: 49
+
+TEXT:
+----------------------------------------
+Signature Page — Mutual Confidentiality Agreement
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: 0a42e159b33ed521c4157d8babfaf3c1_clause_050
+TYPE: section_heading
+LENGTH: 21
+
+TEXT:
+----------------------------------------
+1
+
+ELITECH UK LIMITED
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: 0a42e159b33ed521c4157d8babfaf3c1_clause_051
+TYPE: legal_clause
+LENGTH: 40
+
+TEXT:
+----------------------------------------
+By:
+Tim Watson
+
+Title:
+Managing Director
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: 0a42e159b33ed521c4157d8babfaf3c1_clause_052
+TYPE: legal_clause
+LENGTH: 20
+
+TEXT:
+----------------------------------------
+Address for notices:
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: 0a42e159b33ed521c4157d8babfaf3c1_clause_053
+TYPE: legal_clause
+LENGTH: 151
+
+TEXT:
+----------------------------------------
+Attention: Tim Watson
+Unit 6, River Park Industrial Estate
+Billet Lane
+Berkhamsted HP4 1HL
+England
+Facsimile: +44 144 287 6774
+Email: tim@elitechuk.com
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: 0a42e159b33ed521c4157d8babfaf3c1_clause_054
+TYPE: legal_clause
+LENGTH: 49
+
+TEXT:
+----------------------------------------
+Signature Page — Mutual Confidentiality Agreement
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: 0a42e159b33ed521c4157d8babfaf3c1_clause_055
+TYPE: fragment
+LENGTH: 1
+
+TEXT:
+----------------------------------------
+2
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+

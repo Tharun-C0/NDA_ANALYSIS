@@ -1,0 +1,397 @@
+{
+  "document_id": "e52e4a136a4bb5c859dc6d056f47c743",
+  "source_file": "e52e4a136a4bb5c859dc6d056f47c743.txt",
+  "total_characters": 16738,
+  "num_clauses": 43,
+  "num_legal_clauses": 41,
+  "quality_status": "OK",
+  "clauses": [
+    {
+      "document_id": "e52e4a136a4bb5c859dc6d056f47c743",
+      "clause_id": "e52e4a136a4bb5c859dc6d056f47c743_clause_000",
+      "text": "EX-10.3 6 exhibit10c.htm NON-COMPETITION AND NON-DISCLOSURE AGREEMENT\nExhibit 10.3",
+      "start": 0,
+      "end": 83,
+      "segment_type": "header",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "e52e4a136a4bb5c859dc6d056f47c743",
+      "clause_id": "e52e4a136a4bb5c859dc6d056f47c743_clause_001",
+      "text": "NON-COMPETITION AND NON-DISCLOSURE AGREEMENT\nTHIS NON-COMPETITION AND NON-DISCLOSURE AGREEMENT (“Agreement”) is made as of the ___ day of\n__________________, 2005, by and between ENERGIZER HOLDINGS, INC., (hereinafter referred to as “ENERGIZER” and as defined in\nParagraph 11) and J. PATRICK MULCAHY (hereinafter referred to as “MR. MULCAHY”).",
+      "start": 83,
+      "end": 427,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "e52e4a136a4bb5c859dc6d056f47c743",
+      "clause_id": "e52e4a136a4bb5c859dc6d056f47c743_clause_002",
+      "text": "WHEREAS, MR. MULCAHY is an employee of ENERGIZER in a key leadership and strategic position;",
+      "start": 427,
+      "end": 520,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "e52e4a136a4bb5c859dc6d056f47c743",
+      "clause_id": "e52e4a136a4bb5c859dc6d056f47c743_clause_003",
+      "text": "WHEREAS, ENERGIZER and MR. MULCAHY acknowledge that, in MR. MULCAHY’s capacity as an employee of ENERGIZER,\nMR. MULCAHY did contribute to and/or receive Confidential Information, and MR. MULCAHY acknowledges that ENERGIZER will suffer\nirreparable harm if MR. MULCAHY, after having developed and/or created and/or becoming familiar with any such Confidential Information,\nmakes any unauthorized disclosure or communication of such Confidential Information to any third party or makes any use of such\nConfidential Information wrongfully or in competition with ENERGIZER;",
+      "start": 520,
+      "end": 1089,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "e52e4a136a4bb5c859dc6d056f47c743",
+      "clause_id": "e52e4a136a4bb5c859dc6d056f47c743_clause_004",
+      "text": "WHEREAS, MR. MULCAHY has indicated his interest in retiring; and",
+      "start": 1089,
+      "end": 1154,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "e52e4a136a4bb5c859dc6d056f47c743",
+      "clause_id": "e52e4a136a4bb5c859dc6d056f47c743_clause_005",
+      "text": "WHEREAS, ENERGIZER desires to receive from MR. MULCAHY a covenant not to engage (either directly or indirectly) in\ncompetition with, or to solicit any client or account of, ENERGIZER; and",
+      "start": 1154,
+      "end": 1342,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "e52e4a136a4bb5c859dc6d056f47c743",
+      "clause_id": "e52e4a136a4bb5c859dc6d056f47c743_clause_006",
+      "text": "WHEREAS, ENERGIZER desires to receive from MR. MULCAHY a covenant not to disclose certain information relating to\nENERGIZER’s business; and",
+      "start": 1342,
+      "end": 1482,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "e52e4a136a4bb5c859dc6d056f47c743",
+      "clause_id": "e52e4a136a4bb5c859dc6d056f47c743_clause_007",
+      "text": "WHEREAS, ENERGIZER and MR. MULCAHY desire to confirm the terms and conditions of their agreements and understandings.\nNOW, THEREFORE, in consideration of the foregoing, the mutual promises herein contained, and other good and valuable\nconsideration, the receipt and sufficiency of which are hereby acknowledged, and the parties hereto agree as follows:",
+      "start": 1482,
+      "end": 1835,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "e52e4a136a4bb5c859dc6d056f47c743",
+      "clause_id": "e52e4a136a4bb5c859dc6d056f47c743_clause_008",
+      "text": "1. Covenants Not to Compete or Disclose. MR. MULCAHY acknowledges that the services rendered to ENERGIZER in the\naforesaid capacity are of a special character which have a unique value to ENERGIZER, the loss of which cannot be adequately\ncompensated by damages in an action of law. MR. MULCAHY agrees that by virtue of his employment, he has gained a special and unique\nunderstanding of ENERGIZER’s business in the formulation, processing, manufacturing, sale, and marketing of ENERGIZER’s battery and\nbattery related products and ENERGIZER’s wet-shave products, as well as other products formulated, processed, manufactured, sold, or\nmarketed by ENERGIZER during the tenure of MR. MULCAHY’s employment. MR. MULCAHY at all times recognizes and respects the\nadvantageous business relationship which exists between ENERGIZER and present and potential customers who have been made aware\nof the products and services of ENERGIZER. MR. MULCAHY makes the covenants contained in this Agreement in view of (i) the unique\nvalue of the services of MR. MULCAHY for which ENERGIZER has employed MR. MULCAHY; (ii) the Confidential Information obtained by\nor disclosed to MR. MULCAHY as an employee of ENERGIZER; and (iii) ENERGIZER’s agreement to provide MR. MULCAHY with\nconsideration as provided herein.",
+      "start": 1835,
+      "end": 3128,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "e52e4a136a4bb5c859dc6d056f47c743",
+      "clause_id": "e52e4a136a4bb5c859dc6d056f47c743_clause_009",
+      "text": "2.\n\n Non-Competition.",
+      "start": 3128,
+      "end": 3151,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "e52e4a136a4bb5c859dc6d056f47c743",
+      "clause_id": "e52e4a136a4bb5c859dc6d056f47c743_clause_010",
+      "text": "a.\n\n MR. MULCAHY agrees that for a period of five (5) years after termination of MR. MULCAHY’s employment\n-- i.e., from January 25, 2005 through January 25, 2010 -- (“the Non-Compete Period”), MR. MULCAHY will not compete\nagainst ENERGIZER in ENERGIZER business.\nb.",
+      "start": 3151,
+      "end": 3418,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "e52e4a136a4bb5c859dc6d056f47c743",
+      "clause_id": "e52e4a136a4bb5c859dc6d056f47c743_clause_011",
+      "text": "For purposes of this Agreement, “ENERGIZER business” shall mean any of the following business\nactivities: all aspects of manufacturing, marketing, distributing, consulting with regard to, and/or operating a facility for the\nmanufacturing, processing, marketing, or distribution of batteries, lighting products, rechargeable batteries, related battery and\nlighting products, and wet-shave products. “ENERGIZER business” includes products and/or methods that presently are used,\nwere used, or are under development or consideration, whether or not completed, for use by ENERGIZER as of the date MR.\nMULCAHY’s employment terminates.\nc.",
+      "start": 3418,
+      "end": 4053,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "e52e4a136a4bb5c859dc6d056f47c743",
+      "clause_id": "e52e4a136a4bb5c859dc6d056f47c743_clause_012",
+      "text": "For purposes of this Agreement, to “compete” means to accept or begin employment with, advise, finance,\nown (partially or in whole), consult with, or accept an assignment through an employer with any third party world wide in a\nposition involving or relating to ENERGIZER business.\nd.",
+      "start": 4053,
+      "end": 4340,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "e52e4a136a4bb5c859dc6d056f47c743",
+      "clause_id": "e52e4a136a4bb5c859dc6d056f47c743_clause_013",
+      "text": "This Agreement does not preclude MR. MULCAHY from buying or selling shares of stock in any company\nthat is publicly listed and traded in any stock exchange or over-the-counter market. Provided, however, that MR. MULCAHY\nmay not use Confidential Information to engage in, or induce others to engage in, insider trading as prohibited by federal and\nstate securities laws.\nMR. MULCAHY acknowledges and agrees that the foregoing restrictions are reasonable and necessary for the protection of the\ngoodwill and business of ENERGIZER and are enforceable in view of, among other things; (i) the narrow range of activities\nprohibited, (ii) the national and international markets in which ENERGIZER operates, (iii) the Confidential Information to which MR.\nMULCAHY had access during his employment, and (iv) MR. MULCAHY’s background and qualifications are such that the restrictions\nwill not impose an undue hardship on MR. MULCAHY nor unreasonably interfere with MR. MULCAHY’s ability to earn a livelihood.\nThe parties hereby acknowledge that the nature of the business conducted by ENERGIZER and the position of ENERGIZER in the",
+      "start": 4340,
+      "end": 5464,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "e52e4a136a4bb5c859dc6d056f47c743",
+      "clause_id": "e52e4a136a4bb5c859dc6d056f47c743_clause_014",
+      "text": "battery and wet-shave industry mandate the foregoing non-competition restriction for a substantial duration in order to protect and\npreserve the competitive advantage and goodwill of ENERGIZER.",
+      "start": 5464,
+      "end": 5658,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "e52e4a136a4bb5c859dc6d056f47c743",
+      "clause_id": "e52e4a136a4bb5c859dc6d056f47c743_clause_015",
+      "text": "3.\n\n Non-Solicitation.",
+      "start": 5658,
+      "end": 5682,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "e52e4a136a4bb5c859dc6d056f47c743",
+      "clause_id": "e52e4a136a4bb5c859dc6d056f47c743_clause_016",
+      "text": "For the duration of the Non-Compete Period, MR. MULCAHY shall not (i)\ninduce or attempt to induce any employee of ENERGIZER to leave the employ of ENERGIZER or in any way interfere with the\nrelationship between ENERGIZER and its employees or (ii) induce or attempt to induce any customer, supplier, distributor, broker, or\nother business relation of ENERGIZER to cease doing business with ENERGIZER, or in any way interfere with the relationship\nbetween any customer, supplier, distributor, broker or other business relation and ENERGIZER.",
+      "start": 5682,
+      "end": 6223,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "e52e4a136a4bb5c859dc6d056f47c743",
+      "clause_id": "e52e4a136a4bb5c859dc6d056f47c743_clause_017",
+      "text": "4.\n\n Confidentiality of Information.\n MR. MULCAHY acknowledges that the information, observations and data relating to the formulation, processing,\nmanufacturing, sale and marketing of ENERGIZER's batteries, battery related products, and wet-shave products obtained by MR.\nMULCAHY during the course of MR. MULCAHY’s employment with ENERGIZER (the \"Confidential Information\") are confidential and the\nexclusive property of ENERGIZER. MR. MULCAHY agrees that he will not disclose to any unauthorized persons or use for MR.\nMULCAHY’s own account or for the benefit of any third party (other than ENERGIZER) any of such Confidential Information without\nENERGIZER’s prior written consent, unless and to the extent that such Confidential Information becomes generally known to, and available\nfor use by, the public other than as a result of MR. MULCAHY’s acts or failure to act.\n For purposes of this Agreement, “Confidential Information” means all information with respect to the conduct or details of the\nbusiness and operations of ENERGIZER, including but not limited to current and planned information systems; the names, addresses or\nparticular desires or needs of its customers; the bounds of its markets; the prices charged for its services or products; its market share;\nmarketing strategies and promotional efforts in any market; product development, manufacturing processes, and research and development\nprojects; formulas, inventions and compilations of information, records or specifications; future product or market developments, financial\ninformation, information regarding suppliers, and costs of raw materials and other supplies; financing programs, overhead distribution and\nother expenses; conversion costs; contemplated, pending, or completed acquisitions; or personnel. MR. MULCAHY understands and\nagrees that such “Confidential Information” is important, material and confidential, and that disclosure would gravely affect the successful\nconduct of ENERGIZER’s businesses. The obligation to protect Confidential Information is on-going and does not expire upon the\ntermination of the parties’ contractual relationship.",
+      "start": 6223,
+      "end": 8358,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "e52e4a136a4bb5c859dc6d056f47c743",
+      "clause_id": "e52e4a136a4bb5c859dc6d056f47c743_clause_018",
+      "text": "5.\n\n Specific Performance. MR. MULCAHY acknowledges that irreparable injury will be caused to ENERGIZER by\nany breach or threatened breach of any of the provisions of paragraphs 2 through 4 and MR. MULCAHY therefore agrees that, in the event\nof any breach or threatened breach, ENERGIZER, in addition to all of the rights and remedies at law or in equity as may exist in its favor,\nshall have the right, in a court of law or equity having jurisdiction, to enforce the specific performance of the foregoing provisions. In the\nevent of an action in a court of law or equity to enforce any provision of this Agreement, MR. MULCAHY shall be responsible for all\nexpenses incurred by ENERGIZER in connection therewith, including, but not limited to, ENERGIZER’s reasonable attorney’s fees and\ncosts.",
+      "start": 8358,
+      "end": 9152,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "e52e4a136a4bb5c859dc6d056f47c743",
+      "clause_id": "e52e4a136a4bb5c859dc6d056f47c743_clause_019",
+      "text": "6.\n\n Reasonableness of Restrictions. MR. MULCAHY has carefully read and considered the provisions of paragraphs\n2, 3, and 4 hereof, and having done so, agrees that the restrictions set forth in such paragraphs (including, but not limited to, the time period\nof the restriction set forth in paragraph 2 hereof) are fair and reasonable and required for the protection of the interests of ENERGIZER, its\nofficers, directors, and other employees.",
+      "start": 9152,
+      "end": 9595,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "e52e4a136a4bb5c859dc6d056f47c743",
+      "clause_id": "e52e4a136a4bb5c859dc6d056f47c743_clause_020",
+      "text": "7.\n\n Waiver. The failure by ENERGIZER to enforce at any time any of the provisions hereof or to require at any time\nperformance by MR. MULCAHY of any provisions hereof, shall in no way be construed to be a release of MR. MULCAHY or waiver of such\nprovisions or to affect the validity of this Agreement or any part hereof, or the right of ENERGIZER thereafter to enforce every such\nprovision in accordance with the terms of this Agreement.",
+      "start": 9595,
+      "end": 10034,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "e52e4a136a4bb5c859dc6d056f47c743",
+      "clause_id": "e52e4a136a4bb5c859dc6d056f47c743_clause_021",
+      "text": "8.\n\n Savings and Severability Clause.",
+      "start": 10034,
+      "end": 10072,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "e52e4a136a4bb5c859dc6d056f47c743",
+      "clause_id": "e52e4a136a4bb5c859dc6d056f47c743_clause_022",
+      "text": "(a) Nothing contained in this Agreement shall be construed to require the commission of any act contrary to law or to be\ncontrary to law, and whenever there is any conflict between any provision of this Agreement and any present or future statute, law,\ngovernment regulation or ordinance contrary to which the parties have no legal right to contract, the latter shall prevail, but in such event the\nprovisions of this Agreement affected shall be curtailed and restricted only to the extent necessary to bring them within legal requirements.",
+      "start": 10072,
+      "end": 10613,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "e52e4a136a4bb5c859dc6d056f47c743",
+      "clause_id": "e52e4a136a4bb5c859dc6d056f47c743_clause_023",
+      "text": "(b)\n\n If any provision of the covenants and agreements hereof above shall be held invalid or unenforceable\nbecause of the scope of the territory or the actions thereby restricted, or the period of time within which such covenant or agreement is\noperative, or for any other reason, it is the intent of the parties hereto that such provision shall be construed by limiting and reducing it, or, if\nnecessary eliminating it so that the provisions hereof shall be valid and enforceable to the extent compatible with applicable law as\ndetermined by a court of competent jurisdiction.",
+      "start": 10613,
+      "end": 11191,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "e52e4a136a4bb5c859dc6d056f47c743",
+      "clause_id": "e52e4a136a4bb5c859dc6d056f47c743_clause_024",
+      "text": "9.\n\n Burden and Benefit. This Agreement shall be binding upon and shall inure to the benefit of the parties hereto and\ntheir legal representatives, successors, and permitted assigns.",
+      "start": 11191,
+      "end": 11374,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "e52e4a136a4bb5c859dc6d056f47c743",
+      "clause_id": "e52e4a136a4bb5c859dc6d056f47c743_clause_025",
+      "text": "10.\n\n Governing Law. All questions pertaining to the validity, construction, execution, and performance of this\nAgreement shall be construed in accordance with, and be governed by, the laws of the State of Missouri, without giving effect to the choice\nof law principles thereof.",
+      "start": 11374,
+      "end": 11653,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "e52e4a136a4bb5c859dc6d056f47c743",
+      "clause_id": "e52e4a136a4bb5c859dc6d056f47c743_clause_026",
+      "text": "11.\n\n Energizer Defined. For purposes of this Agreement, the term “ENERGIZER” as used herein shall include\nEnergizer Holdings, Inc., Eveready Battery Company, Inc., Schick Manufacturing, Inc., all subsidiary and affiliated companies,\npredecessors, and successors of the aforementioned, and all officers, directors, agents, and employees of any of the aforementioned.",
+      "start": 11653,
+      "end": 12020,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "e52e4a136a4bb5c859dc6d056f47c743",
+      "clause_id": "e52e4a136a4bb5c859dc6d056f47c743_clause_027",
+      "text": "12.\n\n Restricted Stock Equivalent Award",
+      "start": 12020,
+      "end": 12061,
+      "segment_type": "section_heading",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "e52e4a136a4bb5c859dc6d056f47c743",
+      "clause_id": "e52e4a136a4bb5c859dc6d056f47c743_clause_028",
+      "text": "(a) Grant. In exchange for signing this Agreement, MR. MULCAHY will receive a grant of 10,000 restricted common stock\nequivalents (“Equivalents”) effective as of his termination date. This grant shall be pursuant to, and subject to the terms of, the Energizer\nHoldings, Inc. 2000 Incentive Stock Plan (“the Plan”).",
+      "start": 12061,
+      "end": 12376,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "e52e4a136a4bb5c859dc6d056f47c743",
+      "clause_id": "e52e4a136a4bb5c859dc6d056f47c743_clause_029",
+      "text": "(b) Vesting and Payment. All restricted stock granted pursuant to this Agreement will vest January 25, 2010. At such time, each\nvested Equivalent will convert into one share of ENERGIZER’s $.01 par value Common Stock, which will be issued to MR. MULCAHY.",
+      "start": 12376,
+      "end": 12631,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "e52e4a136a4bb5c859dc6d056f47c743",
+      "clause_id": "e52e4a136a4bb5c859dc6d056f47c743_clause_030",
+      "text": "(c) Dividends. At the time of payment of shares of Common Stock to MR. MULCAHY, as described in (b) above, MR. MULCAHY will\nalso receive an additional cash payment equal to the amount of dividends, if any, which would have been paid on the shares of Common\nStock issued to him if MR. MULCAHY had actually acquired those shares on the date of crediting of his Equivalents. No interest shall be\nincluded in the calculation of such additional cash payment.",
+      "start": 12631,
+      "end": 13085,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "e52e4a136a4bb5c859dc6d056f47c743",
+      "clause_id": "e52e4a136a4bb5c859dc6d056f47c743_clause_031",
+      "text": "(d) Forfeiture. All unvested unrestricted stock equivalents credited to MR. MULCAHY will be forfeited upon a determination by the\nBoard of Directors of Energizer Holdings, Inc. that MR. MULCAHY has violated any provision of paragraph 2, 3, or 4 hereof.",
+      "start": 13085,
+      "end": 13338,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "e52e4a136a4bb5c859dc6d056f47c743",
+      "clause_id": "e52e4a136a4bb5c859dc6d056f47c743_clause_032",
+      "text": "(e) Acceleration. Notwithstanding anything in (b) above, all Equivalents credited to MR. MULCAHY will immediately vest, convert to\nshares of Common Stock, and be paid to MR. MULCAHY, his designated beneficiary, or his legal representative, in accordance with the\nterms of the Plan, in the event of:",
+      "start": 13338,
+      "end": 13637,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "e52e4a136a4bb5c859dc6d056f47c743",
+      "clause_id": "e52e4a136a4bb5c859dc6d056f47c743_clause_033",
+      "text": "(i)\n\n MR. MULCAHY’s death;\n (ii)",
+      "start": 13637,
+      "end": 13672,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "e52e4a136a4bb5c859dc6d056f47c743",
+      "clause_id": "e52e4a136a4bb5c859dc6d056f47c743_clause_034",
+      "text": "a declaration of MR. MULCAHY’s total and permanent disability; or\n (iii)",
+      "start": 13672,
+      "end": 13747,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "e52e4a136a4bb5c859dc6d056f47c743",
+      "clause_id": "e52e4a136a4bb5c859dc6d056f47c743_clause_035",
+      "text": "a Change of Control of ENERGIZER, which for purposes of this Agreement shall be deemed to occur\nwhen (a) a person, as defined under the U.S. securities laws, acquires beneficial ownership of more than fifty percent (50%) of the\noutstanding voting securities of ENERGIZER; or (b) the directors of ENERGIZER immediately before a business combination between\nENERGIZER and another entity, or a proxy contest for the election of directors, shall, as a result thereof, cease to constitute a majority of\nthe Board of Directors of Energizer Holdings, Inc. or any successor corporation. Notwithstanding the foregoing, however, a Change of\nControl which is approved in advance by a majority of the Board of Directors of Energizer Holdings, Inc. shall not trigger acceleration as\ndescribed in this paragraph 12(e)(iii).",
+      "start": 13747,
+      "end": 14558,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "e52e4a136a4bb5c859dc6d056f47c743",
+      "clause_id": "e52e4a136a4bb5c859dc6d056f47c743_clause_036",
+      "text": "13.\n\n Notices. Any notices necessary or required to be given under this Agreement shall be sufficiently given if in\nwriting, and personally delivered or mailed by registered or certified mail, return receipt requested, postage prepaid, to the last known\naddresses of the parties hereto, or to such other address or addresses as any of the parties shall have specified in writing to the other party\nhereto.",
+      "start": 14558,
+      "end": 14964,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "e52e4a136a4bb5c859dc6d056f47c743",
+      "clause_id": "e52e4a136a4bb5c859dc6d056f47c743_clause_037",
+      "text": "14.\n\n Consent to Advise Third Parties. MR. MULCAHY agrees ENERGIZER may advise any third party that\nENERGIZER deems necessary of the existence of this Agreement and of its terms. MR. MULCAHY agrees that ENERGIZER shall have no\nliability for so notifying any third party and hereby irrevocably waives any right to assert any such liability in the future.",
+      "start": 14964,
+      "end": 15318,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "e52e4a136a4bb5c859dc6d056f47c743",
+      "clause_id": "e52e4a136a4bb5c859dc6d056f47c743_clause_038",
+      "text": "15.\n\n Entire Agreement. This Agreement constitutes the entire agreement of the parties hereto with respect to the\nmatters contained herein, and no modification, amendment, or waiver of any of the provision of this Agreement shall be effective unless in\nwriting and signed by all parties hereto. This Agreement constitutes the only agreement between the parties hereto with respect to the\nmatters herein contained.",
+      "start": 15318,
+      "end": 15732,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "e52e4a136a4bb5c859dc6d056f47c743",
+      "clause_id": "e52e4a136a4bb5c859dc6d056f47c743_clause_039",
+      "text": "16.\n\n Modifications. No change or modification of this Agreement shall be valid unless the same is in writing and\nsigned by all the parties hereto. No waiver of any provision of this Agreement shall be valid unless in writing and signed by the party against\nwhom it is sought to be enforced.",
+      "start": 15732,
+      "end": 16024,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "e52e4a136a4bb5c859dc6d056f47c743",
+      "clause_id": "e52e4a136a4bb5c859dc6d056f47c743_clause_040",
+      "text": "17.\n\n Effect of MR. MULCAHY’s Signature. By the signing of this Agreement, MR. MULCAHY signifies that MR.\nMULCAHY has fully read, completely understands, and voluntarily agrees with this Agreement consisting of six (6) pages and seventeen\n(17) paragraphs and knowingly and voluntarily accepts all of its terms and conditions.",
+      "start": 16024,
+      "end": 16350,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "e52e4a136a4bb5c859dc6d056f47c743",
+      "clause_id": "e52e4a136a4bb5c859dc6d056f47c743_clause_041",
+      "text": "IN WITNESS WHEREOF, ENERGIZER and MR. MULCAHY have duly executed this Agreement as of the date first above written.\nENERGIZER HOLINGS, INC.\n J. PATRICK\nMULCAHY\nBy:\n___________________________\n ___________________________\nPeter J. Conrad\nVice President\nHuman Resources\nDate:___________________________ Date:______________________",
+      "start": 16350,
+      "end": 16680,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "e52e4a136a4bb5c859dc6d056f47c743",
+      "clause_id": "e52e4a136a4bb5c859dc6d056f47c743_clause_042",
+      "text": "Witness:____________________\n Date:______________________",
+      "start": 16680,
+      "end": 16738,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    }
+  ]
+}

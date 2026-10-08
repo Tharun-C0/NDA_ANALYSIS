@@ -1,0 +1,60 @@
+{
+  "dataset_name": "Kleister-NDA",
+  "source_url": "https://github.com/applicaai/kleister-nda",
+  "local_path": "external_data/kleister-nda",
+  "download_date": "2026-09-29",
+  "repository_commit": "c2c7bf069b919bfb618b268fda2a2c079c0db316",
+  "repository_commit_date": "2021-08-18",
+  "discovered_files": {
+    "root_files": [
+      "README.md",
+      "config.txt",
+      "in-header.tsv",
+      ".gitignore"
+    ],
+    "train": [
+      "train/in.tsv.xz",
+      "train/expected.tsv",
+      "train/expected-original.tsv"
+    ],
+    "dev-0": [
+      "dev-0/in.tsv.xz",
+      "dev-0/expected.tsv"
+    ],
+    "test-A": [
+      "test-A/in.tsv.xz"
+    ],
+    "documents": {
+      "format": "PDF",
+      "count": 726,
+      "naming_convention": "MD5_hash.pdf"
+    }
+  },
+  "discovered_formats": {
+    "documents": "PDF (generated from HTML via Puppeteer)",
+    "input_data": "TSV.XZ (XZ-compressed tab-separated values with 6 columns: filename, keys, text_djvu, text_tesseract, text_textract, text_best)",
+    "labels": "TSV (space-separated key=value pairs per line, one line per document)",
+    "annotation_keys": ["effective_date", "jurisdiction", "party", "term"]
+  },
+  "document_counts": {
+    "train_documents": 254,
+    "dev_documents": 83,
+    "test_documents": 203,
+    "total_documents": 540,
+    "total_pdfs_in_directory": 726,
+    "source": "Counted from expected.tsv line counts (train/dev). Test count from repository README."
+  },
+  "task_type": "document-level key-value information extraction",
+  "notes": [
+    "This is a DOCUMENT-LEVEL information extraction task, NOT a clause-level classification task.",
+    "The repository contains 4 extraction keys (effective_date, jurisdiction, party, term), NOT 14 clause categories.",
+    "No clause segmentation or clause-level annotations are present in this repository.",
+    "The [INIT_CLAUSE]/[END_CLAUSE] annotation format described in the reference paper does NOT exist here.",
+    "The reference paper's 3,714-clause dataset with 14 categories appears to be a DERIVED dataset created by the paper's authors.",
+    "The paper reports 322 documents; the repository contains 540 (254+83+203). The paper may have used a subset.",
+    "test-A labels (expected.tsv) are hidden and not available in the public repository.",
+    "726 PDFs exist in documents/ but only 540 are referenced across the three splits.",
+    "The original data must remain untouched in external_data/kleister-nda/.",
+    "Dataset conversion into the project's format should NOT proceed until the gap with the paper is resolved."
+  ]
+}

@@ -1,0 +1,15 @@
+Category,Number of clauses,Percentage,Average confidence,Average agreement score
+Party Identification,8,4.62,0.9104,0.5833
+Purpose,6,3.47,0.8911,0.6
+NDA Type,1,0.58,0.9667,0.6667
+Definition of Confidential Information,3,1.73,0.8711,0.7778
+Confidentiality Obligations,12,6.94,0.8105,0.4898
+Authorized Disclosure,9,5.2,0.8226,0.6716
+Non-Confidential Information,3,1.73,0.8633,0.6296
+Liability for Damages,3,1.73,0.6422,0.3889
+Competition Rights,3,1.73,0.8511,0.3889
+Term and Termination,1,0.58,0.6333,0.3333
+Intellectual Property,3,1.73,0.74,0.3852
+Employees,2,1.16,0.81,0.5555
+Governing Law and Jurisdiction,4,2.31,0.7342,0.25
+Additional Information,138,79.77,0.3566,0.5773

@@ -1,0 +1,73 @@
+{
+  "manifest_version": "1.0.0",
+  "dataset_name": "NDA Multi-Label Clause Classification Benchmark",
+  "dataset_source": "Kleister-NDA PDF Corpus + Gemini 3-Model Ensemble",
+  "benchmark_status": "BLOCKED",
+  "status_reason": "Liability for Damages occurs in only 2 documents (target >= 3), preventing complete 3-way split representation.",
+  "random_seed": 42,
+  "split_method": "Deterministic Document-Disjoint Partitioning",
+  "total_valid_clauses": 237,
+  "total_represented_documents": 11,
+  "category_vocabulary": [
+    "Party Identification",
+    "Purpose",
+    "NDA Type",
+    "Definition of Confidential Information",
+    "Confidentiality Obligations",
+    "Authorized Disclosure",
+    "Non-Confidential Information",
+    "Liability for Damages",
+    "Competition Rights",
+    "Term and Termination",
+    "Intellectual Property",
+    "Employees",
+    "Governing Law and Jurisdiction",
+    "Additional Information"
+  ],
+  "splits": {
+    "train": {
+      "clause_count": 154,
+      "document_count": 5,
+      "category_count": 13,
+      "missing_categories": [
+        "Employees"
+      ],
+      "document_ids": [
+        "0859334b76224ff82c1312ae7b2b5da1",
+        "0a42e159b33ed521c4157d8babfaf3c1",
+        "2268c5d1120f1abd57170d689f496418",
+        "247166e0245431dcf97ee884f1f07e35",
+        "266929af5f5b1ddb4018f2633cb96e24"
+      ]
+    },
+    "validation": {
+      "clause_count": 55,
+      "document_count": 3,
+      "category_count": 13,
+      "missing_categories": [
+        "Liability for Damages"
+      ],
+      "document_ids": [
+        "0b59dfc4ce9b40b0c39759dc1ade14bc",
+        "293f59373f6a966b13cd7463b4617a6f",
+        "53c8f90cfb5fb49177c9cb160e53f17b"
+      ]
+    },
+    "test": {
+      "clause_count": 28,
+      "document_count": 3,
+      "category_count": 14,
+      "missing_categories": [],
+      "document_ids": [
+        "3504e06a49433c1456720513186da1bd",
+        "4fd432d8ce6796dabc17d3838d8539a2",
+        "5180f107324abcab9d9ff81aee2db8d3"
+      ]
+    }
+  },
+  "known_limitations": [
+    "Liability for Damages is present in only 2 documents, forcing zero support in Validation split.",
+    "Total represented document count (11) is below target (>= 14).",
+    "Labels are LLM pseudo-labels and require human verification on the test split prior to published model claims."
+  ]
+}

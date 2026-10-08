@@ -1,0 +1,44 @@
+{
+  "document_id": "3504e06a49433c1456720513186da1bd",
+  "source_file": "3504e06a49433c1456720513186da1bd.txt",
+  "total_characters": 3218,
+  "num_clauses": 6,
+  "clauses": [
+    {
+      "clause_id": "3504e06a49433c1456720513186da1bd_clause_000",
+      "text": "EX-10.8 18 g20786exv10w8.htm EX-10.8\nExhibit 10.8\n(ANSON LOGO)\nClient Confidentiality & Non-Disclosure Agreement\nThis Agreement by and between TechniScan Medical Systems, Inc. (hereinafter referred to as “Client”) and The Anson Group, LLC (hereinafter\nreferred to as “Anson”), shall govern the conditions of disclosure of confidential information relating to Client’s business (“the Information”).\nThe Information includes all oral and written information, regardless of medium, disclosed to Anson by Client that is labeled or otherwise\nidentified as confidential.\nWith regard to the Information, Anson hereby agrees:",
+      "start_position": 0,
+      "end_position": 618
+    },
+    {
+      "clause_id": "3504e06a49433c1456720513186da1bd_clause_001",
+      "text": "1.\n Not to use the Information except for the sole purpose of providing consulting services requested by Client.",
+      "start_position": 618,
+      "end_position": 731
+    },
+    {
+      "clause_id": "3504e06a49433c1456720513186da1bd_clause_002",
+      "text": "2.\n To safeguard the Information against disclosure to others with the same degree of care as it exercises with its own information of a similar\nnature; and",
+      "start_position": 731,
+      "end_position": 889
+    },
+    {
+      "clause_id": "3504e06a49433c1456720513186da1bd_clause_003",
+      "text": "3.\n Not to disclose the Information to others (except to its employees, agents or consultants who are bound to Anson by a like obligation of\nconfidentiality) without the express written permission of Client, except that Anson shall not be prevented from using or disclosing any of\nthe Information:\n\na)\n Which Anson can demonstrate by written records was previously known to it;\n\nb)\n Which is now, or becomes in the future, public knowledge other than through acts or omissions of Anson;\n\nc)\n Which is lawfully obtained by Anson from sources independent of Client; or\n\nd)\n Which Anson is required by law to disclose.\nAnson agrees to provide prompt written notice to Client of any legal requests or compulsion to disclose the Information, and to make only such\ndisclosures as are legally required.\nAnson agrees to return or destroy all documents or other materials provided by Client that constitute the Information, without retaining any\ncopies or extracts thereof, upon request by Client.",
+      "start_position": 889,
+      "end_position": 1880
+    },
+    {
+      "clause_id": "3504e06a49433c1456720513186da1bd_clause_004",
+      "text": "NON-DISCLOSURE AGREEMENT\n\nPAGE 1\nTechniScan Medical Systems, Inc.\n\nAnson agrees that the furnishing of the Information to Anson shall not constitute a grant of license to Anson under any legal rights now or\nhereinafter held by Client.\nThis Agreement and all actions related hereto shall be governed by and construed in accordance with the laws (other than the conflict of laws\nrules) of the United States and the State of Indiana.\nThe rights and obligations herein shall bind the Parties and their respective legal representatives, successors, heirs and assigns.\nThis Agreement expresses the entire agreement and understanding of the Parties with respect to the subject matter hereof and supersedes all prior\nagreements, commitments and understandings, whether written or oral, with respect to such subject matter. Any modifications of, or changes to,\nthis Agreement shall be in writing and signed by each of the Parties.\nThis Agreement shall terminate upon the termination of the General Consulting Agreement between the parties dated January 5, 2006, provided,\nhowever, that the secrecy and non-use obligations of Anson herein shall remain in effect for three (3) years from the date of termination.\n\nThe Anson Group, LLC\n\n TechniScan Medical Systems, Inc.\n\n(SIGNATURE)",
+      "start_position": 1880,
+      "end_position": 3153
+    },
+    {
+      "clause_id": "3504e06a49433c1456720513186da1bd_clause_005",
+      "text": "NON-DISCLOSURE AGREEMENT\n\nPAGE 2\nTechniScan Medical Systems, Inc.",
+      "start_position": 3153,
+      "end_position": 3218
+    }
+  ]
+}

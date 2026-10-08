@@ -1,0 +1,136 @@
+{
+  "document_id": "53c8f90cfb5fb49177c9cb160e53f17b",
+  "source_file": "53c8f90cfb5fb49177c9cb160e53f17b.txt",
+  "total_characters": 11257,
+  "num_clauses": 14,
+  "num_legal_clauses": 13,
+  "quality_status": "REVIEW",
+  "clauses": [
+    {
+      "document_id": "53c8f90cfb5fb49177c9cb160e53f17b",
+      "clause_id": "53c8f90cfb5fb49177c9cb160e53f17b_clause_000",
+      "text": "EX-99.D.4 13 w01967iexv99wdw4.htm EXHIBIT (D)(4)\n\nDATAKEY, INC.",
+      "start": 0,
+      "end": 64,
+      "segment_type": "header",
+      "is_suspicious": true
+    },
+    {
+      "document_id": "53c8f90cfb5fb49177c9cb160e53f17b",
+      "clause_id": "53c8f90cfb5fb49177c9cb160e53f17b_clause_001",
+      "text": "MUTUAL NONDISCLOSURE AGREEMENT\nEFFECTIVE DATE: August 3, 2004",
+      "start": 64,
+      "end": 126,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "53c8f90cfb5fb49177c9cb160e53f17b",
+      "clause_id": "53c8f90cfb5fb49177c9cb160e53f17b_clause_002",
+      "text": "PARTIES:\n SafeNet, Inc (the “Company”)\n 4690 Millennium Drive\n Belcamp, MD 21017\n Datakey, Inc. (“Datakey”)\n 407 West Travelers Trail\n Burnsville, MN 55337-2558",
+      "start": 126,
+      "end": 287,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "53c8f90cfb5fb49177c9cb160e53f17b",
+      "clause_id": "53c8f90cfb5fb49177c9cb160e53f17b_clause_003",
+      "text": "RECITALS:\n A. The Company and Datakey are commencing discussions regarding a potential corporate transaction (the “Transaction”).\n B. In order to facilitate the negotiations regarding such Transaction, each party may disclose to the other party certain information, including\nconfidential information, owned by the disclosing party which the disclosing party is willing to disclose to the other party in reliance on the\nexecution of this Agreement.",
+      "start": 287,
+      "end": 736,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "53c8f90cfb5fb49177c9cb160e53f17b",
+      "clause_id": "53c8f90cfb5fb49177c9cb160e53f17b_clause_004",
+      "text": "AGREEMENT:\n In consideration of the covenants contained herein and the disclosure of the confidential information, the parties agree as follows:",
+      "start": 736,
+      "end": 881,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "53c8f90cfb5fb49177c9cb160e53f17b",
+      "clause_id": "53c8f90cfb5fb49177c9cb160e53f17b_clause_005",
+      "text": "1. Definition of Confidential Information. For purposes of this Agreement, the term “Confidential Information” includes, but is not limited to,\nany information of the disclosing party, whether disclosed orally, in writing, on computer disc or tape or any other method, including any\nformula, pattern, compilation, program, device, method, technique or process that: (i) derives independent economic value, actual or potential,\nfrom not being generally known to, and not being readily ascertainable through proper means by, other persons who can obtain economic value\nfrom its disclosure or use, and (ii) is the subject of efforts by the disclosing party that are reasonable under the circumstances to maintain its\nsecrecy. The receiving party acknowledges that such Confidential Information specifically includes, but is not limited to, trade secrets and\ninformation contained in or relating to computer software programs, technical information, know-how, other confidential processes, information\nwhich relates to the disclosing party’s future products, marketing plans or proposals, financial and sales information, subcontractor and employee\nlists, existing, inactive or potential customer lists, and all other customer information. All information which the disclosing party identifies in a\nconspicuous place as being “confidential” or “trade secret” shall be presumed to be Confidential Information, unless such information meets one\nor more of the tests set forth below in subparagraphs a.-d.\nThe term Confidential Information as used in this Agreement shall not include any information:\n a. which was in the public domain at the time of disclosure by the disclosing party to the receiving party;\n-1-\n\n b. which is published or otherwise comes into the public domain after its disclosure to the receiving party through no violation of this\nAgreement by the receiving party;\n c. which is disclosed to the receiving party by a third party not under an obligation of confidence to the disclosing party;\n d. which was already in the possession of the receiving party without restriction and prior to disclosure hereunder;\n e. which, as evidenced by contemporaneous documentation, is developed by the receiving party independently of Confidential\nInformation disclosed by disclosing party and without breach of this Agreement; or\n f. which is required to be disclosed by any law or governmental regulation or produced under order of a court of competent jurisdiction;\nprovided, however, that the receiving party provides the disclosing party written notice of such request or order as soon as reasonably\npracticable so that the disclosing party may attempt to limit such disclosure.\n This Agreement shall govern disclosure of Confidential information for a period of one year from the date hereof, and the obligations of\nconfidentiality and non-use set forth below shall survive for a period of THREE (3) years from the effective date of this Agreement.",
+      "start": 881,
+      "end": 3837,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "53c8f90cfb5fb49177c9cb160e53f17b",
+      "clause_id": "53c8f90cfb5fb49177c9cb160e53f17b_clause_006",
+      "text": "2. Warranties. The receiving party agrees and warrants to the disclosing party as follows with respect to all Confidential Information received\nor learned by it, regardless whether or not a contract is ultimately executed between the parties:\n a. The receiving party will treat as confidential all Confidential Information made available to the receiving party or to any employee,\nagent or representative of the receiving party.\n b. The receiving party shall protect the Confidential Information from unauthorized use or disclosure by using the same degree of care as\nthe receiving party uses to protect its own confidential information of a like nature, but no less than a reasonable degree of care.\n c. The receiving party will maintain the Confidential Information in a secure place and limit access to the Confidential Information to\nthose employees, agents and representatives of the receiving party to whom it is necessary to disclose the Confidential Information in\nfurtherance of the receiving party’s investigations and negotiations regarding the potential acquisition of the disclosing party and from whom\nthe receiving party has received a written agreement in which the employee promises to maintain the confidentiality of and not to wrongfully\nuse the Confidential Information.\n d. The receiving party and its employees, agents and representatives will not copy, disclose to unauthorized parties or use any\nConfidential Information for any purpose other than to further the receiving party’s investigations regarding the potential business\nrelationship with the disclosing party.\n e. If negotiations are terminated and no contract is executed, the receiving party will promptly deliver to the disclosing party all copies of\ndocuments containing Confidential\n-2-\n\n Information disclosed to the receiving party, whether or not such documents were prepared by the disclosing party.\n f. The receiving party assumes all liability for any breach of the terms of this Agreement by it or any of its employees, agents or\nrepresentatives.\n g. The receiving party will use Confidential Information solely for the purpose of discussing and evaluating the Transaction, and for no\nother purpose.",
+      "start": 3837,
+      "end": 6033,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "53c8f90cfb5fb49177c9cb160e53f17b",
+      "clause_id": "53c8f90cfb5fb49177c9cb160e53f17b_clause_007",
+      "text": "3. No License. Nothing contained in this Agreement shall be construed as creating any licenses to use the Confidential Information or other\nintellectual property of the disclosing party except as expressly stated in this Agreement.",
+      "start": 6033,
+      "end": 6266,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "53c8f90cfb5fb49177c9cb160e53f17b",
+      "clause_id": "53c8f90cfb5fb49177c9cb160e53f17b_clause_008",
+      "text": "4. Each party understands that each party is a publicly-held company and that all or part of each party’s Confidential Information may\nconstitute material non-public information under the United States securities laws, and each party acknowledges that it is aware that the United\nStates securities laws prohibit any person who is in the possession of material non-public information about a company from purchasing or\nselling that company’s securities in reliance upon such information or from communicating such information to any other person or entity under\ncircumstances in which it is reasonably foreseeable that such person or entity is likely to purchase or sell such securities in reliance upon such\ninformation. Each party represents that, as of the date of this agreement, neither party nor its controlled affiliates, nor anyone acting on its or their\nbehalf in connection with the Transaction, has acquired record or beneficial ownership of any voting securities of the other party or of any\nsecurities convertible or exchangeable into or exercisable for voting securities of the other party, and each Party agrees that neither it, nor any of\nits directors, officers or employees who have been provided with the Confidential Information will perform any purchase, sale or other transfer of\nany of the securities of the other party in violation of United States securities laws.",
+      "start": 6266,
+      "end": 7656,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "53c8f90cfb5fb49177c9cb160e53f17b",
+      "clause_id": "53c8f90cfb5fb49177c9cb160e53f17b_clause_009",
+      "text": "5. Nonsolicitation of Employees. The receiving party agrees for a period of one year (a) from end of discussions between the parties if no\nwritten agreement is ultimately entered into between the parties, or (b) from the expiration or termination of the written agreement ultimately\nentered into between the parties, to refrain from directly soliciting or seeking to hire any employee of the disclosing party about whom receiving\nparty received Confidential Information hereunder. Nothing herein shall prohibit either party from hiring or seeking to hire any employee of\ndisclosing party who independently responds to a general advertisement placed by the receiving party; provided that such receiving party does\nnot have any contact or conversations with such employee relating to such advertisement or employment prior to his or her response to such\nadvertisement.",
+      "start": 7656,
+      "end": 8524,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "53c8f90cfb5fb49177c9cb160e53f17b",
+      "clause_id": "53c8f90cfb5fb49177c9cb160e53f17b_clause_010",
+      "text": "6. Remedy Upon Violation. The receiving party agrees and understands that any unauthorized use or disclosure of the Confidential\nInformation or improper solicitation of the disclosing party’s employees shall cause substantial harm to the disclosing party and that the\ndisclosing party would not have an adequate remedy at law for such breach of the terms of this Agreement by the receiving party or any of the\ndisclosing party’s employees, agents or representatives. The receiving party agrees that the disclosing party shall be entitled to an injunction with\nthe posting of the minimum allowable bond, enjoining or restraining the receiving party from any violation or violations of this Agreement and\nthe receiving party hereby consents to the issuance of such injunction. The disclosing party’s rights to such equitable remedies shall be in\naddition to all other rights or remedies which the disclosing party may have under this Agreement or under applicable law.",
+      "start": 8524,
+      "end": 9492,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "53c8f90cfb5fb49177c9cb160e53f17b",
+      "clause_id": "53c8f90cfb5fb49177c9cb160e53f17b_clause_011",
+      "text": "7. Binding Effect. The failure of the parties to enter into a contractual arrangement or the return by the receiving party of documents\ncontaining Confidential Information in accordance with Paragraph 2(e) shall not relieve the receiving party of its obligations under this\nAgreement. This\n-3-\n\nAgreement shall be binding upon and inure to the benefit of the parties, their respective successors and assigns. Neither this Agreement nor the\ndisclosure or receipt of Confidential Information shall constitute or imply a commitment by either party with respect to the Transaction, present\nor future business agreements, or any other subject matter not expressly set forth herein.",
+      "start": 9492,
+      "end": 10170,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "53c8f90cfb5fb49177c9cb160e53f17b",
+      "clause_id": "53c8f90cfb5fb49177c9cb160e53f17b_clause_012",
+      "text": "8. Modification and Waiver. No purported amendment, modification or waiver of any provision of this Agreement shall be binding unless set\nforth in a written document signed by all parties (in the case of amendments and modifications) or by the party to be charged thereby (in the case\nof waivers). Any waiver shall be limited to the circumstance or event specifically referenced in the written waiver document and shall be deemed\nto be a waiver or any other term of this Agreement or of the same circumstance or event upon any recurrence thereof.",
+      "start": 10170,
+      "end": 10718,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "53c8f90cfb5fb49177c9cb160e53f17b",
+      "clause_id": "53c8f90cfb5fb49177c9cb160e53f17b_clause_013",
+      "text": "9. Governing Law. This Agreement shall be construed and enforced in accordance with the laws of the State of Delaware, without application\nof its conflict of laws provisions.\n The parties have caused this Agreement to be executed in a manner appropriate to each to be effective as of the date set forth on the first page\nof this Agreement.\n\nDATAKEY, INC.\n\nSafeNet, Inc.\n(“Datakey”)\n\n(the “Company”)\n\nBy\n\n/s/ David A. Feste\n\nBy\n\n/s/ Carole D. Argo\n\nName\nDavid A. Feste\n\nName\n\nCarole D. Argo\nIts\n\nChief Financial Officer\n\nIts\n\nPresident\n-4-",
+      "start": 10718,
+      "end": 11257,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    }
+  ]
+}

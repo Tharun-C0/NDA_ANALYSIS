@@ -1,0 +1,421 @@
+========================================
+DOCUMENT: 3504e06a49433c1456720513186da1bd
+========================================
+
+CLAUSE: 3504e06a49433c1456720513186da1bd_clause_000
+TYPE: legal_clause
+LENGTH: 617
+
+TEXT:
+----------------------------------------
+EX-10.8 18 g20786exv10w8.htm EX-10.8
+Exhibit 10.8
+(ANSON LOGO)
+Client Confidentiality & Non-Disclosure Agreement
+This Agreement by and between TechniScan Medical Systems, Inc. (hereinafter referred to as “Client”) and The Anson Group, LLC (hereinafter
+referred to as “Anson”), shall govern the conditions of disclosure of confidential information relating to Client’s business (“the Information”).
+The Information includes all oral and written information, regardless of medium, disclosed to Anson by Client that is labeled or otherwise
+identified as confidential.
+With regard to the Information, Anson hereby agrees:
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: 3504e06a49433c1456720513186da1bd_clause_001
+TYPE: legal_clause
+LENGTH: 112
+
+TEXT:
+----------------------------------------
+1.
+ Not to use the Information except for the sole purpose of providing consulting services requested by Client.
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: 3504e06a49433c1456720513186da1bd_clause_002
+TYPE: legal_clause
+LENGTH: 156
+
+TEXT:
+----------------------------------------
+2.
+ To safeguard the Information against disclosure to others with the same degree of care as it exercises with its own information of a similar
+nature; and
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: 3504e06a49433c1456720513186da1bd_clause_003
+TYPE: legal_clause
+LENGTH: 297
+
+TEXT:
+----------------------------------------
+3.
+ Not to disclose the Information to others (except to its employees, agents or consultants who are bound to Anson by a like obligation of
+confidentiality) without the express written permission of Client, except that Anson shall not be prevented from using or disclosing any of
+the Information:
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: 3504e06a49433c1456720513186da1bd_clause_004
+TYPE: legal_clause
+LENGTH: 78
+
+TEXT:
+----------------------------------------
+a)
+ Which Anson can demonstrate by written records was previously known to it;
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: 3504e06a49433c1456720513186da1bd_clause_005
+TYPE: legal_clause
+LENGTH: 107
+
+TEXT:
+----------------------------------------
+b)
+ Which is now, or becomes in the future, public knowledge other than through acts or omissions of Anson;
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: 3504e06a49433c1456720513186da1bd_clause_006
+TYPE: legal_clause
+LENGTH: 78
+
+TEXT:
+----------------------------------------
+c)
+ Which is lawfully obtained by Anson from sources independent of Client; or
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: 3504e06a49433c1456720513186da1bd_clause_007
+TYPE: legal_clause
+LENGTH: 420
+
+TEXT:
+----------------------------------------
+d)
+ Which Anson is required by law to disclose.
+Anson agrees to provide prompt written notice to Client of any legal requests or compulsion to disclose the Information, and to make only such
+disclosures as are legally required.
+Anson agrees to return or destroy all documents or other materials provided by Client that constitute the Information, without retaining any
+copies or extracts thereof, upon request by Client.
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: 3504e06a49433c1456720513186da1bd_clause_008
+TYPE: section_heading
+LENGTH: 24
+
+TEXT:
+----------------------------------------
+NON-DISCLOSURE AGREEMENT
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: 3504e06a49433c1456720513186da1bd_clause_009
+TYPE: legal_clause
+LENGTH: 39
+
+TEXT:
+----------------------------------------
+PAGE 1
+TechniScan Medical Systems, Inc.
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: 3504e06a49433c1456720513186da1bd_clause_010
+TYPE: legal_clause
+LENGTH: 1134
+
+TEXT:
+----------------------------------------
+Anson agrees that the furnishing of the Information to Anson shall not constitute a grant of license to Anson under any legal rights now or
+hereinafter held by Client.
+This Agreement and all actions related hereto shall be governed by and construed in accordance with the laws (other than the conflict of laws
+rules) of the United States and the State of Indiana.
+The rights and obligations herein shall bind the Parties and their respective legal representatives, successors, heirs and assigns.
+This Agreement expresses the entire agreement and understanding of the Parties with respect to the subject matter hereof and supersedes all prior
+agreements, commitments and understandings, whether written or oral, with respect to such subject matter. Any modifications of, or changes to,
+this Agreement shall be in writing and signed by each of the Parties.
+This Agreement shall terminate upon the termination of the General Consulting Agreement between the parties dated January 5, 2006, provided,
+however, that the secrecy and non-use obligations of Anson herein shall remain in effect for three (3) years from the date of termination.
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: 3504e06a49433c1456720513186da1bd_clause_011
+TYPE: legal_clause
+LENGTH: 20
+
+TEXT:
+----------------------------------------
+The Anson Group, LLC
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: 3504e06a49433c1456720513186da1bd_clause_012
+TYPE: legal_clause
+LENGTH: 32
+
+TEXT:
+----------------------------------------
+TechniScan Medical Systems, Inc.
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: 3504e06a49433c1456720513186da1bd_clause_013
+TYPE: section_heading
+LENGTH: 11
+
+TEXT:
+----------------------------------------
+(SIGNATURE)
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: 3504e06a49433c1456720513186da1bd_clause_014
+TYPE: section_heading
+LENGTH: 24
+
+TEXT:
+----------------------------------------
+NON-DISCLOSURE AGREEMENT
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+
+CLAUSE: 3504e06a49433c1456720513186da1bd_clause_015
+TYPE: legal_clause
+LENGTH: 39
+
+TEXT:
+----------------------------------------
+PAGE 2
+TechniScan Medical Systems, Inc.
+----------------------------------------
+
+HUMAN DECISION:
+[ ] KEEP
+[ ] MERGE_WITH_NEXT
+[ ] MERGE_WITH_PREVIOUS
+[ ] SPLIT
+[ ] REMOVE_NON_LEGAL
+[ ] REVIEW
+
+CORRECTED TEXT:
+________________________________________
+
+NOTES:
+________________________________________
+
+

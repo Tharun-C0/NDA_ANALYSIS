@@ -1,0 +1,676 @@
+{
+  "document_id": "9a5cb31024ad0a7a4916e4f122ebea4a",
+  "source_file": "9a5cb31024ad0a7a4916e4f122ebea4a.txt",
+  "total_characters": 41969,
+  "num_clauses": 74,
+  "num_legal_clauses": 69,
+  "quality_status": "REVIEW",
+  "clauses": [
+    {
+      "document_id": "9a5cb31024ad0a7a4916e4f122ebea4a",
+      "clause_id": "9a5cb31024ad0a7a4916e4f122ebea4a_clause_000",
+      "text": "EX-10.3 2 dex103.htm FORM OF EMPLOYMENT, CONFIDENTIALITY, SEVERANCE AND NON-",
+      "start": 0,
+      "end": 77,
+      "segment_type": "header",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "9a5cb31024ad0a7a4916e4f122ebea4a",
+      "clause_id": "9a5cb31024ad0a7a4916e4f122ebea4a_clause_001",
+      "text": "COMPETITION AGREEMENT",
+      "start": 77,
+      "end": 100,
+      "segment_type": "section_heading",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "9a5cb31024ad0a7a4916e4f122ebea4a",
+      "clause_id": "9a5cb31024ad0a7a4916e4f122ebea4a_clause_002",
+      "text": "EXHIBIT 10.3",
+      "start": 100,
+      "end": 113,
+      "segment_type": "header",
+      "is_suspicious": true
+    },
+    {
+      "document_id": "9a5cb31024ad0a7a4916e4f122ebea4a",
+      "clause_id": "9a5cb31024ad0a7a4916e4f122ebea4a_clause_003",
+      "text": "EMPLOYMENT, CONFIDENTIALITY, SEVERANCE AND NON-COMPETITION AGREEMENT\nTHIS EMPLOYMENT, CONFIDENTIALITY, SEVERANCE AND NON-COMPETITION AGREEMENT (this “Agreement”) is\nentered into as of [ , ] by and between [ ] (the “Executive”) and SAVVIS, INC., a Delaware corporation, (“SAVVIS”) and all\nits subsidiaries (collectively referred to as the “Company”). Capitalized terms used but not defined herein have the respective meanings ascribed to\nsuch terms in Section 7 of this Agreement.",
+      "start": 113,
+      "end": 593,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "9a5cb31024ad0a7a4916e4f122ebea4a",
+      "clause_id": "9a5cb31024ad0a7a4916e4f122ebea4a_clause_004",
+      "text": "WHEREAS, Executive acknowledges that:",
+      "start": 593,
+      "end": 632,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "9a5cb31024ad0a7a4916e4f122ebea4a",
+      "clause_id": "9a5cb31024ad0a7a4916e4f122ebea4a_clause_005",
+      "text": "•\n the Company and its Affiliates are and will be engaged in a number of highly competitive lines of business.",
+      "start": 632,
+      "end": 744,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "9a5cb31024ad0a7a4916e4f122ebea4a",
+      "clause_id": "9a5cb31024ad0a7a4916e4f122ebea4a_clause_006",
+      "text": "•\n the Company and its Affiliates conduct business throughout the United States and in numerous foreign countries;",
+      "start": 744,
+      "end": 860,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "9a5cb31024ad0a7a4916e4f122ebea4a",
+      "clause_id": "9a5cb31024ad0a7a4916e4f122ebea4a_clause_007",
+      "text": "•\n the Company and its Affiliates possess Confidential Information and customer goodwill that provide the Company and its Affiliates with\na significant competitive advantage; and",
+      "start": 860,
+      "end": 1040,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "9a5cb31024ad0a7a4916e4f122ebea4a",
+      "clause_id": "9a5cb31024ad0a7a4916e4f122ebea4a_clause_008",
+      "text": "•\n the Company’s and its Affiliates’ success depends to a substantial extent upon the protection of its Confidential Information (which\nincludes trade secrets and customer lists) and customer goodwill by all of their employees;",
+      "start": 1040,
+      "end": 1269,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "9a5cb31024ad0a7a4916e4f122ebea4a",
+      "clause_id": "9a5cb31024ad0a7a4916e4f122ebea4a_clause_009",
+      "text": "•\n Executive has and will continue to have possession of Confidential Information; and",
+      "start": 1269,
+      "end": 1356,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "9a5cb31024ad0a7a4916e4f122ebea4a",
+      "clause_id": "9a5cb31024ad0a7a4916e4f122ebea4a_clause_010",
+      "text": "WHEREAS, if Executive were to leave the Company, the Company and its Affiliates would in all fairness need certain protections to prevent\ncompetitors from gaining an unfair competitive advantage over them.\nNOW, THEREFORE, in consideration of the covenants and agreements hereinafter set forth, the parties agree as follows:",
+      "start": 1356,
+      "end": 1680,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "9a5cb31024ad0a7a4916e4f122ebea4a",
+      "clause_id": "9a5cb31024ad0a7a4916e4f122ebea4a_clause_011",
+      "text": "1.\nTerm of Agreement. This Agreement will remain in effect from the date hereof until the date the Executive’s employment with the Company\nterminates for any reason. The following provisions shall survive termination or expiration of this Agreement for any reason, to the extent\napplicable and in accordance with their terms: Sections 4, 5, 6 and 8. Executive’s employment is “at-will”, and nothing contained herein shall\nbe deemed a guarantee of employment with Company for any period of time.",
+      "start": 1680,
+      "end": 2176,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "9a5cb31024ad0a7a4916e4f122ebea4a",
+      "clause_id": "9a5cb31024ad0a7a4916e4f122ebea4a_clause_012",
+      "text": "2.\nCapacity and Performance.",
+      "start": 2176,
+      "end": 2206,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "9a5cb31024ad0a7a4916e4f122ebea4a",
+      "clause_id": "9a5cb31024ad0a7a4916e4f122ebea4a_clause_013",
+      "text": "(a) During the term hereof, the Executive shall serve the Company in the position to which he or she is appointed from time to time.\nExecutive’s position as of the date of this Agreement is [ ]. During the term hereof, Executive will be employed by the Company on a\nfull-time basis and shall perform the duties and responsibilities of his or her",
+      "start": 2206,
+      "end": 2553,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "9a5cb31024ad0a7a4916e4f122ebea4a",
+      "clause_id": "9a5cb31024ad0a7a4916e4f122ebea4a_clause_014",
+      "text": "position and such other duties and responsibilities on behalf of the Company and its Affiliates, reasonably related to that position, as may be\ndesignated from time to time by the Compensation Committee (the “Compensation Committee”) of the Board of Directors of SAVVIS (the\n“Board”) or other designee.",
+      "start": 2553,
+      "end": 2856,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "9a5cb31024ad0a7a4916e4f122ebea4a",
+      "clause_id": "9a5cb31024ad0a7a4916e4f122ebea4a_clause_015",
+      "text": "(b) During the term hereof, the Executive shall devote his full business time and his best efforts, business judgment, skill and knowledge\nto the advancement of the business and interests of the Company and its Affiliates and to the discharge of his duties and responsibilities\nhereunder. The Executive shall not engage in any other business activity or serve in any industry, trade, professional, governmental or\nacademic position during the term of this Agreement, except as may otherwise be expressly approved in advance by the Compensation\nCommittee or other designee in writing.",
+      "start": 2856,
+      "end": 3440,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "9a5cb31024ad0a7a4916e4f122ebea4a",
+      "clause_id": "9a5cb31024ad0a7a4916e4f122ebea4a_clause_016",
+      "text": "3.\nCompensation and Benefits. As compensation for all services performed by the Executive under and during the term hereof, and subject to\nperformance of the Executive’s duties and the fulfillment of the obligations of the Executive to the Company and its Affiliates, pursuant to this\nAgreement or otherwise:",
+      "start": 3440,
+      "end": 3750,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "9a5cb31024ad0a7a4916e4f122ebea4a",
+      "clause_id": "9a5cb31024ad0a7a4916e4f122ebea4a_clause_017",
+      "text": "(a) Base Salary. During the term hereof, the Company shall pay the Executive a base salary, which as of the date of execution of this\nAgreement is set at the rate of [ Dollars ($ ) ] per annum, payable in accordance with the regular payroll practices of the\nCompany for its executives subject to adjustment from time to time by the Compensation Committee, in its sole discretion. Such base salary,\nas from time to time adjusted, is hereafter referred to as the “Base Salary”.",
+      "start": 3750,
+      "end": 4226,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "9a5cb31024ad0a7a4916e4f122ebea4a",
+      "clause_id": "9a5cb31024ad0a7a4916e4f122ebea4a_clause_018",
+      "text": "(b) Incentive and Bonus Compensation.",
+      "start": 4226,
+      "end": 4264,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "9a5cb31024ad0a7a4916e4f122ebea4a",
+      "clause_id": "9a5cb31024ad0a7a4916e4f122ebea4a_clause_019",
+      "text": "(i) For service rendered during the Company’s fiscal year ending December 31, [ ], the Executive will be eligible, at the\nCompensation Committee’s discretion, to receive a bonus payment equal to [ ]% of Base Salary, payable in accordance with the\nterms of the Company’s [ ] Annual Incentive Plan.",
+      "start": 4264,
+      "end": 4561,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "9a5cb31024ad0a7a4916e4f122ebea4a",
+      "clause_id": "9a5cb31024ad0a7a4916e4f122ebea4a_clause_020",
+      "text": "(ii) Commencing on January 1, [ ] and for the remainder of the term hereof, the Executive shall be entitled to participate in the\nCompany’s Annual Incentive Plan (the “Annual Incentive Plan”) on terms to be determined annually by the Compensation Committee\nprior to the commencement of each fiscal year. Nothing contained herein shall obligate the Company to continue the Annual Incentive\nPlan. Any compensation paid to the Executive under the Annual Incentive Plan shall be in addition to the Base Salary. Except as\notherwise expressly provided under the terms of the Annual Incentive Plan or this Agreement, the Executive shall not be entitled to earn\nbonus or other compensation for services rendered to the Company.\n[Insert equity grant provisions if applicable.]",
+      "start": 4561,
+      "end": 5329,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "9a5cb31024ad0a7a4916e4f122ebea4a",
+      "clause_id": "9a5cb31024ad0a7a4916e4f122ebea4a_clause_021",
+      "text": "4.\nTermination of Employment.",
+      "start": 5329,
+      "end": 5360,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "9a5cb31024ad0a7a4916e4f122ebea4a",
+      "clause_id": "9a5cb31024ad0a7a4916e4f122ebea4a_clause_022",
+      "text": "(a) Executive’s employment with the Company may be terminated as follows:\n(i) by the Company with Cause;\n(ii) by the Company without Cause;\n(iii) upon Executive’s death or Disability (defined herein);",
+      "start": 5360,
+      "end": 5562,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "9a5cb31024ad0a7a4916e4f122ebea4a",
+      "clause_id": "9a5cb31024ad0a7a4916e4f122ebea4a_clause_023",
+      "text": "(iv) by Executive with Good Reason; or\n(v) by Executive without Good Reason.",
+      "start": 5562,
+      "end": 5639,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "9a5cb31024ad0a7a4916e4f122ebea4a",
+      "clause_id": "9a5cb31024ad0a7a4916e4f122ebea4a_clause_024",
+      "text": "(b) Upon termination of Executive’s employment for any reason, all rights and obligations under this Agreement shall cease, except as\nreferred to in Section 1 and except that Executive shall be entitled to (i) payment of his or her salary through the effective date of termination,\nplus (ii) payment of any other amounts owed but not yet paid to Executive as of the effective date of termination (such as reimbursement for\nbusiness expenses incurred prior to termination in accordance with the Company’s expense and reimbursement policy, plus (iii) any other\nbenefits to which Executive may be entitled which provide for payment or other benefits following termination (such as under disability\ninsurance plan).",
+      "start": 5639,
+      "end": 6351,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "9a5cb31024ad0a7a4916e4f122ebea4a",
+      "clause_id": "9a5cb31024ad0a7a4916e4f122ebea4a_clause_025",
+      "text": "(c) Severance Benefits.",
+      "start": 6351,
+      "end": 6375,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "9a5cb31024ad0a7a4916e4f122ebea4a",
+      "clause_id": "9a5cb31024ad0a7a4916e4f122ebea4a_clause_026",
+      "text": "(i) If the Executive is subject to termination pursuant to an Involuntary Termination (as defined in Section 7), then in addition to\nany amounts / benefits owed under Section 4(b), the Company shall pay the Executive: (x) an amount equal to 100% of his or her then\ncurrent annual Base Salary for one year (the “Severance Payment”) and (y) at the discretion of the Compensation Committee, a pro-rated\nportion of the bonus that the Executive would be entitled to receive under the Company’s Annual Incentive Plan (“Bonus”). The pro-\nrated Bonus will be calculated by the compensation committee by extrapolating the Company’s anticipated full year performance based\non the current year performance to date and then multiplying the resulting full year extrapolation by a fraction the numerator of which is\nthe number of days during the calendar year the Executive worked in the year of Involuntary Termination up to the termination date and\nthe denominator of which is 365. Any such Bonus shall be paid not later than 30 days after the date of the Involuntary Termination. If the\nExecutive is subject to an Involuntary Termination prior to March 31 of any calendar year, and has, therefore, not yet received payment\nfor the prior year under the Annual Incentive Plan, then the Executive will also be entitled to such payment under the Annual Incentive\nPlan as he would otherwise have been entitled to receive had he remained employed on March 31 of the year of Involuntary Termination.\nAny such Bonus shall be paid at the time bonuses are paid to other employees under the Annual Incentive Plan and not later than the end\nof the year during which the Involuntary Termination occurred.",
+      "start": 6375,
+      "end": 8056,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "9a5cb31024ad0a7a4916e4f122ebea4a",
+      "clause_id": "9a5cb31024ad0a7a4916e4f122ebea4a_clause_027",
+      "text": "(ii) Further, if and only if the Involuntary Termination occurs within twelve (12) months after a Change in Control (a “Change in\nControl Termination”), then (x) in addition to the Severance Payment, any stock awards, stock options, stock appreciation rights or other\nequity-based awards (each an “Equity Award”) that were outstanding immediately prior to the effective date of the Change in Control\nTermination shall, unless such Equity Awards are no longer outstanding, to the extent not then vested, fully vest and become exercisable\nas of such date and the Executive shall have the right to exercise any such Equity Award until the earlier to occur of (A) twelve\n(12) months from the date of the Change in Control Termination and (B) the expiration date of such Equity Award as set forth in the\nagreement evidencing such award; and (y) the Executive shall be entitled to the Bonus, which shall be paid not later than 30 days after\nthe date of the Change in Control Termination.",
+      "start": 8056,
+      "end": 9038,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "9a5cb31024ad0a7a4916e4f122ebea4a",
+      "clause_id": "9a5cb31024ad0a7a4916e4f122ebea4a_clause_028",
+      "text": "(d) Timing of and Conditions to Payment. Any Severance Payment due under Section 4(c) shall be paid bi-monthly, in accordance with\nthe Company’s standard payroll procedures, for the twelve (12) month period following the effective date of termination. Any other provision\nof this Agreement notwithstanding, no severance benefits shall be payable unless and until each of the following has occurred:",
+      "start": 9038,
+      "end": 9438,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "9a5cb31024ad0a7a4916e4f122ebea4a",
+      "clause_id": "9a5cb31024ad0a7a4916e4f122ebea4a_clause_029",
+      "text": "(i) the Executive has executed and delivered to the Company a general release (in a form prescribed by the Company) of all known\nand unknown claims that he or she may then have against the Company or persons affiliated with the Company and has agreed not to\nprosecute any legal action or other proceeding based upon any of such claims;\n(ii) the Executive has, no later than the effective date of termination, delivered to the Company a resignation from all offices,\ndirectorships and fiduciary positions with the Company and it affiliates;\n(iii) the effective date of the Executive’s Involuntary Termination;\n(iv) the date of the Company’s receipt of the Executive’s executed General Release, which must be no later than 21 days following\nthe effective date of termination (except in the case of group terminations, such time period shall be 45 days);\n(v) the expiration of any rescission or revocation period applicable to the Executive’s executed General Release; and\n(vi) the Executive is and continues to be in compliance with all of his or her obligations under this Agreement, including, without\nlimitation, Sections 5 and 6, and under the agreements and other documents referred to or incorporated by reference herein.\nThe Company will commence payment of the Severance Payment within ten (10) business days of satisfaction / occurrence of the last of the\nforegoing items (1) through (5). For purposes of Section 409A of the Internal Revenue Code of 1986, as amended (“Code”), an installment\nSeverance Payment shall be deemed to be made as of the applicable bimonthly payroll date following the Executive’s effective date of termination if\nmade by the 15th day of the third calendar month following such payroll date.",
+      "start": 9438,
+      "end": 11163,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "9a5cb31024ad0a7a4916e4f122ebea4a",
+      "clause_id": "9a5cb31024ad0a7a4916e4f122ebea4a_clause_030",
+      "text": "(e) Health Care Benefit. Following an Involuntary Termination, the Company will pay to the Executive a monthly taxable cash payment\nin an amount equal (on an after tax basis, taking into account federal, state, local and foreign taxes) to the monthly COBRA (Consolidated\nOmnibus Budget Reconciliation Act) premium(s) in effect as of immediately prior to the Executive’s Involuntary Termination for the most\nexpensive level of coverage under the group health plan(s) applicable to the Executive at the time of the Executive’s Involuntary Termination.\nThe monthly payments will commence with the first month following the Executive’s Involuntary Termination and will terminate upon the\nearlier of (a) the Executive having received twelve monthly payments and (b) the Executive becoming re-employed and entitled to coverage\nunder the new employer’s group health plan. The Executive agrees to notify the Company in writing immediately upon becoming re-employed\nand entitled to coverage under a new employer’s group health plan.",
+      "start": 11163,
+      "end": 12187,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "9a5cb31024ad0a7a4916e4f122ebea4a",
+      "clause_id": "9a5cb31024ad0a7a4916e4f122ebea4a_clause_031",
+      "text": "(f) Withholding Taxes. All payments made under this Agreement shall be subject to reduction to reflect taxes or other charges required to\nbe withheld by law.",
+      "start": 12187,
+      "end": 12345,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "9a5cb31024ad0a7a4916e4f122ebea4a",
+      "clause_id": "9a5cb31024ad0a7a4916e4f122ebea4a_clause_032",
+      "text": "(g) Section 409A Savings Clause. This Agreement is intended to comply with the requirements of Section 409A of the Code (including\nthe exceptions thereto) to the extent applicable, and the Agreement shall be interpreted in a manner consistent with such requirements.\nNotwithstanding any other provision hereof, if any provision of the Agreement conflicts with the requirements of Section 409A of the Code (or\nan exception thereto), such provision shall be deemed reformed so as to comply with the requirements of Section 409A of the Code (or an\nexception thereto) and shall be interpreted and applied accordingly.",
+      "start": 12345,
+      "end": 12960,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "9a5cb31024ad0a7a4916e4f122ebea4a",
+      "clause_id": "9a5cb31024ad0a7a4916e4f122ebea4a_clause_033",
+      "text": "Amounts payable other than those expressly payable on a deferred or installment basis, will be paid as promptly as practical and, in any event,\nwithin 2 /2 months after the end of the year in which such amount was earned.\nAny amount that the Executive is entitled to be reimbursed will be reimbursed as promptly as practical and in any event not later than the last\nday of the calendar year after the calendar year in which the expenses are incurred, and the amount of the expenses eligible for reimbursement during\nany calendar year will not affect the amount of expenses eligible for reimbursement in any other calendar year.\nIf at the time of separation from service (i) the Executive is a specified employee (within the meaning of Section 409A and using the\nidentification methodology selected by the Company from time to time), and (ii) the Company makes a good faith determination that an amount\npayable by the Company to the Executive constitutes deferred compensation (within the meaning of Section 409A) the payment of which is required\nto be delayed pursuant to the six-month delay rule set forth in Section 409A in order to avoid taxes or penalties under Section 409A, then the\nCompany will not pay such amount on the otherwise scheduled payment date but will instead pay it in a lump sum on the first business day after\nsuch six-month period together with interest for the period of delay, compounded annually, equal to the prime rate (as published in the Wall Street\nJournal) in effect as of the dates the payments should otherwise have been provided.",
+      "start": 12960,
+      "end": 14525,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "9a5cb31024ad0a7a4916e4f122ebea4a",
+      "clause_id": "9a5cb31024ad0a7a4916e4f122ebea4a_clause_034",
+      "text": "5.\nConfidential Information.",
+      "start": 14525,
+      "end": 14555,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "9a5cb31024ad0a7a4916e4f122ebea4a",
+      "clause_id": "9a5cb31024ad0a7a4916e4f122ebea4a_clause_035",
+      "text": "(a) The Executive acknowledges that the Company and its Affiliates continually develop Confidential Information, that the Executive\nmay develop Confidential Information for the Company or its Affiliates and that the Executive will have possession of and access to\nConfidential Information during the course of employment. The Executive will comply with the policies and procedures of the Company and\nits Affiliates for protecting Confidential Information, and shall not disclose to any Person or use, other than as required by applicable law or\nfor the proper performance of his duties and responsibilities to the Company and its Affiliates, any Confidential Information obtained by the\nExecutive incident to his employment or other association with the Company or any of its Affiliates. The Executive understands that this\nrestriction shall continue to apply after his employment terminates, regardless of the reason for such termination. The confidentiality obligation\nunder this Section 5 shall not apply to information which is generally known or readily available to the public at the time of disclosure or\nbecomes generally known through no wrongful act on the part of the Executive or any other Person having an obligation of confidentiality to\nthe Company or any of its Affiliates.",
+      "start": 14555,
+      "end": 15845,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "9a5cb31024ad0a7a4916e4f122ebea4a",
+      "clause_id": "9a5cb31024ad0a7a4916e4f122ebea4a_clause_036",
+      "text": "(b) All documents, records, tapes and other media of every kind and description relating to the business, present or otherwise, of the\nCompany or its Affiliates and any copies, in whole or in part, thereof (the “Documents”), whether or not prepared by the Executive, shall be\nthe sole and exclusive property of the Company and its Affiliates. The Executive shall safeguard all Documents and shall surrender to the\nCompany at the time his employment terminates, or at such earlier time or times as the Board or its designee may specify, all Documents then\nin the Executive’s possession or control.",
+      "start": 15845,
+      "end": 16442,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "9a5cb31024ad0a7a4916e4f122ebea4a",
+      "clause_id": "9a5cb31024ad0a7a4916e4f122ebea4a_clause_037",
+      "text": "(c) In the event that Executive is requested or becomes legally compelled (by oral questions, interrogatories, requests for information or\ndocuments, deposition, subpoena, civil investigative\n 1",
+      "start": 16442,
+      "end": 16638,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "9a5cb31024ad0a7a4916e4f122ebea4a",
+      "clause_id": "9a5cb31024ad0a7a4916e4f122ebea4a_clause_038",
+      "text": "demand or similar process) to disclose any of the Confidential Information, the Executive shall, where permitted under applicable law, rule or\nregulation, provide written notice to the Company promptly after such request so that the Company may, at its expense, seek a protective order\nor other appropriate remedy (the Executive agrees to reasonably cooperate with the Company in connection with seeking such order or other\nremedy). In the event that such protective order or other remedy is not obtained, the Executive shall furnish only that portion of the\nConfidential Information that the Executive is advised by counsel is required, and shall exercise reasonable efforts to obtain assurance that\nconfidential treatment will be accorded such Confidential Information. In addition, the Executive may disclose Confidential Information in the\ncourse of inspections, examinations or inquiries by federal or state regulatory agencies and self regulatory organizations that have requested or\nrequired the inspection of records that contain the Confidential Information provided that the Executive exercises reasonable efforts to obtain\nreliable assurances that confidential treatment will be accorded to such Confidential Information. To the extent such information is required to\nbe disclosed and is not accorded confidential treatment as described in the immediately preceding sentence, it shall not constitute “Confidential\nInformation” under this Agreement.",
+      "start": 16638,
+      "end": 18098,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "9a5cb31024ad0a7a4916e4f122ebea4a",
+      "clause_id": "9a5cb31024ad0a7a4916e4f122ebea4a_clause_039",
+      "text": "6.\nCertain Covenants.",
+      "start": 18098,
+      "end": 18121,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "9a5cb31024ad0a7a4916e4f122ebea4a",
+      "clause_id": "9a5cb31024ad0a7a4916e4f122ebea4a_clause_040",
+      "text": "(a) The Executive agrees that, during his employment with the Company, he or she will not undertake any outside activity, whether or not\ncompetitive with the business of the Company or its Affiliates that could reasonably give rise to a conflict of interest or otherwise materially\ninterfere with his or her duties and obligations to the Company or any of its Affiliates.",
+      "start": 18121,
+      "end": 18493,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "9a5cb31024ad0a7a4916e4f122ebea4a",
+      "clause_id": "9a5cb31024ad0a7a4916e4f122ebea4a_clause_041",
+      "text": "(b) During the term of Executive’s employment and for twelve (12) months following termination of his or her employment for any\nreason (the “Restricted Period”), the Executive shall not, directly or indirectly, whether as owner, partner, investor, consultant, agent,\nemployee, co-venturer or otherwise:\n(i) compete with the Company or any of its Affiliates within the geographic area in which the Company does business or undertake\nany planning for any business competitive with the Company or any of its Affiliates. Specifically, but without limiting the foregoing, the\nExecutive agrees not to engage in any manner in any activity that is directly or indirectly competitive with the business of the Company\nor any of its Affiliates as conducted or under consideration at any time during the Executive’s employment, and further agrees not to\nwork or provide services, in any capacity, whether as an employee, independent contractor or otherwise, whether with or without\ncompensation, to any Person who is engaged in any business that is competitive with the business of the Company or any of its Affiliates\nfor which the Executive has provided services. The foregoing, however, shall not prevent the Executive’s passive ownership of two\npercent (2%) or less of the equity securities of any publicly traded company. Notwithstanding any provision in this Agreement, section 6.\n(b) (i) shall not be deemed to create post-employment non-competition restrictions on the Executive if the Executive’s primary residence\nis in the state of California; or\n(ii) solicit or encourage any customer of the Company or any of its Affiliates to terminate or diminish its relationship with them; or\n(iii) seek to persuade any such customer of the Company or any of its Affiliates to conduct with anyone else any business or\nactivity which such customer conducts with the Company or any of its Affiliates; provided that these restrictions shall apply only if the\nExecutive",
+      "start": 18493,
+      "end": 20448,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "9a5cb31024ad0a7a4916e4f122ebea4a",
+      "clause_id": "9a5cb31024ad0a7a4916e4f122ebea4a_clause_042",
+      "text": "has performed work for such Person during his employment with the Company or one of its Affiliates or has been introduced to, or\notherwise had contact with, such Person as a result of his employment or other associations with the Company or one of its Affiliates or\nhas had access to Confidential Information which would assist in the Executive’s solicitation of such Person.\n(iv) solicit for hiring any employee or independent contractor of the Company or any of its Affiliates or seek to persuade any\nemployee or independent contractor of the Company or any of its Affiliates to discontinue or diminish such employee or independent\ncontractor’s relationship with the Company or any of its Affiliates.",
+      "start": 20448,
+      "end": 21151,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "9a5cb31024ad0a7a4916e4f122ebea4a",
+      "clause_id": "9a5cb31024ad0a7a4916e4f122ebea4a_clause_043",
+      "text": "(c) Cooperation and Non-Disparagement. The Executive agrees that, during the Restricted Period, he or she shall cooperate with the\nCompany in every reasonable respect and shall use his or her best efforts to assist the Company with the transition of the Executive’s duties to\nhis or her successor. The Executive further agrees that, during the Restricted Period, he or she shall not in any way or by any means disparage\nthe Company, the members of the Company’s Board or the Company’s officers and employees.",
+      "start": 21151,
+      "end": 21660,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "9a5cb31024ad0a7a4916e4f122ebea4a",
+      "clause_id": "9a5cb31024ad0a7a4916e4f122ebea4a_clause_044",
+      "text": "(d) Assignment of Inventions. The Executive shall promptly and fully disclose all Work Product (defined herein) to the Company.\nExecutive hereby assigns to the Company all of Executive’s rights, title, and interest (including but not limited to all patent, trademark,\ncopyright and trade secret rights) in and to all work product prepared by Executive, made or conceived in whole or in part by Executive within\nthe scope of Executive’s employment by the Company or within six (6) months thereafter, or that relate directly to or involve the use of\nConfidential Information (“Work Product”). Executive further acknowledges and agrees that all copyrightable Work Product prepared by\nExecutive within the scope of Executive’s employment with the Company are “works made for hire” and, consequently, that the Company\nowns all copyrights thereto. The Executive agrees to execute any and all applications for domestic and foreign patents, copyrights or other\nproprietary rights and to do such other acts (including without limitation the execution and delivery of instruments of further assurance or\nconfirmation) requested by the Company to assign the Work Product to the Company and to permit the Company to enforce any patents,\ncopyrights or other proprietary rights to the Work Product. The Executive will not charge the Company for time spent in complying with these\nobligations. Notwithstanding the foregoing, any provision in this Agreement which provides that Executive shall assign, offer to assign, any of\nhis or her rights in an invention to the Company shall not apply to an invention that the Executive developed entirely on his or her own time\nwithout using the Company’s equipment, supplies, facilities, or trade secret information except for those inventions that either:\n(i) relate at the time of conception or reduction to practice of the invention to the Company’s business or actual demonstrably\nanticipated research or development of the Company; or\n(ii) result from any work performed by the Executive for the Company.",
+      "start": 21660,
+      "end": 23695,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "9a5cb31024ad0a7a4916e4f122ebea4a",
+      "clause_id": "9a5cb31024ad0a7a4916e4f122ebea4a_clause_045",
+      "text": "(e) Acknowledgement Regarding Restrictions. The Company has expended a great deal of time, money and effort to develop and\nmaintain its confidential business information which, if misused or disclosed, could be very harmful to its business and could cause the\nCompany to be at a competitive disadvantage in the marketplace. The Company would not be willing to proceed with the execution of this\nAgreement but for the Executive’s signing and agreeing to abide by the terms of this Agreement. The Executive recognizes and acknowledges\nthat he or she has and will have access to Confidential Information of the Company, and that the Company, in all fairness, needs certain\nprotection in order to ensure that the Executive does not misappropriate or misuse any trade secret or other Confidential Information or take\nany other action which could result in a loss of the goodwill of the",
+      "start": 23695,
+      "end": 24577,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "9a5cb31024ad0a7a4916e4f122ebea4a",
+      "clause_id": "9a5cb31024ad0a7a4916e4f122ebea4a_clause_046",
+      "text": "Company and, more generally, to prevent the Executive from having or providing others with an unfair competitive advantage over the\nCompany. To that end, the Executive acknowledges that the foregoing restrictions, both separately and in total, are reasonable and enforceable\nin view of the Company’s legitimate interests in protecting the goodwill, confidential information and customer loyalty of its business. To the\nextent that any provision of this Agreement is adjudicated to be invalid or unenforceable because it is somehow overbroad or otherwise\nunreasonable, that provision shall not be void but rather shall be limited only to the extent required by applicable law and enforced as so\nlimited to the greatest extent allowed by law, and the validity or enforceability of the remaining provisions of this Agreement shall be\nunaffected and such adjudication shall not affect the validity or enforceability of such remaining provisions.",
+      "start": 24577,
+      "end": 25519,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "9a5cb31024ad0a7a4916e4f122ebea4a",
+      "clause_id": "9a5cb31024ad0a7a4916e4f122ebea4a_clause_047",
+      "text": "(f) Right to Injunctive Relief. The Executive further agrees that in the event of any breach hereof the harm to the Company will be\nirreparable and without adequate remedy at law and, therefore, that injunctive relief with respect thereto will be appropriate. In the event of a\nbreach or threatened breach of any of the Executive’s obligations under the terms of Sections 5 or 6 hereof, the Company shall be entitled, in\naddition to any other legal or equitable remedies it may have in connection therewith (including any right to damages that it may suffer), to\ntemporary, preliminary and permanent injunctive relief restraining such breach or threatened breach (without the obligation to post bond),\ntogether with reasonable attorney’s fees incurred in preliminarily enforcing its rights hereunder. The Executive specifically agrees that if there\nis a question as to the enforceability of any of the provisions of Sections 5 or 6 hereof, the Executive will not engage in any conduct\ninconsistent with or contrary to such Section until after the question has been resolved by a final judgment of a court of competent jurisdiction.",
+      "start": 25519,
+      "end": 26651,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "9a5cb31024ad0a7a4916e4f122ebea4a",
+      "clause_id": "9a5cb31024ad0a7a4916e4f122ebea4a_clause_048",
+      "text": "7.\nDefinitions.\n(a) Definition of “Affiliate.” For all purposes under this Agreement, “Affiliate” shall mean, with respect to any Person, all Persons\ndirectly or indirectly controlling, controlled by or under common control with such Person, where control may be by either management\nauthority, contract or equity interest. As used in this definition, “control” and correlative terms have the meanings ascribed to such words in\nRule 12b-2 of the Securities Exchange Act of 1934, as amended (the “Exchange Act”).",
+      "start": 26651,
+      "end": 27164,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "9a5cb31024ad0a7a4916e4f122ebea4a",
+      "clause_id": "9a5cb31024ad0a7a4916e4f122ebea4a_clause_049",
+      "text": "(b) Definition of “Cause.” For all purposes under this Agreement, “Cause” shall mean any of the following (i) the Executive’s willful and\ncontinued failure to perform substantially the duties of his/her responsibilities (other than due to physical or mental incapacity); (ii) the\nExecutive’s unauthorized use or disclosure of trade secrets which causes substantial harm to the Company; (iii) the Executive’s engaging in\nillegal conduct that is likely to be injurious to the Company; (iv) the Executive’s acts of fraud, dishonesty, or gross misconduct, or gross\nnegligence in connection with the business of the Company; (v) the Executive’s conviction of a felony; (vi) the Executive’s engaging in any act\nof moral turpitude reasonably likely to substantially and adversely affect the Company or its business; (vii) the Executive engaging in the\nillegal use of a controlled substance or using prescription medications unlawfully; (viii) the Executive’s abuse of alcohol; or (ix) the breach by\nthe Executive of a material term of this Agreement, including, without limitation, his or her obligations under Sections 5 or 6.",
+      "start": 27164,
+      "end": 28285,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "9a5cb31024ad0a7a4916e4f122ebea4a",
+      "clause_id": "9a5cb31024ad0a7a4916e4f122ebea4a_clause_050",
+      "text": "(c) Definition of “Change in Control.” For all purposes under this Agreement, “Change in Control” means the occurrence of any of the\nfollowing:\n(A) any Person (as defined herein) becomes the beneficial owner directly or indirectly (within the meaning of Rule 13d--3 under\nthe Exchange Act) of more than 50% of SAVVIS’ then outstanding voting securities (measured on the basis of voting power); or",
+      "start": 28285,
+      "end": 28683,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "9a5cb31024ad0a7a4916e4f122ebea4a",
+      "clause_id": "9a5cb31024ad0a7a4916e4f122ebea4a_clause_051",
+      "text": "(B) Individuals who, as of the date hereof, constitute the Board (the “Incumbent Board”) cease for any reason to constitute at least a\nmajority of the Board; provided, however, that any individual becoming a director subsequent to the date hereof whose election, or\nnomination for election by SAVVIS’ shareholders, was approved by a vote of at least a majority of the directors then comprising the\nIncumbent Board shall be considered as though such individual were a member of the Incumbent Board, but excluding, for this purpose,\nany such individual whose initial assumption of office occurs as a result of an actual or threatened election contest with respect to the\nelection or removal of directors or other actual or threatened solicitation of proxies or consents by or on behalf of a Person other than the\nBoard; or\n(C) the closing of an agreement of merger or consolidation with any other corporation or business entity, other than (x) a merger or\nconsolidation which would result in the voting securities of SAVVIS outstanding immediately prior thereto continuing to represent\n(either by remaining outstanding or by being converted into voting securities of the surviving entity), in combination with the ownership\nof any trustee or other fiduciary holding securities under an employee benefit plan of the Company, at least 50% of the combined voting\npower of the voting securities of SAVVIS or such surviving entity outstanding immediately after such merger or consolidation, or (y) a\nmerger or consolidation effected to implement a recapitalization of SAVVIS (or similar transaction) in which no Person acquires more\nthan 50% of the combined voting power of SAVVIS’ then outstanding securities;\n(D) the liquidation or dissolution of SAVVIS or the closing of a sale or disposition by SAVVIS of all or substantially all of its\nassets.\nFor purposes of this paragraph, “Person” means any individual, entity or group within the meaning of Section 3(a)(9) of the Exchange Act, as\nmodified and used in Sections 13(d) and 14(d) thereof; however, a Person shall not include (aa) SAVVIS or any of its subsidiaries, (bb) a trustee or\nother fiduciary holding securities under an employee benefit plan of the Company, (cc) an underwriter temporarily holding securities pursuant to an\noffering of such securities, (dd) a corporation owned, directly or indirectly, by the shareholders of SAVVIS in substantially the same proportions as\ntheir ownership of SAVVIS common stock, (ee) any person or entity or group acquiring securities of SAVVIS pursuant to an issuance of securities\napproved by the Board, or (ff) any of the following entities or their affiliates: Welsh, Carson, Anderson & Stowe VIII L.P. and WCAS Management\nCorporation.",
+      "start": 28683,
+      "end": 31414,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "9a5cb31024ad0a7a4916e4f122ebea4a",
+      "clause_id": "9a5cb31024ad0a7a4916e4f122ebea4a_clause_052",
+      "text": "(d) Definition of “Confidential Information.” For all purposes under this Agreement, “Confidential Information” shall mean any and all\ninformation of the Company and its Affiliates that is not generally known by others with whom they compete or do business, or with whom\nany of them plans to compete or do business and any and all information, publicly known in part or not, which, if disclosed by the Company or\nits Affiliates would assist in competition against them. Confidential Information includes without limitation such information relating to\n(i) trade secrets, the development, research, testing, manufacturing, marketing and financial activities of the Company and its Affiliates, (ii) the\nProducts, (iii) the costs, sources of supply, financial performance and strategic plans of the Company and its Affiliates, (iv) the identity and\nspecial needs of the customers of the Company and its Affiliates and (v) client lists and the people and organizations with whom the Company\nand its Affiliates have business relationships and the substance of those relationships. Confidential Information also includes any information\nthat the Company or any of its Affiliates have received, or may receive hereafter, belonging to customers or others with any understanding,\nexpress or implied, that the information would not be disclosed.",
+      "start": 31414,
+      "end": 32750,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "9a5cb31024ad0a7a4916e4f122ebea4a",
+      "clause_id": "9a5cb31024ad0a7a4916e4f122ebea4a_clause_053",
+      "text": "(e) Definition of “Disability.” For all purposes under this Agreement, “Disability” shall mean the Executive becoming disabled during\nhis employment hereunder through any illness, injury, accident or condition of either a physical or psychological nature and, as a result, is\nunable to perform substantially all",
+      "start": 32750,
+      "end": 33063,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "9a5cb31024ad0a7a4916e4f122ebea4a",
+      "clause_id": "9a5cb31024ad0a7a4916e4f122ebea4a_clause_054",
+      "text": "of his duties and responsibilities hereunder, notwithstanding the provision of any reasonable accommodation, for one hundred and eighty\n(180) days during any period of three hundred and sixty-five (365) consecutive calendar days.",
+      "start": 33063,
+      "end": 33293,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "9a5cb31024ad0a7a4916e4f122ebea4a",
+      "clause_id": "9a5cb31024ad0a7a4916e4f122ebea4a_clause_055",
+      "text": "(f) Definition of “Good Reason.” For all purposes under this Agreement, “Good Reason” shall mean the occurrence of any of the\nfollowing events: (i) a change in the Executive’s position that materially reduces his or her authority and level of responsibility as an officer of\nthe Company (provided that it is understood that the Chief Executive Officer of SAVVIS as a matter of management flexibility may direct a\nchange in the Executive’s reporting relationships or job title or a transfer of the Executive to a different officer position and such change or\ntransfer shall be not deemed to result in a reduction in the Executive’s authority or level of responsibility unless it is so substantial that a\nreasonable executive would feel compelled to resign under the circumstances), (ii) a material reduction in his or her level of compensation\n(including base salary and target bonus) or (iii) a relocation of his or her employment more than fifty (50) miles from the metropolitan area in\nwhich the Executive’s office is located at the time of resignation; provided, however, that in the case of the preceding clauses (i), (ii) and (iii),\nGood Reason shall only exist if effected without the Executive’s consent and is not a result of a Company-wide or department-wide policy or\npractice. Notwithstanding the foregoing, Good Reason shall only exist if (A) the Executive provides written notice to the Company within\nninety (90) days of the occurrence of the event or condition constituting Good Reason, (B) the Company is provided a period of thirty\n(30) days to cure the event or condition giving rise to Good Reason (the “Cure Period”) and fails to do so prior to the end of the Cure Period,\nand (C) the Executive terminates employment within thirty (30) days after the end of the Cure Period.",
+      "start": 33293,
+      "end": 35088,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "9a5cb31024ad0a7a4916e4f122ebea4a",
+      "clause_id": "9a5cb31024ad0a7a4916e4f122ebea4a_clause_056",
+      "text": "(g) Definition of “Intellectual Property.” For all purposes under this Agreement, “Intellectual Property” shall mean inventions,\ndiscoveries, developments, methods, processes, compositions, works, concepts and ideas (whether or not patentable or copyrightable or\nconstituting trade secrets) conceived, made, created, developed or reduced to practice by the Executive (whether alone or with others, whether\nor not during normal business hours or on or off Company premises) during the Executive’s employment and during the period of six\n(6) months immediately following termination of his employment that relate to either the Products or any prospective activity of the Company\nor any of its Affiliates or that make use of Confidential Information or any of the equipment or facilities of the Company or any of its\nAffiliates.",
+      "start": 35088,
+      "end": 35914,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "9a5cb31024ad0a7a4916e4f122ebea4a",
+      "clause_id": "9a5cb31024ad0a7a4916e4f122ebea4a_clause_057",
+      "text": "(h) Definition of “Involuntary Termination.” For all purposes under this Agreement, “Involuntary Termination” shall mean termination of\nemployment under Section 4(a)(ii) or Section 4(a)(iv).",
+      "start": 35914,
+      "end": 36105,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "9a5cb31024ad0a7a4916e4f122ebea4a",
+      "clause_id": "9a5cb31024ad0a7a4916e4f122ebea4a_clause_058",
+      "text": "(i) Definition of “Person.” For all purposes under this Agreement, “Person” shall mean an individual, a corporation, a limited liability\ncompany, an association, a partnership, an estate, a trust and any other entity or organization.",
+      "start": 36105,
+      "end": 36339,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "9a5cb31024ad0a7a4916e4f122ebea4a",
+      "clause_id": "9a5cb31024ad0a7a4916e4f122ebea4a_clause_059",
+      "text": "(j) Definition of “Products.” For all purposes under this Agreement, “Products” shall mean all products planned, researched, developed,\ntested, manufactured, sold, licensed, leased or otherwise distributed or put into use by the Company or any of its Affiliates, together with all\nservices provided or planned by the Company or any of its Affiliates, during the Executive’s employment.",
+      "start": 36339,
+      "end": 36725,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "9a5cb31024ad0a7a4916e4f122ebea4a",
+      "clause_id": "9a5cb31024ad0a7a4916e4f122ebea4a_clause_060",
+      "text": "8.\nMiscellaneous Provisions.",
+      "start": 36725,
+      "end": 36755,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "9a5cb31024ad0a7a4916e4f122ebea4a",
+      "clause_id": "9a5cb31024ad0a7a4916e4f122ebea4a_clause_061",
+      "text": "(a) Conflicts. If any provision of this Agreement conflicts with any other agreement, policy, plan, practice or other Company document,\nthen the provisions of this Agreement will control. This Agreement will supersede any prior agreement between the Executive and the\nCompany with respect to the subject matters contained herein and may be amended only by a writing signed by an officer of the Company\n(other than the Executive).",
+      "start": 36755,
+      "end": 37185,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "9a5cb31024ad0a7a4916e4f122ebea4a",
+      "clause_id": "9a5cb31024ad0a7a4916e4f122ebea4a_clause_062",
+      "text": "(b) Notice. Notices and all other communications contemplated by this Agreement shall be in writing and shall be deemed to have been\nduly given when personally delivered or when mailed by U.S. registered or certified mail, return receipt requested and postage prepaid or\ndeposited with an overnight courier, with shipping charges prepaid. In the case of the Executive, mailed notices shall be addressed to him or\nher at the home address which he or she most recently communicated to the Company in writing. In the case of SAVVIS or the Company,\nmailed notices shall be addressed to its corporate headquarters, and all notices shall be directed to the attention of SAVVIS’ Senior Vice\nPresident and General Counsel.",
+      "start": 37185,
+      "end": 37900,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "9a5cb31024ad0a7a4916e4f122ebea4a",
+      "clause_id": "9a5cb31024ad0a7a4916e4f122ebea4a_clause_063",
+      "text": "(c) Waiver. No provision of this Agreement shall be modified, waived or discharged unless the modification, waiver or discharge is\nagreed to in writing and signed by the Executive and by an authorized officer of the Company (other than the Executive). No waiver by either\nparty of any breach of, or of compliance with, any condition or provision of this Agreement by the other party shall be considered a waiver of\nany other condition or provision or of the same condition or provision at another time.",
+      "start": 37900,
+      "end": 38403,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "9a5cb31024ad0a7a4916e4f122ebea4a",
+      "clause_id": "9a5cb31024ad0a7a4916e4f122ebea4a_clause_064",
+      "text": "(d) Severability. The invalidity or unenforceability of any provision or provisions of this Agreement shall not affect the validity or\nenforceability of any other provision hereof, which shall remain in full force and effect.",
+      "start": 38403,
+      "end": 38629,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "9a5cb31024ad0a7a4916e4f122ebea4a",
+      "clause_id": "9a5cb31024ad0a7a4916e4f122ebea4a_clause_065",
+      "text": "(e) No Retention Rights. Nothing in this Agreement shall confer upon the Executive any right to continue in service for any period of\nspecific duration or to interfere with or otherwise restrict in any way the rights of the Company or any subsidiary of the Company or of the\nExecutive, which rights are hereby expressly reserved by each, to terminate his or her service at any time and for any reason, with or without\nCause and with or without notice.",
+      "start": 38629,
+      "end": 39081,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "9a5cb31024ad0a7a4916e4f122ebea4a",
+      "clause_id": "9a5cb31024ad0a7a4916e4f122ebea4a_clause_066",
+      "text": "(f) Choice of Law; Venue. The parties acknowledge that they each have, and will continue to have, substantial contacts with the State of\nMissouri, where the Company has its headquarters. This Agreement has been drafted and negotiated in the State of Missouri. To ensure that\nany disputes arising under this Agreement are resolved in accordance with the parties’ expectations, this Agreement shall be governed by and\nconstrued under the laws of the State of Missouri and applicable federal laws. The substantive law (and statutes of limitations) of the State of\nMissouri shall be applied to disputes arising under this Agreement, as the parties agree that their expectations with respect to the scope and\nenforcement of this Agreement are based on Missouri law, and that Missouri law is therefore more applicable to such disputes. Should\nMissouri law be found not to apply to this Agreement for any reason, the parties agree that the severance benefit described in Section 4 shall\nnot be payable, the provisions of Section 4 notwithstanding. Each party agrees that any proceeding relating to this Agreement shall be brought\nin the state courts of Missouri located in St. Louis County or the federal courts of the District of Missouri, Eastern Division. Each party hereby\nconsents to personal jurisdiction in any such action brought in any such Missouri court, consents to service of process by the methods for\nnotice under Section 8(b) hereof made upon such party, and such party’s agent and waives any objection to venue in any such Missouri court\nor to any claim that any such Missouri court is an inconvenient forum.",
+      "start": 39081,
+      "end": 40700,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "9a5cb31024ad0a7a4916e4f122ebea4a",
+      "clause_id": "9a5cb31024ad0a7a4916e4f122ebea4a_clause_067",
+      "text": "(g) Attorney’s Fees. In the event of any action by either party to enforce or interpret the terms of this Agreement, the prevailing party\nwith respect to any particular claim shall (in addition to other relief to which it or he may be awarded) be entitled to recover his or its\nattorney’s fees in a reasonable amount incurred in connection with such claim.",
+      "start": 40700,
+      "end": 41058,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "9a5cb31024ad0a7a4916e4f122ebea4a",
+      "clause_id": "9a5cb31024ad0a7a4916e4f122ebea4a_clause_068",
+      "text": "(h) Successors. This Agreement and all rights of the parties hereunder shall inure to the benefit of, and be enforceable by, such parties’\npersonal or legal representatives, executors, administrators, successors, heirs and assigns, as applicable.",
+      "start": 41058,
+      "end": 41305,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "9a5cb31024ad0a7a4916e4f122ebea4a",
+      "clause_id": "9a5cb31024ad0a7a4916e4f122ebea4a_clause_069",
+      "text": "(i) Entire Agreement. This Agreement, together with the other agreements and any documents, instruments and certificates referred to\nherein, constitutes the entire agreement among the parties hereto with respect to the subject matter hereof and supersedes any and all prior\ndiscussions, negotiations, proposals, undertakings, understandings and agreements, whether written or oral, with respect to the subject matter\ncontained herein.",
+      "start": 41305,
+      "end": 41740,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "9a5cb31024ad0a7a4916e4f122ebea4a",
+      "clause_id": "9a5cb31024ad0a7a4916e4f122ebea4a_clause_070",
+      "text": "IN WITNESS WHEREOF, each of the parties has executed this Agreement, in the case of the Company by its duly authorized officer, as of the\nday and year first above written.",
+      "start": 41740,
+      "end": 41913,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "9a5cb31024ad0a7a4916e4f122ebea4a",
+      "clause_id": "9a5cb31024ad0a7a4916e4f122ebea4a_clause_071",
+      "text": "SAVVIS, INC.",
+      "start": 41913,
+      "end": 41927,
+      "segment_type": "fragment",
+      "is_suspicious": true
+    },
+    {
+      "document_id": "9a5cb31024ad0a7a4916e4f122ebea4a",
+      "clause_id": "9a5cb31024ad0a7a4916e4f122ebea4a_clause_072",
+      "text": "EXECUTIVE\nBy:\n\n By:\n\nName:",
+      "start": 41927,
+      "end": 41956,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "9a5cb31024ad0a7a4916e4f122ebea4a",
+      "clause_id": "9a5cb31024ad0a7a4916e4f122ebea4a_clause_073",
+      "text": "Name:\nTitle:",
+      "start": 41956,
+      "end": 41969,
+      "segment_type": "fragment",
+      "is_suspicious": true
+    }
+  ]
+}

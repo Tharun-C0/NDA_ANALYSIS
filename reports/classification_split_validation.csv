@@ -1,0 +1,9 @@
+check_id,check_name,status,details
+1,Non-Empty Splits,PASS,"Train: 109, Val: 49, Test: 45"
+2,No Duplicate Clause IDs,PASS,Duplicates found in all_valid: 0
+3,Document-Disjoint Splits (Zero Leakage),PASS,"Overlap count: 0 (Train-Val: 0, Train-Test: 0, Val-Test: 0)"
+4,No Missing Text or Document IDs,PASS,"Empty text: 0, Empty doc: 0"
+5,Zero API_ERROR / Quota Rows,PASS,Errored/Quota rows found: 0
+6,Valid 14 Category Vocabulary,PASS,Invalid categories or JSON errors: 0
+7,14 Multi-Hot Binary Columns Present,PASS,Missing columns: None
+8,Total Clause Count Integrity,PASS,Train+Val+Test (203) == All Valid (203)

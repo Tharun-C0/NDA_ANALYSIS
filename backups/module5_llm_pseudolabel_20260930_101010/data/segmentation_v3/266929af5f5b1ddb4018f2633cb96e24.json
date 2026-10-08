@@ -1,0 +1,181 @@
+{
+  "document_id": "266929af5f5b1ddb4018f2633cb96e24",
+  "source_file": "266929af5f5b1ddb4018f2633cb96e24.txt",
+  "total_characters": 4006,
+  "num_clauses": 19,
+  "num_legal_clauses": 18,
+  "quality_status": "OK",
+  "clauses": [
+    {
+      "document_id": "266929af5f5b1ddb4018f2633cb96e24",
+      "clause_id": "266929af5f5b1ddb4018f2633cb96e24_clause_000",
+      "text": "EX-10.13 3 y31303a1exv10w13.htm EX-10.13: NON-CIRCUMVENTION/NON-DISCLOSURE AGREEMENT",
+      "start": 0,
+      "end": 86,
+      "segment_type": "header",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "266929af5f5b1ddb4018f2633cb96e24",
+      "clause_id": "266929af5f5b1ddb4018f2633cb96e24_clause_001",
+      "text": "Exhibit 10.13\nNon-Circumvention/Non-Disclosure Agreement\n This Non-Circumvention/Non-Disclosure Agreement is made as of this 1st day of January 2004, by and between Flow Capital Advisors, Inc.,\nhaving is principal place of business at 3727 Pine Lake Drive, Weston, FL 33332 (hereinafter “Finder”), and JAG Media Holdings, Inc., having\nits principal place of business at 6865 SW 18th Street, Suite B-13 Boca Raton, Florida 33433 (“hereinafter “Jag”).",
+      "start": 86,
+      "end": 536,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "266929af5f5b1ddb4018f2633cb96e24",
+      "clause_id": "266929af5f5b1ddb4018f2633cb96e24_clause_002",
+      "text": "1. Pursuant to discussions between Flow and Jag, Flow has disclosed to Jag that certain parties, some of whom who have been identified to\nJag and others who have yet to be identified by Flow to Jag (the “Introduced Parties”), may be interested in entering into certain transactions with\nJag.",
+      "start": 536,
+      "end": 829,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "266929af5f5b1ddb4018f2633cb96e24",
+      "clause_id": "266929af5f5b1ddb4018f2633cb96e24_clause_003",
+      "text": "2. Jag agrees that once Flow has disclosed the Identity of any Introduced Party to Jag, Jag, its officers, directors, shareholders, employees and\nagents shall not have any contacts with the Introduced Party other than through Flow, unless Flow grants permission in writing for such contacts.\nSpecifically, Jag agrees not to circumvent, avoid or bypass Flow, either directly or indirectly, in order to avoid payment of fees or commissions;\nor otherwise benefit, either financially or otherwise, from any information supplied to it in the context of any transaction with an Introduced\nParty.",
+      "start": 829,
+      "end": 1420,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "266929af5f5b1ddb4018f2633cb96e24",
+      "clause_id": "266929af5f5b1ddb4018f2633cb96e24_clause_004",
+      "text": "3. This Agreement shall be governed by and construed and enforced in accordance local laws of the State of Florida applicable to agreements\nmade and to be performed within the State, without regard to conflict of laws principles thereof.",
+      "start": 1420,
+      "end": 1659,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "266929af5f5b1ddb4018f2633cb96e24",
+      "clause_id": "266929af5f5b1ddb4018f2633cb96e24_clause_005",
+      "text": "4. This Agreement shall inure to the benefit of, and is binding upon, the parties hereto and their respective principals, shareholders, heirs,\nofficers, representatives, successors and assigns.",
+      "start": 1659,
+      "end": 1854,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "266929af5f5b1ddb4018f2633cb96e24",
+      "clause_id": "266929af5f5b1ddb4018f2633cb96e24_clause_006",
+      "text": "5. No waiver of any provisions hereof shall be valid unless it is in writing signed by the person against whom it is charged. No waiver of any\nprovision herein shall constitute a waiver of any other provision hereof, or of the provision at any other time.",
+      "start": 1854,
+      "end": 2111,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "266929af5f5b1ddb4018f2633cb96e24",
+      "clause_id": "266929af5f5b1ddb4018f2633cb96e24_clause_007",
+      "text": "6. This is an agreement between separate legal entities and neither is the agent or employee of the other for any purpose whatsoever. The\nparties do not intend to create a partnership or joint venture between themselves. Neither party shall have the right to bind the other to any\nagreement with a third party or to inure any obligation or liabilities on behalf of the other party.",
+      "start": 2111,
+      "end": 2494,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "266929af5f5b1ddb4018f2633cb96e24",
+      "clause_id": "266929af5f5b1ddb4018f2633cb96e24_clause_008",
+      "text": "7. This Agreement contains the whole agreement between the parties concerning the subject matter hereof and there are no collateral or\nprecedent representation, agreements or conditions not specifically set forth herein.",
+      "start": 2494,
+      "end": 2716,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "266929af5f5b1ddb4018f2633cb96e24",
+      "clause_id": "266929af5f5b1ddb4018f2633cb96e24_clause_009",
+      "text": "8. Any modification or amendment of any provisions of this Agreement must be in writing, signed by the parties hereof and dated subsequent\nto the date hereof.",
+      "start": 2716,
+      "end": 2876,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "266929af5f5b1ddb4018f2633cb96e24",
+      "clause_id": "266929af5f5b1ddb4018f2633cb96e24_clause_010",
+      "text": "9. If any provision or provisions of this Agreement shall be held to be invalid, illegal or unenforceable for any reason whatsoever;\n1",
+      "start": 2876,
+      "end": 3013,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "266929af5f5b1ddb4018f2633cb96e24",
+      "clause_id": "266929af5f5b1ddb4018f2633cb96e24_clause_011",
+      "text": "(i) the validity, legality and enforceability of the remaining provisions of this Agreement (including, without limitation, each portion of\nany Section of this Agreement containing any such provisions held to be invalid, illegal or unenforceable) shall not in any way be\neffected or impaired thereby; and",
+      "start": 3013,
+      "end": 3319,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "266929af5f5b1ddb4018f2633cb96e24",
+      "clause_id": "266929af5f5b1ddb4018f2633cb96e24_clause_012",
+      "text": "(ii) to the fullest extent possible, the provisions of this Agreement (including, without limitation, each portion of any Section of this\nAgreement containing any such provision held to be invalid, illegal or unenforceable) shall be construed so as to give effect to the\nintent manifested by the provision held, invalid illegal or unenforceable.",
+      "start": 3319,
+      "end": 3665,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "266929af5f5b1ddb4018f2633cb96e24",
+      "clause_id": "266929af5f5b1ddb4018f2633cb96e24_clause_013",
+      "text": "IN WITNESS WHEREOF, the partied hereto have executed this Non-Circumvention/Non-Disclosure agreement on the day, month and year\nfirst written above.",
+      "start": 3665,
+      "end": 3816,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "266929af5f5b1ddb4018f2633cb96e24",
+      "clause_id": "266929af5f5b1ddb4018f2633cb96e24_clause_014",
+      "text": "Flow Capital Advisor, Inc.",
+      "start": 3816,
+      "end": 3844,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "266929af5f5b1ddb4018f2633cb96e24",
+      "clause_id": "266929af5f5b1ddb4018f2633cb96e24_clause_015",
+      "text": "JAG Media Holding, Inc.",
+      "start": 3844,
+      "end": 3869,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "266929af5f5b1ddb4018f2633cb96e24",
+      "clause_id": "266929af5f5b1ddb4018f2633cb96e24_clause_016",
+      "text": "By:\n/s/ Albert Auer\n\nBy:\n/s/ Thomas J. Mazzarisi",
+      "start": 3869,
+      "end": 3919,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "266929af5f5b1ddb4018f2633cb96e24",
+      "clause_id": "266929af5f5b1ddb4018f2633cb96e24_clause_017",
+      "text": "Name: Albert Auer\n\nName: Thomas J. Mazzarisi",
+      "start": 3919,
+      "end": 3965,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    },
+    {
+      "document_id": "266929af5f5b1ddb4018f2633cb96e24",
+      "clause_id": "266929af5f5b1ddb4018f2633cb96e24_clause_018",
+      "text": "Title: President\n\nTitle: Chairman & CEO\n2",
+      "start": 3965,
+      "end": 4006,
+      "segment_type": "legal_clause",
+      "is_suspicious": false
+    }
+  ]
+}

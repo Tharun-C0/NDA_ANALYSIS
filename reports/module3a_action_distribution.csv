@@ -1,0 +1,7 @@
+action,count,percentage,basis
+KEEP,0,0.0,unique_SUCCESS_clause_ids_in_llm_review_log
+REMOVE_NON_LEGAL,14,77.78,unique_SUCCESS_clause_ids_in_llm_review_log
+MERGE_WITH_NEXT,4,22.22,unique_SUCCESS_clause_ids_in_llm_review_log
+MERGE_WITH_PREVIOUS,0,0.0,unique_SUCCESS_clause_ids_in_llm_review_log
+SPLIT,0,0.0,unique_SUCCESS_clause_ids_in_llm_review_log
+REVIEW,0,0.0,unique_SUCCESS_clause_ids_in_llm_review_log

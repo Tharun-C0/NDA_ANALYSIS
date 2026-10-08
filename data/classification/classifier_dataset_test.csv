@@ -1,0 +1,447 @@
+clause_id,document_id,clause_text,model_a_labels,model_b_labels,model_c_labels,final_pseudo_labels,model_a_confidence,model_b_confidence,model_c_confidence,average_confidence,agreement_score,pseudo_label_quality,reason,label_source,label_party_identification,label_purpose,label_nda_type,label_definition_of_confidential_information,label_confidentiality_obligations,label_authorized_disclosure,label_non-confidential_information,label_liability_for_damages,label_competition_rights,label_term_and_termination,label_intellectual_property,label_employees,label_governing_law_and_jurisdiction,label_additional_information
+2268c5d1120f1abd57170d689f496418_clause_000,2268c5d1120f1abd57170d689f496418,Exhibit A,"[""Additional Information""]","[""Additional Information""]","[""Additional Information""]","[""Additional Information""]",0.95,0.95,1.0,0.9667,1.0,HIGH_CONFIDENCE,"The text 'Exhibit A' is a generic exhibit heading with no substantive provisions, placing it under Additional Information. | The text 'Exhibit A' is a structural heading or reference and does not contain substantive NDA provisions, making 'Additional",llm_pseudo_label,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+2268c5d1120f1abd57170d689f496418_clause_001,2268c5d1120f1abd57170d689f496418,NON-DISCLOSURE AGREEMENT,[],"[""Additional Information""]","[""Additional Information""]","[""Additional Information""]",0.0,0.95,1.0,0.975,1.0,HIGH_CONFIDENCE,"[1/3 models failed] API_ERROR: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google. | The clause is th",llm_pseudo_label,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+2268c5d1120f1abd57170d689f496418_clause_002,2268c5d1120f1abd57170d689f496418,"THIS NON-DISCLOSURE AGREEMENT (this ""Agreement""), is made and entered into as of the date on which it is fully
+executed, as indicated by signatures below, by and among First Financial Northwest, Inc. (the ""Company""), the Stilwell Group (composed of
+Stilwell Associates, L.P., Stilwell Partners, L.P., Stilwell Value Partners II, L.P., Stilwell Value Partners V, L.P., Stilwell Value Partners VI, L.P.,
+Stilwell Value Partners VII, L.P., Stilwell Value LLC, Stilwell Associates Insurance Fund of The S.A.L.I. Multi-Series Fund L.P., Stilwell Advisers
+LLC, and Joseph Stilwell, an individual, and their employees and representatives), and Spencer L. Schneider, a director nominee of the Stilwell
+Group (""Schneider"").","[""Additional Information""]","[""Additional Information""]","[""Party Identification""]","[""Additional Information""]",0.0,0.0,1.0,0.3333,0.3333,DISAGREEMENT,API call failed after 3 retries | API call failed after 3 retries | The clause explicitly lists and identifies the parties entering into the agreement.,llm_pseudo_label,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+2268c5d1120f1abd57170d689f496418_clause_003,2268c5d1120f1abd57170d689f496418,"WHEREAS, the Company has agreed to place Schneider on its board of directors, subject to approval by interested state and
+federal regulatory agencies;","[""Additional Information""]","[""Additional Information""]","[""Party Identification"", ""Purpose""]","[""Additional Information""]",0.0,0.0,0.9,0.3,0.3333,DISAGREEMENT,API call failed after 3 retries | API call failed after 3 retries | This clause identifies the parties involved and establishes the context or purpose of the relationship regarding the board appointment.,llm_pseudo_label,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+2268c5d1120f1abd57170d689f496418_clause_004,2268c5d1120f1abd57170d689f496418,"WHEREAS, the Company, the Stilwell Group and Schneider have agreed that it is in their mutual interests to enter into this
+Agreement as hereinafter described.","[""Additional Information""]","[""Additional Information""]","[""Additional Information""]","[""Additional Information""]",0.0,0.0,0.0,0.0,1.0,LOW_CONFIDENCE,API call failed after 3 retries | API call failed after 3 retries | API call failed after 3 retries,llm_pseudo_label,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+2268c5d1120f1abd57170d689f496418_clause_005,2268c5d1120f1abd57170d689f496418,"NOW THEREFORE, for good and valuable consideration, the parties hereto mutually agree as follows:","[""Additional Information""]","[""Additional Information""]","[""Additional Information""]","[""Additional Information""]",0.0,0.0,0.95,0.3167,1.0,LOW_CONFIDENCE,API call failed after 3 retries | API call failed after 3 retries | This is a standard introductory recital clause establishing the existence of consideration rather than defining specific rights or obligations.,llm_pseudo_label,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+2268c5d1120f1abd57170d689f496418_clause_006,2268c5d1120f1abd57170d689f496418,"1. In connection with Schneider serving on the Company's board, Schneider and other Company employees, directors, and
+agents may divulge nonpublic information concerning the Company and its subsidiaries to the Stilwell Group and such information may be shared
+among the Stilwell Group's employees and agents who have a need to know such information. The Stilwell Group expressly agrees to maintain all
+nonpublic information concerning the Company and its subsidiaries in confidence. The Stilwell Group expressly acknowledges that federal and
+state securities laws may prohibit a person from purchasing or selling securities of a company, or from communicating such information to any other
+person under circumstances in which it is reasonably foreseeable that such other person is likely to purchase or sell such securities, while the first-
+mentioned person is in possession of material nonpublic information about such company. The Stilwell Group agrees to comply with the Company's
+insider trading and disclosure policies, as in effect from time to time, to the same extent as if it were a director of the Company. To the extent the
+nonpublic information concerning the Company and its subsidiaries received by the Stilwell Group is material, this Agreement is intended to satisfy
+the confidentiality agreement exclusion of Regulation FD of the Securities and Exchange Commission (the ""SEC"") set forth in Section 243.100(b)
+(2)(ii) of Regulation FD.","[""Additional Information""]","[""Additional Information""]","[""Purpose"", ""Confidentiality Obligations"", ""Authorized Disclosure"", ""Employees""]","[""Additional Information""]",0.0,0.0,0.95,0.3167,0.3333,DISAGREEMENT,"API call failed after 3 retries | API call failed after 3 retries | The clause outlines the purpose of sharing information, mandates confidentiality, permits disclosure to agents on a need-to-know basis, and addresses compliance regarding individuals",llm_pseudo_label,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+2268c5d1120f1abd57170d689f496418_clause_007,2268c5d1120f1abd57170d689f496418,"2. Each of the Stilwell Group and Schneider represents and warrants to the Company that this Agreement has been duly and
+validly authorized (in the case of the entity members of the Stilwell Group), executed and delivered by them, and is a valid and binding agreement
+enforceable against them in accordance with its terms.","[""Additional Information""]","[""Additional Information""]","[""Party Identification"", ""Additional Information""]","[""Additional Information""]",0.0,0.0,0.9,0.3,0.6667,LOW_CONFIDENCE,"API call failed after 3 retries | API call failed after 3 retries | The clause identifies specific parties and confirms their capacity to enter into the agreement, which serves as a representation of authorization rather than a substantive confidenti",llm_pseudo_label,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+2268c5d1120f1abd57170d689f496418_clause_008,2268c5d1120f1abd57170d689f496418,"3. Schneider hereby further represents and warrants to the Company that: (a) he satisfies all of the qualifications to be a
+director of the Company as set forth in Article III, Section 4 of the Company's bylaws and any additional applicable qualifications under the laws of
+the State of Washington or under the regulations of any bank regulatory authority, and that he is not in any way precluded from serving as a director
+by order or other action of any court, regulatory or other governmental authority; and (b) no event has occurred with respect to Schneider that would
+require disclosure in a document filed by the Company with the SEC pursuant to the Securities Act of 1933, as amended, or the Securities Exchange
+Act of 1934, as amended, under Item 401(f) of SEC Regulation S-K.","[""Additional Information""]","[""Additional Information""]","[""Additional Information""]","[""Additional Information""]",0.0,0.0,0.98,0.3267,1.0,LOW_CONFIDENCE,"API call failed after 3 retries | API call failed after 3 retries | The clause pertains to director qualifications and regulatory compliance rather than confidentiality, disclosure obligations, or the core NDA terms.",llm_pseudo_label,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+2268c5d1120f1abd57170d689f496418_clause_009,2268c5d1120f1abd57170d689f496418,"4. The Stilwell Group acknowledges that with regard to its obligations to maintain the confidentiality of nonpublic
+information of the Company and its subsidiaries, monetary damages may not be a sufficient remedy for any breach or threatened breach of this
+Agreement and that, in addition to all other remedies, the Company may be entitled to seek specific performance and injunctive or other equitable
+relief as a remedy for such breach, and in conjunction therewith the Company shall not be required to post any bond.","[""Additional Information""]","[""Additional Information""]","[""Liability for Damages""]","[""Additional Information""]",0.0,0.0,0.98,0.3267,0.3333,DISAGREEMENT,"API call failed after 3 retries | API call failed after 3 retries | The clause specifically addresses the legal remedies available to the Company, including equitable relief and specific performance, in the event of a breach of confidentiality.",llm_pseudo_label,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+2268c5d1120f1abd57170d689f496418_clause_010,2268c5d1120f1abd57170d689f496418,"5. This Agreement constitutes the entire agreement between the parties hereto pertaining to the subject matter hereof and
+supersedes all prior and contemporaneous agreements, understandings, negotiations and discussions of the parties in connection therewith not
+referred to herein.","[""Additional Information""]","[""Additional Information""]","[""Additional Information""]","[""Additional Information""]",0.0,0.0,1.0,0.3333,1.0,LOW_CONFIDENCE,"API call failed after 3 retries | API call failed after 3 retries | This is a standard 'Entire Agreement' or 'Merger' clause, which does not fit into the specific legal categories provided for NDA obligations and is thus classified as Additional Info",llm_pseudo_label,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+2268c5d1120f1abd57170d689f496418_clause_011,2268c5d1120f1abd57170d689f496418,"6. This Agreement shall be governed by, and construed in accordance with, the laws of the State of Washington, without
+regard to choice of law principles that may otherwise compel the application of the laws of any other jurisdiction. Each of the parties hereby
+irrevocably consents to the exclusive jurisdiction of the state and federal courts sitting in the State of Washington to resolve any dispute arising from
+this Agreement and waives any defense of inconvenient or improper forum.","[""Additional Information""]","[""Additional Information""]","[""Governing Law and Jurisdiction""]","[""Additional Information""]",0.0,0.0,1.0,0.3333,0.3333,DISAGREEMENT,API call failed after 3 retries | API call failed after 3 retries | The clause explicitly specifies the governing law and the venue for legal proceedings.,llm_pseudo_label,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+2268c5d1120f1abd57170d689f496418_clause_012,2268c5d1120f1abd57170d689f496418,"7. The terms and provisions of this Agreement shall be deemed severable and, in the event any term or provision hereof or
+portion thereof is deemed or held to be invalid, illegal or unenforceable, such provision shall be conformed to prevailing law rather than voided, if
+possible, in order to achieve the intent of the parties, and, in any event, the remaining terms and provisions of this Agreement shall nevertheless
+continue and be deemed to be in full force and effect and binding upon the parties.","[""Additional Information""]","[""Additional Information""]","[""Additional Information""]","[""Additional Information""]",0.0,0.0,1.0,0.3333,1.0,LOW_CONFIDENCE,API call failed after 3 retries | API call failed after 3 retries | This is a standard severability clause which does not fall under the specific definitions of categories 1 through 13.,llm_pseudo_label,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+2268c5d1120f1abd57170d689f496418_clause_013,2268c5d1120f1abd57170d689f496418,"8. All representations, warranties, covenants and agreements made herein shall survive the execution and delivery of this
+Agreement.","[""Additional Information""]","[""Additional Information""]","[""Additional Information""]","[""Additional Information""]",0.0,0.0,0.98,0.3267,1.0,LOW_CONFIDENCE,"API call failed after 3 retries | API call failed after 3 retries | The clause pertains to the survival of contractual obligations and representations, which is a standard boilerplate provision not captured by the other 13 specific categories.",llm_pseudo_label,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+2268c5d1120f1abd57170d689f496418_clause_014,2268c5d1120f1abd57170d689f496418,"9. This Agreement may not be modified, amended, altered or supplemented except upon the execution and delivery of a
+written agreement executed by all of the parties hereto.","[""Additional Information""]","[""Additional Information""]","[""Additional Information""]","[""Additional Information""]",0.0,0.0,0.98,0.3267,1.0,LOW_CONFIDENCE,"API call failed after 3 retries | API call failed after 3 retries | The clause pertains to the amendment process of the agreement, which does not fall under the specific definitions of categories 1-13.",llm_pseudo_label,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+2268c5d1120f1abd57170d689f496418_clause_015,2268c5d1120f1abd57170d689f496418,"10. This Agreement may be executed in counterparts, each of which shall be an original, but all of which together shall
+constitute one and the same agreement.","[""Additional Information""]","[""Additional Information""]","[""Additional Information""]","[""Additional Information""]",0.0,0.0,1.0,0.3333,1.0,LOW_CONFIDENCE,"API call failed after 3 retries | API call failed after 3 retries | The clause describes the execution mechanism for the agreement, which does not fall under the primary substantive categories provided.",llm_pseudo_label,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+2268c5d1120f1abd57170d689f496418_clause_016,2268c5d1120f1abd57170d689f496418,"16
+
+IN WITNESS WHEREOF, this Agreement has been duly executed and delivered by duly authorized officers of the undersigned as
+of the day and year first above written.","[""Additional Information""]","[""Additional Information""]","[""Additional Information""]","[""Additional Information""]",0.0,0.0,1.0,0.3333,1.0,LOW_CONFIDENCE,"API call failed after 3 retries | API call failed after 3 retries | This is a standard signature block/execution clause, which does not fall into categories 1-13.",llm_pseudo_label,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+2268c5d1120f1abd57170d689f496418_clause_017,2268c5d1120f1abd57170d689f496418,THE STILWELL GROUP,"[""Additional Information""]","[""Additional Information""]","[""Party Identification""]","[""Additional Information""]",0.0,0.0,0.98,0.3267,0.3333,DISAGREEMENT,"API call failed after 3 retries | API call failed after 3 retries | The text identifies a specific entity, which is characteristic of the Party Identification section of an agreement.",llm_pseudo_label,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+2268c5d1120f1abd57170d689f496418_clause_018,2268c5d1120f1abd57170d689f496418,"FIRST FINANCIAL NORTHWEST, INC.","[""Additional Information""]","[""Additional Information""]","[""Party Identification""]","[""Additional Information""]",0.0,0.0,1.0,0.3333,0.3333,DISAGREEMENT,API call failed after 3 retries | API call failed after 3 retries | The text identifies the name of a specific entity involved in the agreement.,llm_pseudo_label,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+2268c5d1120f1abd57170d689f496418_clause_019,2268c5d1120f1abd57170d689f496418,"/s/Joseph Stilwell
+
+/s/Victor Karpiak
+By:","[""Additional Information""]","[""Additional Information""]","[""Party Identification""]","[""Additional Information""]",0.0,0.0,1.0,0.3333,0.3333,DISAGREEMENT,API call failed after 3 retries | API call failed after 3 retries | The clause contains the signatures and names of the parties executing the agreement.,llm_pseudo_label,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+2268c5d1120f1abd57170d689f496418_clause_020,2268c5d1120f1abd57170d689f496418,"Date
+Joseph Stilwell","[""Additional Information""]","[""Additional Information""]","[""Party Identification""]","[""Additional Information""]",0.0,0.0,0.9,0.3,0.3333,DISAGREEMENT,"API call failed after 3 retries | API call failed after 3 retries | The clause identifies an individual party, Joseph Stilwell, likely associated with the execution of the agreement.",llm_pseudo_label,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+2268c5d1120f1abd57170d689f496418_clause_021,2268c5d1120f1abd57170d689f496418,"12-20, 2012
+
+By:
+
+Date
+Victor Karpiak, President, Chief Executive Officer
+and Chairman of the Board","[""Additional Information""]","[""Additional Information""]","[""Party Identification""]","[""Additional Information""]",0.0,0.0,1.0,0.3333,0.3333,DISAGREEMENT,API call failed after 3 retries | API call failed after 3 retries | This clause identifies the signatory and provides the execution date for the agreement.,llm_pseudo_label,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+2268c5d1120f1abd57170d689f496418_clause_022,2268c5d1120f1abd57170d689f496418,"December 19, 2012
+
+SPENCER L. SCHNEIDER","[""Additional Information""]","[""Additional Information""]","[""Party Identification""]","[""Additional Information""]",0.0,0.0,0.98,0.3267,0.3333,DISAGREEMENT,"API call failed after 3 retries | API call failed after 3 retries | The clause identifies a specific individual, Spencer L. Schneider, likely acting as a party to the agreement.",llm_pseudo_label,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+2268c5d1120f1abd57170d689f496418_clause_023,2268c5d1120f1abd57170d689f496418,"/s/Spencer L. Schneider
+Date: 12/20, 2012","[""Additional Information""]","[""Additional Information""]","[""Party Identification""]","[""Additional Information""]",0.0,0.0,0.98,0.3267,0.3333,DISAGREEMENT,API call failed after 3 retries | API call failed after 3 retries | This clause contains the signature and date representing the identification and execution of the agreement by a party.,llm_pseudo_label,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+2268c5d1120f1abd57170d689f496418_clause_024,2268c5d1120f1abd57170d689f496418,17,"[""Additional Information""]","[""Additional Information""]","[""Additional Information""]","[""Additional Information""]",0.0,0.0,1.0,0.3333,1.0,LOW_CONFIDENCE,API call failed after 3 retries | API call failed after 3 retries | The clause text '17' appears to be a section numbering or header placeholder that does not contain substantive legal content.,llm_pseudo_label,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+247166e0245431dcf97ee884f1f07e35_clause_000,247166e0245431dcf97ee884f1f07e35,CONFIDENTIALITY AGREEMENT,"[""Additional Information""]","[""Additional Information""]","[""Additional Information""]","[""Additional Information""]",0.0,0.0,0.9,0.3,1.0,LOW_CONFIDENCE,API call failed after 3 retries | API call failed after 3 retries | The text represents the title of the agreement rather than a substantive provision.,llm_pseudo_label,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+247166e0245431dcf97ee884f1f07e35_clause_001,247166e0245431dcf97ee884f1f07e35,"CONFIDENTIALITY AGREEMENT (this “Agreement”), dated as of April 20, 2018, by and between Elaine P. Wynn (the
+“Requesting Stockholder”) and Wynn Resorts, Limited, a Nevada corporation (the “Company”).","[""Additional Information""]","[""Additional Information""]","[""Party Identification""]","[""Additional Information""]",0.0,0.0,1.0,0.3333,0.3333,DISAGREEMENT,"API call failed after 3 retries | API call failed after 3 retries | The clause explicitly identifies the parties to the agreement, Elaine P. Wynn and Wynn Resorts, Limited.",llm_pseudo_label,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+247166e0245431dcf97ee884f1f07e35_clause_002,247166e0245431dcf97ee884f1f07e35,"WHEREAS, the Requesting Stockholder hereby represents that she is the beneficial owner of 9,539,077 shares of
+common stock of the Company, $0.01 par value per share;","[""Additional Information""]","[""Additional Information""]","[""Additional Information""]","[""Additional Information""]",0.0,0.0,0.0,0.0,1.0,LOW_CONFIDENCE,API call failed after 3 retries | API call failed after 3 retries | API call failed after 3 retries,llm_pseudo_label,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+247166e0245431dcf97ee884f1f07e35_clause_003,247166e0245431dcf97ee884f1f07e35,"WHEREAS, by letter to the Company dated April 20, 2018, the Requesting Stockholder has made a demand (the
+“Demand”) to inspect and make and/or receive copies or abstracts from certain records of the Company (the “Records”)
+pursuant to Nevada Revised Statutes 78.105; and","[""Additional Information""]","[""Additional Information""]","[""Party Identification"", ""Purpose""]","[""Additional Information""]",0.0,0.0,0.95,0.3167,0.3333,DISAGREEMENT,API call failed after 3 retries | API call failed after 3 retries | The clause identifies the parties (Company and Requesting Stockholder) and explains the underlying reason for the records request.,llm_pseudo_label,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+247166e0245431dcf97ee884f1f07e35_clause_004,247166e0245431dcf97ee884f1f07e35,"WHEREAS, subject to the execution of this Agreement and payment by the Requesting Stockholder for the production of the
+Records, the Company will make the Records available for inspection by the Requesting Stockholder in response to the Demand and
+any future demands by the Requesting Stockholder, subject to the provisions contained in this Agreement.","[""Additional Information""]","[""Additional Information""]","[""Purpose""]","[""Additional Information""]",0.0,0.0,0.9,0.3,0.3333,DISAGREEMENT,API call failed after 3 retries | API call failed after 3 retries | The clause establishes the conditions and intent behind making company records available to the Requesting Stockholder.,llm_pseudo_label,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+247166e0245431dcf97ee884f1f07e35_clause_005,247166e0245431dcf97ee884f1f07e35,"NOW THEREFORE, for good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged,
+the parties do hereby agree as follows:","[""Additional Information""]","[""Additional Information""]","[""Additional Information""]","[""Additional Information""]",0.0,0.0,1.0,0.3333,1.0,LOW_CONFIDENCE,API call failed after 3 retries | API call failed after 3 retries | This is a standard introductory recital regarding consideration and does not fit into the other specific substantive categories.,llm_pseudo_label,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+247166e0245431dcf97ee884f1f07e35_clause_006,247166e0245431dcf97ee884f1f07e35,"1. Confidentiality and Purpose. The Company shall make the Records available for inspection by the Requesting
+Stockholder in response to the Demand and any future demands by the Requesting Stockholder. The Requesting Stockholder shall
+hold the Records (as defined in the Demand) in strict confidence and shall not, and shall direct her Representatives (as defined below)
+not to, publish, communicate or otherwise disclose the Records to anyone, either directly or indirectly, other than as permitted by","[""Additional Information""]","[""Additional Information""]","[""Purpose"", ""Confidentiality Obligations"", ""Employees""]","[""Additional Information""]",0.0,0.0,0.95,0.3167,0.3333,DISAGREEMENT,"API call failed after 3 retries | API call failed after 3 retries | The clause defines the purpose of the disclosure, mandates strict confidentiality, and restricts disclosure by the recipient's representatives.",llm_pseudo_label,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+247166e0245431dcf97ee884f1f07e35_clause_007,247166e0245431dcf97ee884f1f07e35,"Section 3 of this Agreement. The Requesting Stockholder expressly agrees and represents, consistent with her Demand, that the
+Records shall be utilized solely for the purpose set forth in the Demand (the “Permitted Purpose”).","[""Additional Information""]","[""Additional Information""]","[""Purpose""]","[""Additional Information""]",0.0,0.0,1.0,0.3333,0.3333,DISAGREEMENT,API call failed after 3 retries | API call failed after 3 retries | The clause explicitly defines the permitted use of the records as the 'Permitted Purpose'.,llm_pseudo_label,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+247166e0245431dcf97ee884f1f07e35_clause_008,247166e0245431dcf97ee884f1f07e35,"The confidentiality obligations set forth in this Agreement shall not apply to any of the Records that (a) were already
+properly in the Requesting Stockholder’s or her Representatives’ possession as of the date hereof, provided that such Records were
+not subject to any legal, contractual or fiduciary obligation of confidentiality owed to the Company or any subsidiary thereof, (b)
+properly came into the Requesting Stockholder’s or her Representatives’ possession after the date hereof, provided that such
+Information was not subject to any legal, contractual or fiduciary obligation of confidentiality owed to the Company or any
+subsidiary thereof, or (c) are, on the date hereof, or subsequently become, publicly available, other than as a result of a breach of this
+Agreement by the Requesting Stockholder or her Representatives.","[""Additional Information""]","[""Additional Information""]","[""Non-Confidential Information""]","[""Additional Information""]",0.0,0.0,1.0,0.3333,0.3333,DISAGREEMENT,"API call failed after 3 retries | API call failed after 3 retries | The clause explicitly defines circumstances under which information is excluded from confidentiality obligations, matching the definition of Non-Confidential Information.",llm_pseudo_label,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+247166e0245431dcf97ee884f1f07e35_clause_009,247166e0245431dcf97ee884f1f07e35,"2. Confidentiality Designation. The Company hereby designates the Records as confidential on the grounds that the
+Company in good faith believes that the Records constitute or reveals confidential information that requires the protection provided
+in this Agreement.","[""Additional Information""]","[""Additional Information""]","[""Definition of Confidential Information""]","[""Additional Information""]",0.0,0.0,0.98,0.3267,0.3333,DISAGREEMENT,"API call failed after 3 retries | API call failed after 3 retries | The clause explicitly designates specific materials as confidential information, falling under the definition of what is protected.",llm_pseudo_label,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+247166e0245431dcf97ee884f1f07e35_clause_010,247166e0245431dcf97ee884f1f07e35,"-22-
+
+3. Permitted Disclosure. The Requesting Stockholder shall be permitted to disclose the Records only on a need-to-know
+basis for the Permitted Purpose (a) to the employees, officers, attorneys, consultants, agents or other representatives of the Requesting
+Stockholder or any of her affiliates or associates (collectively, “Representatives”) or (b) as required by law, regulation or legal
+process, including as required by the Securities and Exchange Commission or any applicable stock exchange; provided, however, that
+the Requesting Stockholder shall, to the extent legally permissible, (i) provide reasonable notice to the Company of any such
+requirement, so that the Company may seek a protective order or other appropriate remedy and/or waive compliance with this
+Agreement; (ii) furnish only such Records as are legally required to be disclosed and (iii) exercise reasonable efforts to obtain
+assurance that confidential treatment will be accorded to any Records that are required to be disclosed. The Requesting Stockholder
+shall be responsible for any breach of this Agreement by her Representatives and agrees to advise her Representatives against
+prohibited or unauthorized disclosure or use of the Records (including litigation).","[""Additional Information""]","[""Additional Information""]","[""Authorized Disclosure"", ""Employees"", ""Liability for Damages""]","[""Additional Information""]",0.0,0.0,0.98,0.3267,0.3333,DISAGREEMENT,"API call failed after 3 retries | API call failed after 3 retries | The clause defines the permitted disclosure scope, the inclusion of representatives/employees, and establishes responsibility for breaches committed by such parties.",llm_pseudo_label,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+247166e0245431dcf97ee884f1f07e35_clause_011,247166e0245431dcf97ee884f1f07e35,"4. Return or Destruction of Information. The parties agree that, within ten business days following the conclusion of the
+Company’s 2018 annual meeting of stockholders (including any postponements and/or adjournments thereof), the Requesting
+Stockholder shall, and shall direct her Representatives to, destroy the Records.","[""Additional Information""]","[""Additional Information""]","[""Confidentiality Obligations"", ""Term and Termination""]","[""Additional Information""]",0.0,0.0,0.95,0.3167,0.3333,DISAGREEMENT,"API call failed after 3 retries | API call failed after 3 retries | The clause mandates the destruction of confidential materials by a specific deadline, which relates to the obligations regarding the handling of information and the termination of th",llm_pseudo_label,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+247166e0245431dcf97ee884f1f07e35_clause_012,247166e0245431dcf97ee884f1f07e35,"5. Enforcement. The parties agree that money damages would not be a sufficient remedy for any breach of this Agreement
+by any of the parties hereto and that the other party shall be entitled to equitable relief, including injunctive relief and specific
+performance, in the event of any breach or threatened breach of this Agreement, without proof of actual damages or any requirement
+to post a bond, in addition to all other remedies available at law or in equity. If any action, suit or proceeding is initiated by a party to
+enforce the provisions hereof, the prevailing party in such action, suit or proceeding shall be entitled to reimbursement of all costs
+and expenses, including attorneys’ fees, incurred by such prevailing party in connection therewith.","[""Additional Information""]","[""Additional Information""]","[""Liability for Damages""]","[""Additional Information""]",0.0,0.0,0.98,0.3267,0.3333,DISAGREEMENT,"API call failed after 3 retries | API call failed after 3 retries | The clause outlines remedies for breach, specifically addressing equitable relief, injunctive measures, and the recovery of legal costs and attorney fees.",llm_pseudo_label,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+247166e0245431dcf97ee884f1f07e35_clause_013,247166e0245431dcf97ee884f1f07e35,"6. Governing Law; Venue and Jurisdiction. This Agreement shall be governed by the laws of the State of Nevada without
+regard to principles of conflict of laws thereof. The parties agree that the Courts of the State of Nevada shall have exclusive
+jurisdiction for purposes of any action, suit or proceeding arising hereunder, and the parties hereby consent to such venue and submit
+to such exclusive jurisdiction. Each of the Requesting Stockholder and the Company agrees that it will not bring any action, suit or
+proceeding relating to this Agreement in any court other than the Courts of the State of Nevada.","[""Additional Information""]","[""Additional Information""]","[""Governing Law and Jurisdiction""]","[""Additional Information""]",0.0,0.0,1.0,0.3333,0.3333,DISAGREEMENT,API call failed after 3 retries | API call failed after 3 retries | The clause explicitly defines the applicable state law and the exclusive venue for legal proceedings.,llm_pseudo_label,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+247166e0245431dcf97ee884f1f07e35_clause_014,247166e0245431dcf97ee884f1f07e35,"7. General Provisions. Captions and section headings used herein are for convenience of reference only, are not part of this
+Agreement and shall not affect the construction of, or to be taken into consideration in, interpreting, this Agreement. This Agreement
+may be amended, changed, modified, altered or terminated only by written instruments signed by the parties hereto, and no waiver of
+compliance with any provision or condition of this Agreement shall be effective unless evidenced by a written instrument executed
+by the party against whom such waiver is to be effective. In the event any provision of this Agreement is held invalid or
+unenforceable by any court of competent jurisdiction, such holding shall not invalidate or render unenforceable any other provision
+hereof. This Agreement may be executed in multiple counterparts, each of which will be deemed an original for all purposes and all
+of which shall constitute a single instrument. Delivery of an executed signature page of this Agreement by email, facsimile or other
+customary means of electronic transmission (e.g., “pdf’) shall be effective as delivery of a manually executed counterpart hereof.","[""Additional Information""]","[""Additional Information""]","[""Additional Information""]","[""Additional Information""]",0.0,0.0,1.0,0.3333,1.0,LOW_CONFIDENCE,"API call failed after 3 retries | API call failed after 3 retries | The clause contains standard boilerplate provisions regarding interpretation, amendments, severability, and execution, which do not fall under the first 13 specific categories.",llm_pseudo_label,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+247166e0245431dcf97ee884f1f07e35_clause_015,247166e0245431dcf97ee884f1f07e35,[Remainder of page intentionally left blank],"[""Additional Information""]","[""Additional Information""]","[""Additional Information""]","[""Additional Information""]",0.0,0.0,1.0,0.3333,1.0,LOW_CONFIDENCE,API call failed after 3 retries | API call failed after 3 retries | This is a standard formatting notation indicating an empty space on the page and does not constitute a substantive legal obligation.,llm_pseudo_label,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+247166e0245431dcf97ee884f1f07e35_clause_016,247166e0245431dcf97ee884f1f07e35,"-23-
+
+IN WITNESS WHEREOF, the undersigned have caused this Agreement to be executed on the date first written above.","[""Additional Information""]","[""Additional Information""]","[""Additional Information""]","[""Additional Information""]",0.0,0.0,1.0,0.3333,1.0,LOW_CONFIDENCE,API call failed after 3 retries | API call failed after 3 retries | This is a standard signature block/execution clause which does not fit into the specific substantive categories provided.,llm_pseudo_label,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+247166e0245431dcf97ee884f1f07e35_clause_017,247166e0245431dcf97ee884f1f07e35,"WYNN RESORTS, LIMITED","[""Additional Information""]","[""Additional Information""]","[""Party Identification""]","[""Additional Information""]",0.0,0.0,1.0,0.3333,0.3333,DISAGREEMENT,API call failed after 3 retries | API call failed after 3 retries | The clause explicitly names a specific entity acting as a party to the agreement.,llm_pseudo_label,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+247166e0245431dcf97ee884f1f07e35_clause_018,247166e0245431dcf97ee884f1f07e35,"By:
+
+Name:
+
+Title:
+
+ELAINE P. WYNN","[""Additional Information""]","[""Additional Information""]","[""Party Identification""]","[""Additional Information""]",0.0,0.0,1.0,0.3333,0.3333,DISAGREEMENT,API call failed after 3 retries | API call failed after 3 retries | This text represents the signature block used to identify the signatory party of the agreement.,llm_pseudo_label,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+247166e0245431dcf97ee884f1f07e35_clause_019,247166e0245431dcf97ee884f1f07e35,"Signed:
+
+-24-","[""Additional Information""]","[""Additional Information""]","[""Additional Information""]","[""Additional Information""]",0.0,0.0,1.0,0.3333,1.0,LOW_CONFIDENCE,"API call failed after 3 retries | API call failed after 3 retries | The clause text consists only of a signature placeholder and a page number, which does not fall under any specific substantive legal category.",llm_pseudo_label,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+3504e06a49433c1456720513186da1bd_clause_000,3504e06a49433c1456720513186da1bd,"EX-10.8 18 g20786exv10w8.htm EX-10.8
+Exhibit 10.8
+(ANSON LOGO)
+Client Confidentiality & Non-Disclosure Agreement
+This Agreement by and between TechniScan Medical Systems, Inc. (hereinafter referred to as “Client”) and The Anson Group, LLC (hereinafter
+referred to as “Anson”), shall govern the conditions of disclosure of confidential information relating to Client’s business (“the Information”).
+The Information includes all oral and written information, regardless of medium, disclosed to Anson by Client that is labeled or otherwise
+identified as confidential.
+With regard to the Information, Anson hereby agrees:","[""Party Identification"", ""NDA Type"", ""Purpose"", ""Definition of Confidential Information""]","[""Party Identification"", ""Definition of Confidential Information""]","[""Party Identification"", ""Purpose"", ""Definition of Confidential Information""]","[""Definition of Confidential Information"", ""Purpose"", ""Party Identification""]",0.95,0.95,0.98,0.96,0.6389,MEDIUM_CONFIDENCE,"The clause identifies the contracting parties, states the type and purpose of the agreement, and explicitly defines what constitutes Confidential Information. | The clause identifies the contracting parties and defines the scope of 'the Information' ",llm_pseudo_label,1,1,0,1,0,0,0,0,0,0,0,0,0,0
+3504e06a49433c1456720513186da1bd_clause_001,3504e06a49433c1456720513186da1bd,"1.
+ Not to use the Information except for the sole purpose of providing consulting services requested by Client.","[""Purpose"", ""Confidentiality Obligations""]","[""Purpose"", ""Confidentiality Obligations""]","[""Purpose"", ""Confidentiality Obligations""]","[""Confidentiality Obligations"", ""Purpose""]",0.95,0.95,0.98,0.96,1.0,HIGH_CONFIDENCE,The clause defines the permitted purpose for using the confidential information and imposes a use restriction obligation. | The clause outlines restrictions on how the information can be used (Confidentiality Obligations) and defines the specific per,llm_pseudo_label,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+3504e06a49433c1456720513186da1bd_clause_002,3504e06a49433c1456720513186da1bd,"2.
+ To safeguard the Information against disclosure to others with the same degree of care as it exercises with its own information of a similar
+nature; and","[""Confidentiality Obligations""]","[""Confidentiality Obligations""]","[""Confidentiality Obligations""]","[""Confidentiality Obligations""]",0.98,0.98,1.0,0.9867,1.0,HIGH_CONFIDENCE,The clause outlines the required standard of care to protect and safeguard confidential information from unauthorized disclosure. | The clause outlines the standard of care required to safeguard confidential information from unauthorized disclosure. ,llm_pseudo_label,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+3504e06a49433c1456720513186da1bd_clause_003,3504e06a49433c1456720513186da1bd,"3.
+ Not to disclose the Information to others (except to its employees, agents or consultants who are bound to Anson by a like obligation of
+confidentiality) without the express written permission of Client, except that Anson shall not be prevented from using or disclosing any of
+the Information:","[""Confidentiality Obligations"", ""Authorized Disclosure""]","[""Confidentiality Obligations"", ""Authorized Disclosure""]","[""Confidentiality Obligations"", ""Authorized Disclosure"", ""Employees""]","[""Confidentiality Obligations"", ""Authorized Disclosure""]",0.95,0.95,0.98,0.96,0.7778,MEDIUM_CONFIDENCE,"The clause outlines a core non-disclosure obligation while providing exceptions for authorized disclosures to employees, agents, and consultants. | The clause establishes a duty of non-disclosure (Confidentiality Obligations) and defines permitted ex",llm_pseudo_label,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+3504e06a49433c1456720513186da1bd_clause_004,3504e06a49433c1456720513186da1bd,"a)
+ Which Anson can demonstrate by written records was previously known to it;","[""Non-Confidential Information""]","[""Non-Confidential Information""]","[""Non-Confidential Information""]","[""Non-Confidential Information""]",0.95,0.98,1.0,0.9767,1.0,HIGH_CONFIDENCE,"This clause specifies an exception to confidentiality for information that was already known to the receiving party prior to disclosure, evidenced by written records. | The clause outlines a standard exception to confidentiality, specifically identif",llm_pseudo_label,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+3504e06a49433c1456720513186da1bd_clause_005,3504e06a49433c1456720513186da1bd,"b)
+ Which is now, or becomes in the future, public knowledge other than through acts or omissions of Anson;","[""Non-Confidential Information""]","[""Non-Confidential Information""]","[""Non-Confidential Information""]","[""Non-Confidential Information""]",0.98,0.98,1.0,0.9867,1.0,HIGH_CONFIDENCE,"The clause defines an exception to confidential information for information that is or becomes publicly known through no wrongful act or omission. | The clause describes a standard exception to confidentiality obligations, specifically information th",llm_pseudo_label,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+3504e06a49433c1456720513186da1bd_clause_006,3504e06a49433c1456720513186da1bd,"c)
+ Which is lawfully obtained by Anson from sources independent of Client; or","[""Non-Confidential Information""]","[""Non-Confidential Information""]","[""Non-Confidential Information""]","[""Non-Confidential Information""]",0.98,0.95,1.0,0.9767,1.0,HIGH_CONFIDENCE,The clause defines a standard exception to confidential information for information lawfully obtained from independent third parties. | The clause defines an exception to confidentiality obligations for information lawfully obtained from independent ,llm_pseudo_label,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+3504e06a49433c1456720513186da1bd_clause_007,3504e06a49433c1456720513186da1bd,"d)
+ Which Anson is required by law to disclose.
+Anson agrees to provide prompt written notice to Client of any legal requests or compulsion to disclose the Information, and to make only such
+disclosures as are legally required.
+Anson agrees to return or destroy all documents or other materials provided by Client that constitute the Information, without retaining any
+copies or extracts thereof, upon request by Client.","[""Authorized Disclosure"", ""Confidentiality Obligations""]","[""Authorized Disclosure"", ""Term and Termination""]","[""Authorized Disclosure"", ""Confidentiality Obligations""]","[""Confidentiality Obligations"", ""Authorized Disclosure""]",0.95,0.95,0.98,0.96,0.5556,MEDIUM_CONFIDENCE,The clause addresses legally required disclosures (Authorized Disclosure) and the obligation to return or destroy confidential materials upon request (Confidentiality Obligations). | The clause covers legally required disclosures (Authorized Disclosu,llm_pseudo_label,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+3504e06a49433c1456720513186da1bd_clause_008,3504e06a49433c1456720513186da1bd,NON-DISCLOSURE AGREEMENT,"[""NDA Type""]","[""Additional Information""]","[""NDA Type""]","[""NDA Type""]",0.95,0.95,1.0,0.9667,0.3333,DISAGREEMENT,The text serves as the title specifying the document as a Non-Disclosure Agreement. | The clause contains only the title of the document and does not fall under any of the other specific NDA categories. | The text identifies the document as a Non-Dis,llm_pseudo_label,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+3504e06a49433c1456720513186da1bd_clause_009,3504e06a49433c1456720513186da1bd,"PAGE 1
+TechniScan Medical Systems, Inc.","[""Party Identification""]","[""Party Identification""]","[""Party Identification""]","[""Party Identification""]",0.95,0.85,0.98,0.9267,1.0,HIGH_CONFIDENCE,"The text identifies a corporate entity that is a party to the agreement. | The clause contains the name of TechniScan Medical Systems, Inc., which is a party to the agreement, although it appears in a header or footer format. | The clause text identi",llm_pseudo_label,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+4fd432d8ce6796dabc17d3838d8539a2_clause_000,4fd432d8ce6796dabc17d3838d8539a2,"EX-99.(D)(3) 10 dex99d3.htm CONFIDENTIALITY AND STANDSTILL AGREEMENT
+Exhibit (d)(3)
+March 16, 2010
+Somanetics Corporation
+1653 East Maple Road
+Troy, MI 48083
+Ladies and Gentlemen:
+In connection with our possible interest in a transaction involving the acquisition of Somanetics Corporation (the “Company”), you are furnishing us
+or our representatives with certain information which is either non-public, confidential or proprietary in nature. All information furnished to us or
+our representatives by the Company or any of its employees, representatives, agents or advisors (including attorneys, accountants and financial
+advisors), shall be considered confidential and proprietary, and together with analyses, compilations, forecasts, studies or other documents prepared
+by us, our agents, advisors (including attorneys, accountants and financial advisors), representatives or employees which contain such information, is
+hereinafter referred to as the “Information”. In consideration of the Company furnishing us with the Information, we agree that:","[""Party Identification"", ""Purpose"", ""Definition of Confidential Information""]","[""Party Identification"", ""Purpose"", ""Definition of Confidential Information""]","[""Party Identification"", ""Purpose"", ""Definition of Confidential Information""]","[""Party Identification"", ""Purpose"", ""Definition of Confidential Information""]",0.95,0.95,0.98,0.96,1.0,HIGH_CONFIDENCE,"The clause identifies the party (Somanetics Corporation), specifies the evaluation of a potential acquisition as the purpose, and defines what constitutes confidential 'Information'. | The clause identifies the parties involved, outlines the business",llm_pseudo_label,1,1,0,1,0,0,0,0,0,0,0,0,0,0
+4fd432d8ce6796dabc17d3838d8539a2_clause_001,4fd432d8ce6796dabc17d3838d8539a2,"1. The Information will be kept confidential and shall not, without the prior written consent of the Company, be disclosed by us, or by our affiliates,
+agents, representatives, advisors or employees, in any manner whatsoever, in whole or in part, and shall not be used by us, our affiliates, agents,
+representatives, advisors or employees, other than to determine whether we wish to enter into, or other than in connection with, the transaction
+described above. Moreover, we agree to reveal the Information only to our affiliates, agents, representatives, advisors and employees who need to
+know the Information for the purpose of evaluating, or otherwise in connection with, the transaction described above who are informed of the
+confidential nature of the Information. We agree to be responsible for any breach of this Agreement by our affiliates, agents, representatives,
+advisors and employees.","[""Purpose"", ""Confidentiality Obligations"", ""Authorized Disclosure"", ""Liability for Damages""]","[""Purpose"", ""Confidentiality Obligations"", ""Authorized Disclosure"", ""Employees""]","[""Confidentiality Obligations"", ""Authorized Disclosure"", ""Employees""]","[""Purpose"", ""Confidentiality Obligations"", ""Authorized Disclosure"", ""Employees""]",0.95,0.95,0.98,0.96,0.5833,MEDIUM_CONFIDENCE,"The clause outlines obligations to maintain confidentiality, restricts use to a specific purpose, specifies authorized disclosures to representatives/employees on a need-to-know basis, and establishes | The clause outlines key confidentiality and non",llm_pseudo_label,0,1,0,0,1,1,0,0,0,0,0,1,0,0
+4fd432d8ce6796dabc17d3838d8539a2_clause_002,4fd432d8ce6796dabc17d3838d8539a2,"2. Without the prior written consent of the other party, neither party nor its representatives shall disclose to any person either the fact that discussions
+or negotiations are taking place concerning the possible transaction referred to herein or any of the terms, conditions or other facts with respect to
+any such possible transaction including the status thereof, except as required by applicable law or exchange listing agreements, rules or policies.","[""Confidentiality Obligations"", ""Authorized Disclosure""]","[""Confidentiality Obligations"", ""Authorized Disclosure""]","[""Confidentiality Obligations"", ""Authorized Disclosure""]","[""Authorized Disclosure"", ""Confidentiality Obligations""]",0.95,0.95,0.98,0.96,1.0,HIGH_CONFIDENCE,The clause restricts disclosure regarding ongoing discussions and transaction details (Confidentiality Obligations) while permitting exceptions required by law or stock exchange rules (Authorized Disc | The clause restricts the parties from disclosin,llm_pseudo_label,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+4fd432d8ce6796dabc17d3838d8539a2_clause_003,4fd432d8ce6796dabc17d3838d8539a2,"3. All copies of the Information, except for that portion of the Information which consists of analyses, compilations, forecasts, studies or other
+documents prepared by us, our agents, representatives, advisors or employees, will be returned to the Company promptly upon request or if we
+decide not to proceed with an acquisition of the Company (and we will inform the Company promptly of any such decision). At the time of such
+return, we will destroy any such analyses, compilations, forecasts, studies or other documents prepared by us, our agents, representatives, advisors or
+employees.","[""Confidentiality Obligations""]","[""Confidentiality Obligations""]","[""Confidentiality Obligations""]","[""Confidentiality Obligations""]",0.95,0.95,0.98,0.96,1.0,HIGH_CONFIDENCE,The clause specifies obligations regarding the prompt return or destruction of confidential information and derivative documents upon request or termination of discussion. | The clause outlines the obligation to return or destroy confidential informa,llm_pseudo_label,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+4fd432d8ce6796dabc17d3838d8539a2_clause_004,4fd432d8ce6796dabc17d3838d8539a2,"1
+
+2
+
+4. The term Information shall not include such portions of the Information which (i) are or become generally available to the public other than as a
+result of disclosure by us, our affiliates, agents, representatives, advisors or employees, or (ii) become available to us or to our affiliates, agents,
+representatives, advisors or employees on a non-confidential basis from a source which was not then prohibited from disclosing such Information to
+us by a legal, contractual or fiduciary obligation to the Company, or (iii) which was in our possession, or in the possession of our affiliates, agents,
+representatives, advisors or employees, or otherwise available to us, or to our affiliates, agents, representatives, advisors or employees, on a non-
+confidential basis prior to its disclosure to us or one or more of our affiliates, agents, representatives, advisors or employees, or (iv) which is
+independently acquired or developed by us without violating any obligations under this Agreement.","[""Non-Confidential Information""]","[""Non-Confidential Information""]","[""Non-Confidential Information""]","[""Non-Confidential Information""]",0.98,0.99,1.0,0.99,1.0,HIGH_CONFIDENCE,"The clause lists the standard legal exclusions defining what information is considered non-confidential. | The clause outlines standard exceptions to the definition of confidential information, such as public domain, prior possession, and independent",llm_pseudo_label,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+4fd432d8ce6796dabc17d3838d8539a2_clause_005,4fd432d8ce6796dabc17d3838d8539a2,"5. The above undertakings of non-disclosure and confidentiality shall remain in force for a period of two (2) years from the date of this Agreement,
+except that there shall be no time limit, and such undertakings shall continue indefinitely, with respect to Information regarding algorithms relating
+to the Company’s past, present and proposed products, the calibration of those products, the source code and applications software related to those
+products, and the analog signal processing section of the pre-amp pcba relating to those products.","[""Term and Termination""]","[""Term and Termination""]","[""Term and Termination"", ""Confidentiality Obligations""]","[""Term and Termination""]",0.95,0.95,0.98,0.96,0.6667,MEDIUM_CONFIDENCE,"The clause specifies the duration and term of the confidentiality and non-disclosure obligations, including specific exceptions for indefinite protection of certain technical information. | The clause defines the duration of the confidentiality oblig",llm_pseudo_label,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+4fd432d8ce6796dabc17d3838d8539a2_clause_006,4fd432d8ce6796dabc17d3838d8539a2,"6. In the event that we or anyone to whom we transmit the Information pursuant to this Agreement is requested or becomes legally compelled to
+disclose any of the Information (whether by oral questions, interrogatories, requests for Information or documents, subpoena, Civil Investigative
+Demand or similar process or otherwise), we will provide the Company with prompt notice, to the extent practicable, so that the Company may seek
+a protective order or other appropriate remedy and/or waive compliance with the provisions of this Agreement. We will cooperate with the Company,
+at the Company’s expense, to obtain such protective order or other appropriate remedy. In the event that such protective order or other remedy is not
+obtained, the Company agrees that such disclosure may be made without liability hereunder. We will furnish only that portion of the Information
+which we are, in the opinion of our counsel or the counsel of our representative, legally required to disclose and will use reasonable efforts to obtain
+reliable assurance that confidential treatment will be accorded the Information.","[""Authorized Disclosure""]","[""Authorized Disclosure""]","[""Authorized Disclosure""]","[""Authorized Disclosure""]",0.98,0.98,1.0,0.9867,1.0,HIGH_CONFIDENCE,"The clause outlines the procedures and requirements for legally compelled disclosures, such as providing notice and cooperating to obtain a protective order. | The clause outlines the procedures, notice requirements, and limitations for disclosing co",llm_pseudo_label,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+4fd432d8ce6796dabc17d3838d8539a2_clause_007,4fd432d8ce6796dabc17d3838d8539a2,"7. We agree that for a period of one year from the date of this Agreement, we and our affiliates will not solicit for employment any employee of the
+Company with whom we or our affiliates had direct contact in connection with our consideration of a possible transaction hereunder.
+Notwithstanding the foregoing, this paragraph shall not preclude our right to make generalized searches for employees by use of advertisements in
+the media (including, without limitation, trade media) or by engaging search firms, so long as such general searches are not specifically targeted at
+such Company employees, and we shall not be prohibited from, and shall not be required to obtain the Company’s consent prior to, offering to
+employ or employing any person who (i) contacts us on his or her own initiative without any direct or indirect solicitation by us, (ii) responds to an
+advertisement or other general solicitation for employment not directed at employees of the Company, (iii) began employment discussions with us
+prior to the date of this agreement or (iv) is no longer employed by the Company at the time we commence employment discussions with such
+person.","[""Employees""]","[""Employees""]","[""Employees""]","[""Employees""]",0.98,0.98,1.0,0.9867,1.0,HIGH_CONFIDENCE,"The clause outlines non-solicitation and employment restrictions concerning the Company's employees. | The clause outlines restrictions, conditions, and exceptions regarding the solicitation and hiring of the Company's employees. | The clause specifi",llm_pseudo_label,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+5180f107324abcab9d9ff81aee2db8d3_clause_000,5180f107324abcab9d9ff81aee2db8d3,"EX-99.(E).(3) 5 d443014dex99e3.htm CONFIDENTIALITY AGREEMENT BETWEEN SUN PHARMACEUTICAL
+INDUSTRIES, INC.
+Exhibit (e)(3)
+May 11, 2012","[""Party Identification"", ""Additional Information""]","[""Party Identification"", ""Additional Information""]","[""Party Identification"", ""Additional Information""]","[""Additional Information"", ""Party Identification""]",0.9,0.9,0.98,0.9267,1.0,HIGH_CONFIDENCE,"The clause contains exhibit metadata and dates while identifying Sun Pharmaceutical Industries, Inc. as a party to the agreement. | The clause serves as the title page and header, identifying the agreement date and Sun Pharmaceutical Industries, Inc.",llm_pseudo_label,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+5180f107324abcab9d9ff81aee2db8d3_clause_001,5180f107324abcab9d9ff81aee2db8d3,"CONFIDENTIAL AND PROPRIETARY
+James Hattersley
+Vice President, Corp. Business Development
+Sun Pharmaceutical Industries, Inc.
+270 Prospect Plains Road
+Cranbury, New Jersey 08512
+Re: Confidentiality Agreement
+Dear Mr. Hattersley:
+In connection with your evaluation of a potential transaction (the “Potential Transaction”) with DUSA Pharmaceuticals, Inc. (the “Company”),
+we are prepared to make available to you and/or your Representatives (as defined below) certain confidential information relating to the Company
+and/or the Potential Transaction. As a condition to such information being furnished to you and your Representatives, you hereby agree to treat any
+Information (as defined below), whether prepared by the Company, its Representatives or otherwise, which is furnished to you or your
+Representatives now or in the future by or on behalf of the Company pursuant hereto in accordance with the terms and provisions of this agreement
+(this “Agreement”) and to take or abstain from taking certain other actions as hereinafter set forth. As used herein, a party’s “Representatives” shall
+mean such party’s directors, officers, employees, agents, affiliates and advisors (including, without limitation, such party’s attorneys, accountants,
+consultants and financial advisors).
+The term “Information” shall be deemed to mean (subject to the following sentence) any confidential or otherwise proprietary information
+relating to the Company that the Company or any of its Representatives disclose to you, on or after the date of this Agreement, regardless of the
+manner in which it is furnished, together with all portions of notes, analyses, compilations, studies, interpretations or other documents prepared by
+you or your Representatives which contain, in whole or in part, the Information furnished to you or your Representatives pursuant to this Agreement.
+The term “Information” shall not include, and the obligations of this Agreement shall not apply to, information which (i) is or becomes generally
+available to the public other than as a result of an unauthorized disclosure by you or your Representatives in breach of this Agreement, (ii) was
+within your or any of your Representative’s possession prior to its being furnished to you by or on behalf of the Company pursuant to this
+Agreement, provided that the source of such information was not known by you to be bound by an agreement with or other contractual, legal or
+fiduciary obligation of confidentiality to the Company or any other party with respect to such information, (iii) becomes available to you or any of
+your Representatives from a source other than the Company or any of its Representatives, provided that such source is not known by you to be
+bound by an agreement with or other contractual, legal or fiduciary obligation of confidentiality to the Company or any other party with respect to
+such information, or (iv) was or is developed by you or your Representatives independently of such information.
+Except as otherwise provided herein, you hereby agree that you and your Representatives shall use the Information solely for the purpose of
+evaluating the Potential Transaction, that the Information will be kept strictly confidential by you and your Representatives, and that you and your
+Representatives will not disclose any of the Information in any manner whatsoever; provided, however, that (i) you may make any disclosure of the
+Information to which the Company gives its prior written consent, (ii) any of the Information may be disclosed to your Representatives who need to
+know the Information for the sole purpose of evaluating the Potential Transaction, who agree to nondisclosure and non-use terms with respect to the
+Information that are no less strict than the terms of this Agreement and (iii) any Information may be disclosed if required by operation of law, rule or
+regulation or by any court or other governmental or regulatory authority; provided that you provide prompt written notice to the Company so that the
+Company may seek a protective order or other appropriate remedy. If, in the absence of a protective order or other appropriate remedy or the receipt
+of a waiver by the Company, you or any of your","[""Party Identification"", ""Purpose"", ""Definition of Confidential Information"", ""Non-Confidential Information"", ""Confidentiality Obligations"", ""Authorized Disclosure""]","[""Party Identification"", ""Purpose"", ""Definition of Confidential Information"", ""Confidentiality Obligations"", ""Authorized Disclosure"", ""Non-Confidential Information""]","[""Party Identification"", ""Purpose"", ""Definition of Confidential Information"", ""Confidentiality Obligations"", ""Authorized Disclosure"", ""Non-Confidential Information"", ""Employees""]","[""Party Identification"", ""Definition of Confidential Information"", ""Authorized Disclosure"", ""Confidentiality Obligations"", ""Purpose"", ""Non-Confidential Information""]",0.95,0.98,0.98,0.97,0.9048,HIGH_CONFIDENCE,"The clause covers party identification, evaluation purpose, definitions of confidential and non-confidential information, restrictions on use/disclosure, and authorized disclosures to representatives  | The clause identifies the transacting parties, ",llm_pseudo_label,1,1,0,1,1,1,1,0,0,0,0,0,0,0
+5180f107324abcab9d9ff81aee2db8d3_clause_002,5180f107324abcab9d9ff81aee2db8d3,"1
+
+Representatives are nonetheless, upon advice of counsel, legally compelled to disclose Information or else stand liable for contempt or suffer other
+censure or penalty, you or your Representative, as applicable, may, without liability hereunder, disclose only that portion of the Information which
+such counsel advises is legally required to be disclosed, provided that you and your Representative exercise your respective reasonable efforts to
+preserve the confidentiality of the Information, including, without limitation, by cooperating with the Company, at the Company’s expense, to obtain
+an appropriate protective order or other reliable assurance that confidential treatment will be accorded the Information. In any event, you shall be
+responsible for any breach of this Agreement by any of your Representatives.
+You represent that neither you nor any of your Representatives has entered into, directly or indirectly, any agreement or understanding with
+any person (other than any agreement between you and your Representatives) with respect to a Potential Transaction or that could otherwise affect
+such person’s decisions or actions with respect to a Potential Transaction involving the Company. In addition, you agree that, without the prior
+written consent of the Company, you and your Representatives will not disclose to any other person the fact that the Information has been made
+available to you or that discussions or negotiations are taking place between the Company and you concerning the Potential Transaction or any of the
+terms, conditions or other facts with respect thereto (including the status thereof), unless in the opinion of your counsel such disclosure is required by
+law, rule or regulation or by any court or other governmental or regulatory authority; provided that you provide prompt written notice to the
+Company so that the Company may seek a protective order or other appropriate remedy.
+Nothing contained in this Agreement shall require either party hereto to enter into the Potential Transaction or any other transaction or to
+negotiate for the same for any specified period of time. All Information disclosed to you shall be and remain the property of the Company and this
+Agreement shall not be construed as a license or any other grant of any right whatsoever in the Information. For clarity, no license under any patent,
+copyright, trademark, other intellectual property right or any application therefore is hereby granted or implied by the provision of the Information to
+you or your Representatives. Neither you nor your Representatives shall alter or obliterate any trademark or any other proprietary mark or notice
+thereof of the Company on any copy of the Information, and you shall reproduce any such mark or notice on all copies of the Information.
+You agree that upon the request of the Company, you will return to the Company or destroy all Information furnished to you or your
+Representatives by or on behalf of the Company, without retaining any copies or extracts thereof, and you will destroy all portions of reports,
+analyses, memoranda, notes or other documents prepared by you or your Representatives that contain the Information. You will confirm to us in
+writing that destruction of all such Information has been completed. Notwithstanding the foregoing, the Company acknowledges that, in the ordinary
+course of your business and as a part of your customary practices, after the destruction or return of other copies of the Information, electronic copies
+of such Information may still remain on archives, hard drives, backup tapes and similar formats, and the Company acknowledges that, provided such
+Information is not used or disclosed by you or your Representatives contrary to the terms of this Agreement, such remaining copies shall not be
+deemed a breach of this paragraph. Furthermore, notwithstanding anything to the contrary herein, you and your Representatives may retain copies of
+any Information in order to comply with your and their legal and regulatory record-keeping obligations, and do not have to return or destroy
+Information to the extent that retention of such Information is, in good faith, in order to comply with your or their regulators’ and/or auditors’
+expectations of best practices and/or applicable law or to defend yourself or themselves in litigation.
+In consideration of and as a condition to the Company furnishing the Information to you under this Agreement, you agree that for a period of
+one year from the date of this Agreement, neither you nor any of your affiliates will, directly or indirectly, solicit or employ any of the i) current
+officers or director-level employees, without obtaining the prior written consent of the Company, or ii) other employees of the Company (so long as
+they are employed by the Company) who are in discussion with you relating to this Agreement, without obtaining the prior written consent of the
+Company, (it being understood that any newspaper or other general solicitation, including without limitation, web-based advertisements, not directed
+specifically to such person shall not be deemed to be a solicitation for purposes of this provision).
+You acknowledge and agree that the Company will be irreparably injured by a breach of this Agreement by you or your Representatives, that
+monetary remedies may be inadequate to protect the Company against any actual or threatened breach of this Agreement by you or your
+Representatives, and that the Company shall be entitled to seek specific performance or other equitable relief as a remedy for any such breach
+without posting a bond.","[""Confidentiality Obligations"", ""Authorized Disclosure"", ""Intellectual Property"", ""Employees"", ""Liability for Damages""]","[""Confidentiality Obligations"", ""Authorized Disclosure"", ""Intellectual Property"", ""Employees"", ""Liability for Damages""]","[""Authorized Disclosure"", ""Confidentiality Obligations"", ""Employees"", ""Intellectual Property"", ""Liability for Damages""]","[""Authorized Disclosure"", ""Confidentiality Obligations"", ""Employees"", ""Liability for Damages"", ""Intellectual Property""]",0.95,0.95,0.98,0.96,1.0,HIGH_CONFIDENCE,"The clause covers legally required disclosures (Authorized Disclosure), confidentiality and non-disclosure obligations including return/destruction of data (Confidentiality Obligations), retention of  | The clause contains provisions regarding legall",llm_pseudo_label,0,0,0,0,1,1,0,1,0,0,1,1,0,0
+5180f107324abcab9d9ff81aee2db8d3_clause_003,5180f107324abcab9d9ff81aee2db8d3,"2
+
+For a period of twelve (12) months commencing on the date of this Agreement, you shall not, nor shall any of your subsidiaries or
+Representatives, in any manner, directly or indirectly, acting alone or in concert with others, effect or seek, offer or propose (whether publicly or
+otherwise) to effect, or cause or participate in or in any way assist any other person to effect or seek, offer or propose (whether publicly or otherwise)
+to effect or participate in, (i) any acquisition of beneficial ownership, as defined in Rule 13d-3 under the 1934 Act, of any substantial portion (i.e.,
+more than 5%) of any securities or assets of the Company or any of its subsidiaries, (ii) any tender or exchange offer, merger or other business
+combination involving the Company or any of its subsidiaries; (iii) any “solicitation” of “proxies” (as such terms are used in the proxy rules of the
+Securities and Exchange Commission) or consents to vote any voting securities of the Company; or (iv) take any action that might require the
+Company to make a announcement regarding any of the types of matters set forth above; nor shall you engage in short selling activities with respect
+to securities of the Company. The provisions of this paragraph will not prohibit the ownership by you or any of your affiliates, subsidiaries or
+Representatives of any securities of the Company or a third party that you or any of your affiliates, subsidiaries or Representatives own as of the date
+hereof or the purchase by the Company or any of the Company’s affiliates of any of the securities held as of the date hereof.
+The agreements contained in the immediately preceding paragraph shall terminate and be of no effect if (i) the Company enters into an
+agreement relating to any (a) merger, consolidation, business combination, binding share exchange or similar transaction involving the Company in
+each case, in which the Company will not be the entity surviving such transaction, (b) sale, lease or other disposition or series of related dispositions,
+directly or indirectly, by merger, consolidation or otherwise of assets of the Company or its subsidiaries representing all or substantially all of the
+consolidated assets of the Company and its subsidiaries, (c) issue, sale or other disposition or series of related dispositions by the Company of
+(including by of merger, consolidation, binding share exchange or any similar transaction) securities (or options, rights or warrants to purchase, or
+securities convertible into such securities) representing 50% or more of the voting power of the Company to a single purchaser or an affiliated group
+of purchasers or (d) other transaction or series of related transactions pursuant to which any person or entity shall acquire beneficial ownership, as is
+defined in Rule 13d-3 under the 1934 Act, or the right to acquire beneficial ownership of, 50% or more of the outstanding common stock of the
+Company, or (ii) any corporation, partnership, person or other entity or group commences a tender offer or exchange offer to acquire 50% or more of
+the outstanding voting securities of the Company without the consent of the Board of Directors of the Company.
+You acknowledge that you are aware that the securities laws of the United States prohibit any person who has material, non-public information
+concerning the Company or a possible transaction involving the Company from purchasing or selling the Company’s securities when in possession
+of such information and from communicating such information to any other person or entity under circumstances in which it is reasonably
+foreseeable that such person or entity is likely to purchase or sell such securities in reliance upon such information.
+Notwithstanding any other provision of this Agreement to the contrary, this Agreement and all of the terms, conditions, undertakings and
+prohibitions contained herein shall terminate upon the earlier to occur of (i) two (2) years after the date of this Agreement or (ii) such time as the
+Information has been publicly disclosed by or on behalf of the Company whichever is earlier
+This Agreement shall be governed by and construed in accordance with the laws of the State of New Jersey. The parties consent to the
+exclusive jurisdiction of the federal and state courts located in Newark, New Jersey. This Agreement may be executed in one or more counterparts,
+each of which shall be deemed to be an original copy of this Agreement and all of which, when taken together, shall be deemed to constitute one and
+the same Agreement. The exchange of copies of this Agreement and of signature pages by facsimile transmission shall constitute effective execution
+and delivery of this Agreement by the parties hereto.","[""Confidentiality Obligations"", ""Competition Rights"", ""Term and Termination"", ""Governing Law and Jurisdiction"", ""Additional Information""]","[""Competition Rights"", ""Term and Termination"", ""Governing Law and Jurisdiction"", ""Additional Information""]","[""Competition Rights"", ""Term and Termination"", ""Governing Law and Jurisdiction""]","[""Governing Law and Jurisdiction"", ""Competition Rights"", ""Term and Termination"", ""Additional Information""]",0.95,0.95,0.98,0.96,0.7167,MEDIUM_CONFIDENCE,"The clause includes standstill and trading restrictions (Competition Rights), insider trading compliance regarding non-public information (Confidentiality Obligations), agreement expiration terms (Ter | The clause contains standstill provisions restr",llm_pseudo_label,0,0,0,0,0,0,0,0,1,1,0,0,1,1
+5180f107324abcab9d9ff81aee2db8d3_clause_004,5180f107324abcab9d9ff81aee2db8d3,"3
+
+Please confirm your agreement with the foregoing by executing this Agreement in the space provided below and returning one copy of this
+Agreement to us for our files.","[""Additional Information""]","[""Additional Information""]","[""Additional Information""]","[""Additional Information""]",0.95,0.95,1.0,0.9667,1.0,HIGH_CONFIDENCE,"The clause contains standard administrative instructions regarding the execution and confirmation of the agreement. | This clause contains administrative instructions regarding the execution and return of the agreement, which does not fit any specifi",llm_pseudo_label,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+5180f107324abcab9d9ff81aee2db8d3_clause_005,5180f107324abcab9d9ff81aee2db8d3,"Very truly yours,
+/s/ Robert F. Doman","[""Additional Information""]","[""Additional Information""]","[""Party Identification""]","[""Additional Information""]",0.95,0.95,0.9,0.9333,0.3333,DISAGREEMENT,"The text consists solely of a standard closing salutation and signature block, containing no specific legal terms covered by other categories. | This clause is a standard complimentary close and signature block which does not contain substantive cont",llm_pseudo_label,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+5180f107324abcab9d9ff81aee2db8d3_clause_006,5180f107324abcab9d9ff81aee2db8d3,"Robert F. Doman,
+President and CEO","[""Party Identification""]","[""Party Identification""]","[""Party Identification""]","[""Party Identification""]",0.95,0.9,1.0,0.95,1.0,HIGH_CONFIDENCE,The text identifies an individual signatory and their title representing a party to the agreement. | The clause identifies a signatory and their official title representing one of the parties to the agreement. | The clause identifies a signatory and ,llm_pseudo_label,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+5180f107324abcab9d9ff81aee2db8d3_clause_007,5180f107324abcab9d9ff81aee2db8d3,"Accepted and agreed to as of the date
+first written above:","[""Additional Information""]","[""Additional Information""]","[""Additional Information""]","[""Additional Information""]",0.95,0.95,1.0,0.9667,1.0,HIGH_CONFIDENCE,"The text is a standard signature execution block line indicating acceptance, which does not fall under any specific substantive NDA category. | The clause is a standard transition to the signature block indicating acceptance and agreement, which does",llm_pseudo_label,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+5180f107324abcab9d9ff81aee2db8d3_clause_008,5180f107324abcab9d9ff81aee2db8d3,"By: /s/ James E. Hattersley
+ James E. Hattersley
+ Vice President, Business Development
+ Sun Pharmaceutical Industries, Inc.","[""Party Identification""]","[""Party Identification""]","[""Party Identification""]","[""Party Identification""]",0.95,0.95,1.0,0.9667,1.0,HIGH_CONFIDENCE,"This clause is a signature block that identifies one of the contracting parties and its authorized representative. | The clause contains the signature block, which identifies the signing representative and the party (Sun Pharmaceutical Industries, In",llm_pseudo_label,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+5180f107324abcab9d9ff81aee2db8d3_clause_009,5180f107324abcab9d9ff81aee2db8d3,4,"[""Additional Information""]","[""Additional Information""]","[""Additional Information""]","[""Additional Information""]",0.98,0.99,1.0,0.99,1.0,HIGH_CONFIDENCE,"The text consists solely of a section number with no substantive legal obligations or information, defaulting to Additional Information. | The clause contains only a single number, likely a page or section number, which does not contain any substanti",llm_pseudo_label,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+53c8f90cfb5fb49177c9cb160e53f17b_clause_000,53c8f90cfb5fb49177c9cb160e53f17b,EX-99.D.4 13 w01967iexv99wdw4.htm EXHIBIT (D)(4),"[""Additional Information""]","[""Additional Information""]","[""Additional Information""]","[""Additional Information""]",0.99,0.99,1.0,0.9933,1.0,HIGH_CONFIDENCE,The clause contains document header and exhibit reference metadata without substantive legal content. | The text is an SEC filing header/exhibit marker and does not contain any substantive contractual obligations or information related to the other c,llm_pseudo_label,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+53c8f90cfb5fb49177c9cb160e53f17b_clause_001,53c8f90cfb5fb49177c9cb160e53f17b,"DATAKEY, INC.","[""Party Identification""]","[""Party Identification""]","[""Party Identification""]","[""Party Identification""]",0.98,0.99,1.0,0.99,1.0,HIGH_CONFIDENCE,"The text identifies a party (Datakey, Inc.) involved in the agreement. | The clause text names DATAKEY, INC., which serves to identify one of the parties to the agreement. | The text identifies a specific entity, which is a core component of party id",llm_pseudo_label,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+53c8f90cfb5fb49177c9cb160e53f17b_clause_002,53c8f90cfb5fb49177c9cb160e53f17b,"MUTUAL NONDISCLOSURE AGREEMENT
+EFFECTIVE DATE: August 3, 2004
+PARTIES:
+ SafeNet, Inc (the “Company”)
+ 4690 Millennium Drive
+ Belcamp, MD 21017
+ Datakey, Inc. (“Datakey”)
+ 407 West Travelers Trail
+ Burnsville, MN 55337-2558
+RECITALS:
+ A. The Company and Datakey are commencing discussions regarding a potential corporate transaction (the “Transaction”).
+ B. In order to facilitate the negotiations regarding such Transaction, each party may disclose to the other party certain information, including
+confidential information, owned by the disclosing party which the disclosing party is willing to disclose to the other party in reliance on the
+execution of this Agreement.
+AGREEMENT:
+ In consideration of the covenants contained herein and the disclosure of the confidential information, the parties agree as follows:","[""Party Identification"", ""Purpose"", ""NDA Type"", ""Term and Termination""]","[""Party Identification"", ""Purpose"", ""NDA Type""]","[""Party Identification"", ""Purpose"", ""NDA Type""]","[""NDA Type"", ""Purpose"", ""Party Identification""]",0.95,0.98,1.0,0.9767,0.8333,HIGH_CONFIDENCE,"The clause identifies the participating entities, states the mutual nature of the NDA, specifies the evaluation purpose of the transaction, and sets the effective date. | The clause explicitly identifies the parties (SafeNet and Datakey), defines the",llm_pseudo_label,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+53c8f90cfb5fb49177c9cb160e53f17b_clause_003,53c8f90cfb5fb49177c9cb160e53f17b,"1. Definition of Confidential Information. For purposes of this Agreement, the term “Confidential Information” includes, but is not limited to,
+any information of the disclosing party, whether disclosed orally, in writing, on computer disc or tape or any other method, including any
+formula, pattern, compilation, program, device, method, technique or process that: (i) derives independent economic value, actual or potential,
+from not being generally known to, and not being readily ascertainable through proper means by, other persons who can obtain economic value
+from its disclosure or use, and (ii) is the subject of efforts by the disclosing party that are reasonable under the circumstances to maintain its
+secrecy. The receiving party acknowledges that such Confidential Information specifically includes, but is not limited to, trade secrets and
+information contained in or relating to computer software programs, technical information, know-how, other confidential processes, information
+which relates to the disclosing party’s future products, marketing plans or proposals, financial and sales information, subcontractor and employee
+lists, existing, inactive or potential customer lists, and all other customer information. All information which the disclosing party identifies in a
+conspicuous place as being “confidential” or “trade secret” shall be presumed to be Confidential Information, unless such information meets one
+or more of the tests set forth below in subparagraphs a.-d.
+The term Confidential Information as used in this Agreement shall not include any information:
+ a. which was in the public domain at the time of disclosure by the disclosing party to the receiving party;
+-1-","[""Definition of Confidential Information"", ""Non-Confidential Information""]","[""Definition of Confidential Information"", ""Non-Confidential Information""]","[""Definition of Confidential Information"", ""Non-Confidential Information""]","[""Definition of Confidential Information"", ""Non-Confidential Information""]",0.98,0.98,1.0,0.9867,1.0,HIGH_CONFIDENCE,The clause defines what constitutes Confidential Information while explicitly detailing exceptions for public domain information. | The clause explicitly defines what constitutes Confidential Information and details specific exclusions (such as publi,llm_pseudo_label,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+53c8f90cfb5fb49177c9cb160e53f17b_clause_004,53c8f90cfb5fb49177c9cb160e53f17b,"b. which is published or otherwise comes into the public domain after its disclosure to the receiving party through no violation of this
+Agreement by the receiving party;
+ c. which is disclosed to the receiving party by a third party not under an obligation of confidence to the disclosing party;
+ d. which was already in the possession of the receiving party without restriction and prior to disclosure hereunder;
+ e. which, as evidenced by contemporaneous documentation, is developed by the receiving party independently of Confidential
+Information disclosed by disclosing party and without breach of this Agreement; or
+ f. which is required to be disclosed by any law or governmental regulation or produced under order of a court of competent jurisdiction;
+provided, however, that the receiving party provides the disclosing party written notice of such request or order as soon as reasonably
+practicable so that the disclosing party may attempt to limit such disclosure.
+ This Agreement shall govern disclosure of Confidential information for a period of one year from the date hereof, and the obligations of
+confidentiality and non-use set forth below shall survive for a period of THREE (3) years from the effective date of this Agreement.","[""Authorized Disclosure"", ""Non-Confidential Information"", ""Term and Termination""]","[""Non-Confidential Information"", ""Authorized Disclosure"", ""Term and Termination""]","[""Non-Confidential Information"", ""Authorized Disclosure"", ""Term and Termination""]","[""Authorized Disclosure"", ""Non-Confidential Information"", ""Term and Termination""]",0.95,0.95,0.98,0.96,1.0,HIGH_CONFIDENCE,"The clause outlines standard exclusions from confidentiality, required legal disclosures, and the duration and survival period of the agreement. | The clause details standard exclusions to confidential information (sections b-e), permitted legal disc",llm_pseudo_label,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+53c8f90cfb5fb49177c9cb160e53f17b_clause_005,53c8f90cfb5fb49177c9cb160e53f17b,"2. Warranties. The receiving party agrees and warrants to the disclosing party as follows with respect to all Confidential Information received
+or learned by it, regardless whether or not a contract is ultimately executed between the parties:
+ a. The receiving party will treat as confidential all Confidential Information made available to the receiving party or to any employee,
+agent or representative of the receiving party.
+ b. The receiving party shall protect the Confidential Information from unauthorized use or disclosure by using the same degree of care as
+the receiving party uses to protect its own confidential information of a like nature, but no less than a reasonable degree of care.
+ c. The receiving party will maintain the Confidential Information in a secure place and limit access to the Confidential Information to
+those employees, agents and representatives of the receiving party to whom it is necessary to disclose the Confidential Information in
+furtherance of the receiving party’s investigations and negotiations regarding the potential acquisition of the disclosing party and from whom
+the receiving party has received a written agreement in which the employee promises to maintain the confidentiality of and not to wrongfully
+use the Confidential Information.
+ d. The receiving party and its employees, agents and representatives will not copy, disclose to unauthorized parties or use any
+Confidential Information for any purpose other than to further the receiving party’s investigations regarding the potential business
+relationship with the disclosing party.
+ e. If negotiations are terminated and no contract is executed, the receiving party will promptly deliver to the disclosing party all copies of
+documents containing Confidential
+-2-","[""Purpose"", ""Confidentiality Obligations"", ""Authorized Disclosure"", ""Term and Termination"", ""Employees""]","[""Confidentiality Obligations"", ""Authorized Disclosure"", ""Employees"", ""Term and Termination""]","[""Confidentiality Obligations"", ""Employees""]","[""Authorized Disclosure"", ""Confidentiality Obligations"", ""Term and Termination"", ""Employees""]",0.95,0.95,0.98,0.96,0.5667,MEDIUM_CONFIDENCE,"The clause details confidentiality duties, standard of care, restricted use for evaluation purposes, authorized disclosure to representatives/employees, and return of confidential materials upon termi | The clause outlines standard confidentiality ob",llm_pseudo_label,0,0,0,0,1,1,0,0,0,1,0,1,0,0
