@@ -92,9 +92,30 @@ Optimal classification decision thresholds are selected **exclusively via valida
 
 | Model | HuggingFace Model ID | Best Epoch | Best Val Macro F1 | Optimal Threshold | Test Macro F1 | Test Micro F1 | Test Weighted F1 | Minority F1 | Hamming Loss | MCC |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **Legal-RoBERTa** | `saibo/legal-roberta-base` | 2 | `0.5589` | `0.50` | **`0.4457`** | `0.5389` | `0.5366` | `0.3574` | `0.1077` | `0.3884` |
-| **Legal-BERT** | `nlpaueb/legal-bert-base-uncased` | 3 | `0.5545` | `0.55` | **`0.4443`** | `0.5597` | `0.5537` | `0.3382` | `0.1038` | `0.3938` |
-| **DeBERTa-v3** | `microsoft/deberta-v3-base` | 1 | `0.0000` | `0.30` | `0.0000` | `0.0000` | `0.0000` | `0.0000` | `0.0965` | `0.0000` |
+| **Legal-RoBERTa** | `saibo/legal-roberta-base` | 2 | `0.5589` | `0.50` | **`0.4457`** | `0.5389` | `0.5366` | **`0.3574`** | `0.1077` | `0.3884` |
+| **Legal-BERT** | `nlpaueb/legal-bert-base-uncased` | 3 | `0.5545` | `0.55` | **`0.4443`** | **`0.5597`** | **`0.5537`** | `0.3382` | **`0.1038`** | `0.3938` |
+| **DeBERTa-v3** | `microsoft/deberta-v3-base` | 5 | `0.5588` | `0.60` | **`0.4404`** | `0.5252` | `0.5382` | `0.3377` | `0.1111` | **`0.3954`** |
+
+---
+
+### Per-Category 14-Label F1 Score Comparison
+
+| Category | Legal-RoBERTa | Legal-BERT | DeBERTa-v3 | Best Architecture |
+| :--- | :---: | :---: | :---: | :---: |
+| Party Identification | `0.4375` | `0.4419` | `0.3908` | **Legal-BERT** |
+| Purpose | `0.1905` | `0.0000` | `0.1905` | **Legal-RoBERTa / DeBERTa-v3** |
+| NDA Type | `0.0000` | `0.0000` | `0.0000` | Baseline Limit |
+| Definition of Confidential Information | `0.3871` | `0.4737` | `0.4242` | **Legal-BERT** |
+| Confidentiality Obligations | `0.4762` | `0.5614` | `0.5385` | **Legal-BERT** |
+| Authorized Disclosure | `0.6250` | `0.6000` | `0.5625` | **Legal-RoBERTa** |
+| Non-Confidential Information | `0.0000` | `0.0000` | `0.0000` | Baseline Limit |
+| Liability for Damages | `0.6286` | `0.6000` | `0.4179` | **Legal-RoBERTa** |
+| Competition Rights | `0.5660` | `0.5882` | `0.5357` | **Legal-BERT** |
+| Term and Termination | `0.5714` | `0.6076` | **`0.6197`** | **DeBERTa-v3** |
+| Intellectual Property | `0.6897` | `0.6429` | **`0.7143`** | **DeBERTa-v3** |
+| Employees | `0.5152` | `0.4941` | **`0.5455`** | **DeBERTa-v3** |
+| Governing Law and Jurisdiction | `0.5455` | `0.5714` | **`0.6000`** | **DeBERTa-v3** |
+| Additional Information | `0.6070` | `0.6394` | `0.6256` | **Legal-BERT** |
 
 ---
 
