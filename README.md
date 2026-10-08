@@ -117,6 +117,8 @@ Optimal classification decision thresholds are selected **exclusively via valida
 | Governing Law and Jurisdiction | `0.5455` | `0.5714` | **`0.6000`** | **DeBERTa-v3** |
 | Additional Information | `0.6070` | `0.6394` | `0.6256` | **Legal-BERT** |
 
+> **Note on Ultra-Rare Categories**: `NDA Type` (test support = 1 clause) and `Non-Confidential Information` (test support = 7 clauses) exhibit 0.0000 F1 due to extreme support sparsity in the frozen 236-clause benchmark test set under global decision thresholding (0.50–0.60).
+
 ---
 
 ## Installation & Quick Start
