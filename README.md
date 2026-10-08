@@ -67,7 +67,7 @@ NDA/
 │   ├── train_exp10_synthetic_5000.py
 │   ├── train_exp11_early_stopping.py
 │   └── train_exp12_model_comparison.py
-├── nda_clause_dataset_5000.csv  # Synthetic NDA clause dataset (5,000 clauses)
+├── nda_clause_dataset_5000.csv  #  NDA clause dataset (5,000 clauses)
 ├── requirements.txt            # Python dependencies
 └── README.md                   # Project documentation
 ```
